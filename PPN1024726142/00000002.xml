@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-02-24T07:28:30</Created>
+	<LastChange>2020-03-06T12:04:00</LastChange></Metadata>
+	<Page imageFilename="00000002.png" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1451" imageHeight="2360">
+	<Border>
+	<Coords points="216,16 216,18 238,18 238,20 278,20 278,26 548,26 548,28 610,28 610,30 650,30 650,28 986,28 986,30 1222,30 1222,22 1292,22 1292,24 1298,24 1298,26 1310,26 1310,30 1352,30 1352,28 1446,28 1446,2354 172,2354 172,2356 84,2356 84,2354 62,2354 62,2352 22,2352 22,2350 20,2350 20,2348 18,2348 18,2346 16,2346 16,2238 18,2238 18,2232 20,2232 20,2178 18,2178 18,2174 16,2174 16,2050 20,2050 20,1966 22,1966 22,1886 20,1886 20,1766 22,1766 22,1760 24,1760 24,1734 26,1734 26,1452 24,1452 24,1450 20,1450 20,1334 24,1334 24,1316 26,1316 26,1314 28,1314 28,1198 30,1198 30,1148 28,1148 28,1134 2,1134 2,978 28,978 28,892 30,892 30,860 32,860 32,808 30,808 30,798 26,798 26,758 22,758 22,756 20,756 20,680 30,680 30,650 32,650 32,636 34,636 34,600 30,600 30,516 28,516 28,514 26,514 26,496 2,496 2,322 34,322 34,176 36,176 36,148 38,148 38,110 32,110 32,28 62,28 62,26 112,26 112,24 114,24 114,22 140,22 140,16"/></Border>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="l6">
+	<Coords points="814,1517 960,1517 960,2075 814,2075"/>
+	<Word id="w7">
+	<Coords points="814,1517 960,1517 960,2062 814,2062"/>
+	<TextEquiv conf="0.57091">
+	<Unicode>0000000000]</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.57091">
+	<Unicode>0000000000]</Unicode></TextEquiv></TextLine></TextRegion>
+	<TextRegion id="r1" orientation="90.00000" readingOrientation="90.00000" type="caption">
+	<Coords points="811,1524 811,2046 761,2046 761,1524"/>
+	<TextLine id="l2">
+	<Coords points="761,1524 812,1524 812,2046 761,2046"/>
+	<Word id="w3">
+	<Coords points="761,1671 805,1671 805,2046 761,2046"/>
+	<TextEquiv conf="0.91774">
+	<Unicode>BS78</Unicode></TextEquiv></Word>
+	<Word id="w4">
+	<Coords points="780,1524 812,1524 812,1612 780,1612"/>
+	<TextEquiv conf="0.92692">
+	<Unicode>Georg-Eckert-Institut</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92233">
+	<Unicode>Georg-Eckert-Institut BS78</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.92233">
+	<Unicode>Georg-Eckert-Institut BS78</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r5" type="barcode" orientation="90.00000">
+	<Coords points="927,1517 927,2062 814,2062 814,1517"/></GraphicRegion>
+	<TextRegion id="r8" orientation="90.00000" readingOrientation="90.00000" type="caption">
+	<Coords points="984,1652 984,1865 945,1865 945,1652"/>
+	<TextLine id="l9">
+	<Coords points="945,1652 984,1652 984,1865 945,1865"/>
+	<Word id="w10">
+	<Coords points="945,1692 983,1692 983,1865 945,1865"/>
+	<TextEquiv conf="0.70656">
+	<Unicode>8</Unicode></TextEquiv></Word>
+	<Word id="w11">
+	<Coords points="953,1652 984,1652 984,1671 953,1671"/>
+	<TextEquiv conf="0.70656">
+	<Unicode>1087031</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.70656">
+	<Unicode>1087031 8</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.70656">
+	<Unicode>1 087 031 8</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,1928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-02-24T13:10:58</Created>
+	<LastChange>2020-03-06T12:19:27</LastChange></Metadata>
+	<Page imageFilename="00000004.png" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1471" imageHeight="2360">
+	<AlternativeImage filename="00000004_B.tif"/>
+	<Border>
+	<Coords points="1466,2 1466,2348 1304,2348 1304,2350 1302,2350 1302,2352 1208,2352 1208,2350 1162,2350 1162,2352 1046,2352 1046,2350 358,2350 358,2348 240,2348 240,2350 132,2350 132,2348 70,2348 70,2346 18,2346 18,2344 2,2344 2,1144 4,1144 4,1096 2,1096 2,2"/></Border>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="1048,317 1048,388 508,388 508,317"/>
+	<TextLine id="l8">
+	<Coords points="508,320 1040,320 1040,385 508,385"/>
+	<Word id="w10">
+	<Coords points="508,327 610,327 610,385 508,385"/>
+	<TextEquiv conf="0.92121">
+	<Unicode>Zur</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="643,320 777,320 777,378 643,378"/>
+	<TextEquiv conf="0.91401">
+	<Unicode>200.</Unicode></TextEquiv></Word>
+	<Word id="w4">
+	<Coords points="819,324 1040,324 1040,383 819,383"/>
+	<TextEquiv conf="0.67156">
+	<Unicode>Auflage!</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.83560">
+	<Unicode>Zur 200. Auflage!</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.33332">
+	<Unicode>Zur 200. Auſſage!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r23" type="paragraph">
+	<Coords points="579,463 579,464 970,464 970,465 1361,465 1361,615 187,615 187,463"/>
+	<TextLine id="l102">
+	<Coords points="274,463 1361,463 1361,509 274,509"/>
+	<Word id="w123">
+	<Coords points="274,463 331,463 331,503 274,503"/>
+	<TextEquiv conf="0.89547">
+	<Unicode>Im</Unicode></TextEquiv></Word>
+	<Word id="w140">
+	<Coords points="361,476 440,476 440,509 361,509"/>
+	<TextEquiv conf="0.92504">
+	<Unicode>Jahre</Unicode></TextEquiv></Word>
+	<Word id="w142">
+	<Coords points="469,476 540,476 540,503 469,503"/>
+	<TextEquiv conf="0.92528">
+	<Unicode>1844</Unicode></TextEquiv></Word>
+	<Word id="w144">
+	<Coords points="565,479 612,479 612,503 565,503"/>
+	<TextEquiv conf="0.92093">
+	<Unicode>trat</Unicode></TextEquiv></Word>
+	<Word id="w146">
+	<Coords points="646,476 679,476 679,502 646,502"/>
+	<TextEquiv conf="0.92023">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w148">
+	<Coords points="703,474 770,474 770,509 703,509"/>
+	<TextEquiv conf="0.92414">
+	<Unicode>Fibel</Unicode></TextEquiv></Word>
+	<Word id="w150">
+	<Coords points="795,477 835,477 835,501 795,501"/>
+	<TextEquiv conf="0.92907">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w152">
+	<Coords points="865,473 1022,473 1022,506 865,506"/>
+	<TextEquiv conf="0.92470">
+	<Unicode>verſtorbenen</Unicode></TextEquiv></Word>
+	<Word id="w154">
+	<Coords points="1058,474 1129,474 1129,504 1058,504"/>
+	<TextEquiv conf="0.92864">
+	<Unicode>erſten</Unicode></TextEquiv></Word>
+	<Word id="w156">
+	<Coords points="1153,473 1361,473 1361,505 1153,505"/>
+	<TextEquiv conf="0.91923">
+	<Unicode>Seminarlehrers</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92127">
+	<Unicode>Im Jahre 1844 trat die Fibel des verſtorbenen erſten Seminarlehrers</Unicode></TextEquiv></TextLine>
+	<TextLine id="l158">
+	<Coords points="187,508 1359,508 1359,544 187,544"/>
+	<Word id="w13">
+	<Coords points="187,512 223,512 223,544 187,544"/>
+	<TextEquiv conf="0.88811">
+	<Unicode>P.</Unicode></TextEquiv></Word>
+	<Word id="w160">
+	<Coords points="237,513 266,513 266,541 237,541"/>
+	<TextEquiv conf="0.88811">
+	<Unicode>J.</Unicode></TextEquiv></Word>
+	<Word id="w162">
+	<Coords points="279,512 422,512 422,544 279,544"/>
+	<TextEquiv conf="0.90310">
+	<Unicode>Büſcher,</Unicode></TextEquiv></Word>
+	<Word id="w164">
+	<Coords points="441,514 482,514 482,538 441,538"/>
+	<TextEquiv conf="0.92566">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w166">
+	<Coords points="500,512 541,512 541,544 500,544"/>
+	<TextEquiv conf="0.91977">
+	<Unicode>ſich</Unicode></TextEquiv></Word>
+	<Word id="w168">
+	<Coords points="555,519 598,519 598,538 555,538"/>
+	<TextEquiv conf="0.93069">
+	<Unicode>um</Unicode></TextEquiv></Word>
+	<Word id="w170">
+	<Coords points="618,511 653,511 653,537 618,537"/>
+	<TextEquiv conf="0.92801">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w172">
+	<Coords points="665,510 830,510 830,542 665,542"/>
+	<TextEquiv conf="0.92784">
+	<Unicode>Ausbildung,</Unicode></TextEquiv></Word>
+	<Word id="w174">
+	<Coords points="849,509 1008,509 1008,542 849,542"/>
+	<TextEquiv conf="0.92469">
+	<Unicode>Verbreitung</Unicode></TextEquiv></Word>
+	<Word id="w176">
+	<Coords points="1022,512 1072,512 1072,535 1022,535"/>
+	<TextEquiv conf="0.93079">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w178">
+	<Coords points="1087,508 1176,508 1176,542 1087,542"/>
+	<TextEquiv conf="0.92719">
+	<Unicode>richtige</Unicode></TextEquiv></Word>
+	<Word id="w180">
+	<Coords points="1188,508 1359,508 1359,542 1188,542"/>
+	<TextEquiv conf="0.92229">
+	<Unicode>Handhabung</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91802">
+	<Unicode>P. J. Büſcher, der ſich um die Ausbildung, Verbreitung und richtige Handhabung</Unicode></TextEquiv></TextLine>
+	<TextLine id="l182">
+	<Coords points="187,544 1359,544 1359,579 187,579"/>
+	<Word id="w184">
+	<Coords points="187,549 225,549 225,573 187,573"/>
+	<TextEquiv conf="0.90872">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w186">
+	<Coords points="242,546 490,546 490,579 242,579"/>
+	<TextEquiv conf="0.92356">
+	<Unicode>Schreibleſemethode</Unicode></TextEquiv></Word>
+	<Word id="w188">
+	<Coords points="508,547 533,547 533,573 508,573"/>
+	<TextEquiv conf="0.92944">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w190">
+	<Coords points="553,548 596,548 596,573 553,573"/>
+	<TextEquiv conf="0.92985">
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w192">
+	<Coords points="615,546 780,546 780,578 615,578"/>
+	<TextEquiv conf="0.91739">
+	<Unicode>Rheinlanden</Unicode></TextEquiv></Word>
+	<Word id="w194">
+	<Coords points="799,547 821,547 821,576 799,576"/>
+	<TextEquiv conf="0.91780">
+	<Unicode>ſo</Unicode></TextEquiv></Word>
+	<Word id="w196">
+	<Coords points="844,545 947,545 947,571 844,571"/>
+	<TextEquiv conf="0.93044">
+	<Unicode>verdient</Unicode></TextEquiv></Word>
+	<Word id="w198">
+	<Coords points="966,544 1083,544 1083,576 966,576"/>
+	<TextEquiv conf="0.92440">
+	<Unicode>gemacht,</Unicode></TextEquiv></Word>
+	<Word id="w200">
+	<Coords points="1115,545 1162,545 1162,570 1115,570"/>
+	<TextEquiv conf="0.91848">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w202">
+	<Coords points="1186,545 1258,545 1258,576 1186,576"/>
+	<TextEquiv conf="0.92250">
+	<Unicode>deſſen</Unicode></TextEquiv></Word>
+	<Word id="w204">
+	<Coords points="1276,544 1359,544 1359,577 1276,577"/>
+	<TextEquiv conf="0.82504">
+	<Unicode>vielge⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91342">
+	<Unicode>der Schreibleſemethode in den Rheinlanden ſo verdient gemacht, und deſſen vielge⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l37">
+	<Coords points="188,579 952,579 952,615 188,615"/>
+	<Word id="w206">
+	<Coords points="188,582 316,582 316,615 188,615"/>
+	<TextEquiv conf="0.92788">
+	<Unicode>brauchtes,</Unicode></TextEquiv></Word>
+	<Word id="w208">
+	<Coords points="337,581 410,581 410,614 337,614"/>
+	<TextEquiv conf="0.92684">
+	<Unicode>jedem</Unicode></TextEquiv></Word>
+	<Word id="w210">
+	<Coords points="430,582 540,582 540,614 430,614"/>
+	<TextEquiv conf="0.92559">
+	<Unicode>früheren</Unicode></TextEquiv></Word>
+	<Word id="w212">
+	<Coords points="559,581 660,581 660,613 559,613"/>
+	<TextEquiv conf="0.84901">
+	<Unicode>Schüler</Unicode></TextEquiv></Word>
+	<Word id="w214">
+	<Coords points="678,580 849,580 849,614 678,614"/>
+	<TextEquiv conf="0.91877">
+	<Unicode>unvergeßliche</Unicode></TextEquiv></Word>
+	<Word id="w216">
+	<Coords points="868,579 952,579 952,606 868,606"/>
+	<TextEquiv conf="0.92081">
+	<Unicode>Wort:</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91148">
+	<Unicode>brauchtes, jedem früheren Schüler unvergeßliche Wort:</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.91847">
+	<Unicode>Im Jahre 1844 trat die Fibel des verſtorbenen erſten Seminarlehrers
+P. J. Büſcher, der ſich um die Ausbildung, Verbreitung und richtige Handhabung
+der Schreibleſemethode in den Rheinlanden ſo verdient gemacht, und deſſen vielge
+brauchtes, jedem früheren Schüler unvergeßliche Wort:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r67" type="paragraph">
+	<Coords points="1189,621 1189,658 351,658 351,621"/>
+	<TextLine id="l607">
+	<Coords points="351,621 1189,621 1189,658 351,658"/>
+	<Word id="w609">
+	<Coords points="351,624 555,624 555,658 351,658"/>
+	<TextEquiv conf="0.91470">
+	<Unicode>„Vorſprechen,</Unicode></TextEquiv></Word>
+	<Word id="w611">
+	<Coords points="576,623 762,623 762,658 576,658"/>
+	<TextEquiv conf="0.89935">
+	<Unicode>nachſprechen,</Unicode></TextEquiv></Word>
+	<Word id="w613">
+	<Coords points="784,623 910,623 910,656 784,656"/>
+	<TextEquiv conf="0.92026">
+	<Unicode>zerlegen,</Unicode></TextEquiv></Word>
+	<Word id="w615">
+	<Coords points="930,621 1066,621 1066,655 930,655"/>
+	<TextEquiv conf="0.92049">
+	<Unicode>ſchreiben,</Unicode></TextEquiv></Word>
+	<Word id="w617">
+	<Coords points="1087,621 1189,621 1189,654 1087,654"/>
+	<TextEquiv conf="0.91318">
+	<Unicode>leſen!“</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91360">
+	<Unicode>„Vorſprechen, nachſprechen, zerlegen, ſchreiben, leſen!“</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.91126">
+	<Unicode>„Vorſprechen, nachſprechen, zerlegen, ſchreiben, leſen!“</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r74" type="paragraph">
+	<Coords points="1358,666 1358,803 187,803 187,666"/>
+	<TextLine id="l619">
+	<Coords points="187,666 1358,666 1358,703 187,703"/>
+	<Word id="w621">
+	<Coords points="187,670 241,670 241,701 187,701"/>
+	<TextEquiv conf="0.92809">
+	<Unicode>auch</Unicode></TextEquiv></Word>
+	<Word id="w623">
+	<Coords points="260,670 325,670 325,702 260,702"/>
+	<TextEquiv conf="0.92777">
+	<Unicode>heute</Unicode></TextEquiv></Word>
+	<Word id="w625">
+	<Coords points="344,669 397,669 397,702 344,702"/>
+	<TextEquiv conf="0.92805">
+	<Unicode>noch</Unicode></TextEquiv></Word>
+	<Word id="w627">
+	<Coords points="417,670 452,670 452,696 417,696"/>
+	<TextEquiv conf="0.92988">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w629">
+	<Coords points="473,670 610,670 610,703 473,703"/>
+	<TextEquiv conf="0.90883">
+	<Unicode>wichtigſten</Unicode></TextEquiv></Word>
+	<Word id="w631">
+	<Coords points="631,669 697,669 697,701 631,701"/>
+	<TextEquiv conf="0.91876">
+	<Unicode>Lehr⸗</Unicode></TextEquiv></Word>
+	<Word id="w633">
+	<Coords points="716,670 764,670 764,695 716,695"/>
+	<TextEquiv conf="0.92769">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w635">
+	<Coords points="783,668 992,668 992,700 783,700"/>
+	<TextEquiv conf="0.91626">
+	<Unicode>Lernoperationen</Unicode></TextEquiv></Word>
+	<Word id="w637">
+	<Coords points="1011,669 1052,669 1052,693 1011,693"/>
+	<TextEquiv conf="0.92472">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w639">
+	<Coords points="1073,668 1143,668 1143,699 1073,699"/>
+	<TextEquiv conf="0.92472">
+	<Unicode>erſten</Unicode></TextEquiv></Word>
+	<Word id="w641">
+	<Coords points="1160,666 1358,666 1358,699 1160,699"/>
+	<TextEquiv conf="0.89832">
+	<Unicode>Leſeunterrichtes</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92119">
+	<Unicode>auch heute noch die wichtigſten Lehr⸗ und Lernoperationen des erſten Leſeunterrichtes</Unicode></TextEquiv></TextLine>
+	<TextLine id="l643">
+	<Coords points="187,701 1358,701 1358,738 187,738"/>
+	<Word id="w645">
+	<Coords points="187,706 281,706 281,738 187,738"/>
+	<TextEquiv conf="0.91362">
+	<Unicode>treffend</Unicode></TextEquiv></Word>
+	<Word id="w647">
+	<Coords points="301,705 434,705 434,737 301,737"/>
+	<TextEquiv conf="0.92612">
+	<Unicode>bezeichnet,</Unicode></TextEquiv></Word>
+	<Word id="w649">
+	<Coords points="465,705 502,705 502,731 465,731"/>
+	<TextEquiv conf="0.92131">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w651">
+	<Coords points="521,706 573,706 573,736 521,736"/>
+	<TextEquiv conf="0.91800">
+	<Unicode>erſte</Unicode></TextEquiv></Word>
+	<Word id="w653">
+	<Coords points="591,705 747,705 747,736 591,736"/>
+	<TextEquiv conf="0.92463">
+	<Unicode>Wanderung</Unicode></TextEquiv></Word>
+	<Word id="w655">
+	<Coords points="765,702 791,702 791,729 765,729"/>
+	<TextEquiv conf="0.92994">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w657">
+	<Coords points="812,703 846,703 846,729 812,729"/>
+	<TextEquiv conf="0.92432">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w659">
+	<Coords points="867,703 930,703 930,729 867,729"/>
+	<TextEquiv conf="0.92310">
+	<Unicode>Welt</Unicode></TextEquiv></Word>
+	<Word id="w661">
+	<Coords points="950,710 991,710 991,729 950,729"/>
+	<TextEquiv conf="0.92540">
+	<Unicode>an.</Unicode></TextEquiv></Word>
+	<Word id="w663">
+	<Coords points="1029,701 1079,701 1079,728 1029,728"/>
+	<TextEquiv conf="0.93158">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w665">
+	<Coords points="1099,702 1237,702 1237,734 1099,734"/>
+	<TextEquiv conf="0.92662">
+	<Unicode>Thatſache,</Unicode></TextEquiv></Word>
+	<Word id="w667">
+	<Coords points="1257,703 1303,703 1303,735 1257,735"/>
+	<TextEquiv conf="0.92667">
+	<Unicode>daß</Unicode></TextEquiv></Word>
+	<Word id="w669">
+	<Coords points="1321,702 1358,702 1358,728 1321,728"/>
+	<TextEquiv conf="0.92474">
+	<Unicode>bis</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92431">
+	<Unicode>treffend bezeichnet, die erſte Wanderung in die Welt an. Die Thatſache, daß bis</Unicode></TextEquiv></TextLine>
+	<TextLine id="l671">
+	<Coords points="187,737 1357,737 1357,773 187,773"/>
+	<Word id="w673">
+	<Coords points="187,741 251,741 251,772 187,772"/>
+	<TextEquiv conf="0.90848">
+	<Unicode>heute</Unicode></TextEquiv></Word>
+	<Word id="w675">
+	<Coords points="268,740 319,740 319,767 268,767"/>
+	<TextEquiv conf="0.92927">
+	<Unicode>200</Unicode></TextEquiv></Word>
+	<Word id="w677">
+	<Coords points="339,739 462,739 462,773 339,773"/>
+	<TextEquiv conf="0.92501">
+	<Unicode>Auflagen</Unicode></TextEquiv></Word>
+	<Word id="w679">
+	<Coords points="482,743 521,743 521,766 482,766"/>
+	<TextEquiv conf="0.91909">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w681">
+	<Coords points="541,738 611,738 611,771 541,771"/>
+	<TextEquiv conf="0.92044">
+	<Unicode>erſten</Unicode></TextEquiv></Word>
+	<Word id="w683">
+	<Coords points="630,739 712,739 712,770 630,770"/>
+	<TextEquiv conf="0.92770">
+	<Unicode>Fibel,</Unicode></TextEquiv></Word>
+	<Word id="w685">
+	<Coords points="738,739 813,739 813,765 738,765"/>
+	<TextEquiv conf="0.57412">
+	<Unicode>1000</Unicode></TextEquiv></Word>
+	<Word id="w687">
+	<Coords points="821,739 874,739 874,765 821,765"/>
+	<TextEquiv conf="0.57412">
+	<Unicode>000</Unicode></TextEquiv></Word>
+	<Word id="w689">
+	<Coords points="893,738 1046,738 1046,771 893,771"/>
+	<TextEquiv conf="0.91397">
+	<Unicode>Exemplare,</Unicode></TextEquiv></Word>
+	<Word id="w691">
+	<Coords points="1073,737 1174,737 1174,771 1073,771"/>
+	<TextEquiv conf="0.92451">
+	<Unicode>gedruckt</Unicode></TextEquiv></Word>
+	<Word id="w693">
+	<Coords points="1195,739 1292,739 1292,764 1195,764"/>
+	<TextEquiv conf="0.90262">
+	<Unicode>wurden,</Unicode></TextEquiv></Word>
+	<Word id="w695">
+	<Coords points="1300,737 1357,737 1357,770 1300,770"/>
+	<TextEquiv conf="0.91740">
+	<Unicode>iſt</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.86139">
+	<Unicode>heute 200 Auflagen der erſten Fibel, 1000 000 Exemplare, gedruckt wurden, iſt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="187,772 1016,772 1016,803 187,803"/>
+	<Word id="w697">
+	<Coords points="187,774 228,774 228,802 187,802"/>
+	<TextEquiv conf="0.92299">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w699">
+	<Coords points="246,775 302,775 302,803 246,803"/>
+	<TextEquiv conf="0.92128">
+	<Unicode>beſte</Unicode></TextEquiv></Word>
+	<Word id="w701">
+	<Coords points="320,775 416,775 416,802 320,802"/>
+	<TextEquiv conf="0.92826">
+	<Unicode>Beweis</Unicode></TextEquiv></Word>
+	<Word id="w703">
+	<Coords points="435,776 476,776 476,803 435,803"/>
+	<TextEquiv conf="0.90157">
+	<Unicode>für</Unicode></TextEquiv></Word>
+	<Word id="w705">
+	<Coords points="497,774 533,774 533,801 497,801"/>
+	<TextEquiv conf="0.91607">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w707">
+	<Coords points="552,774 741,774 741,803 552,803"/>
+	<TextEquiv conf="0.90219">
+	<Unicode>Vortrefflichkeit</Unicode></TextEquiv></Word>
+	<Word id="w709">
+	<Coords points="762,776 802,776 802,803 762,803"/>
+	<TextEquiv conf="0.91578">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w711">
+	<Coords points="821,772 962,772 962,803 821,803"/>
+	<TextEquiv conf="0.91578">
+	<Unicode>Büchleins.</Unicode></TextEquiv></Word>
+	<Word id="w713">
+	<Coords points="982,787 1016,787 1016,791 982,791"/>
+	<TextEquiv conf="0.90225">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91402">
+	<Unicode>der beſte Beweis für die Vortrefflichkeit des Büchleins. —</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.90094">
+	<Unicode>auch heute noch die wichtigſten Lehr- und Lernoperationen des erſten Leſeunterrichtes
+treffend bezeichnet, die erſte Wanderung in die Welt an. Die Thatſache, daß bis
+heute 200 Auflagen der erſten Fibel, 1000 000 Exemplare, gedruckt wurden, iſt
+der beſte Beweis für die Vortrefflichkeit des Büchleins. —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r126" type="paragraph">
+	<Coords points="1357,805 1357,1229 186,1229 186,805"/>
+	<TextLine id="l12">
+	<Coords points="273,805 1357,805 1357,842 273,842"/>
+	<Word id="w14">
+	<Coords points="273,809 321,809 321,840 273,840"/>
+	<TextEquiv conf="0.91151">
+	<Unicode>Im</Unicode></TextEquiv></Word>
+	<Word id="w16">
+	<Coords points="341,810 417,810 417,842 341,842"/>
+	<TextEquiv conf="0.88334">
+	<Unicode>Jahre</Unicode></TextEquiv></Word>
+	<Word id="w18">
+	<Coords points="442,810 513,810 513,836 442,836"/>
+	<TextEquiv conf="0.92349">
+	<Unicode>1883</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="539,812 620,812 620,837 539,837"/>
+	<TextEquiv conf="0.92460">
+	<Unicode>wurde</Unicode></TextEquiv></Word>
+	<Word id="w20">
+	<Coords points="645,811 687,811 687,842 645,842"/>
+	<TextEquiv conf="0.89559">
+	<Unicode>auf</Unicode></TextEquiv></Word>
+	<Word id="w7">
+	<Coords points="705,809 805,809 805,842 705,842"/>
+	<TextEquiv conf="0.92124">
+	<Unicode>Wunſch</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="831,811 869,811 869,835 831,835"/>
+	<TextEquiv conf="0.92998">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="887,805 992,805 992,842 887,842"/>
+	<TextEquiv conf="0.92904">
+	<Unicode>Familie</Unicode></TextEquiv></Word>
+	<Word id="w22">
+	<Coords points="1017,810 1057,810 1057,834 1017,834"/>
+	<TextEquiv conf="0.93222">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w11">
+	<Coords points="1076,807 1297,807 1297,841 1076,841"/>
+	<TextEquiv conf="0.91653">
+	<Unicode>Heimgegangenen</Unicode></TextEquiv></Word>
+	<Word id="w12">
+	<Coords points="1323,807 1357,807 1357,833 1323,833"/>
+	<TextEquiv conf="0.92423">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91743">
+	<Unicode>Im Jahre 1883 wurde auf Wunſch der Familie des Heimgegangenen die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="186,842 1356,842 1356,879 186,879"/>
+	<Word id="w24">
+	<Coords points="186,846 239,846 239,878 186,878"/>
+	<TextEquiv conf="0.92109">
+	<Unicode>erſte</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="256,845 323,845 323,879 256,879"/>
+	<TextEquiv conf="0.92714">
+	<Unicode>Fibel</Unicode></TextEquiv></Word>
+	<Word id="w26">
+	<Coords points="342,851 395,851 395,871 342,871"/>
+	<TextEquiv conf="0.92772">
+	<Unicode>vom</Unicode></TextEquiv></Word>
+	<Word id="w17">
+	<Coords points="415,845 609,845 609,878 415,878"/>
+	<TextEquiv conf="0.92281">
+	<Unicode>unterzeichneten</Unicode></TextEquiv></Word>
+	<Word id="w28">
+	<Coords points="629,845 729,845 729,876 629,876"/>
+	<TextEquiv conf="0.92614">
+	<Unicode>Schüler</Unicode></TextEquiv></Word>
+	<Word id="w19">
+	<Coords points="748,843 789,843 789,871 748,871"/>
+	<TextEquiv conf="0.92555">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w30">
+	<Coords points="808,844 942,844 942,877 808,877"/>
+	<TextEquiv conf="0.92503">
+	<Unicode>Verfaſſers</Unicode></TextEquiv></Word>
+	<Word id="w21">
+	<Coords points="967,846 1036,846 1036,869 967,869"/>
+	<TextEquiv conf="0.92795">
+	<Unicode>unter</Unicode></TextEquiv></Word>
+	<Word id="w32">
+	<Coords points="1055,842 1195,842 1195,876 1055,876"/>
+	<TextEquiv conf="0.77119">
+	<Unicode>Beachtung</Unicode></TextEquiv></Word>
+	<Word id="w23">
+	<Coords points="1214,845 1262,845 1262,869 1214,869"/>
+	<TextEquiv conf="0.93264">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w34">
+	<Coords points="1281,842 1356,842 1356,874 1281,874"/>
+	<TextEquiv conf="0.91280">
+	<Unicode>Wah⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91091">
+	<Unicode>erſte Fibel vom unterzeichneten Schüler des Verfaſſers unter Beachtung und Wah⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="187,877 1356,877 1356,914 187,914"/>
+	<Word id="w36">
+	<Coords points="187,888 248,888 248,914 187,914"/>
+	<TextEquiv conf="0.91151">
+	<Unicode>rung</Unicode></TextEquiv></Word>
+	<Word id="w27">
+	<Coords points="273,883 312,883 312,907 273,907"/>
+	<TextEquiv conf="0.92142">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w38">
+	<Coords points="335,880 614,880 614,913 335,913"/>
+	<TextEquiv conf="0.92393">
+	<Unicode>Unterrichtsgrundſätze</Unicode></TextEquiv></Word>
+	<Word id="w29">
+	<Coords points="639,880 681,880 681,907 639,907"/>
+	<TextEquiv conf="0.93172">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w40">
+	<Coords points="704,879 886,879 886,912 704,912"/>
+	<TextEquiv conf="0.92074">
+	<Unicode>hochverdienten</Unicode></TextEquiv></Word>
+	<Word id="w31">
+	<Coords points="912,877 1059,877 1059,912 912,912"/>
+	<TextEquiv conf="0.91908">
+	<Unicode>Pädagogen</Unicode></TextEquiv></Word>
+	<Word id="w42">
+	<Coords points="1086,886 1132,886 1132,904 1086,904"/>
+	<TextEquiv conf="0.92434">
+	<Unicode>neu</Unicode></TextEquiv></Word>
+	<Word id="w33">
+	<Coords points="1162,877 1356,877 1356,911 1162,911"/>
+	<TextEquiv conf="0.86569">
+	<Unicode>herausgegeben.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91480">
+	<Unicode>rung der Unterrichtsgrundſätze des hochverdienten Pädagogen neu herausgegeben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l34">
+	<Coords points="187,912 1357,912 1357,949 187,949"/>
+	<Word id="w35">
+	<Coords points="187,915 235,915 235,942 187,942"/>
+	<TextEquiv conf="0.93103">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w44">
+	<Coords points="254,915 398,915 398,949 254,949"/>
+	<TextEquiv conf="0.92370">
+	<Unicode>gleichzeitige</Unicode></TextEquiv></Word>
+	<Word id="w37">
+	<Coords points="416,915 580,915 580,949 416,949"/>
+	<TextEquiv conf="0.85542">
+	<Unicode>Vorführung</Unicode></TextEquiv></Word>
+	<Word id="w46">
+	<Coords points="600,918 638,918 638,941 600,941"/>
+	<TextEquiv conf="0.92200">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w39">
+	<Coords points="649,914 757,914 757,945 649,945"/>
+	<TextEquiv conf="0.44909">
+	<Unicode>Schreib⸗</Unicode></TextEquiv></Word>
+	<Word id="w48">
+	<Coords points="775,913 824,913 824,940 775,940"/>
+	<TextEquiv conf="0.89930">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w41">
+	<Coords points="844,912 1001,912 1001,946 844,946"/>
+	<TextEquiv conf="0.39948">
+	<Unicode>Druckſchrift</Unicode></TextEquiv></Word>
+	<Word id="w50">
+	<Coords points="1019,916 1069,916 1069,947 1019,947"/>
+	<TextEquiv conf="0.92064">
+	<Unicode>regt</Unicode></TextEquiv></Word>
+	<Word id="w43">
+	<Coords points="1090,913 1124,913 1124,939 1090,939"/>
+	<TextEquiv conf="0.92135">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w52">
+	<Coords points="1142,912 1264,912 1264,945 1142,945"/>
+	<TextEquiv conf="0.92735">
+	<Unicode>kindlichen</Unicode></TextEquiv></Word>
+	<Word id="w45">
+	<Coords points="1277,913 1357,913 1357,943 1277,943"/>
+	<TextEquiv conf="0.92578">
+	<Unicode>Kräfte</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82501">
+	<Unicode>Die gleichzeitige Vorführung der Schreib⸗ und Druckſchrift regt die kindlichen Kräfte</Unicode></TextEquiv></TextLine>
+	<TextLine id="l46">
+	<Coords points="187,948 1356,948 1356,983 187,983"/>
+	<Word id="w47">
+	<Coords points="187,951 295,951 295,982 187,982"/>
+	<TextEquiv conf="0.08774">
+	<Unicode>vielſeitig</Unicode></TextEquiv></Word>
+	<Word id="w54">
+	<Coords points="314,958 362,958 362,981 314,981"/>
+	<TextEquiv conf="0.90175">
+	<Unicode>an,</Unicode></TextEquiv></Word>
+	<Word id="w49">
+	<Coords points="390,951 440,951 440,983 390,983"/>
+	<TextEquiv conf="0.92841">
+	<Unicode>läßt</Unicode></TextEquiv></Word>
+	<Word id="w56">
+	<Coords points="460,951 510,951 510,977 460,977"/>
+	<TextEquiv conf="0.90040">
+	<Unicode>eine</Unicode></TextEquiv></Word>
+	<Word id="w51">
+	<Coords points="528,951 636,951 636,983 528,983"/>
+	<TextEquiv conf="0.92643">
+	<Unicode>vielfache</Unicode></TextEquiv></Word>
+	<Word id="w58">
+	<Coords points="654,949 833,949 833,983 654,983"/>
+	<TextEquiv conf="0.92106">
+	<Unicode>Beſchäftigung</Unicode></TextEquiv></Word>
+	<Word id="w53">
+	<Coords points="853,952 894,952 894,975 853,975"/>
+	<TextEquiv conf="0.92927">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w60">
+	<Coords points="913,949 1002,949 1002,976 913,976"/>
+	<TextEquiv conf="0.92414">
+	<Unicode>Kinder</Unicode></TextEquiv></Word>
+	<Word id="w55">
+	<Coords points="1021,956 1066,956 1066,983 1021,983"/>
+	<TextEquiv conf="0.91229">
+	<Unicode>zu,</Unicode></TextEquiv></Word>
+	<Word id="w62">
+	<Coords points="1095,948 1214,948 1214,980 1095,980"/>
+	<TextEquiv conf="0.92923">
+	<Unicode>erleichtert</Unicode></TextEquiv></Word>
+	<Word id="w57">
+	<Coords points="1232,948 1356,948 1356,980 1232,980"/>
+	<TextEquiv conf="0.92425">
+	<Unicode>weſentlich</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.84409">
+	<Unicode>vielſeitig an, läßt eine vielfache Beſchäftigung der Kinder zu, erleichtert weſentlich</Unicode></TextEquiv></TextLine>
+	<TextLine id="l58">
+	<Coords points="187,983 1356,983 1356,1019 187,1019"/>
+	<Word id="w59">
+	<Coords points="187,986 222,986 222,1012 187,1012"/>
+	<TextEquiv conf="0.93060">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w64">
+	<Coords points="232,985 314,985 314,1013 232,1013"/>
+	<TextEquiv conf="0.92562">
+	<Unicode>Arbeit</Unicode></TextEquiv></Word>
+	<Word id="w61">
+	<Coords points="334,987 374,987 374,1012 334,1012"/>
+	<TextEquiv conf="0.92746">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w66">
+	<Coords points="384,985 490,985 490,1019 384,1019"/>
+	<TextEquiv conf="0.92505">
+	<Unicode>Lehrers,</Unicode></TextEquiv></Word>
+	<Word id="w63">
+	<Coords points="509,986 561,986 561,1012 509,1012"/>
+	<TextEquiv conf="0.92837">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w68">
+	<Coords points="580,987 643,987 643,1019 580,1019"/>
+	<TextEquiv conf="0.92381">
+	<Unicode>trägt</Unicode></TextEquiv></Word>
+	<Word id="w65">
+	<Coords points="661,992 688,992 688,1019 661,1019"/>
+	<TextEquiv conf="0.91106">
+	<Unicode>zur</Unicode></TextEquiv></Word>
+	<Word id="w70">
+	<Coords points="691,984 848,984 848,1017 691,1017"/>
+	<TextEquiv conf="0.91537">
+	<Unicode>ſchnelleren</Unicode></TextEquiv></Word>
+	<Word id="w67">
+	<Coords points="864,984 991,984 991,1017 864,1017"/>
+	<TextEquiv conf="0.92572">
+	<Unicode>Erzielung</Unicode></TextEquiv></Word>
+	<Word id="w72">
+	<Coords points="1011,985 1048,985 1048,1010 1011,1010"/>
+	<TextEquiv conf="0.92965">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w69">
+	<Coords points="1059,983 1216,983 1216,1016 1059,1016"/>
+	<TextEquiv conf="0.90998">
+	<Unicode>Leſefertigkeit</Unicode></TextEquiv></Word>
+	<Word id="w74">
+	<Coords points="1233,983 1356,983 1356,1009 1233,1009"/>
+	<TextEquiv conf="0.92748">
+	<Unicode>bedeutend</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92335">
+	<Unicode>die Arbeit des Lehrers, und trägt zur ſchnelleren Erzielung der Leſefertigkeit bedeutend</Unicode></TextEquiv></TextLine>
+	<TextLine id="l71">
+	<Coords points="189,1018 1356,1018 1356,1054 189,1054"/>
+	<Word id="w76">
+	<Coords points="189,1021 233,1021 233,1047 189,1047"/>
+	<TextEquiv conf="0.91967">
+	<Unicode>bei.</Unicode></TextEquiv></Word>
+	<Word id="w73">
+	<Coords points="270,1021 320,1021 320,1047 270,1047"/>
+	<TextEquiv conf="0.92186">
+	<Unicode>Man</Unicode></TextEquiv></Word>
+	<Word id="w78">
+	<Coords points="323,1020 411,1020 411,1054 323,1054"/>
+	<TextEquiv conf="0.91702">
+	<Unicode>gebe</Unicode></TextEquiv></Word>
+	<Word id="w75">
+	<Coords points="430,1023 474,1023 474,1047 430,1047"/>
+	<TextEquiv conf="0.93212">
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w80">
+	<Coords points="494,1021 598,1021 598,1047 494,1047"/>
+	<TextEquiv conf="0.92497">
+	<Unicode>Kindern</Unicode></TextEquiv></Word>
+	<Word id="w77">
+	<Coords points="618,1023 664,1023 664,1047 618,1047"/>
+	<TextEquiv conf="0.92921">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w82">
+	<Coords points="677,1020 741,1020 741,1050 677,1050"/>
+	<TextEquiv conf="0.92465">
+	<Unicode>Buch</Unicode></TextEquiv></Word>
+	<Word id="w79">
+	<Coords points="761,1020 802,1020 802,1051 761,1051"/>
+	<TextEquiv conf="0.93004">
+	<Unicode>erſt</Unicode></TextEquiv></Word>
+	<Word id="w84">
+	<Coords points="820,1019 845,1019 845,1046 820,1046"/>
+	<TextEquiv conf="0.92573">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w81">
+	<Coords points="864,1019 900,1019 900,1045 864,1045"/>
+	<TextEquiv conf="0.93034">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w86">
+	<Coords points="913,1019 997,1019 997,1051 913,1051"/>
+	<TextEquiv conf="0.91495">
+	<Unicode>Hand,</Unicode></TextEquiv></Word>
+	<Word id="w83">
+	<Coords points="1016,1018 1128,1018 1128,1051 1016,1051"/>
+	<TextEquiv conf="0.92787">
+	<Unicode>nachdem</Unicode></TextEquiv></Word>
+	<Word id="w88">
+	<Coords points="1148,1019 1181,1019 1181,1045 1148,1045"/>
+	<TextEquiv conf="0.93166">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w85">
+	<Coords points="1191,1019 1356,1019 1356,1051 1191,1051"/>
+	<TextEquiv conf="0.90908">
+	<Unicode>Vorübungen</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92423">
+	<Unicode>bei. Man gebe den Kindern das Buch erſt in die Hand, nachdem die Vorübungen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l86">
+	<Coords points="188,1053 1357,1053 1357,1089 188,1089"/>
+	<Word id="w87">
+	<Coords points="188,1058 228,1058 228,1082 188,1082"/>
+	<TextEquiv conf="0.93188">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w90">
+	<Coords points="247,1055 390,1055 390,1088 247,1088"/>
+	<TextEquiv conf="0.92205">
+	<Unicode>Schreibens</Unicode></TextEquiv></Word>
+	<Word id="w89">
+	<Coords points="409,1058 460,1058 460,1082 409,1082"/>
+	<TextEquiv conf="0.92609">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w92">
+	<Coords points="481,1055 562,1055 562,1087 481,1087"/>
+	<TextEquiv conf="0.92345">
+	<Unicode>Leſens</Unicode></TextEquiv></Word>
+	<Word id="w91">
+	<Coords points="580,1056 701,1056 701,1089 580,1089"/>
+	<TextEquiv conf="0.91869">
+	<Unicode>ſorgfältig</Unicode></TextEquiv></Word>
+	<Word id="w94">
+	<Coords points="719,1054 836,1054 836,1081 719,1081"/>
+	<TextEquiv conf="0.92859">
+	<Unicode>betrieben</Unicode></TextEquiv></Word>
+	<Word id="w93">
+	<Coords points="855,1056 951,1056 951,1081 855,1081"/>
+	<TextEquiv conf="0.91571">
+	<Unicode>worden</Unicode></TextEquiv></Word>
+	<Word id="w96">
+	<Coords points="978,1056 1026,1056 1026,1080 978,1080"/>
+	<TextEquiv conf="0.92653">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w95">
+	<Coords points="1047,1054 1085,1054 1085,1080 1047,1080"/>
+	<TextEquiv conf="0.92307">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w98">
+	<Coords points="1103,1053 1190,1053 1190,1081 1103,1081"/>
+	<TextEquiv conf="0.92472">
+	<Unicode>Kinder</Unicode></TextEquiv></Word>
+	<Word id="w97">
+	<Coords points="1218,1054 1251,1054 1251,1079 1218,1079"/>
+	<TextEquiv conf="0.92027">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w100">
+	<Coords points="1270,1054 1295,1054 1295,1079 1270,1079"/>
+	<TextEquiv conf="0.92874">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w99">
+	<Coords points="1314,1055 1357,1055 1357,1079 1314,1079"/>
+	<TextEquiv conf="0.92521">
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92423">
+	<Unicode>des Schreibens und Leſens ſorgfältig betrieben worden und die Kinder die in den</Unicode></TextEquiv></TextLine>
+	<TextLine id="l100">
+	<Coords points="188,1088 1356,1088 1356,1125 188,1125"/>
+	<Word id="w101">
+	<Coords points="188,1091 325,1091 325,1118 188,1118"/>
+	<TextEquiv conf="0.91590">
+	<Unicode>Nummern</Unicode></TextEquiv></Word>
+	<Word id="w102">
+	<Coords points="346,1091 358,1091 358,1116 346,1116"/>
+	<TextEquiv conf="0.81041">
+	<Unicode>1</Unicode></TextEquiv></Word>
+	<Word id="w103">
+	<Coords points="386,1090 425,1090 425,1117 386,1117"/>
+	<TextEquiv conf="0.81041">
+	<Unicode>bis</Unicode></TextEquiv></Word>
+	<Word id="w104">
+	<Coords points="445,1091 478,1091 478,1117 445,1117"/>
+	<TextEquiv conf="0.88167">
+	<Unicode>13</Unicode></TextEquiv></Word>
+	<Word id="w105">
+	<Coords points="506,1090 656,1090 656,1125 506,1125"/>
+	<TextEquiv conf="0.63658">
+	<Unicode>bezeichneten</Unicode></TextEquiv></Word>
+	<Word id="w106">
+	<Coords points="674,1090 744,1090 744,1116 674,1116"/>
+	<TextEquiv conf="0.91899">
+	<Unicode>Laute</Unicode></TextEquiv></Word>
+	<Word id="w107">
+	<Coords points="771,1092 821,1092 821,1116 771,1116"/>
+	<TextEquiv conf="0.93117">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w108">
+	<Coords points="839,1089 1084,1089 1084,1123 839,1123"/>
+	<TextEquiv conf="0.91487">
+	<Unicode>Lautverbindungen</Unicode></TextEquiv></Word>
+	<Word id="w109">
+	<Coords points="1103,1089 1128,1089 1128,1115 1103,1115"/>
+	<TextEquiv conf="0.92689">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w110">
+	<Coords points="1147,1088 1356,1088 1356,1122 1147,1122"/>
+	<TextEquiv conf="0.79772">
+	<Unicode>Schreibſchrift</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.85446">
+	<Unicode>Nummern 1 bis 13 bezeichneten Laute und Lautverbindungen in Schreibſchrift</Unicode></TextEquiv></TextLine>
+	<TextLine id="l111">
+	<Coords points="188,1123 1355,1123 1355,1159 188,1159"/>
+	<Word id="w112">
+	<Coords points="188,1126 272,1126 272,1153 188,1153"/>
+	<TextEquiv conf="0.92973">
+	<Unicode>kennen</Unicode></TextEquiv></Word>
+	<Word id="w113">
+	<Coords points="291,1126 376,1126 376,1159 291,1159"/>
+	<TextEquiv conf="0.92468">
+	<Unicode>gelernt</Unicode></TextEquiv></Word>
+	<Word id="w114">
+	<Coords points="393,1125 479,1125 479,1157 393,1157"/>
+	<TextEquiv conf="0.91776">
+	<Unicode>haben.</Unicode></TextEquiv></Word>
+	<Word id="w115">
+	<Coords points="517,1126 567,1126 567,1153 517,1153"/>
+	<TextEquiv conf="0.84128">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w116">
+	<Coords points="586,1127 696,1127 696,1159 586,1159"/>
+	<TextEquiv conf="0.91126">
+	<Unicode>Formen</Unicode></TextEquiv></Word>
+	<Word id="w117">
+	<Coords points="704,1127 771,1127 771,1152 704,1152"/>
+	<TextEquiv conf="0.93165">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w118">
+	<Coords points="773,1123 979,1123 979,1157 773,1157"/>
+	<TextEquiv conf="0.92112">
+	<Unicode>Schreibſchrift</Unicode></TextEquiv></Word>
+	<Word id="w119">
+	<Coords points="1003,1124 1052,1124 1052,1155 1003,1155"/>
+	<TextEquiv conf="0.92726">
+	<Unicode>ſind</Unicode></TextEquiv></Word>
+	<Word id="w120">
+	<Coords points="1079,1123 1202,1123 1202,1156 1079,1156"/>
+	<TextEquiv conf="0.91446">
+	<Unicode>dieſelben,</Unicode></TextEquiv></Word>
+	<Word id="w121">
+	<Coords points="1228,1124 1306,1124 1306,1156 1228,1156"/>
+	<TextEquiv conf="0.93209">
+	<Unicode>welche</Unicode></TextEquiv></Word>
+	<Word id="w122">
+	<Coords points="1330,1123 1355,1123 1355,1149 1330,1149"/>
+	<TextEquiv conf="0.93106">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91658">
+	<Unicode>kennen gelernt haben. Die Formen der Schreibſchrift ſind dieſelben, welche in</Unicode></TextEquiv></TextLine>
+	<TextLine id="l123">
+	<Coords points="189,1158 1353,1158 1353,1193 189,1193"/>
+	<Word id="w124">
+	<Coords points="189,1165 239,1165 239,1188 189,1188"/>
+	<TextEquiv conf="0.91335">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w125">
+	<Coords points="258,1167 312,1167 312,1187 258,1187"/>
+	<TextEquiv conf="0.77399">
+	<Unicode>vom</Unicode></TextEquiv></Word>
+	<Word id="w126">
+	<Coords points="331,1161 408,1161 408,1193 331,1193"/>
+	<TextEquiv conf="0.89149">
+	<Unicode>Herrn</Unicode></TextEquiv></Word>
+	<Word id="w127">
+	<Coords points="427,1161 675,1161 675,1193 427,1193"/>
+	<TextEquiv conf="0.90753">
+	<Unicode>Unterrichtsminiſter</Unicode></TextEquiv></Word>
+	<Word id="w128">
+	<Coords points="693,1168 710,1168 710,1192 693,1192"/>
+	<TextEquiv conf="0.92341">
+	<Unicode>z.</Unicode></TextEquiv></Word>
+	<Word id="w129">
+	<Coords points="730,1161 761,1161 761,1193 730,1193"/>
+	<TextEquiv conf="0.90763">
+	<Unicode>Z.</Unicode></TextEquiv></Word>
+	<Word id="w130">
+	<Coords points="786,1159 812,1159 812,1186 786,1186"/>
+	<TextEquiv conf="0.92566">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w131">
+	<Coords points="831,1161 915,1161 915,1187 831,1187"/>
+	<TextEquiv conf="0.92502">
+	<Unicode>Berlin</Unicode></TextEquiv></Word>
+	<Word id="w132">
+	<Coords points="947,1159 1120,1159 1120,1193 947,1193"/>
+	<TextEquiv conf="0.92690">
+	<Unicode>eingerichteten</Unicode></TextEquiv></Word>
+	<Word id="w133">
+	<Coords points="1139,1158 1353,1158 1353,1191 1139,1191"/>
+	<TextEquiv conf="0.47114">
+	<Unicode>Schreib⸗Kurſus</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.85661">
+	<Unicode>dem vom Herrn Unterrichtsminiſter z. Z. in Berlin eingerichteten Schreib⸗Kurſus</Unicode></TextEquiv></TextLine>
+	<TextLine id="l134">
+	<Coords points="188,1195 746,1195 746,1229 188,1229"/>
+	<Word id="w135">
+	<Coords points="188,1197 229,1197 229,1229 188,1229"/>
+	<TextEquiv conf="0.92368">
+	<Unicode>für</Unicode></TextEquiv></Word>
+	<Word id="w136">
+	<Coords points="247,1196 407,1196 407,1229 247,1229"/>
+	<TextEquiv conf="0.92465">
+	<Unicode>Volksſchulen</Unicode></TextEquiv></Word>
+	<Word id="w137">
+	<Coords points="428,1196 559,1196 559,1229 428,1229"/>
+	<TextEquiv conf="0.91344">
+	<Unicode>empfohlen</Unicode></TextEquiv></Word>
+	<Word id="w138">
+	<Coords points="578,1198 672,1198 672,1222 578,1222"/>
+	<TextEquiv conf="0.93253">
+	<Unicode>worden</Unicode></TextEquiv></Word>
+	<Word id="w139">
+	<Coords points="690,1195 746,1195 746,1228 690,1228"/>
+	<TextEquiv conf="0.88259">
+	<Unicode>ſind.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91538">
+	<Unicode>für Volksſchulen empfohlen worden ſind.</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.89359">
+	<Unicode>Im Jahre 1883 wurde auf Wunſch der Familie des Heimgegangenen die
+erſte Fibel vom unterzeichneten Schüler des Verfaſſers unter Beachtüng und Wah—
+rung der Unterrichtsgrundſätze des hochverdienten Pädagogen neu herausgegeben.
+Die gleichzeitige Vorfuͤhrung der Schreib- und Druchſchrift regt die kindlichen Kräfte
+vielſeſtig an, läßt eine vielfache Beſchäftigung der Kinder zu, erleichtert weſentlich
+die Arbeit des Lehrers, und trägt zur ſchnelleren Erzielung der Leſefertigkeit bedeutend
+bei. Man gebe den Kindern das Buch erſt in die Hand, nachdem die Vorübungen
+des Schreibens und Leſens ſorgfältig betrieben worden und die Kinder die in den
+Nummern 1 bis 13 bezeichnelen Laute und Lautverbindungen in Schreibſchrift
+kennen gelernt haben. Die Formen der Schreibſchrift ſind dieſelben, welche in
+dem vom Herrn Unterrichtsminiſter z. Z. in Berlin eingerichteten Schreib-Kurſus
+für Volksſchulen empfohlen worden ſind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r266" type="paragraph">
+	<Coords points="1354,1228 1354,1335 188,1335 188,1228"/>
+	<TextLine id="l218">
+	<Coords points="276,1228 1353,1228 1353,1265 276,1265"/>
+	<Word id="w220">
+	<Coords points="276,1231 322,1231 322,1258 276,1258"/>
+	<TextEquiv conf="0.92220">
+	<Unicode>Bei</Unicode></TextEquiv></Word>
+	<Word id="w222">
+	<Coords points="339,1232 475,1232 475,1257 339,1257"/>
+	<TextEquiv conf="0.92461">
+	<Unicode>Anordnung</Unicode></TextEquiv></Word>
+	<Word id="w224">
+	<Coords points="478,1234 536,1234 536,1265 478,1265"/>
+	<TextEquiv conf="0.93059">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w226">
+	<Coords points="537,1231 683,1231 683,1262 537,1262"/>
+	<TextEquiv conf="0.92359">
+	<Unicode>Leſeſtoffes</Unicode></TextEquiv></Word>
+	<Word id="w228">
+	<Coords points="702,1233 739,1233 739,1257 702,1257"/>
+	<TextEquiv conf="0.92690">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w230">
+	<Coords points="759,1232 799,1232 799,1264 759,1264"/>
+	<TextEquiv conf="0.93007">
+	<Unicode>für</Unicode></TextEquiv></Word>
+	<Word id="w232">
+	<Coords points="818,1232 863,1232 863,1256 818,1256"/>
+	<TextEquiv conf="0.92797">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w234">
+	<Coords points="883,1231 959,1231 959,1263 883,1263"/>
+	<TextEquiv conf="0.92511">
+	<Unicode>zweite</Unicode></TextEquiv></Word>
+	<Word id="w236">
+	<Coords points="969,1229 1105,1229 1105,1263 969,1263"/>
+	<TextEquiv conf="0.91855">
+	<Unicode>Schuljahr</Unicode></TextEquiv></Word>
+	<Word id="w238">
+	<Coords points="1122,1237 1175,1237 1175,1262 1122,1262"/>
+	<TextEquiv conf="0.92957">
+	<Unicode>zum</Unicode></TextEquiv></Word>
+	<Word id="w240">
+	<Coords points="1195,1228 1284,1228 1284,1262 1195,1262"/>
+	<TextEquiv conf="0.74816">
+	<Unicode>Schul⸗</Unicode></TextEquiv></Word>
+	<Word id="w242">
+	<Coords points="1304,1230 1353,1230 1353,1255 1304,1255"/>
+	<TextEquiv conf="0.92439">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91098">
+	<Unicode>Bei Anordnung des Leſeſtoffes der für das zweite Schuljahr zum Schul⸗ und</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="189,1264 1354,1264 1354,1300 189,1300"/>
+	<Word id="w244">
+	<Coords points="189,1266 387,1266 387,1300 189,1300"/>
+	<TextEquiv conf="0.92610">
+	<Unicode>Hausgebrauche</Unicode></TextEquiv></Word>
+	<Word id="w246">
+	<Coords points="405,1266 552,1266 552,1299 405,1299"/>
+	<TextEquiv conf="0.90503">
+	<Unicode>beſtimmten</Unicode></TextEquiv></Word>
+	<Word id="w248">
+	<Coords points="570,1266 607,1266 607,1292 570,1292"/>
+	<TextEquiv conf="0.84500">
+	<Unicode>II.</Unicode></TextEquiv></Word>
+	<Word id="w250">
+	<Coords points="628,1266 754,1266 754,1298 628,1298"/>
+	<TextEquiv conf="0.92156">
+	<Unicode>Abteilung</Unicode></TextEquiv></Word>
+	<Word id="w252">
+	<Coords points="773,1267 811,1267 811,1292 773,1292"/>
+	<TextEquiv conf="0.92257">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w254">
+	<Coords points="829,1265 896,1265 896,1299 829,1299"/>
+	<TextEquiv conf="0.92785">
+	<Unicode>Fibel</Unicode></TextEquiv></Word>
+	<Word id="w256">
+	<Coords points="921,1267 1020,1267 1020,1292 921,1292"/>
+	<TextEquiv conf="0.92485">
+	<Unicode>wurden</Unicode></TextEquiv></Word>
+	<Word id="w258">
+	<Coords points="1046,1267 1085,1267 1085,1291 1046,1291"/>
+	<TextEquiv conf="0.92866">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w260">
+	<Coords points="1104,1265 1220,1265 1220,1299 1104,1299"/>
+	<TextEquiv conf="0.91868">
+	<Unicode>Lehrgang</Unicode></TextEquiv></Word>
+	<Word id="w262">
+	<Coords points="1245,1266 1294,1266 1294,1290 1245,1290"/>
+	<TextEquiv conf="0.93069">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w25">
+	<Coords points="1313,1264 1354,1264 1354,1291 1313,1291"/>
+	<TextEquiv conf="0.92058">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91560">
+	<Unicode>Hausgebrauche beſtimmten II. Abteilung der Fibel wurden der Lehrgang und der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="188,1300 1053,1300 1053,1335 188,1335"/>
+	<Word id="w264">
+	<Coords points="188,1301 293,1301 293,1335 188,1335"/>
+	<TextEquiv conf="0.90381">
+	<Unicode>Lehrſtoff</Unicode></TextEquiv></Word>
+	<Word id="w266">
+	<Coords points="311,1301 354,1301 354,1328 311,1328"/>
+	<TextEquiv conf="0.92954">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w268">
+	<Coords points="372,1302 442,1302 442,1331 372,1331"/>
+	<TextEquiv conf="0.92844">
+	<Unicode>erſten</Unicode></TextEquiv></Word>
+	<Word id="w270">
+	<Coords points="461,1301 787,1301 787,1334 461,1334"/>
+	<TextEquiv conf="0.88307">
+	<Unicode>Anſchauungsunterrichtes</Unicode></TextEquiv></Word>
+	<Word id="w272">
+	<Coords points="805,1308 833,1308 833,1333 805,1333"/>
+	<TextEquiv conf="0.91681">
+	<Unicode>zu</Unicode></TextEquiv></Word>
+	<Word id="w274">
+	<Coords points="852,1300 942,1300 942,1327 852,1327"/>
+	<TextEquiv conf="0.91024">
+	<Unicode>Grunde</Unicode></TextEquiv></Word>
+	<Word id="w276">
+	<Coords points="945,1301 1053,1301 1053,1334 945,1334"/>
+	<TextEquiv conf="0.92023">
+	<Unicode>gelegt.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91316">
+	<Unicode>Lehrſtoff des erſten Anſchauungsunterrichtes zu Grunde gelegt.</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.91976">
+	<Unicode>Bei Anordnung des Leſeſtoffes der für das zweite Schuljahr zum Schul- und
+Hausgebrauche beſtimmten II. Abteilung der Fibel wurden der Lehrgang und der
+Lehrſtoff des erſten Anſchauungsunterrichtes zu Grunde gelegt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r300" type="paragraph">
+	<Coords points="183,1335 1355,1335 1355,1513 183,1513"/>
+	<TextLine id="l278">
+	<Coords points="276,1335 1353,1335 1353,1369 276,1369"/>
+	<Word id="w280">
+	<Coords points="276,1336 324,1336 324,1363 276,1363"/>
+	<TextEquiv conf="0.92131">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w282">
+	<Coords points="343,1336 421,1336 421,1362 343,1362"/>
+	<TextEquiv conf="0.92784">
+	<Unicode>beiden</Unicode></TextEquiv></Word>
+	<Word id="w284">
+	<Coords points="441,1336 556,1336 556,1369 441,1369"/>
+	<TextEquiv conf="0.92503">
+	<Unicode>Büchlein</Unicode></TextEquiv></Word>
+	<Word id="w286">
+	<Coords points="575,1338 672,1338 672,1362 575,1362"/>
+	<TextEquiv conf="0.91681">
+	<Unicode>wurden</Unicode></TextEquiv></Word>
+	<Word id="w288">
+	<Coords points="696,1342 741,1342 741,1362 696,1362"/>
+	<TextEquiv conf="0.92497">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w290">
+	<Coords points="759,1336 826,1336 826,1368 759,1368"/>
+	<TextEquiv conf="0.93013">
+	<Unicode>ihren</Unicode></TextEquiv></Word>
+	<Word id="w292">
+	<Coords points="851,1337 918,1337 918,1362 851,1362"/>
+	<TextEquiv conf="0.92129">
+	<Unicode>alten</Unicode></TextEquiv></Word>
+	<Word id="w294">
+	<Coords points="938,1335 1064,1335 1064,1369 938,1369"/>
+	<TextEquiv conf="0.92348">
+	<Unicode>Freunden</Unicode></TextEquiv></Word>
+	<Word id="w296">
+	<Coords points="1084,1336 1155,1336 1155,1368 1084,1368"/>
+	<TextEquiv conf="0.92018">
+	<Unicode>ſofort</Unicode></TextEquiv></Word>
+	<Word id="w298">
+	<Coords points="1173,1336 1213,1336 1213,1361 1173,1361"/>
+	<TextEquiv conf="0.92249">
+	<Unicode>als</Unicode></TextEquiv></Word>
+	<Word id="w300">
+	<Coords points="1233,1348 1265,1348 1265,1353 1233,1353"/>
+	<TextEquiv conf="0.92131">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w302">
+	<Coords points="1284,1340 1353,1340 1353,1360 1284,1360"/>
+	<TextEquiv conf="0.92946">
+	<Unicode>wenn</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92369">
+	<Unicode>Die beiden Büchlein wurden von ihren alten Freunden ſofort als — wenn</Unicode></TextEquiv></TextLine>
+	<TextLine id="l304">
+	<Coords points="188,1368 1355,1368 1355,1404 188,1404"/>
+	<Word id="w306">
+	<Coords points="188,1372 244,1372 244,1404 188,1404"/>
+	<TextEquiv conf="0.92752">
+	<Unicode>auch</Unicode></TextEquiv></Word>
+	<Word id="w308">
+	<Coords points="263,1372 386,1372 386,1404 263,1404"/>
+	<TextEquiv conf="0.90471">
+	<Unicode>zeitgemäß</Unicode></TextEquiv></Word>
+	<Word id="w310">
+	<Coords points="404,1372 541,1372 541,1398 404,1398"/>
+	<TextEquiv conf="0.91228">
+	<Unicode>veränderte</Unicode></TextEquiv></Word>
+	<Word id="w312">
+	<Coords points="559,1386 592,1386 592,1390 559,1390"/>
+	<TextEquiv conf="0.92648">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w314">
+	<Coords points="612,1371 700,1371 700,1398 612,1398"/>
+	<TextEquiv conf="0.92300">
+	<Unicode>Kinder</Unicode></TextEquiv></Word>
+	<Word id="w316">
+	<Coords points="718,1373 759,1373 759,1397 718,1397"/>
+	<TextEquiv conf="0.92850">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w318">
+	<Coords points="778,1372 863,1372 863,1404 778,1404"/>
+	<TextEquiv conf="0.91769">
+	<Unicode>großen</Unicode></TextEquiv></Word>
+	<Word id="w320">
+	<Coords points="883,1371 1019,1371 1019,1404 883,1404"/>
+	<TextEquiv conf="0.91700">
+	<Unicode>rheiniſchen</Unicode></TextEquiv></Word>
+	<Word id="w322">
+	<Coords points="1036,1370 1146,1370 1146,1403 1036,1403"/>
+	<TextEquiv conf="0.92885">
+	<Unicode>Meiſters</Unicode></TextEquiv></Word>
+	<Word id="w324">
+	<Coords points="1166,1368 1355,1368 1355,1399 1166,1399"/>
+	<TextEquiv conf="0.92102">
+	<Unicode>wiedererkannt,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92071">
+	<Unicode>auch zeitgemäß veränderte — Kinder des großen rheiniſchen Meiſters wiedererkannt,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l326">
+	<Coords points="187,1403 1354,1403 1354,1441 187,1441"/>
+	<Word id="w328">
+	<Coords points="187,1406 286,1406 286,1441 187,1441"/>
+	<TextEquiv conf="0.92138">
+	<Unicode>begrüßt</Unicode></TextEquiv></Word>
+	<Word id="w330">
+	<Coords points="302,1409 351,1409 351,1433 302,1433"/>
+	<TextEquiv conf="0.64328">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w332">
+	<Coords points="372,1408 568,1408 568,1440 372,1440"/>
+	<TextEquiv conf="0.91708">
+	<Unicode>aufgenommen.</Unicode></TextEquiv></Word>
+	<Word id="w334">
+	<Coords points="605,1406 642,1406 642,1433 605,1433"/>
+	<TextEquiv conf="0.91918">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w336">
+	<Coords points="644,1406 802,1406 802,1440 644,1440"/>
+	<TextEquiv conf="0.91683">
+	<Unicode>Königliche</Unicode></TextEquiv></Word>
+	<Word id="w338">
+	<Coords points="821,1406 959,1406 959,1439 821,1439"/>
+	<TextEquiv conf="0.85267">
+	<Unicode>Regierung</Unicode></TextEquiv></Word>
+	<Word id="w340">
+	<Coords points="978,1413 1006,1413 1006,1438 978,1438"/>
+	<TextEquiv conf="0.91786">
+	<Unicode>zu</Unicode></TextEquiv></Word>
+	<Word id="w342">
+	<Coords points="1025,1406 1115,1406 1115,1438 1025,1438"/>
+	<TextEquiv conf="0.92302">
+	<Unicode>Aachen</Unicode></TextEquiv></Word>
+	<Word id="w344">
+	<Coords points="1139,1406 1215,1406 1215,1437 1139,1437"/>
+	<TextEquiv conf="0.91551">
+	<Unicode>prüfte</Unicode></TextEquiv></Word>
+	<Word id="w346">
+	<Coords points="1234,1405 1268,1405 1268,1431 1234,1431"/>
+	<TextEquiv conf="0.93102">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w348">
+	<Coords points="1287,1403 1354,1403 1354,1438 1287,1438"/>
+	<TextEquiv conf="0.92495">
+	<Unicode>Fibel</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.88934">
+	<Unicode>begrüßt und aufgenommen. Die Königliche Regierung zu Aachen prüfte die Fibel</Unicode></TextEquiv></TextLine>
+	<TextLine id="l350">
+	<Coords points="188,1440 1354,1440 1354,1475 188,1475"/>
+	<Word id="w352">
+	<Coords points="188,1442 238,1442 238,1469 188,1469"/>
+	<TextEquiv conf="0.92843">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w354">
+	<Coords points="258,1442 398,1442 398,1475 258,1475"/>
+	<TextEquiv conf="0.91146">
+	<Unicode>genehmigte</Unicode></TextEquiv></Word>
+	<Word id="w356">
+	<Coords points="417,1441 483,1441 483,1473 417,1473"/>
+	<TextEquiv conf="0.92525">
+	<Unicode>ihren</Unicode></TextEquiv></Word>
+	<Word id="w358">
+	<Coords points="502,1441 634,1441 634,1471 502,1471"/>
+	<TextEquiv conf="0.92027">
+	<Unicode>Gebrauch.</Unicode></TextEquiv></Word>
+	<Word id="w360">
+	<Coords points="672,1441 721,1441 721,1468 672,1468"/>
+	<TextEquiv conf="0.92593">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w362">
+	<Coords points="739,1441 873,1441 873,1475 739,1475"/>
+	<TextEquiv conf="0.91927">
+	<Unicode>Königliche</Unicode></TextEquiv></Word>
+	<Word id="w364">
+	<Coords points="892,1441 1029,1441 1029,1474 892,1474"/>
+	<TextEquiv conf="0.82827">
+	<Unicode>Regierung</Unicode></TextEquiv></Word>
+	<Word id="w366">
+	<Coords points="1054,1441 1134,1441 1134,1474 1054,1474"/>
+	<TextEquiv conf="0.92699">
+	<Unicode>ſchrieb</Unicode></TextEquiv></Word>
+	<Word id="w368">
+	<Coords points="1159,1440 1258,1440 1258,1473 1159,1473"/>
+	<TextEquiv conf="0.92805">
+	<Unicode>nämlich</Unicode></TextEquiv></Word>
+	<Word id="w370">
+	<Coords points="1283,1443 1354,1443 1354,1466 1283,1466"/>
+	<TextEquiv conf="0.90885">
+	<Unicode>unter</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91228">
+	<Unicode>und genehmigte ihren Gebrauch. Die Königliche Regierung ſchrieb nämlich unter</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="189,1476 1178,1476 1178,1511 189,1511"/>
+	<Word id="w372">
+	<Coords points="189,1478 239,1478 239,1504 189,1504"/>
+	<TextEquiv conf="0.91657">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w374">
+	<Coords points="258,1477 298,1477 298,1504 258,1504"/>
+	<TextEquiv conf="0.92670">
+	<Unicode>28.</Unicode></TextEquiv></Word>
+	<Word id="w376">
+	<Coords points="320,1477 391,1477 391,1511 320,1511"/>
+	<TextEquiv conf="0.92960">
+	<Unicode>März</Unicode></TextEquiv></Word>
+	<Word id="w378">
+	<Coords points="411,1476 481,1476 481,1503 411,1503"/>
+	<TextEquiv conf="0.90956">
+	<Unicode>1884</Unicode></TextEquiv></Word>
+	<Word id="w380">
+	<Coords points="501,1491 535,1491 535,1495 501,1495"/>
+	<TextEquiv conf="0.90605">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w382">
+	<Coords points="555,1477 583,1477 583,1507 555,1507"/>
+	<TextEquiv conf="0.86534">
+	<Unicode>J.</Unicode></TextEquiv></Word>
+	<Word id="w384">
+	<Coords points="603,1477 649,1477 649,1504 603,1504"/>
+	<TextEquiv conf="0.85050">
+	<Unicode>Nr.</Unicode></TextEquiv></Word>
+	<Word id="w386">
+	<Coords points="668,1477 691,1477 691,1503 668,1503"/>
+	<TextEquiv conf="0.85966">
+	<Unicode>I.</Unicode></TextEquiv></Word>
+	<Word id="w388">
+	<Coords points="710,1477 781,1477 781,1503 710,1503"/>
+	<TextEquiv conf="0.91519">
+	<Unicode>6158</Unicode></TextEquiv></Word>
+	<Word id="w390">
+	<Coords points="799,1490 834,1490 834,1495 799,1495"/>
+	<TextEquiv conf="0.91942">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w392">
+	<Coords points="853,1483 868,1483 868,1502 853,1502"/>
+	<TextEquiv conf="0.93216">
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="w394">
+	<Coords points="870,1478 931,1478 931,1502 870,1502"/>
+	<TextEquiv conf="0.92697">
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w396">
+	<Coords points="932,1476 1178,1476 1178,1508 932,1508"/>
+	<TextEquiv conf="0.91977">
+	<Unicode>Unterzeichneten:</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.90596">
+	<Unicode>dem 28. März 1884 — J. Nr. I. 6158 — an den Unterzeichneten:</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.86935">
+	<Unicode>Die beiden Büchlein wurden von ihren alten Freunden ſofort als — wenn
+auch zeitgemäß veränderte — Kinder des großen rheiniſchen Meiſters wiedererkannt,
+begrüßt uͤnd aufgenommen. Die Königliche Regierung zu Aachen prüfte die Fibel
+und genehmigte ihren Gebrauch. Die Königliche Reglerung ſchrieb nämlich unter
+dem 28. März 1884 — J. Nr. J. 6158 — an den Unlerzeichneten:</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r365" type="paragraph">
+	<Coords points="281,1520 1364,1520 1364,1882 281,1882"/>
+	<TextLine id="l398">
+	<Coords points="381,1520 1354,1520 1354,1555 381,1555"/>
+	<Word id="w400">
+	<Coords points="381,1521 442,1521 442,1548 381,1548"/>
+	<TextEquiv conf="0.91858">
+	<Unicode>Ew.</Unicode></TextEquiv></Word>
+	<Word id="w404">
+	<Coords points="818,1520 903,1520 903,1552 818,1552"/>
+	<TextEquiv conf="0.92607">
+	<Unicode>durch</Unicode></TextEquiv></Word>
+	<Word id="w406">
+	<Coords points="924,1520 972,1520 972,1546 924,1546"/>
+	<TextEquiv conf="0.90690">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w408">
+	<Coords points="985,1520 1274,1520 1274,1553 985,1553"/>
+	<TextEquiv conf="0.84570">
+	<Unicode>Neubearbeitung</Unicode></TextEquiv></Word>
+	<Word id="w410">
+	<Coords points="1301,1521 1354,1521 1354,1545 1301,1545"/>
+	<TextEquiv conf="0.90721">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w0">
+	<Coords points="600,1521 600,1528 660,1528 660,1529 682,1529 682,1530 684,1530 684,1545 658,1545 658,1546 566,1546 566,1549 565,1549 565,1551 564,1551 564,1552 563,1552 563,1553 543,1553 543,1555 520,1555 520,1546 466,1546 466,1545 464,1545 464,1544 458,1544 458,1543 457,1543 457,1526 458,1526 458,1524 459,1524 459,1523 460,1523 460,1522 469,1522 469,1521"/>
+	<TextEquiv conf="0.79892">
+	<Unicode>Wohlgeboren</Unicode></TextEquiv></Word>
+	<Word id="w1">
+	<Coords points="752,1521 752,1528 794,1528 794,1529 795,1529 795,1530 796,1530 796,1545 751,1545 751,1546 709,1546 709,1547 708,1547 708,1550 707,1550 707,1551 705,1551 705,1545 701,1545 701,1544 700,1544 700,1526 699,1526 699,1523 702,1523 702,1522 703,1522 703,1521"/>
+	<TextEquiv conf="0.79892">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.88390">
+	<Unicode>Ew. Wohlgeboren haben durch die Neubearbeitung der</Unicode></TextEquiv></TextLine>
+	<TextLine id="l412">
+	<Coords points="296,1552 1354,1552 1354,1589 296,1589"/>
+	<Word id="w414">
+	<Coords points="296,1556 402,1556 402,1589 296,1589"/>
+	<TextEquiv conf="0.92727">
+	<Unicode>„Fibel</Unicode></TextEquiv></Word>
+	<Word id="w416">
+	<Coords points="429,1561 490,1561 490,1582 429,1582"/>
+	<TextEquiv conf="0.91478">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w418">
+	<Coords points="519,1555 553,1555 553,1589 519,1589"/>
+	<TextEquiv conf="0.90487">
+	<Unicode>P.</Unicode></TextEquiv></Word>
+	<Word id="w420">
+	<Coords points="582,1556 611,1556 611,1585 582,1585"/>
+	<TextEquiv conf="0.27039">
+	<Unicode>J.</Unicode></TextEquiv></Word>
+	<Word id="w422">
+	<Coords points="631,1555 773,1555 773,1588 631,1588"/>
+	<TextEquiv conf="0.88826">
+	<Unicode>Büſcher,</Unicode></TextEquiv></Word>
+	<Word id="w424">
+	<Coords points="798,1556 820,1556 820,1582 798,1582"/>
+	<TextEquiv conf="0.18802">
+	<Unicode>I.</Unicode></TextEquiv></Word>
+	<Word id="w426">
+	<Coords points="845,1558 906,1558 906,1581 845,1581"/>
+	<TextEquiv conf="0.82340">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w428">
+	<Coords points="927,1555 965,1555 965,1582 927,1582"/>
+	<TextEquiv conf="0.67883">
+	<Unicode>II.</Unicode></TextEquiv></Word>
+	<Word id="w430">
+	<Coords points="985,1552 1195,1552 1195,1588 985,1588"/>
+	<TextEquiv conf="0.86438">
+	<Unicode>Abtheilung“</Unicode></TextEquiv></Word>
+	<Word id="w432">
+	<Coords points="1195,1555 1279,1555 1279,1588 1195,1588"/>
+	<TextEquiv conf="0.91784">
+	<Unicode>ſich</Unicode></TextEquiv></Word>
+	<Word id="w434">
+	<Coords points="1305,1555 1354,1555 1354,1581 1305,1581"/>
+	<TextEquiv conf="0.92301">
+	<Unicode>ein</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.75464">
+	<Unicode>„Fibel von P. J. Büſcher, I. und II. Abtheilung“ ſich ein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="293,1589 1354,1589 1354,1623 293,1623"/>
+	<Word id="w436">
+	<Coords points="293,1591 501,1591 501,1622 293,1622"/>
+	<TextEquiv conf="0.92611">
+	<Unicode>weſentliches</Unicode></TextEquiv></Word>
+	<Word id="w438">
+	<Coords points="520,1590 683,1590 683,1621 520,1621"/>
+	<TextEquiv conf="0.90911">
+	<Unicode>Verdienſt</Unicode></TextEquiv></Word>
+	<Word id="w440">
+	<Coords points="703,1592 873,1592 873,1617 703,1617"/>
+	<TextEquiv conf="0.88959">
+	<Unicode>erworben.</Unicode></TextEquiv></Word>
+	<Word id="w442">
+	<Coords points="910,1590 978,1590 978,1617 910,1617"/>
+	<TextEquiv conf="0.91647">
+	<Unicode>Wir</Unicode></TextEquiv></Word>
+	<Word id="w444">
+	<Coords points="996,1590 1095,1590 1095,1622 996,1622"/>
+	<TextEquiv conf="0.91714">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<Word id="w446">
+	<Coords points="1120,1596 1153,1596 1153,1617 1120,1617"/>
+	<TextEquiv conf="0.91335">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w448">
+	<Coords points="1161,1589 1354,1589 1354,1623 1161,1623"/>
+	<TextEquiv conf="0.91335">
+	<Unicode>derſelben</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91216">
+	<Unicode>weſentliches Verdienſt erworben. Wir haben von derſelben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="294,1625 1355,1625 1355,1660 294,1660"/>
+	<Word id="w450">
+	<Coords points="294,1627 350,1627 350,1652 294,1652"/>
+	<TextEquiv conf="0.92554">
+	<Unicode>mit</Unicode></TextEquiv></Word>
+	<Word id="w452">
+	<Coords points="379,1627 506,1627 506,1660 379,1660"/>
+	<TextEquiv conf="0.88539">
+	<Unicode>großem</Unicode></TextEquiv></Word>
+	<Word id="w454">
+	<Coords points="531,1626 694,1626 694,1658 531,1658"/>
+	<TextEquiv conf="0.90211">
+	<Unicode>Intereſſe</Unicode></TextEquiv></Word>
+	<Word id="w456">
+	<Coords points="720,1626 883,1626 883,1658 720,1658"/>
+	<TextEquiv conf="0.92016">
+	<Unicode>Kenntniß</Unicode></TextEquiv></Word>
+	<Word id="w458">
+	<Coords points="914,1632 1102,1632 1102,1659 914,1659"/>
+	<TextEquiv conf="0.92235">
+	<Unicode>genommen</Unicode></TextEquiv></Word>
+	<Word id="w460">
+	<Coords points="1132,1633 1170,1633 1170,1652 1132,1652"/>
+	<TextEquiv conf="0.91313">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w462">
+	<Coords points="1178,1625 1355,1625 1355,1658 1178,1658"/>
+	<TextEquiv conf="0.89653">
+	<Unicode>ſprechen</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.90932">
+	<Unicode>mit großem Intereſſe Kenntniß genommen und ſprechen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l36">
+	<Coords points="293,1659 1353,1659 1353,1695 293,1695"/>
+	<Word id="w464">
+	<Coords points="293,1661 399,1661 399,1694 293,1694"/>
+	<TextEquiv conf="0.88836">
+	<Unicode>Ihnen</Unicode></TextEquiv></Word>
+	<Word id="w466">
+	<Coords points="418,1662 470,1662 470,1693 418,1693"/>
+	<TextEquiv conf="0.91932">
+	<Unicode>für</Unicode></TextEquiv></Word>
+	<Word id="w468">
+	<Coords points="490,1661 570,1661 570,1695 490,1695"/>
+	<TextEquiv conf="0.80108">
+	<Unicode>Ihre</Unicode></TextEquiv></Word>
+	<Word id="w470">
+	<Coords points="580,1661 675,1661 675,1694 580,1694"/>
+	<TextEquiv conf="0.87138">
+	<Unicode>Mühe</Unicode></TextEquiv></Word>
+	<Word id="w472">
+	<Coords points="694,1664 801,1664 801,1693 694,1693"/>
+	<TextEquiv conf="0.91170">
+	<Unicode>unſere</Unicode></TextEquiv></Word>
+	<Word id="w474">
+	<Coords points="815,1660 1051,1660 1051,1694 815,1694"/>
+	<TextEquiv conf="0.88662">
+	<Unicode>Anerkennung</Unicode></TextEquiv></Word>
+	<Word id="w476">
+	<Coords points="1072,1665 1145,1665 1145,1687 1072,1687"/>
+	<TextEquiv conf="0.91218">
+	<Unicode>aus.</Unicode></TextEquiv></Word>
+	<Word id="w478">
+	<Coords points="1179,1659 1239,1659 1239,1687 1179,1687"/>
+	<TextEquiv conf="0.87460">
+	<Unicode>Von</Unicode></TextEquiv></Word>
+	<Word id="w480">
+	<Coords points="1242,1660 1353,1660 1353,1687 1242,1687"/>
+	<TextEquiv conf="0.87460">
+	<Unicode>einer</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.88221">
+	<Unicode>Ihnen für Ihre Mühe unſere Anerkennung aus. Von einer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l482">
+	<Coords points="292,1695 1354,1695 1354,1730 292,1730"/>
+	<Word id="w484">
+	<Coords points="292,1696 495,1696 495,1730 292,1730"/>
+	<TextEquiv conf="0.90956">
+	<Unicode>öffentlichen</Unicode></TextEquiv></Word>
+	<Word id="w487">
+	<Coords points="522,1696 734,1696 734,1730 522,1730"/>
+	<TextEquiv conf="0.90058">
+	<Unicode>Empfehlung</Unicode></TextEquiv></Word>
+	<Word id="w489">
+	<Coords points="761,1699 813,1699 813,1723 761,1723"/>
+	<TextEquiv conf="0.92184">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w491">
+	<Coords points="838,1695 964,1695 964,1729 838,1729"/>
+	<TextEquiv conf="0.92200">
+	<Unicode>Schrift</Unicode></TextEquiv></Word>
+	<Word id="w493">
+	<Coords points="989,1697 1109,1697 1109,1728 989,1728"/>
+	<TextEquiv conf="0.91576">
+	<Unicode>müſſen</Unicode></TextEquiv></Word>
+	<Word id="w495">
+	<Coords points="1137,1696 1192,1696 1192,1722 1137,1722"/>
+	<TextEquiv conf="0.92719">
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w497">
+	<Coords points="1220,1695 1354,1695 1354,1729 1220,1729"/>
+	<TextEquiv conf="0.92643">
+	<Unicode>Abſtand</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91762">
+	<Unicode>öffentlichen Empfehlung der Schrift müſſen wir Abſtand</Unicode></TextEquiv></TextLine>
+	<TextLine id="l54">
+	<Coords points="293,1730 1354,1730 1354,1766 293,1766"/>
+	<Word id="w499">
+	<Coords points="293,1732 435,1732 435,1764 293,1764"/>
+	<TextEquiv conf="0.91942">
+	<Unicode>nehmen;</Unicode></TextEquiv></Word>
+	<Word id="w501">
+	<Coords points="455,1732 514,1732 514,1758 455,1758"/>
+	<TextEquiv conf="0.93170">
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w503">
+	<Coords points="533,1732 729,1732 729,1766 533,1766"/>
+	<TextEquiv conf="0.91172">
+	<Unicode>genehmigen</Unicode></TextEquiv></Word>
+	<Word id="w507">
+	<Coords points="962,1732 1020,1732 1020,1765 962,1765"/>
+	<TextEquiv conf="0.91794">
+	<Unicode>daß</Unicode></TextEquiv></Word>
+	<Word id="w509">
+	<Coords points="1038,1731 1081,1731 1081,1765 1038,1765"/>
+	<TextEquiv conf="0.89539">
+	<Unicode>ſie</Unicode></TextEquiv></Word>
+	<Word id="w511">
+	<Coords points="1098,1731 1129,1731 1129,1758 1098,1758"/>
+	<TextEquiv conf="0.91980">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w513">
+	<Coords points="1148,1733 1202,1733 1202,1758 1148,1758"/>
+	<TextEquiv conf="0.91980">
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w515">
+	<Coords points="1212,1730 1354,1730 1354,1759 1212,1759"/>
+	<TextEquiv conf="0.89363">
+	<Unicode>Elemen⸗</Unicode></TextEquiv></Word>
+	<Word id="w134">
+	<Coords points="779,1732 779,1739 780,1739 780,1740 822,1740 822,1743 821,1743 821,1754 820,1754 820,1755 819,1755 819,1756 818,1756 818,1757 752,1757 752,1756 751,1756 751,1754 750,1754 750,1752 749,1752 749,1746 750,1746 750,1743 751,1743 751,1742 752,1742 752,1741 753,1741 753,1740 755,1740 755,1739 772,1739 772,1734 775,1734 775,1733 776,1733 776,1732"/>
+	<TextEquiv conf="0.89576">
+	<Unicode>aber</Unicode></TextEquiv></Word>
+	<Word id="w141">
+	<Coords points="925,1739 925,1742 926,1742 926,1751 939,1751 939,1752 941,1752 941,1755 942,1755 941,1755 941,1756 940,1756 940,1757 939,1757 939,1758 938,1758 938,1760 937,1760 937,1761 936,1761 936,1763 839,1763 839,1762 838,1762 838,1759 837,1759 837,1754 838,1754 838,1742 839,1742 839,1741 840,1741 840,1740 841,1740 841,1739"/>
+	<TextEquiv conf="0.89576">
+	<Unicode>gerne,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91169">
+	<Unicode>nehmen; wir genehmigen aber gerne, daß ſie in den Elemen⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l64">
+	<Coords points="293,1767 780,1767 780,1801 293,1801"/>
+	<Word id="w517">
+	<Coords points="293,1767 472,1767 472,1801 293,1801"/>
+	<TextEquiv conf="0.90436">
+	<Unicode>tarſchulen</Unicode></TextEquiv></Word>
+	<Word id="w519">
+	<Coords points="493,1768 658,1768 658,1801 493,1801"/>
+	<TextEquiv conf="0.89319">
+	<Unicode>gebraucht</Unicode></TextEquiv></Word>
+	<Word id="w521">
+	<Coords points="676,1769 780,1769 780,1794 676,1794"/>
+	<TextEquiv conf="0.86309">
+	<Unicode>werde.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.88688">
+	<Unicode>tarſchulen gebraucht werde.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l69">
+	<Coords points="472,1809 1317,1809 1317,1845 472,1845"/>
+	<Word id="w523">
+	<Coords points="472,1811 655,1811 655,1844 472,1844"/>
+	<TextEquiv conf="0.92105">
+	<Unicode>Königliche</Unicode></TextEquiv></Word>
+	<Word id="w71">
+	<Coords points="673,1811 872,1811 872,1845 673,1845"/>
+	<TextEquiv conf="0.78348">
+	<Unicode>Regierung,</Unicode></TextEquiv></Word>
+	<Word id="w525">
+	<Coords points="891,1810 1092,1810 1092,1844 891,1844"/>
+	<TextEquiv conf="0.92655">
+	<Unicode>Abtheilung</Unicode></TextEquiv></Word>
+	<Word id="w527">
+	<Coords points="1112,1812 1163,1812 1163,1837 1112,1837"/>
+	<TextEquiv conf="0.91575">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w529">
+	<Coords points="1180,1809 1317,1809 1317,1840 1180,1840"/>
+	<TextEquiv conf="0.89275">
+	<Unicode>Innern.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.88792">
+	<Unicode>Königliche Regierung, Abtheilung des Innern.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l75">
+	<Coords points="729,1846 1221,1846 1221,1880 729,1880"/>
+	<Word id="w531">
+	<Coords points="729,1846 797,1846 797,1880 729,1880"/>
+	<TextEquiv conf="0.90810">
+	<Unicode>(gez.)</Unicode></TextEquiv></Word>
+	<Word id="w533">
+	<Coords points="816,1854 875,1854 875,1874 816,1874"/>
+	<TextEquiv conf="0.92296">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w535">
+	<Coords points="895,1848 948,1848 948,1874 895,1874"/>
+	<TextEquiv conf="0.92301">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w537">
+	<Coords points="966,1847 1077,1847 1077,1880 966,1880"/>
+	<TextEquiv conf="0.85428">
+	<Unicode>Moſel.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.90209">
+	<Unicode>(gez.) von der Moſel.</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.78013">
+	<Unicode>Ew. Wohlgeborenhaben durch die Veubearbeitung der
+„Fibel von P. 3. Büſcher, JL und H. Abtheilung“ ſich ein
+weſentliches Verdienſt erworben. Wir haben von derſelben
+mit großem Intereſſe Kenntniß genommen und ſprechen
+Ihnen für Ihre Mühe unſere Anerkennung aus. Von einer
+öffentlichen Empfehlung der Schrift müſſen wir Abſtand
+nehmen; wir genehmigen abergerne, daß ſie in den Elemen—
+tarſchulen gebraucht werde.
+Königliche Regierung, Abtheilung des Innern.
+(gez.) von der Moſel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r447" type="paragraph">
+	<Coords points="1355,1898 1355,1996 190,1996 190,1898"/>
+	<TextLine id="l539">
+	<Coords points="276,1898 1354,1898 1354,1933 276,1933"/>
+	<Word id="w541">
+	<Coords points="276,1899 350,1899 350,1933 276,1933"/>
+	<TextEquiv conf="0.90339">
+	<Unicode>Möge</Unicode></TextEquiv></Word>
+	<Word id="w543">
+	<Coords points="368,1900 413,1900 413,1925 368,1925"/>
+	<TextEquiv conf="0.92271">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w545">
+	<Coords points="429,1899 507,1899 507,1930 429,1930"/>
+	<TextEquiv conf="0.93068">
+	<Unicode>Buch,</Unicode></TextEquiv></Word>
+	<Word id="w547">
+	<Coords points="527,1899 622,1899 622,1932 527,1932"/>
+	<TextEquiv conf="0.92098">
+	<Unicode>welches</Unicode></TextEquiv></Word>
+	<Word id="w549">
+	<Coords points="640,1905 686,1905 686,1926 640,1926"/>
+	<TextEquiv conf="0.92819">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w551">
+	<Coords points="705,1900 744,1900 744,1926 705,1926"/>
+	<TextEquiv conf="0.92339">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w553">
+	<Coords points="764,1899 836,1899 836,1931 764,1931"/>
+	<TextEquiv conf="0.91512">
+	<Unicode>hohen</Unicode></TextEquiv></Word>
+	<Word id="w555">
+	<Coords points="847,1898 1024,1898 1024,1932 847,1932"/>
+	<TextEquiv conf="0.92613">
+	<Unicode>Schulbehörde</Unicode></TextEquiv></Word>
+	<Word id="w557">
+	<Coords points="1044,1899 1069,1899 1069,1925 1044,1925"/>
+	<TextEquiv conf="0.91557">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w559">
+	<Coords points="1089,1898 1142,1898 1142,1932 1089,1932"/>
+	<TextEquiv conf="0.92462">
+	<Unicode>ſolch</Unicode></TextEquiv></Word>
+	<Word id="w561">
+	<Coords points="1162,1898 1269,1898 1269,1930 1162,1930"/>
+	<TextEquiv conf="0.92605">
+	<Unicode>ehrender</Unicode></TextEquiv></Word>
+	<Word id="w563">
+	<Coords points="1282,1898 1354,1898 1354,1930 1282,1930"/>
+	<TextEquiv conf="0.92040">
+	<Unicode>Weiſe</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92144">
+	<Unicode>Möge das Buch, welches von der hohen Schulbehörde in ſolch ehrender Weiſe</Unicode></TextEquiv></TextLine>
+	<TextLine id="l565">
+	<Coords points="190,1933 1355,1933 1355,1968 190,1968"/>
+	<Word id="w567">
+	<Coords points="190,1934 319,1934 319,1968 190,1968"/>
+	<TextEquiv conf="0.92846">
+	<Unicode>gewürdigt</Unicode></TextEquiv></Word>
+	<Word id="w569">
+	<Coords points="337,1935 442,1935 442,1966 337,1966"/>
+	<TextEquiv conf="0.92042">
+	<Unicode>worden,</Unicode></TextEquiv></Word>
+	<Word id="w571">
+	<Coords points="461,1933 511,1933 511,1966 461,1966"/>
+	<TextEquiv conf="0.91302">
+	<Unicode>ſich</Unicode></TextEquiv></Word>
+	<Word id="w573">
+	<Coords points="532,1934 584,1934 584,1966 532,1966"/>
+	<TextEquiv conf="0.92571">
+	<Unicode>noch</Unicode></TextEquiv></Word>
+	<Word id="w575">
+	<Coords points="603,1935 689,1935 689,1961 603,1961"/>
+	<TextEquiv conf="0.92084">
+	<Unicode>immer</Unicode></TextEquiv></Word>
+	<Word id="w577">
+	<Coords points="706,1934 772,1934 772,1968 706,1968"/>
+	<TextEquiv conf="0.91868">
+	<Unicode>mehr</Unicode></TextEquiv></Word>
+	<Word id="w579">
+	<Coords points="791,1935 902,1935 902,1968 791,1968"/>
+	<TextEquiv conf="0.92445">
+	<Unicode>Freunde</Unicode></TextEquiv></Word>
+	<Word id="w581">
+	<Coords points="928,1934 954,1934 954,1961 928,1961"/>
+	<TextEquiv conf="0.93215">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w583">
+	<Coords points="978,1936 1015,1936 1015,1960 978,1960"/>
+	<TextEquiv conf="0.92479">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w585">
+	<Coords points="1036,1934 1125,1934 1125,1967 1036,1967"/>
+	<TextEquiv conf="0.90628">
+	<Unicode>Schul⸗</Unicode></TextEquiv></Word>
+	<Word id="w587">
+	<Coords points="1150,1940 1184,1940 1184,1960 1150,1960"/>
+	<TextEquiv conf="0.92719">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w589">
+	<Coords points="1187,1933 1355,1933 1355,1966 1187,1966"/>
+	<TextEquiv conf="0.90461">
+	<Unicode>Lehrerwelt</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92055">
+	<Unicode>gewürdigt worden, ſich noch immer mehr Freunde in der Schul⸗ und Lehrerwelt</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="190,1969 615,1969 615,1996 190,1996"/>
+	<Word id="w591">
+	<Coords points="190,1969 319,1969 319,1996 190,1996"/>
+	<TextEquiv conf="0.92218">
+	<Unicode>erwerben!</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92218">
+	<Unicode>erwerben!</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.92284">
+	<Unicode>Möge das Buch, welches von der hohen Schulbehörde in ſolch ehrender Weiſe
+gewürdigt worden, ſich noch immer mehr Freunde in der Schul- und Lehrerwelt
+erwerben!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r475" type="paragraph">
+	<Coords points="721,2027 721,2065 273,2065 273,2027"/>
+	<TextLine id="l593">
+	<Coords points="277,2028 717,2028 717,2064 277,2064"/>
+	<Word id="w595">
+	<Coords points="277,2028 405,2028 405,2062 277,2062"/>
+	<TextEquiv conf="0.89622">
+	<Unicode>Jülich,</Unicode></TextEquiv></Word>
+	<Word id="w597">
+	<Coords points="423,2030 458,2030 458,2057 423,2057"/>
+	<TextEquiv conf="0.93227">
+	<Unicode>im</Unicode></TextEquiv></Word>
+	<Word id="w599">
+	<Coords points="478,2029 622,2029 622,2064 478,2064"/>
+	<TextEquiv conf="0.89017">
+	<Unicode>September</Unicode></TextEquiv></Word>
+	<Word id="w601">
+	<Coords points="643,2031 717,2031 717,2057 643,2057"/>
+	<TextEquiv conf="0.89624">
+	<Unicode>1885.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.90372">
+	<Unicode>Jülich, im September 1885.</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.61295">
+	<Unicode>Jülich, im September 1885.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r486" type="paragraph">
+	<Coords points="1081,2141 1081,2227 552,2227 552,2141"/>
+	<TextLine id="l603">
+	<Coords points="553,2142 1081,2142 1081,2226 553,2226"/>
+	<Word id="w143">
+	<Coords points="689,2144 689,2145 690,2145 690,2146 691,2146 691,2147 692,2147 692,2149 693,2149 693,2151 751,2151 751,2152 752,2152 752,2153 755,2153 755,2154 756,2154 756,2155 758,2155 758,2157 759,2157 759,2159 760,2159 760,2178 773,2178 773,2179 713,2179 713,2181 711,2181 711,2182 710,2182 710,2183 653,2183 653,2204 652,2204 652,2203 651,2203 651,2198 647,2198 647,2196 646,2196 646,2194 623,2194 623,2193 622,2193 622,2191 579,2191 579,2190 575,2190 575,2189 573,2189 573,2188 572,2188 572,2187 571,2187 571,2186 561,2186 561,2185 560,2185 560,2184 559,2184 559,2183 558,2183 558,2179 556,2179 556,2175 555,2175 555,2173 554,2173 567,2173 567,2153 570,2153 570,2148 571,2148 571,2147 572,2147 572,2146 688,2146 688,2144"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>213(200,</Unicode></TextEquiv></Word>
+	<Word id="w145">
+	<Coords points="956,2145 956,2146 957,2146 957,2161 1009,2161 1009,2162 1013,2162 1013,2163 1034,2163 1034,2164 1036,2164 1036,2165 1073,2165 1073,2166 1074,2166 1074,2167 1076,2167 1076,2172 1075,2172 1075,2174 1074,2174 1074,2176 1073,2176 1073,2177 1072,2177 1072,2178 1071,2178 1071,2179 1070,2179 1070,2184 1069,2184 1069,2185 1068,2185 1068,2199 1067,2199 1067,2203 948,2203 948,2213 947,2213 947,2214 941,2214 941,2220 934,2220 934,2222 933,2222 933,2190 922,2190 922,2189 880,2189 880,2188 834,2188 834,2187 832,2187 832,2186 831,2186 831,2183 830,2183 830,2182 801,2182 801,2175 800,2175 808,2175 808,2169 809,2169 809,2168 810,2168 810,2166 811,2166 811,2164 812,2164 812,2163 813,2163 813,2161 814,2161 814,2159 815,2159 815,2158 845,2158 845,2153 850,2153 850,2152 954,2152 954,2145"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>1886)-1+1</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.00000">
+	<Unicode>213(200, 1886)-1+1</Unicode></TextEquiv></TextLine>
+	<TextEquiv conf="0.14631">
+	<Unicode>—</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1093,359 1093,423 1410,423 1410,359"/>
+	<TextLine id="l1">
+	<Coords points="1097,362 1406,362 1406,421 1097,421"/>
+	<Word id="w2">
+	<Coords points="1097,362 1406,362 1406,421 1097,421"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>2007/1829</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.00000">
+	<Unicode>2007/1829</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>2004942</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1028,2057 1028,2107 1269,2107 1269,2057"/>
+	<TextLine id="l4">
+	<Coords points="1033,2065 1265,2065 1265,2100 1033,2100"/>
+	<Word id="w6">
+	<Coords points="1033,2065 1265,2065 1265,2100 1033,2100"/>
+	<TextEquiv conf="0.58972">
+	<Unicode>Mundt.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.58972">
+	<Unicode>Mundt.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Mundt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="576,2065 576,2132 719,2132 719,2065"/>
+	<TextLine id="l714">
+	<Coords points="576,2065 576,2133 717,2133 717,2065"/>
+	<Word id="w111">
+	<Coords points="578,2066 721,2066 721,2133 578,2133"/>
+	<TextEquiv>
+	<Unicode>DB-II</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>DB-II</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion></Page></PcGts>

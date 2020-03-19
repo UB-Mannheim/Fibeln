@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-02-24T15:17:45</Created>
+	<LastChange>2020-02-24T15:17:45</LastChange></Metadata>
+	<Page imageFilename="00000043.png" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1470" imageHeight="2364">
+	<Border>
+	<Coords points="1466,2 1466,2346 1328,2346 1328,2348 1326,2348 1326,2350 1242,2350 1242,2352 1178,2352 1178,2350 1106,2350 1106,2352 1088,2352 1088,2354 976,2354 976,2356 944,2356 944,2358 878,2358 878,2356 802,2356 802,2354 800,2354 800,2352 596,2352 596,2354 498,2354 498,2352 382,2352 382,2354 308,2354 308,2352 230,2352 230,2354 136,2354 136,2352 108,2352 108,2350 48,2350 48,2348 28,2348 28,2342 2,2342 2,2"/></Border></Page></PcGts>

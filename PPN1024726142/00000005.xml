@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-02-24T13:10:59</Created>
+	<LastChange>2020-03-06T13:04:57</LastChange></Metadata>
+	<Page imageFilename="00000005.png" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1530" imageHeight="2394">
+	<AlternativeImage filename="00000005_B.tif"/>
+	<Border>
+	<Coords points="0,0 1529,0 1529,2393 0,2393"/></Border>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="43,297 41,735 1260,730 1256,292"/>
+	<TextLine id="l1">
+	<Coords points="313,429 1054,429 1054,504 313,504"/>
+	<Word id="w0">
+	<Coords points="321,435 357,435 357,499 321,499"/>
+	<TextEquiv>
+	<Unicode>i,</Unicode></TextEquiv></Word>
+	<Word id="w1">
+	<Coords points="619,452 674,452 674,503 619,503"/>
+	<TextEquiv>
+	<Unicode>n,</Unicode></TextEquiv></Word>
+	<Word id="w2">
+	<Coords points="983,454 1055,454 1055,501 983,501"/>
+	<TextEquiv>
+	<Unicode>m.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.78121">
+	<Unicode>i, n, m.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="179,644 1150,644 1150,721 179,721"/>
+	<Word id="w75">
+	<Coords points="187,652 217,652 217,715 187,715"/>
+	<TextEquiv>
+	<Unicode>i,</Unicode></TextEquiv></Word>
+	<Word id="w76">
+	<Coords points="462,653 531,653 531,717 462,717"/>
+	<TextEquiv>
+	<Unicode>in,</Unicode></TextEquiv></Word>
+	<Word id="w77">
+	<Coords points="790,646 822,646 822,720 790,720"/>
+	<TextEquiv>
+	<Unicode>i,</Unicode></TextEquiv></Word>
+	<Word id="w78">
+	<Coords points="1067,659 1149,659 1149,713 1067,713"/>
+	<TextEquiv>
+	<Unicode>im.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.90521">
+	<Unicode>i, in, i, im.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="245,301 245,398 1117,398 1117,301"/>
+	<Word id="w10">
+	<Coords points="255,309 412,309 412,382 255,382"/>
+	<TextEquiv>
+	<Unicode>i,</Unicode></TextEquiv></Word>
+	<Word id="w13">
+	<Coords points="542,336 739,336 739,390 542,390"/>
+	<TextEquiv>
+	<Unicode>n,</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="892,340 1113,340 1113,372 892,372"/>
+	<TextEquiv>
+	<Unicode>m.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>i, n, m.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="137,522 137,617 1252,617 1252,522"/>
+	<Word id="w19">
+	<Coords points="145,533 279,533 279,607 145,607"/>
+	<TextEquiv>
+	<Unicode>i,</Unicode></TextEquiv></Word>
+	<Word id="w22">
+	<Coords points="390,535 626,535 626,607 390,607"/>
+	<TextEquiv>
+	<Unicode>in,</Unicode></TextEquiv></Word>
+	<Word id="w23">
+	<Coords points="743,534 903,534 903,604 743,604"/>
+	<TextEquiv>
+	<Unicode>i,</Unicode></TextEquiv></Word>
+	<Word id="w26">
+	<Coords points="987,537 1250,537 1250,598 987,598"/>
+	<TextEquiv>
+	<Unicode>im.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>i, in, i, im.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="57,458 57,510 93,510 93,458"/>
+	<Word id="w46">
+	<Coords points="61,470 90,470 90,509 61,509"/>
+	<TextEquiv>
+	<Unicode>1.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>1.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1. n, m.
+in, i, im.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="503,2125 503,2128 640,2128 640,2125"/></SeparatorRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="641,2127 641,2129 763,2128 763,2126"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="31,1506 1296,1506 1296,2110 31,2110"/>
+	<TextLine id="l32">
+	<Coords points="287,1515 1147,1515 1147,1601 287,1601"/>
+	<Word id="w51">
+	<Coords points="287,1550 431,1550 431,1592 287,1592"/>
+	<TextEquiv>
+	<Unicode>e,</Unicode></TextEquiv></Word>
+	<Word id="w52">
+	<Coords points="577,1521 752,1521 752,1598 577,1598"/>
+	<TextEquiv>
+	<Unicode>ei,</Unicode></TextEquiv></Word>
+	<Word id="w55">
+	<Coords points="936,1518 1146,1518 1146,1588 936,1588"/>
+	<TextEquiv>
+	<Unicode>eu.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>e, ei, eu.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l38">
+	<Coords points="328,1637 1099,1637 1099,1697 328,1697"/>
+	<Word id="w57">
+	<Coords points="328,1640 371,1640 371,1690 328,1690"/>
+	<TextEquiv>
+	<Unicode>e,</Unicode></TextEquiv></Word>
+	<Word id="w58">
+	<Coords points="662,1637 730,1637 730,1694 662,1694"/>
+	<TextEquiv>
+	<Unicode>ei,</Unicode></TextEquiv></Word>
+	<Word id="w59">
+	<Coords points="1007,1641 1095,1641 1095,1684 1007,1684"/>
+	<TextEquiv>
+	<Unicode>eu.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>e, ei, eu.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="158,2034 1196,2034 1196,2100 158,2100"/>
+	<Word id="w60">
+	<Coords points="158,2044 255,2044 255,2096 158,2096"/>
+	<TextEquiv>
+	<Unicode>um,</Unicode></TextEquiv></Word>
+	<Word id="w61">
+	<Coords points="403,2045 511,2045 511,2097 403,2097"/>
+	<TextEquiv>
+	<Unicode>neu,</Unicode></TextEquiv></Word>
+	<Word id="w62">
+	<Coords points="665,2034 752,2034 752,2099 665,2099"/>
+	<TextEquiv>
+	<Unicode>ein,</Unicode></TextEquiv></Word>
+	<Word id="w63">
+	<Coords points="885,2036 951,2036 951,2100 885,2100"/>
+	<TextEquiv>
+	<Unicode>in,</Unicode></TextEquiv></Word>
+	<Word id="w64">
+	<Coords points="1113,2038 1196,2038 1196,2095 1113,2095"/>
+	<TextEquiv>
+	<Unicode>im.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>um, neu, ein, in, im.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l41">
+	<Coords points="35,1655 83,1655 83,1709 35,1709"/>
+	<Word id="w65">
+	<Coords points="43,1662 72,1662 72,1702 43,1702"/>
+	<TextEquiv>
+	<Unicode>3.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>3.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l44">
+	<Coords points="324,1716 1040,1716 1040,1816 324,1816"/>
+	<Word id="w68">
+	<Coords points="329,1741 594,1741 594,1813 329,1813"/>
+	<TextEquiv>
+	<Unicode>ein,</Unicode></TextEquiv></Word>
+	<Word id="w70">
+	<Coords points="723,1720 1026,1720 1026,1814 723,1814"/>
+	<TextEquiv>
+	<Unicode>neu,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ein, neu,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l48">
+	<Coords points="425,1832 948,1832 948,1917 425,1917"/>
+	<Word id="w73">
+	<Coords points="430,1840 520,1840 520,1903 430,1903"/>
+	<TextEquiv>
+	<Unicode>ein,</Unicode></TextEquiv></Word>
+	<Word id="w74">
+	<Coords points="833,1853 940,1853 940,1904 833,1904"/>
+	<TextEquiv>
+	<Unicode>neu,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ein, neu,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l55">
+	<Coords points="81,1922 1265,1922 1265,2005 81,2005"/>
+	<Word id="w80">
+	<Coords points="81,1931 316,1931 316,2004 81,2004"/>
+	<TextEquiv>
+	<Unicode>um,</Unicode></TextEquiv></Word>
+	<Word id="w81">
+	<Coords points="332,1930 592,1930 592,2005 332,2005"/>
+	<TextEquiv>
+	<Unicode>neu,</Unicode></TextEquiv></Word>
+	<Word id="w82">
+	<Coords points="597,1943 819,1943 819,2005 597,2005"/>
+	<TextEquiv>
+	<Unicode>ein,</Unicode></TextEquiv></Word>
+	<Word id="w84">
+	<Coords points="835,1941 1014,1941 1014,2005 835,2005"/>
+	<TextEquiv>
+	<Unicode>in,</Unicode></TextEquiv></Word>
+	<Word id="w86">
+	<Coords points="1036,1938 1265,1938 1265,1991 1036,1991"/>
+	<TextEquiv>
+	<Unicode>im.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>um, neu, ein, in, im.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="569,752 569,777 848,777 848,752"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="22,829 22,1452 1345,1452 1345,829"/>
+	<TextLine id="l3">
+	<Coords points="590,838 776,838 776,915 590,915"/>
+	<Word id="w50">
+	<Coords points="590,842 766,842 766,906 590,906"/>
+	<TextEquiv>
+	<Unicode>u.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82405">
+	<Unicode>u.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="660,973 727,973 727,1018 660,1018"/>
+	<Word id="w89">
+	<Coords points="660,974 713,974 713,1017 660,1017"/>
+	<TextEquiv>
+	<Unicode>u.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92144">
+	<Unicode>u.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="431,1041 1064,1041 1064,1143 431,1143"/>
+	<Word id="w5">
+	<Coords points="434,1039 608,1039 608,1134 434,1134"/>
+	<TextEquiv>
+	<Unicode>u,</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="792,1049 1060,1049 1060,1137 792,1137"/>
+	<TextEquiv>
+	<Unicode>um.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.71718">
+	<Unicode>u, um.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="502,1171 989,1171 989,1229 502,1229"/>
+	<Word id="w30">
+	<Coords points="513,1176 560,1176 560,1227 513,1227"/>
+	<TextEquiv>
+	<Unicode>u,</Unicode></TextEquiv></Word>
+	<Word id="w31">
+	<Coords points="884,1179 983,1179 983,1221 884,1221"/>
+	<TextEquiv>
+	<Unicode>um.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91017">
+	<Unicode>u, um.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="23,1254 1337,1254 1337,1345 23,1345"/>
+	<Word id="w32">
+	<Coords points="24,1275 232,1275 232,1338 24,1338"/>
+	<TextEquiv>
+	<Unicode>im,</Unicode></TextEquiv></Word>
+	<Word id="w33">
+	<Coords points="248,1274 422,1274 422,1335 248,1335"/>
+	<TextEquiv>
+	<Unicode>in,</Unicode></TextEquiv></Word>
+	<Word id="w34">
+	<Coords points="426,1263 666,1263 666,1339 426,1339"/>
+	<TextEquiv>
+	<Unicode>um,</Unicode></TextEquiv></Word>
+	<Word id="w35">
+	<Coords points="682,1271 866,1271 866,1339 682,1339"/>
+	<TextEquiv>
+	<Unicode>in,</Unicode></TextEquiv></Word>
+	<Word id="w37">
+	<Coords points="886,1263 1125,1263 1125,1344 886,1344"/>
+	<TextEquiv>
+	<Unicode>um,</Unicode></TextEquiv></Word>
+	<Word id="w38">
+	<Coords points="1127,1275 1337,1275 1337,1339 1127,1339"/>
+	<TextEquiv>
+	<Unicode>im.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.36442">
+	<Unicode>im, in, um, in, um, im.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="102,1365 1264,1365 1264,1439 102,1439"/>
+	<Word id="w40">
+	<Coords points="102,1365 182,1365 182,1430 102,1430"/>
+	<TextEquiv>
+	<Unicode>im,</Unicode></TextEquiv></Word>
+	<Word id="w41">
+	<Coords points="307,1369 372,1369 372,1432 307,1432"/>
+	<TextEquiv>
+	<Unicode>in,</Unicode></TextEquiv></Word>
+	<Word id="w42">
+	<Coords points="513,1382 609,1382 609,1432 513,1432"/>
+	<TextEquiv>
+	<Unicode>um,</Unicode></TextEquiv></Word>
+	<Word id="w43">
+	<Coords points="698,1372 816,1372 816,1435 698,1435"/>
+	<TextEquiv>
+	<Unicode>in,</Unicode></TextEquiv></Word>
+	<Word id="w44">
+	<Coords points="956,1385 1053,1385 1053,1438 956,1438"/>
+	<TextEquiv>
+	<Unicode>um,</Unicode></TextEquiv></Word>
+	<Word id="w45">
+	<Coords points="1181,1376 1263,1376 1263,1430 1181,1430"/>
+	<TextEquiv>
+	<Unicode>im.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.00899">
+	<Unicode>im, in, um, in, um, im.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="48,925 48,978 92,978 92,925"/>
+	<Word id="w48">
+	<Coords points="59,938 89,938 89,978 59,978"/>
+	<TextEquiv>
+	<Unicode>2.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>2.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>——
+— —
+u.
+—
+— — —
+um.
+⸗ — ⸗
+— ———— —— — —
+in in unnn in n</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1236,2133 1236,2170 1280,2170 1280,2133"/>
+	<TextLine id="l59">
+	<Coords points="1252,2142 1267,2142 1267,2158 1252,2158"/>
+	<Word id="w88">
+	<Coords points="1252,2142 1265,2142 1265,2156 1252,2156"/>
+	<TextEquiv>
+	<Unicode>*</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.86996">
+	<Unicode>*</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>*</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r28">
+	<Coords points="558,1460 558,1490 836,1490 836,1460"/></SeparatorRegion></Page></PcGts>

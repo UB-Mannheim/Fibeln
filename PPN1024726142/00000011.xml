@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-02-24T14:11:03</Created>
+	<LastChange>2020-02-27T13:37:43</LastChange></Metadata>
+	<Page imageFilename="00000011.png" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1525" imageHeight="2386">
+	<AlternativeImage filename="00000011_B.tif"/>
+	<Border>
+	<Coords points="534,2 534,4 604,4 604,6 638,6 638,4 662,4 662,2 736,2 736,4 826,4 826,6 870,6 870,4 942,4 942,6 980,6 980,4 1138,4 1138,2 1444,2 1444,4 1460,4 1460,6 1502,6 1502,84 1504,84 1504,176 1506,176 1506,180 1508,180 1508,182 1516,182 1516,308 1512,308 1512,318 1510,318 1510,352 1520,352 1520,1106 1510,1106 1510,1140 1514,1140 1514,1142 1516,1142 1516,1144 1518,1144 1518,1314 1516,1314 1516,1316 1514,1316 1514,1318 1512,1318 1512,1320 1508,1320 1508,1326 1506,1326 1506,1332 1504,1332 1504,1370 1516,1370 1516,1482 1512,1482 1512,1492 1510,1492 1510,1520 1508,1520 1508,1554 1510,1554 1510,1628 1508,1628 1508,1634 1506,1634 1506,1682 1508,1682 1508,1742 1510,1742 1510,1748 1516,1748 1516,1822 1514,1822 1514,1824 1508,1824 1508,1860 1506,1860 1506,1862 1504,1862 1504,1866 1502,1866 1502,1992 1504,1992 1504,1996 1506,1996 1506,1998 1508,1998 1508,2004 1516,2004 1516,2040 1518,2040 1518,2142 1510,2142 1510,2210 1502,2210 1502,2380 1470,2380 1470,2382 1328,2382 1328,2380 1256,2380 1256,2378 1204,2378 1204,2380 2,2380 2,16 66,16 66,10 106,10 106,8 108,8 108,6 414,6 414,4 426,4 426,2"/></Border>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="612,140 612,195 675,195 675,140"/>
+	<TextLine id="l14">
+	<Coords points="622,152 622,195 667,195 667,152"/>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>9</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="532,180 532,230 755,230 755,180"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="17,300 17,350 87,350 87,300"/>
+	<TextLine id="l15">
+	<Coords points="25,295 25,347 82,347 82,295"/>
+	<TextEquiv>
+	<Unicode>18.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>18.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="132,230 132,1163 1291,1163 1291,230"/>
+	<TextLine id="l16">
+	<Coords points="457,245 457,422 917,422 917,245"/>
+	<TextEquiv>
+	<Unicode>b, p.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="505,427 505,512 867,512 867,427"/>
+	<TextEquiv>
+	<Unicode>b, p.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="320,517 320,680 1060,680 1060,517"/>
+	<TextEquiv>
+	<Unicode>bar, pur,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="377,680 377,760 985,760 985,680"/>
+	<TextEquiv>
+	<Unicode>bar, pur,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="147,767 147,895 1232,895 1232,767"/>
+	<TextEquiv>
+	<Unicode>bei, beim, be⸗te.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="212,902 212,980 1145,980 1145,902"/>
+	<TextEquiv>
+	<Unicode>bei, beim, be⸗te.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="132,995 132,1080 1285,1080 1285,995"/>
+	<TextEquiv>
+	<Unicode>rau⸗be, ha⸗be, he⸗be, heu⸗le, ba⸗de, be⸗te,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="135,1080 135,1152 1285,1152 1285,1080"/>
+	<TextEquiv>
+	<Unicode>lo⸗be, lob, ab, ob, taub, leid, pur, weit.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>b, p.
+b, p.
+bar, pur,
+bar, pur,
+bei, beim, be⸗te.
+bei, beim, be⸗te.
+rau⸗be, ha⸗be, he⸗be, heu⸗le, ba⸗de, be⸗te,
+lo⸗be, lob, ab, ob, taub, leid, pur, weit.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r11">
+	<Coords points="565,1190 565,1230 840,1230 840,1190"/></SeparatorRegion>
+	<TextRegion id="r12" type="paragraph">
+	<Coords points="25,1327 25,1375 87,1375 87,1327"/>
+	<TextLine id="l24">
+	<Coords points="22,1327 22,1372 87,1372 87,1327"/>
+	<TextEquiv>
+	<Unicode>19.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>19.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="112,1262 112,2097 1337,2097 1337,1262"/>
+	<TextLine id="l25">
+	<Coords points="427,1270 427,1432 997,1432 997,1270"/>
+	<TextEquiv>
+	<Unicode>g, k.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="465,1427 465,1512 937,1512 937,1427"/>
+	<TextEquiv>
+	<Unicode>g, k.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l27">
+	<Coords points="117,1522 117,1702 1327,1702 1327,1522"/>
+	<TextEquiv>
+	<Unicode>gar, gab, gut, gib,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l28">
+	<Coords points="192,1710 192,1792 1262,1792 1262,1710"/>
+	<TextEquiv>
+	<Unicode>gar, gab, gut, gib,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l29">
+	<Coords points="110,1817 110,1995 1330,1995 1330,1817"/>
+	<TextEquiv>
+	<Unicode>kam, kaum, kauf, kein,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="177,2007 177,2095 1252,2095 1252,2007"/>
+	<TextEquiv>
+	<Unicode>kam, kaum, kauf, kein,</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>g, k.
+g, k.
+gar, gab, gut, gib,
+gar, gab, gut, gib,
+kam, kaum, kauf, kein,
+kam, kaum, kauf, kein,</Unicode></TextEquiv></TextRegion></Page></PcGts>

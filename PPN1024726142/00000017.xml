@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-02-24T14:11:09</Created>
+	<LastChange>2020-02-27T15:13:17</LastChange></Metadata>
+	<Page imageFilename="00000017.png" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1560" imageHeight="2365">
+	<Border>
+	<Coords points="192,0 192,2 1534,2 1534,8 1536,8 1536,12 1542,12 1542,16 1544,16 1544,44 1546,44 1546,50 1548,50 1548,78 1550,78 1550,150 1548,150 1548,196 1546,196 1546,198 1544,198 1544,242 1546,242 1546,268 1552,268 1552,380 1550,380 1550,382 1544,382 1544,668 1546,668 1546,672 1548,672 1548,762 1544,762 1544,886 1546,886 1546,946 1548,946 1548,1072 1546,1072 1546,1114 1544,1114 1544,1158 1546,1158 1546,1184 1548,1184 1548,1252 1546,1252 1546,1346 1544,1346 1544,1352 1542,1352 1542,1410 1544,1410 1544,1436 1546,1436 1546,1474 1548,1474 1548,1570 1546,1570 1546,1672 1544,1672 1544,1842 1542,1842 1542,1844 1540,1844 1540,1938 1542,1938 1542,1940 1544,1940 1544,2000 1550,2000 1550,2002 1552,2002 1552,2004 1554,2004 1554,2008 1556,2008 1556,2360 252,2360 252,2348 206,2348 206,2346 204,2346 204,2344 150,2344 150,2346 86,2346 86,2344 48,2344 48,2342 2,2342 2,8 6,8 6,6 12,6 12,4 44,4 44,2 90,2 90,0"/></Border>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="659,162 659,206 714,206 714,162"/>
+	<TextLine id="l8">
+	<Coords points="665,166 665,204 710,204 710,166"/>
+	<Word id="w158">
+	<Coords points="670,173 706,173 706,201 670,201"/>
+	<TextEquiv conf="0.89395">
+	<Unicode>15</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>15</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="576,202 576,226 798,226 798,202"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="69,417 69,370 9,370 9,417"/>
+	<TextLine id="l9">
+	<Coords points="67,415 67,372 8,372 8,415"/>
+	<Word id="w160">
+	<Coords points="13,374 62,374 62,410 13,410"/>
+	<TextEquiv conf="0.88632">
+	<Unicode>32.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>32.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="87,278 87,1130 1322,1130 1322,278"/>
+	<TextLine id="l10">
+	<Coords points="151,281 151,456 1218,456 1218,281"/>
+	<Word id="w2">
+	<Coords points="153,285 664,285 664,449 153,449"/>
+	<TextEquiv conf="0.71393">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="692,286 1214,286 1214,451 692,451"/>
+	<TextEquiv conf="0.20744">
+	<Unicode>———</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>g, G; z, Z; p, P.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="204,457 204,537 1176,537 1176,457"/>
+	<Word id="w28">
+	<Coords points="931,470 984,470 984,532 931,532"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>,</Unicode></TextEquiv></Word>
+	<Word id="w30">
+	<Coords points="1087,463 1161,463 1161,531 1087,531"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>8</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>g, G; z, Z; p, P.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="92,569 92,745 1312,745 1312,569"/>
+	<TextEquiv>
+	<Unicode>Die Ga⸗-bel, der Zaun, der Pu⸗del.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="122,750 122,833 1283,833 1283,750"/>
+	<Word id="w32">
+	<Coords points="125,760 246,760 246,833 125,833"/>
+	<TextEquiv conf="0.92030">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w34">
+	<Coords points="267,759 506,759 506,825 267,825"/>
+	<TextEquiv conf="0.66487">
+	<Unicode>Ga⸗-bel,</Unicode></TextEquiv></Word>
+	<Word id="w4">
+	<Coords points="556,760 657,760 657,818 556,818"/>
+	<TextEquiv conf="0.92986">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="677,759 868,759 868,827 677,827"/>
+	<TextEquiv conf="0.90582">
+	<Unicode>Zaun,</Unicode></TextEquiv></Word>
+	<Word id="w6">
+	<Coords points="923,760 1023,760 1023,818 923,818"/>
+	<TextEquiv conf="0.92637">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w7">
+	<Coords points="1043,761 1279,761 1279,829 1043,829"/>
+	<TextEquiv conf="0.35447">
+	<Unicode>Pu—⸗del.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Die Ga⸗-bel, der Zaun, der Pu⸗del.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="87,848 87,920 1266,920 1266,848"/>
+	<Word id="w36">
+	<Coords points="87,848 245,848 245,917 87,917"/>
+	<TextEquiv conf="0.91739">
+	<Unicode>Geige,</Unicode></TextEquiv></Word>
+	<Word id="w38">
+	<Coords points="280,856 446,856 446,910 280,910"/>
+	<TextEquiv conf="0.90083">
+	<Unicode>Garbe,</Unicode></TextEquiv></Word>
+	<Word id="w40">
+	<Coords points="480,856 633,856 633,912 480,912"/>
+	<TextEquiv conf="0.91665">
+	<Unicode>Gerte,</Unicode></TextEquiv></Word>
+	<Word id="w42">
+	<Coords points="667,857 832,857 832,915 667,915"/>
+	<TextEquiv conf="0.85742">
+	<Unicode>Zarge,</Unicode></TextEquiv></Word>
+	<Word id="w44">
+	<Coords points="865,857 1037,857 1037,917 865,917"/>
+	<TextEquiv conf="0.92110">
+	<Unicode>Zange,</Unicode></TextEquiv></Word>
+	<Word id="w46">
+	<Coords points="1073,858 1262,858 1262,916 1073,916"/>
+	<TextEquiv conf="0.77952">
+	<Unicode>Pumpe,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Gei ge, Gar be, Ger te, Zar ge, Zan ge, Pum pe,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="87,924 87,991 1266,991 1266,924"/>
+	<Word id="w48">
+	<Coords points="87,924 181,924 181,991 87,991"/>
+	<TextEquiv conf="0.38989">
+	<Unicode>Per</Unicode></TextEquiv></Word>
+	<Word id="w50">
+	<Coords points="196,930 244,930 244,982 196,982"/>
+	<TextEquiv conf="0.38989">
+	<Unicode>le,</Unicode></TextEquiv></Word>
+	<Word id="w52">
+	<Coords points="305,927 531,927 531,981 305,981"/>
+	<TextEquiv conf="0.82483">
+	<Unicode>Gaumen,</Unicode></TextEquiv></Word>
+	<Word id="w54">
+	<Coords points="596,928 781,928 781,986 596,986"/>
+	<TextEquiv conf="0.84409">
+	<Unicode>Zunge,</Unicode></TextEquiv></Word>
+	<Word id="w56">
+	<Coords points="839,928 1001,928 1001,987 839,987"/>
+	<TextEquiv conf="0.82872">
+	<Unicode>Zügel,</Unicode></TextEquiv></Word>
+	<Word id="w58">
+	<Coords points="1066,928 1262,928 1262,982 1066,982"/>
+	<TextEquiv conf="0.61243">
+	<Unicode>Gulden,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Per le, Gau men, Zun ge, Zü gel, Gul den,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="89,991 89,1060 1267,1060 1267,991"/>
+	<Word id="w60">
+	<Coords points="89,991 167,991 167,1059 89,1059"/>
+	<TextEquiv conf="0.80331">
+	<Unicode>Gar</Unicode></TextEquiv></Word>
+	<Word id="w62">
+	<Coords points="171,1001 285,1001 285,1052 171,1052"/>
+	<TextEquiv conf="0.80331">
+	<Unicode>ten,</Unicode></TextEquiv></Word>
+	<Word id="w64">
+	<Coords points="302,999 377,999 377,1056 302,1056"/>
+	<TextEquiv conf="0.91522">
+	<Unicode>Pul</Unicode></TextEquiv></Word>
+	<Word id="w66">
+	<Coords points="379,999 489,999 489,1053 379,1053"/>
+	<TextEquiv conf="0.91522">
+	<Unicode>ver,</Unicode></TextEquiv></Word>
+	<Word id="w68">
+	<Coords points="506,997 595,997 595,1055 506,1055"/>
+	<TextEquiv conf="0.92004">
+	<Unicode>Pin</Unicode></TextEquiv></Word>
+	<Word id="w70">
+	<Coords points="608,997 676,997 676,1056 608,1056"/>
+	<TextEquiv conf="0.92484">
+	<Unicode>ſel,</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="695,997 789,997 789,1046 695,1046"/>
+	<TextEquiv conf="0.81335">
+	<Unicode>Gal</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="800,1010 885,1010 885,1056 800,1056"/>
+	<TextEquiv conf="0.81335">
+	<Unicode>gen,</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="902,997 1073,997 1073,1056 902,1056"/>
+	<TextEquiv conf="0.92625">
+	<Unicode>Gipfel,</Unicode></TextEquiv></Word>
+	<Word id="w11">
+	<Coords points="1094,998 1263,998 1263,1058 1094,1058"/>
+	<TextEquiv conf="0.91878">
+	<Unicode>Zipfel.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Gar ten, Pul ver, Pin ſel, Gal gen, Gip fel, Zip fel.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="174,1078 174,1129 764,1129 764,1078"/>
+	<Word id="w72">
+	<Coords points="181,1087 241,1087 241,1120 181,1120"/>
+	<TextEquiv conf="0.93191">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w74">
+	<Coords points="265,1085 382,1085 382,1128 265,1128"/>
+	<TextEquiv conf="0.37164">
+	<Unicode>Gei⸗ge,</Unicode></TextEquiv></Word>
+	<Word id="w76">
+	<Coords points="406,1087 451,1087 451,1120 406,1120"/>
+	<TextEquiv conf="0.93276">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w78">
+	<Coords points="475,1085 602,1085 602,1124 475,1124"/>
+	<TextEquiv conf="0.69817">
+	<Unicode>Gar-be,</Unicode></TextEquiv></Word>
+	<Word id="w80">
+	<Coords points="626,1096 657,1096 657,1120 626,1120"/>
+	<TextEquiv conf="0.88912">
+	<Unicode>u.</Unicode></TextEquiv></Word>
+	<Word id="w82">
+	<Coords points="681,1086 700,1086 700,1125 681,1125"/>
+	<TextEquiv conf="0.92019">
+	<Unicode>ſ.</Unicode></TextEquiv></Word>
+	<Word id="w84">
+	<Coords points="725,1096 762,1096 762,1119 725,1119"/>
+	<TextEquiv conf="0.91514">
+	<Unicode>w.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Die Gei⸗ge, die Gar⸗be, u. ſ. w.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r4">
+	<Coords points="539,1158 539,1186 822,1186 822,1158"/></SeparatorRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="71,1351 71,1302 9,1302 9,1351"/>
+	<TextLine id="l18">
+	<Coords points="67,1352 67,1304 12,1304 12,1352"/>
+	<Word id="w86">
+	<Coords points="12,1305 64,1305 64,1352 12,1352"/>
+	<TextEquiv conf="0.20496">
+	<Unicode>33.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>33.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="75,1223 75,2052 1272,2052 1272,1223"/>
+	<TextLine id="l19">
+	<Coords points="230,1402 230,1231 1132,1231 1132,1402"/>
+	<Word id="w88">
+	<Coords points="240,1235 612,1235 612,1396 240,1396"/>
+	<TextEquiv conf="0.22101">
+	<Unicode>———</Unicode></TextEquiv></Word>
+	<Word id="w90">
+	<Coords points="949,1235 1126,1235 1126,1395 949,1395"/>
+	<TextEquiv conf="0.25834">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſ, S; ſch, Sch.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="292,1407 292,1486 1071,1486 1071,1407"/>
+	<Word id="w92">
+	<Coords points="726,1414 819,1414 819,1482 726,1482"/>
+	<TextEquiv conf="0.92890">
+	<Unicode>ſch,</Unicode></TextEquiv></Word>
+	<Word id="w94">
+	<Coords points="941,1414 1068,1414 1068,1482 941,1482"/>
+	<TextEquiv conf="0.90991">
+	<Unicode>Sch.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſ, S; ſch, Sch.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="76,1497 76,1666 1259,1666 1259,1497"/>
+	<Word id="w96">
+	<Coords points="576,1507 1257,1507 1257,1665 576,1665"/>
+	<TextEquiv conf="0.31216">
+	<Unicode>SILA</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Sä⸗ge, Sä⸗gen; Scheu⸗ne, Scheu⸗nen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="86,1670 86,1756 1264,1756 1264,1670"/>
+	<Word id="w98">
+	<Coords points="87,1674 307,1674 307,1749 87,1749"/>
+	<TextEquiv conf="0.80708">
+	<Unicode>Sä⸗ge,</Unicode></TextEquiv></Word>
+	<Word id="w100">
+	<Coords points="322,1680 579,1680 579,1748 322,1748"/>
+	<TextEquiv conf="0.57623">
+	<Unicode>Sä-⸗gen;</Unicode></TextEquiv></Word>
+	<Word id="w102">
+	<Coords points="602,1677 900,1677 900,1745 602,1745"/>
+	<TextEquiv conf="0.84661">
+	<Unicode>Scheu⸗ne,</Unicode></TextEquiv></Word>
+	<Word id="w104">
+	<Coords points="923,1677 1264,1677 1264,1745 923,1745"/>
+	<TextEquiv conf="0.76500">
+	<Unicode>Scheu⸗nen.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Sä⸗ge, Sä⸗gen; Scheu⸗ne, Scheu⸗nen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l23">
+	<Coords points="88,1763 88,1836 1267,1836 1267,1763"/>
+	<Word id="w106">
+	<Coords points="91,1768 178,1768 178,1828 91,1828"/>
+	<TextEquiv conf="0.77174">
+	<Unicode>Sei</Unicode></TextEquiv></Word>
+	<Word id="w108">
+	<Coords points="193,1783 246,1783 246,1834 193,1834"/>
+	<TextEquiv conf="0.77174">
+	<Unicode>te,</Unicode></TextEquiv></Word>
+	<Word id="w110">
+	<Coords points="308,1777 437,1777 437,1832 308,1832"/>
+	<TextEquiv conf="0.88929">
+	<Unicode>Schei</Unicode></TextEquiv></Word>
+	<Word id="w112">
+	<Coords points="452,1778 507,1778 507,1833 452,1833"/>
+	<TextEquiv conf="0.88929">
+	<Unicode>de,</Unicode></TextEquiv></Word>
+	<Word id="w114">
+	<Coords points="573,1775 700,1775 700,1828 573,1828"/>
+	<TextEquiv conf="0.91336">
+	<Unicode>Schei</Unicode></TextEquiv></Word>
+	<Word id="w116">
+	<Coords points="716,1776 773,1776 773,1828 716,1828"/>
+	<TextEquiv conf="0.91386">
+	<Unicode>be,</Unicode></TextEquiv></Word>
+	<Word id="w118">
+	<Coords points="811,1774 946,1774 946,1830 811,1830"/>
+	<TextEquiv conf="0.46130">
+	<Unicode>Sche</Unicode></TextEquiv></Word>
+	<Word id="w120">
+	<Coords points="961,1787 1015,1787 1015,1827 961,1827"/>
+	<TextEquiv conf="0.46130">
+	<Unicode>re,</Unicode></TextEquiv></Word>
+	<Word id="w122">
+	<Coords points="1081,1776 1264,1776 1264,1830 1081,1830"/>
+	<TextEquiv conf="0.84229">
+	<Unicode>Schote,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Sei te, Schei de, Schei be, Sche re, Scho te,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="91,1841 91,1906 1266,1906 1266,1841"/>
+	<Word id="w124">
+	<Coords points="96,1848 280,1848 280,1905 96,1905"/>
+	<TextEquiv conf="0.49371">
+	<Unicode>Schale,</Unicode></TextEquiv></Word>
+	<Word id="w126">
+	<Coords points="305,1848 488,1848 488,1906 305,1906"/>
+	<TextEquiv conf="0.89901">
+	<Unicode>Schule,</Unicode></TextEquiv></Word>
+	<Word id="w128">
+	<Coords points="525,1847 689,1847 689,1903 525,1903"/>
+	<TextEquiv conf="0.78707">
+	<Unicode>Salbe,</Unicode></TextEquiv></Word>
+	<Word id="w130">
+	<Coords points="724,1845 872,1845 872,1901 724,1901"/>
+	<TextEquiv conf="0.89498">
+	<Unicode>Silbe,</Unicode></TextEquiv></Word>
+	<Word id="w132">
+	<Coords points="906,1845 1061,1845 1061,1905 906,1905"/>
+	<TextEquiv conf="0.92088">
+	<Unicode>Senſe,</Unicode></TextEquiv></Word>
+	<Word id="w134">
+	<Coords points="1097,1845 1264,1845 1264,1901 1097,1901"/>
+	<TextEquiv conf="0.83490">
+	<Unicode>Garbe,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Scha le, Schu le, Sal be, Sil be, Sen ſe, Gar be,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="380,1911 380,1980 980,1980 980,1911"/>
+	<Word id="w136">
+	<Coords points="387,1920 559,1920 559,1979 387,1979"/>
+	<TextEquiv conf="0.91155">
+	<Unicode>Zange,</Unicode></TextEquiv></Word>
+	<Word id="w138">
+	<Coords points="593,1919 739,1919 739,1977 593,1977"/>
+	<TextEquiv conf="0.87102">
+	<Unicode>Auge,</Unicode></TextEquiv></Word>
+	<Word id="w140">
+	<Coords points="777,1916 855,1916 855,1974 777,1974"/>
+	<TextEquiv conf="0.84337">
+	<Unicode>Peit</Unicode></TextEquiv></Word>
+	<Word id="w142">
+	<Coords points="856,1916 977,1916 977,1975 856,1975"/>
+	<TextEquiv conf="0.84337">
+	<Unicode>ſche.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Zan ge, Au ge, Peit ſche.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="180,1999 180,2051 787,2051 787,1999"/>
+	<Word id="w144">
+	<Coords points="189,2008 249,2008 249,2041 189,2041"/>
+	<TextEquiv conf="0.92745">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w146">
+	<Coords points="274,2008 387,2008 387,2049 274,2049"/>
+	<TextEquiv conf="0.88850">
+	<Unicode>Sä⸗ge,</Unicode></TextEquiv></Word>
+	<Word id="w148">
+	<Coords points="412,2007 456,2007 456,2040 412,2040"/>
+	<TextEquiv conf="0.93062">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w150">
+	<Coords points="479,2007 621,2007 621,2047 479,2047"/>
+	<TextEquiv conf="0.27431">
+	<Unicode>Sä⸗-gen,</Unicode></TextEquiv></Word>
+	<Word id="w152">
+	<Coords points="644,2014 674,2014 674,2038 644,2038"/>
+	<TextEquiv conf="0.90408">
+	<Unicode>u.</Unicode></TextEquiv></Word>
+	<Word id="w154">
+	<Coords points="700,2005 720,2005 720,2044 700,2044"/>
+	<TextEquiv conf="0.90674">
+	<Unicode>ſ.</Unicode></TextEquiv></Word>
+	<Word id="w156">
+	<Coords points="745,2014 783,2014 783,2037 745,2037"/>
+	<TextEquiv conf="0.92119">
+	<Unicode>w.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Die Sä⸗ge, die Sä⸗gen, u. ſ. w.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="540,2088 540,2112 822,2112 822,2088"/></SeparatorRegion></Page></PcGts>

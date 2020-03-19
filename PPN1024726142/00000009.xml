@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-02-24T13:11:02</Created>
+	<LastChange>2020-03-06T13:15:21</LastChange></Metadata>
+	<Page imageFilename="00000009.png" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1521" imageHeight="2389">
+	<AlternativeImage filename="00000009_B.tif"/>
+	<Border>
+	<Coords points="508,2 508,4 552,4 552,2 696,2 696,4 800,4 800,6 968,6 968,4 1130,4 1130,2 1432,2 1432,4 1448,4 1448,6 1480,6 1480,8 1486,8 1486,10 1488,10 1488,18 1490,18 1490,28 1492,28 1492,42 1496,42 1496,52 1498,52 1498,70 1500,70 1500,142 1502,142 1502,186 1514,186 1514,322 1504,322 1504,324 1502,324 1502,358 1512,358 1512,588 1514,588 1514,596 1516,596 1516,666 1514,666 1514,686 1512,686 1512,688 1510,688 1510,728 1516,728 1516,792 1514,792 1514,842 1516,842 1516,992 1504,992 1504,1014 1502,1014 1502,1030 1500,1030 1500,1172 1502,1172 1502,1238 1504,1238 1504,1308 1502,1308 1502,1310 1500,1310 1500,1360 1498,1360 1498,1408 1500,1408 1500,1430 1502,1430 1502,1446 1514,1446 1514,1512 1504,1512 1504,1556 1502,1556 1502,1592 1504,1592 1504,1694 1506,1694 1506,1766 1504,1766 1504,1846 1502,1846 1502,1904 1500,1904 1500,1910 1498,1910 1498,1912 1496,1912 1496,1914 1480,1914 1480,1948 1496,1948 1496,1950 1498,1950 1498,1952 1500,1952 1500,2006 1502,2006 1502,2008 1506,2008 1506,2072 1500,2072 1500,2148 1488,2148 1488,2238 1494,2238 1494,2240 1496,2240 1496,2242 1498,2242 1498,2382 1450,2382 1450,2384 2,2384 2,2348 0,2348 0,2138 2,2138 2,16 86,16 86,10 170,10 170,8 268,8 268,6 426,6 426,4 430,4 430,2"/></Border>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="653,171 653,214 686,214 686,171"/>
+	<TextLine id="l8">
+	<Coords points="657,176 657,213 682,213 682,176"/>
+	<Word id="w27">
+	<Coords points="662,179 676,179 676,209 662,209"/>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>7</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="570,217 570,231 785,231 785,217"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="6,633 6,1472 1263,1472 1263,633"/>
+	<TextLine id="l11">
+	<Coords points="10,698 10,751 73,751 73,698"/>
+	<Word id="w4">
+	<Coords points="18,707 71,707 71,743 18,743"/>
+	<TextEquiv>
+	<Unicode>12.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>12.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="546,637 546,803 801,803 801,637"/>
+	<Word id="w5">
+	<Coords points="552,643 796,643 796,798 552,798"/>
+	<TextEquiv>
+	<Unicode>ſch.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſch.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="629,812 629,886 732,886 732,812"/>
+	<Word id="w6">
+	<Coords points="636,816 725,816 725,884 636,884"/>
+	<TextEquiv>
+	<Unicode>ſch.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſch.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="10,907 10,1083 1256,1083 1256,907"/>
+	<Word id="w31">
+	<Coords points="10,912 319,912 319,1070 10,1070"/>
+	<TextEquiv>
+	<Unicode>ſcheu,</Unicode></TextEquiv></Word>
+	<Word id="w33">
+	<Coords points="321,915 639,915 639,1074 321,1074"/>
+	<TextEquiv>
+	<Unicode>ſchau,</Unicode></TextEquiv></Word>
+	<Word id="w35">
+	<Coords points="641,920 938,920 938,1078 641,1078"/>
+	<TextEquiv>
+	<Unicode>ſchuf,</Unicode></TextEquiv></Word>
+	<Word id="w36">
+	<Coords points="964,922 1251,922 1251,1077 964,1077"/>
+	<TextEquiv>
+	<Unicode>lauf,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſcheu, ſchau, ſchuf, lauf,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="114,1096 114,1178 1163,1178 1163,1096"/>
+	<Word id="w8">
+	<Coords points="118,1103 250,1103 250,1171 118,1171"/>
+	<TextEquiv>
+	<Unicode>ſcheu,</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="415,1104 561,1104 561,1172 415,1172"/>
+	<TextEquiv>
+	<Unicode>ſchau,</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="704,1105 835,1105 835,1174 704,1174"/>
+	<TextEquiv>
+	<Unicode>ſchuf,</Unicode></TextEquiv></Word>
+	<Word id="w11">
+	<Coords points="1040,1107 1156,1107 1156,1176 1040,1176"/>
+	<TextEquiv>
+	<Unicode>lauf,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>ſcheu, ſchau, ſchuf, lauf,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="283,1202 283,1370 1088,1370 1088,1202"/>
+	<Word id="w12">
+	<Coords points="291,1208 621,1208 621,1363 291,1363"/>
+	<TextEquiv>
+	<Unicode>raſch,</Unicode></TextEquiv></Word>
+	<Word id="w13">
+	<Coords points="727,1208 1080,1208 1080,1367 727,1367"/>
+	<TextEquiv>
+	<Unicode>huſch.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>raſch, huſch.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="369,1391 369,1468 965,1468 965,1391"/>
+	<Word id="w14">
+	<Coords points="373,1396 509,1396 509,1465 373,1465"/>
+	<TextEquiv>
+	<Unicode>raſch,</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="818,1396 963,1396 963,1465 818,1465"/>
+	<TextEquiv>
+	<Unicode>huſch.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>raſch, huſch.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>ſch.
+12.
+ſch.
+ſcheu, ſchau, ſchuf, lauf,
+ſcheu, ſchau, ſchuf, lauf,
+raſch, huſch.
+raſch, huſch.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="544,1500 544,1525 808,1525 808,1500"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="14,1601 14,2048 1263,2048 1263,1601"/>
+	<TextLine id="l18">
+	<Coords points="16,1603 16,1645 76,1645 76,1603"/>
+	<Word id="w16">
+	<Coords points="22,1606 76,1606 76,1641 22,1641"/>
+	<TextEquiv>
+	<Unicode>13.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>13.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="614,1605 614,1715 748,1715 748,1605"/>
+	<Word id="w17">
+	<Coords points="624,1608 746,1608 746,1712 624,1712"/>
+	<TextEquiv>
+	<Unicode>z.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>z.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="655,1732 655,1798 709,1798 709,1732"/>
+	<Word id="w18">
+	<Coords points="668,1739 689,1739 689,1794 668,1794"/>
+	<TextEquiv>
+	<Unicode>z.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>z.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="66,1808 66,1959 1254,1959 1254,1808"/>
+	<Word id="w20">
+	<Coords points="70,1821 284,1821 284,1949 70,1949"/>
+	<TextEquiv>
+	<Unicode>zu,</Unicode></TextEquiv></Word>
+	<Word id="w22">
+	<Coords points="1003,1837 1252,1837 1252,1955 1003,1955"/>
+	<TextEquiv>
+	<Unicode>reiz.</Unicode></TextEquiv></Word>
+	<Word id="w39">
+	<Coords points="350,1818 660,1818 660,1952 350,1952"/>
+	<TextEquiv>
+	<Unicode>zum,</Unicode></TextEquiv></Word>
+	<Word id="w40">
+	<Coords points="668,1817 945,1817 945,1952 668,1952"/>
+	<TextEquiv>
+	<Unicode>zur,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>zu, zum, zur, reiz.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="111,1974 111,2044 1145,2044 1145,1974"/>
+	<Word id="w23">
+	<Coords points="121,1985 192,1985 192,2039 121,2039"/>
+	<TextEquiv>
+	<Unicode>zu,</Unicode></TextEquiv></Word>
+	<Word id="w24">
+	<Coords points="420,1986 544,1986 544,2040 420,2040"/>
+	<TextEquiv>
+	<Unicode>zum,</Unicode></TextEquiv></Word>
+	<Word id="w25">
+	<Coords points="755,1986 854,1986 854,2041 755,2041"/>
+	<TextEquiv>
+	<Unicode>zur,</Unicode></TextEquiv></Word>
+	<Word id="w26">
+	<Coords points="1037,1975 1143,1975 1143,2042 1037,2042"/>
+	<TextEquiv>
+	<Unicode>reiz.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>zu, zum, zur, reiz.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>13.
+z.
+z.
+zu, zum, zur, reiz.
+zu, zum, zur, reiz.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="551,2086 551,2108 820,2108 820,2086"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="51,279 51,539 1263,539 1263,279"/>
+	<TextLine id="l9">
+	<Coords points="59,280 59,450 1257,450 1257,280"/>
+	<Word id="w28">
+	<Coords points="59,286 294,286 294,443 59,443"/>
+	<TextEquiv>
+	<Unicode>hol,</Unicode></TextEquiv></Word>
+	<Word id="w30">
+	<Coords points="976,289 1254,289 1254,447 976,447"/>
+	<TextEquiv>
+	<Unicode>heil.</Unicode></TextEquiv></Word>
+	<Word id="w37">
+	<Coords points="358,286 663,286 663,445 358,445"/>
+	<TextEquiv>
+	<Unicode>heim,</Unicode></TextEquiv></Word>
+	<Word id="w38">
+	<Coords points="672,288 908,288 908,446 672,446"/>
+	<TextEquiv>
+	<Unicode>hin,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>hol, heim, hin, heil.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="131,459 131,536 1170,536 1170,459"/>
+	<Word id="w0">
+	<Coords points="138,464 230,464 230,532 138,532"/>
+	<TextEquiv>
+	<Unicode>hol,</Unicode></TextEquiv></Word>
+	<Word id="w1">
+	<Coords points="450,464 587,464 587,533 450,533"/>
+	<TextEquiv>
+	<Unicode>heim,</Unicode></TextEquiv></Word>
+	<Word id="w2">
+	<Coords points="749,466 846,466 846,534 749,534"/>
+	<TextEquiv>
+	<Unicode>hin,</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="1062,466 1167,466 1167,534 1062,534"/>
+	<TextEquiv>
+	<Unicode>heil.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>hol, heim, hin, heil.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>hol, heim, hin, heil.
+hol, heim, hin, heil.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r7">
+	<Coords points="545,572 545,591 811,591 811,572"/></SeparatorRegion></Page></PcGts>

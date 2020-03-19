@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-02-24T14:17:23</Created>
+	<LastChange>2020-02-27T17:30:50</LastChange></Metadata>
+	<Page imageFilename="00000026.png" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1469" imageHeight="2386">
+	<AlternativeImage filename="00000026_B.tif"/>
+	<Border>
+	<Coords points="312,0 312,2 544,2 544,4 578,4 578,2 1238,2 1238,8 1240,8 1240,10 1242,10 1242,12 1252,12 1252,14 1292,14 1292,12 1296,12 1296,8 1300,8 1300,6 1304,6 1304,2 1396,2 1396,4 1398,4 1398,6 1402,6 1402,16 1412,16 1412,20 1464,20 1464,2360 1288,2360 1288,2362 1286,2362 1286,2364 1262,2364 1262,2366 1260,2366 1260,2368 1258,2368 1258,2370 1256,2370 1256,2372 1254,2372 1254,2374 1250,2374 1250,2378 1246,2378 1246,2380 1158,2380 1158,2376 1156,2376 1156,2374 1154,2374 1154,2372 1152,2372 1152,2370 1148,2370 1148,2368 1110,2368 1110,2370 1108,2370 1108,2372 1106,2372 1106,2374 1104,2374 1104,2376 1102,2376 1102,2380 2,2380 2,542 0,542 0,436 2,436 2,266 0,266 0,202 2,202 2,200 4,200 4,178 6,178 6,128 8,128 8,82 14,82 14,18 16,18 16,12 18,12 18,10 20,10 20,8 22,8 22,6 24,6 24,4 68,4 68,2 192,2 192,4 194,4 194,8 228,8 228,6 230,6 230,2 234,2 234,0"/></Border>
+	<TextRegion id="r27" type="paragraph">
+	<Coords points="817,168 817,217 876,217 876,168"/>
+	<TextLine id="l0">
+	<Coords points="817,168 817,217 876,217 876,168"/>
+	<TextEquiv>
+	<Unicode>24</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r28" type="paragraph">
+	<Coords points="191,1994 191,2040 256,2040 256,1994"/>
+	<TextLine id="l24">
+	<Coords points="191,1994 191,2040 256,2040 256,1994"/>
+	<Word id="w235">
+	<Coords points="198,1999 250,1999 250,2036 198,2036"/>
+	<TextEquiv conf="0.91532">
+	<Unicode>57.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>57.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r29" type="paragraph">
+	<Coords points="246,714 246,668 183,668 183,714"/>
+	<TextLine id="l5">
+	<Coords points="246,714 246,668 183,668 183,714"/>
+	<Word id="w279">
+	<Coords points="186,673 240,673 240,708 186,708"/>
+	<TextEquiv conf="0.90866">
+	<Unicode>56.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>56.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r30" type="paragraph">
+	<Coords points="258,269 1421,269 1421,340 1426,340 1426,409 879,409 879,532 342,532 342,471 263,471 263,409 258,409"/>
+	<TextLine id="l1">
+	<Coords points="258,269 258,346 1421,346 1421,269"/>
+	<Word id="w2">
+	<Coords points="263,286 369,286 369,346 263,346"/>
+	<TextEquiv conf="0.92699">
+	<Unicode>Faß,</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="404,283 571,283 571,346 404,346"/>
+	<TextEquiv conf="0.91800">
+	<Unicode>Fäſſer;</Unicode></TextEquiv></Word>
+	<Word id="w4">
+	<Coords points="602,283 718,283 718,343 602,343"/>
+	<TextEquiv conf="0.92768">
+	<Unicode>Roß,</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="740,282 889,282 889,346 740,346"/>
+	<TextEquiv conf="0.92808">
+	<Unicode>Roſſe;</Unicode></TextEquiv></Word>
+	<Word id="w6">
+	<Coords points="922,281 1045,281 1045,346 922,346"/>
+	<TextEquiv conf="0.92260">
+	<Unicode>Nuß,</Unicode></TextEquiv></Word>
+	<Word id="w7">
+	<Coords points="1047,280 1226,280 1226,346 1047,346"/>
+	<TextEquiv conf="0.36848">
+	<Unicode>Nüſſe;</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="1228,278 1419,278 1419,346 1228,346"/>
+	<TextEquiv conf="0.91566">
+	<Unicode>Schuß;</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Faß, Fäſſer; Roß, Roſſe; Nuß, Nüſſe; Schuß;</Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="258,409 258,340 1426,340 1426,409"/>
+	<Word id="w175">
+	<Coords points="263,340 373,340 373,409 263,409"/>
+	<TextEquiv conf="0.92882">
+	<Unicode>Riß;</Unicode></TextEquiv></Word>
+	<Word id="w177">
+	<Coords points="409,340 459,340 459,409 409,409"/>
+	<TextEquiv conf="0.90800">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w179">
+	<Coords points="481,340 581,340 581,407 481,407"/>
+	<TextEquiv conf="0.90990">
+	<Unicode>naß,</Unicode></TextEquiv></Word>
+	<Word id="w181">
+	<Coords points="586,340 753,340 753,406 586,406"/>
+	<TextEquiv conf="0.91141">
+	<Unicode>naſſe,</Unicode></TextEquiv></Word>
+	<Word id="w183">
+	<Coords points="786,340 932,340 932,405 786,405"/>
+	<TextEquiv conf="0.91405">
+	<Unicode>naſſer,</Unicode></TextEquiv></Word>
+	<Word id="w185">
+	<Coords points="966,343 1128,343 1128,404 966,404"/>
+	<TextEquiv conf="0.89950">
+	<Unicode>naſſen;</Unicode></TextEquiv></Word>
+	<Word id="w187">
+	<Coords points="1154,340 1300,340 1300,405 1154,405"/>
+	<TextEquiv conf="0.92151">
+	<Unicode>laſſen,</Unicode></TextEquiv></Word>
+	<Word id="w189">
+	<Coords points="1332,343 1426,343 1426,402 1332,402"/>
+	<TextEquiv conf="0.90613">
+	<Unicode>laß;</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Riß; — naß, naſſe, naſſer, naſſen; laſſen, laß;</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="263,471 263,405 584,405 584,471"/>
+	<Word id="w263">
+	<Coords points="263,405 429,405 429,471 263,471"/>
+	<TextEquiv conf="0.85700">
+	<Unicode>müſſen,</Unicode></TextEquiv></Word>
+	<Word id="w265">
+	<Coords points="462,405 582,405 582,468 462,468"/>
+	<TextEquiv conf="0.91638">
+	<Unicode>muß.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>müſſen, muß.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="342,532 342,478 879,478 879,532"/>
+	<Word id="w267">
+	<Coords points="353,490 428,490 428,524 353,524"/>
+	<TextEquiv conf="0.93069">
+	<Unicode>Eine</Unicode></TextEquiv></Word>
+	<Word id="w269">
+	<Coords points="453,489 563,489 563,532 453,532"/>
+	<TextEquiv conf="0.43294">
+	<Unicode>Gaſ—-ſe,</Unicode></TextEquiv></Word>
+	<Word id="w271">
+	<Coords points="589,487 724,487 724,530 589,530"/>
+	<TextEquiv conf="0.70398">
+	<Unicode>Gaſſſen;</Unicode></TextEquiv></Word>
+	<Word id="w273">
+	<Coords points="748,497 775,497 775,520 748,520"/>
+	<TextEquiv conf="0.89937">
+	<Unicode>u.</Unicode></TextEquiv></Word>
+	<Word id="w275">
+	<Coords points="798,486 816,486 816,528 798,528"/>
+	<TextEquiv conf="0.91939">
+	<Unicode>ſ.</Unicode></TextEquiv></Word>
+	<Word id="w277">
+	<Coords points="840,493 874,493 874,520 840,520"/>
+	<TextEquiv conf="0.91350">
+	<Unicode>w.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Eine Gaſ⸗ſe, Gaſ⸗ſen; u. ſ. w.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r31" type="paragraph">
+	<Coords points="321,649 1433,649 1433,724 1432,724 1432,1242 1430,1242 1430,1447 1431,1447 1431,1507 1432,1507 1432,1636 1086,1636 1086,1767 350,1767 350,1696 262,1696 262,1447 266,1447 266,1175 260,1175 260,1117 261,1117 261,905 258,905 258,840 260,840 260,778 261,778 261,713 321,713"/>
+	<TextLine id="l10">
+	<Coords points="262,967 262,897 1432,897 1432,967"/>
+	<Word id="w37">
+	<Coords points="268,911 326,911 326,959 268,959"/>
+	<TextEquiv conf="0.92433">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w39">
+	<Coords points="349,897 504,897 504,967 349,967"/>
+	<TextEquiv conf="0.63668">
+	<Unicode>Nuͤſſe?</Unicode></TextEquiv></Word>
+	<Word id="w41">
+	<Coords points="553,897 634,897 634,958 553,958"/>
+	<TextEquiv conf="0.93262">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w43">
+	<Coords points="656,907 755,907 755,957 656,957"/>
+	<TextEquiv conf="0.93192">
+	<Unicode>Eier</Unicode></TextEquiv></Word>
+	<Word id="w45">
+	<Coords points="787,897 920,897 920,964 787,964"/>
+	<TextEquiv conf="0.92672">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<Word id="w47">
+	<Coords points="953,904 1069,904 1069,953 953,953"/>
+	<TextEquiv conf="0.92620">
+	<Unicode>einen</Unicode></TextEquiv></Word>
+	<Word id="w49">
+	<Coords points="1092,905 1289,905 1289,953 1092,953"/>
+	<TextEquiv conf="0.92686">
+	<Unicode>Dotter.</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="1307,897 1428,897 1428,961 1307,961"/>
+	<TextEquiv conf="0.90472">
+	<Unicode>Was</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>die Nüſſe? Die Eier haben einen Dotter. Was</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="261,1030 261,967 683,967 683,1030"/>
+	<Word id="w51">
+	<Coords points="267,972 398,972 398,1030 267,1030"/>
+	<TextEquiv conf="0.91866">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<Word id="w53">
+	<Coords points="427,967 486,967 486,1020 427,1020"/>
+	<TextEquiv conf="0.92908">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w55">
+	<Coords points="518,969 678,969 678,1030 518,1030"/>
+	<TextEquiv conf="0.92047">
+	<Unicode>Nüſſe?</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>haben die Nüſſe?</Unicode></TextEquiv></TextLine>
+	<TextLine id="l12">
+	<Coords points="323,1119 323,1048 1432,1048 1432,1119"/>
+	<Word id="w57">
+	<Coords points="330,1059 410,1059 410,1109 330,1109"/>
+	<TextEquiv conf="0.93129">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w59">
+	<Coords points="431,1058 591,1058 591,1119 431,1119"/>
+	<TextEquiv conf="0.91822">
+	<Unicode>Fiſcher</Unicode></TextEquiv></Word>
+	<Word id="w61">
+	<Coords points="613,1057 746,1057 746,1115 613,1115"/>
+	<TextEquiv conf="0.91369">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<Word id="w63">
+	<Coords points="763,1056 893,1056 893,1119 763,1119"/>
+	<TextEquiv conf="0.92381">
+	<Unicode>Netze.</Unicode></TextEquiv></Word>
+	<Word id="w65">
+	<Coords points="948,1054 1029,1054 1029,1119 948,1119"/>
+	<TextEquiv conf="0.92576">
+	<Unicode>Sie</Unicode></TextEquiv></Word>
+	<Word id="w67">
+	<Coords points="1063,1053 1186,1053 1186,1119 1063,1119"/>
+	<TextEquiv conf="0.92401">
+	<Unicode>werfen</Unicode></TextEquiv></Word>
+	<Word id="w69">
+	<Coords points="1188,1052 1293,1052 1293,1119 1188,1119"/>
+	<TextEquiv conf="0.92849">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w71">
+	<Coords points="1309,1052 1429,1052 1429,1111 1309,1111"/>
+	<TextEquiv conf="0.93089">
+	<Unicode>Netze</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Die Fiſcher haben Netze. Sie werfen die Netze</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="260,1175 260,1117 1427,1117 1427,1175"/>
+	<Word id="w73">
+	<Coords points="268,1122 312,1122 312,1170 268,1170"/>
+	<TextEquiv conf="0.92570">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w75">
+	<Coords points="366,1121 443,1121 443,1170 366,1170"/>
+	<TextEquiv conf="0.91938">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w77">
+	<Coords points="498,1118 679,1118 679,1175 498,1175"/>
+	<TextEquiv conf="0.88146">
+	<Unicode>Waſſer.</Unicode></TextEquiv></Word>
+	<Word id="w79">
+	<Coords points="744,1118 825,1118 825,1167 744,1167"/>
+	<TextEquiv conf="0.93117">
+	<Unicode>Sie</Unicode></TextEquiv></Word>
+	<Word id="w81">
+	<Coords points="872,1117 1025,1117 1025,1166 872,1166"/>
+	<TextEquiv conf="0.92578">
+	<Unicode>wollen</Unicode></TextEquiv></Word>
+	<Word id="w83">
+	<Coords points="1074,1117 1208,1117 1208,1175 1074,1175"/>
+	<TextEquiv conf="0.92550">
+	<Unicode>Fiſche</Unicode></TextEquiv></Word>
+	<Word id="w85">
+	<Coords points="1257,1117 1427,1117 1427,1175 1257,1175"/>
+	<TextEquiv conf="0.91198">
+	<Unicode>fangen.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>in das Waſſer. Sie wollen Fiſche fangen.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="267,1242 267,1174 1432,1174 1432,1242"/>
+	<Word id="w87">
+	<Coords points="270,1183 350,1183 350,1233 270,1233"/>
+	<TextEquiv conf="0.93102">
+	<Unicode>Sie</Unicode></TextEquiv></Word>
+	<Word id="w89">
+	<Coords points="370,1183 515,1183 515,1242 370,1242"/>
+	<TextEquiv conf="0.92501">
+	<Unicode>fiſchen</Unicode></TextEquiv></Word>
+	<Word id="w91">
+	<Coords points="533,1174 632,1174 632,1238 533,1238"/>
+	<TextEquiv conf="0.91994">
+	<Unicode>auch</Unicode></TextEquiv></Word>
+	<Word id="w93">
+	<Coords points="656,1180 732,1180 732,1229 656,1229"/>
+	<TextEquiv conf="0.92858">
+	<Unicode>mit</Unicode></TextEquiv></Word>
+	<Word id="w95">
+	<Coords points="756,1180 821,1180 821,1228 756,1228"/>
+	<TextEquiv conf="0.92773">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w97">
+	<Coords points="842,1179 999,1179 999,1238 842,1238"/>
+	<TextEquiv conf="0.92201">
+	<Unicode>Angel.</Unicode></TextEquiv></Word>
+	<Word id="w99">
+	<Coords points="1052,1178 1135,1178 1135,1236 1052,1236"/>
+	<TextEquiv conf="0.92126">
+	<Unicode>Ich</Unicode></TextEquiv></Word>
+	<Word id="w101">
+	<Coords points="1155,1176 1240,1176 1240,1236 1155,1236"/>
+	<TextEquiv conf="0.93070">
+	<Unicode>ſehe</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="1259,1174 1429,1174 1429,1225 1259,1225"/>
+	<TextEquiv conf="0.92770">
+	<Unicode>Wellen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Sie fiſchen auch mit der Angel. Ich ſehe Wellen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="266,1306 266,1239 679,1239 679,1306"/>
+	<Word id="w103">
+	<Coords points="270,1245 350,1245 350,1304 270,1304"/>
+	<TextEquiv conf="0.92602">
+	<Unicode>auf</Unicode></TextEquiv></Word>
+	<Word id="w105">
+	<Coords points="376,1239 467,1239 467,1293 376,1293"/>
+	<TextEquiv conf="0.92971">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w107">
+	<Coords points="496,1242 676,1242 676,1303 496,1303"/>
+	<TextEquiv conf="0.92345">
+	<Unicode>Waſſer.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>auf dem Waſſer.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="326,1388 326,1320 1430,1320 1430,1388"/>
+	<Word id="w109">
+	<Coords points="330,1333 447,1333 447,1381 330,1381"/>
+	<TextEquiv conf="0.91541">
+	<Unicode>Man</Unicode></TextEquiv></Word>
+	<Word id="w111">
+	<Coords points="494,1332 590,1332 590,1388 494,1388"/>
+	<TextEquiv conf="0.92081">
+	<Unicode>thut</Unicode></TextEquiv></Word>
+	<Word id="w113">
+	<Coords points="633,1330 691,1330 691,1379 633,1379"/>
+	<TextEquiv conf="0.92311">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w115">
+	<Coords points="721,1329 877,1329 877,1387 721,1387"/>
+	<TextEquiv conf="0.92049">
+	<Unicode>Suppe</Unicode></TextEquiv></Word>
+	<Word id="w117">
+	<Coords points="919,1329 964,1329 964,1377 919,1377"/>
+	<TextEquiv conf="0.91640">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w119">
+	<Coords points="999,1327 1075,1327 1075,1376 999,1376"/>
+	<TextEquiv conf="0.93009">
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w121">
+	<Coords points="1106,1326 1262,1326 1262,1388 1106,1388"/>
+	<TextEquiv conf="0.92334">
+	<Unicode>Teller.</Unicode></TextEquiv></Word>
+	<Word id="w123">
+	<Coords points="1328,1323 1428,1323 1428,1388 1328,1388"/>
+	<TextEquiv conf="0.92454">
+	<Unicode>Wir</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Man thut die Suppe in den Teller. Wir</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="266,1453 266,1384 1430,1384 1430,1453"/>
+	<Word id="w125">
+	<Coords points="272,1394 372,1394 372,1453 272,1453"/>
+	<TextEquiv conf="0.48120">
+	<Unicode>efſſen</Unicode></TextEquiv></Word>
+	<Word id="w127">
+	<Coords points="421,1393 479,1393 479,1442 421,1442"/>
+	<TextEquiv conf="0.91468">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w129">
+	<Coords points="513,1384 671,1384 671,1450 513,1450"/>
+	<TextEquiv conf="0.91513">
+	<Unicode>Suppe</Unicode></TextEquiv></Word>
+	<Word id="w131">
+	<Coords points="721,1384 811,1384 811,1440 721,1440"/>
+	<TextEquiv conf="0.92981">
+	<Unicode>mit</Unicode></TextEquiv></Word>
+	<Word id="w133">
+	<Coords points="838,1384 935,1384 935,1453 838,1453"/>
+	<TextEquiv conf="0.92777">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w135">
+	<Coords points="968,1388 1113,1388 1113,1453 968,1453"/>
+	<TextEquiv conf="0.91591">
+	<Unicode>Löffel.</Unicode></TextEquiv></Word>
+	<Word id="w137">
+	<Coords points="1177,1386 1265,1386 1265,1437 1177,1437"/>
+	<TextEquiv conf="0.92819">
+	<Unicode>Was</Unicode></TextEquiv></Word>
+	<Word id="w139">
+	<Coords points="1268,1386 1429,1386 1429,1453 1268,1453"/>
+	<TextEquiv conf="0.93180">
+	<Unicode>eſſen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>eſſen die Suppe mit dem Löffel. Was eſſen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="262,1513 262,1447 1431,1447 1431,1513"/>
+	<Word id="w141">
+	<Coords points="271,1447 348,1447 348,1506 271,1506"/>
+	<TextEquiv conf="0.92470">
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w143">
+	<Coords points="382,1455 459,1455 459,1503 382,1503"/>
+	<TextEquiv conf="0.93206">
+	<Unicode>mit</Unicode></TextEquiv></Word>
+	<Word id="w145">
+	<Coords points="493,1455 560,1455 560,1504 493,1504"/>
+	<TextEquiv conf="0.92852">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w147">
+	<Coords points="594,1447 761,1447 761,1503 594,1503"/>
+	<TextEquiv conf="0.90842">
+	<Unicode>Gabel?</Unicode></TextEquiv></Word>
+	<Word id="w149">
+	<Coords points="818,1450 935,1450 935,1501 818,1501"/>
+	<TextEquiv conf="0.91482">
+	<Unicode>Was</Unicode></TextEquiv></Word>
+	<Word id="w151">
+	<Coords points="968,1447 1065,1447 1065,1513 968,1513"/>
+	<TextEquiv conf="0.91718">
+	<Unicode>thut</Unicode></TextEquiv></Word>
+	<Word id="w153">
+	<Coords points="1097,1462 1198,1462 1198,1499 1097,1499"/>
+	<TextEquiv conf="0.92510">
+	<Unicode>man</Unicode></TextEquiv></Word>
+	<Word id="w155">
+	<Coords points="1202,1448 1306,1448 1306,1513 1202,1513"/>
+	<TextEquiv conf="0.92738">
+	<Unicode>mit</Unicode></TextEquiv></Word>
+	<Word id="w157">
+	<Coords points="1315,1449 1429,1449 1429,1513 1315,1513"/>
+	<TextEquiv conf="0.92910">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>wir mit der Gabel? Was thut man mit dem</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="264,1577 264,1507 1432,1507 1432,1577"/>
+	<Word id="w159">
+	<Coords points="271,1517 450,1517 450,1577 271,1577"/>
+	<TextEquiv conf="0.92120">
+	<Unicode>Meſſer?</Unicode></TextEquiv></Word>
+	<Word id="w161">
+	<Coords points="489,1544 538,1544 538,1548 489,1548"/>
+	<TextEquiv conf="0.92754">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w163">
+	<Coords points="576,1515 674,1515 674,1566 576,1566"/>
+	<TextEquiv conf="0.92186">
+	<Unicode>Vor</Unicode></TextEquiv></Word>
+	<Word id="w165">
+	<Coords points="714,1517 801,1517 801,1577 714,1577"/>
+	<TextEquiv conf="0.91790">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w167">
+	<Coords points="834,1513 960,1513 960,1573 834,1573"/>
+	<TextEquiv conf="0.92026">
+	<Unicode>Eſſen</Unicode></TextEquiv></Word>
+	<Word id="w169">
+	<Coords points="1002,1512 1145,1512 1145,1577 1002,1577"/>
+	<TextEquiv conf="0.92975">
+	<Unicode>beten</Unicode></TextEquiv></Word>
+	<Word id="w171">
+	<Coords points="1156,1510 1245,1510 1245,1577 1156,1577"/>
+	<TextEquiv conf="0.91981">
+	<Unicode>wir.</Unicode></TextEquiv></Word>
+	<Word id="w173">
+	<Coords points="1299,1510 1428,1510 1428,1577 1299,1577"/>
+	<TextEquiv conf="0.92471">
+	<Unicode>Nach</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Meſſer? — Vor dem Eſſen beten wir. Nach</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="262,1636 262,1569 1432,1569 1432,1636"/>
+	<Word id="w191">
+	<Coords points="272,1569 359,1569 359,1629 272,1629"/>
+	<TextEquiv conf="0.92520">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w193">
+	<Coords points="371,1569 520,1569 520,1636 371,1636"/>
+	<TextEquiv conf="0.84419">
+	<Unicode>Eſſen</Unicode></TextEquiv></Word>
+	<Word id="w195">
+	<Coords points="553,1579 669,1579 669,1627 553,1627"/>
+	<TextEquiv conf="0.92104">
+	<Unicode>beten</Unicode></TextEquiv></Word>
+	<Word id="w197">
+	<Coords points="702,1576 779,1576 779,1626 702,1626"/>
+	<TextEquiv conf="0.92467">
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w199">
+	<Coords points="812,1569 926,1569 926,1631 812,1631"/>
+	<TextEquiv conf="0.92439">
+	<Unicode>auch.</Unicode></TextEquiv></Word>
+	<Word id="w201">
+	<Coords points="978,1574 1106,1574 1106,1624 978,1624"/>
+	<TextEquiv conf="0.92098">
+	<Unicode>Beim</Unicode></TextEquiv></Word>
+	<Word id="w203">
+	<Coords points="1127,1575 1264,1575 1264,1623 1127,1623"/>
+	<TextEquiv conf="0.91715">
+	<Unicode>Beten</Unicode></TextEquiv></Word>
+	<Word id="w205">
+	<Coords points="1295,1571 1429,1571 1429,1631 1295,1631"/>
+	<TextEquiv conf="0.91715">
+	<Unicode>falten</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>dem Eſſen beten wir auch. Beim Beten falten</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="262,1696 262,1635 639,1635 639,1696"/>
+	<Word id="w207">
+	<Coords points="272,1641 350,1641 350,1691 272,1691"/>
+	<TextEquiv conf="0.93079">
+	<Unicode>wir</Unicode></TextEquiv></Word>
+	<Word id="w209">
+	<Coords points="383,1635 447,1635 447,1689 383,1689"/>
+	<TextEquiv conf="0.93084">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w211">
+	<Coords points="458,1635 637,1635 637,1696 458,1696"/>
+	<TextEquiv conf="0.92453">
+	<Unicode>Hände.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>wir die Hände.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="350,1767 350,1709 1086,1709 1086,1767"/>
+	<Word id="w213">
+	<Coords points="359,1719 431,1719 431,1752 359,1752"/>
+	<TextEquiv conf="0.92801">
+	<Unicode>Das</Unicode></TextEquiv></Word>
+	<Word id="w215">
+	<Coords points="454,1718 599,1718 599,1760 454,1760"/>
+	<TextEquiv conf="0.46744">
+	<Unicode>Zim⸗mer</Unicode></TextEquiv></Word>
+	<Word id="w217">
+	<Coords points="621,1718 674,1718 674,1761 621,1761"/>
+	<TextEquiv conf="0.92798">
+	<Unicode>hat</Unicode></TextEquiv></Word>
+	<Word id="w219">
+	<Coords points="697,1716 770,1716 770,1750 697,1750"/>
+	<TextEquiv conf="0.83992">
+	<Unicode>ei⸗ne</Unicode></TextEquiv></Word>
+	<Word id="w221">
+	<Coords points="793,1715 901,1715 901,1749 793,1749"/>
+	<TextEquiv conf="0.00000">
+	<Unicode>Dek-—ke.</Unicode></TextEquiv></Word>
+	<Word id="w223">
+	<Coords points="947,1715 984,1715 984,1748 947,1748"/>
+	<TextEquiv conf="0.88400">
+	<Unicode>U.</Unicode></TextEquiv></Word>
+	<Word id="w225">
+	<Coords points="1007,1714 1024,1714 1024,1757 1007,1757"/>
+	<TextEquiv conf="0.90284">
+	<Unicode>ſ.</Unicode></TextEquiv></Word>
+	<Word id="w227">
+	<Coords points="1048,1721 1084,1721 1084,1748 1048,1748"/>
+	<TextEquiv conf="0.92390">
+	<Unicode>w.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Das Zim⸗mer hat ei⸗ne Dek⸗ke. U. ſ. w.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="321,724 321,649 1433,649 1433,724"/>
+	<Word id="w281">
+	<Coords points="327,664 426,664 426,713 327,713"/>
+	<TextEquiv conf="0.92819">
+	<Unicode>Das</Unicode></TextEquiv></Word>
+	<Word id="w283">
+	<Coords points="459,662 655,662 655,721 459,721"/>
+	<TextEquiv conf="0.92125">
+	<Unicode>Zimmer</Unicode></TextEquiv></Word>
+	<Word id="w285">
+	<Coords points="704,661 777,661 777,724 704,724"/>
+	<TextEquiv conf="0.91689">
+	<Unicode>hat</Unicode></TextEquiv></Word>
+	<Word id="w287">
+	<Coords points="811,659 906,659 906,724 811,724"/>
+	<TextEquiv conf="0.92524">
+	<Unicode>eine</Unicode></TextEquiv></Word>
+	<Word id="w289">
+	<Coords points="943,658 1080,658 1080,724 943,724"/>
+	<TextEquiv conf="0.91978">
+	<Unicode>Decke.</Unicode></TextEquiv></Word>
+	<Word id="w291">
+	<Coords points="1133,658 1241,658 1241,724 1133,724"/>
+	<TextEquiv conf="0.92805">
+	<Unicode>Der</Unicode></TextEquiv></Word>
+	<Word id="w293">
+	<Coords points="1277,655 1427,655 1427,724 1277,724"/>
+	<TextEquiv conf="0.91474">
+	<Unicode>Koffer</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Das Zimmer hat eine Decke. Der Koffer</Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="261,782 261,713 1431,713 1431,782"/>
+	<Word id="w295">
+	<Coords points="266,726 338,726 338,781 266,781"/>
+	<TextEquiv conf="0.92641">
+	<Unicode>hat</Unicode></TextEquiv></Word>
+	<Word id="w297">
+	<Coords points="356,713 500,713 500,773 356,773"/>
+	<TextEquiv conf="0.92456">
+	<Unicode>einen</Unicode></TextEquiv></Word>
+	<Word id="w299">
+	<Coords points="495,724 649,724 649,773 495,773"/>
+	<TextEquiv conf="0.92329">
+	<Unicode>Deckel.</Unicode></TextEquiv></Word>
+	<Word id="w301">
+	<Coords points="701,713 781,713 781,771 701,771"/>
+	<TextEquiv conf="0.91105">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w303">
+	<Coords points="804,719 946,719 946,780 804,780"/>
+	<TextEquiv conf="0.56822">
+	<Unicode>Fäfſſer</Unicode></TextEquiv></Word>
+	<Word id="w305">
+	<Coords points="980,720 1112,720 1112,782 980,782"/>
+	<TextEquiv conf="0.92905">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<Word id="w307">
+	<Coords points="1129,718 1309,718 1309,782 1129,782"/>
+	<TextEquiv conf="0.91984">
+	<Unicode>Reifen.</Unicode></TextEquiv></Word>
+	<Word id="w309">
+	<Coords points="1347,713 1428,713 1428,782 1347,782"/>
+	<TextEquiv conf="0.93062">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>hat einen Deckel. Die Fäſſer haben Reifen. Die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="260,843 260,778 1432,778 1432,843"/>
+	<Word id="w311">
+	<Coords points="267,778 432,778 432,837 267,837"/>
+	<TextEquiv conf="0.68535">
+	<Unicode>Bütten</Unicode></TextEquiv></Word>
+	<Word id="w313">
+	<Coords points="472,785 606,785 606,842 472,842"/>
+	<TextEquiv conf="0.90163">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<Word id="w315">
+	<Coords points="654,785 753,785 753,840 654,840"/>
+	<TextEquiv conf="0.90794">
+	<Unicode>auch</Unicode></TextEquiv></Word>
+	<Word id="w317">
+	<Coords points="786,778 953,778 953,841 786,841"/>
+	<TextEquiv conf="0.91677">
+	<Unicode>Reifen.</Unicode></TextEquiv></Word>
+	<Word id="w319">
+	<Coords points="1019,781 1101,781 1101,830 1019,830"/>
+	<TextEquiv conf="0.93141">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w321">
+	<Coords points="1129,780 1247,780 1247,843 1129,843"/>
+	<TextEquiv conf="0.67623">
+	<Unicode>Cier</Unicode></TextEquiv></Word>
+	<Word id="w323">
+	<Coords points="1290,779 1429,779 1429,843 1290,843"/>
+	<TextEquiv conf="0.92359">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Bütten haben auch Reifen. Die Eier haben</Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="258,905 258,840 1431,840 1431,905"/>
+	<Word id="w325">
+	<Coords points="267,849 349,849 349,897 267,897"/>
+	<TextEquiv conf="0.92831">
+	<Unicode>eine</Unicode></TextEquiv></Word>
+	<Word id="w327">
+	<Coords points="382,840 506,840 506,905 382,905"/>
+	<TextEquiv conf="0.91204">
+	<Unicode>weiße</Unicode></TextEquiv></Word>
+	<Word id="w329">
+	<Coords points="530,847 701,847 701,903 530,903"/>
+	<TextEquiv conf="0.91385">
+	<Unicode>Schale.</Unicode></TextEquiv></Word>
+	<Word id="w331">
+	<Coords points="749,844 838,844 838,895 749,895"/>
+	<TextEquiv conf="0.92383">
+	<Unicode>Was</Unicode></TextEquiv></Word>
+	<Word id="w333">
+	<Coords points="841,840 944,840 944,903 841,903"/>
+	<TextEquiv conf="0.90353">
+	<Unicode>für</Unicode></TextEquiv></Word>
+	<Word id="w335">
+	<Coords points="948,843 1087,843 1087,892 948,892"/>
+	<TextEquiv conf="0.92369">
+	<Unicode>eine</Unicode></TextEquiv></Word>
+	<Word id="w337">
+	<Coords points="1110,842 1265,842 1265,897 1110,897"/>
+	<TextEquiv conf="0.92627">
+	<Unicode>Schale</Unicode></TextEquiv></Word>
+	<Word id="w339">
+	<Coords points="1296,840 1429,840 1429,905 1296,905"/>
+	<TextEquiv conf="0.91016">
+	<Unicode>haben</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>eine weiße Schale. Was für eine Schale haben</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r32" type="paragraph">
+	<Coords points="707,1883 994,1883 994,1977 1439,1977 1439,2052 1435,2052 1435,2120 268,2120 268,2041 269,2041 269,1977 707,1977"/>
+	<TextLine id="l23">
+	<Coords points="707,1968 707,1883 994,1883 994,1968"/>
+	<Word id="w229">
+	<Coords points="717,1905 761,1905 761,1957 717,1957"/>
+	<TextEquiv conf="0.91164">
+	<Unicode>a,</Unicode></TextEquiv></Word>
+	<Word id="w231">
+	<Coords points="800,1904 875,1904 875,1956 800,1956"/>
+	<TextEquiv conf="0.90002">
+	<Unicode>aa,</Unicode></TextEquiv></Word>
+	<Word id="w233">
+	<Coords points="916,1890 989,1890 989,1958 916,1958"/>
+	<TextEquiv conf="0.86268">
+	<Unicode>ah.</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>a, aa, ah.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="269,1977 269,2052 1439,2052 1439,1977"/>
+	<Word id="w237">
+	<Coords points="274,1990 398,1990 398,2050 274,2050"/>
+	<TextEquiv conf="0.92074">
+	<Unicode>Maß,</Unicode></TextEquiv></Word>
+	<Word id="w239">
+	<Coords points="441,1990 552,1990 552,2050 441,2050"/>
+	<TextEquiv conf="0.90601">
+	<Unicode>Tag,</Unicode></TextEquiv></Word>
+	<Word id="w241">
+	<Coords points="593,1990 697,1990 697,2046 593,2046"/>
+	<TextEquiv conf="0.92427">
+	<Unicode>Aal,</Unicode></TextEquiv></Word>
+	<Word id="w243">
+	<Coords points="745,1988 885,1988 885,2052 745,2052"/>
+	<TextEquiv conf="0.92120">
+	<Unicode>Paar,</Unicode></TextEquiv></Word>
+	<Word id="w245">
+	<Coords points="923,1986 1058,1986 1058,2052 923,2052"/>
+	<TextEquiv conf="0.91018">
+	<Unicode>Haar,</Unicode></TextEquiv></Word>
+	<Word id="w247">
+	<Coords points="1077,1984 1240,1984 1240,2052 1077,2052"/>
+	<TextEquiv conf="0.91107">
+	<Unicode>Saat,</Unicode></TextEquiv></Word>
+	<Word id="w249">
+	<Coords points="1276,1982 1432,1982 1432,2052 1276,2052"/>
+	<TextEquiv conf="0.91134">
+	<Unicode>Saal,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Maß, Tag, Aal, Paar, Haar, Saat, Saal,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="268,2120 268,2041 1435,2041 1435,2120"/>
+	<Word id="w251">
+	<Coords points="274,2041 403,2041 403,2114 274,2114"/>
+	<TextEquiv conf="0.92596">
+	<Unicode>Zahl,</Unicode></TextEquiv></Word>
+	<Word id="w253">
+	<Coords points="452,2041 597,2041 597,2112 452,2112"/>
+	<TextEquiv conf="0.91739">
+	<Unicode>Zahn,</Unicode></TextEquiv></Word>
+	<Word id="w255">
+	<Coords points="661,2041 801,2041 801,2111 661,2111"/>
+	<TextEquiv conf="0.92589">
+	<Unicode>Jahr;</Unicode></TextEquiv></Word>
+	<Word id="w257">
+	<Coords points="850,2041 1023,2041 1023,2105 850,2105"/>
+	<TextEquiv conf="0.93104">
+	<Unicode>Schale,</Unicode></TextEquiv></Word>
+	<Word id="w259">
+	<Coords points="1072,2046 1219,2046 1219,2103 1072,2103"/>
+	<TextEquiv conf="0.92015">
+	<Unicode>Ware,</Unicode></TextEquiv></Word>
+	<Word id="w261">
+	<Coords points="1272,2045 1432,2045 1432,2102 1272,2102"/>
+	<TextEquiv conf="0.89852">
+	<Unicode>Bahre,</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Zahl, Zahn, Jahr; Schale, Ware, Bahre,</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r33">
+	<Coords points="722,210 722,240 960,240 960,210"/></SeparatorRegion>
+	<SeparatorRegion id="r34">
+	<Coords points="705,565 705,605 990,605 990,565"/></SeparatorRegion>
+	<SeparatorRegion id="r35">
+	<Coords points="710,1797 710,1840 995,1840 995,1797"/></SeparatorRegion></Page></PcGts>
