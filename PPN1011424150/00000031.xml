@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:55.105+01:00</Created>
+        <LastChange>2020-03-26T13:45:36.777+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000031.png" imageWidth="1496" imageHeight="2630">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585226736870" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="90,154 90,2483 1361,2483 1361,154"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="669,215 685,217 690,212 705,211 713,216 733,201 753,205 756,126 737,125 732,130 727,126 696,143 671,139"/>
+                <Baseline points="678,189 712,191 746,191"/>
+                <TextEquiv>
+                    <Unicode>27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="652,347 670,343 679,351 692,352 705,344 714,351 735,346 739,351 755,351 766,343 781,347 781,269 754,263 745,270 727,267 707,280 692,270 678,273 664,286 653,286"/>
+                <Baseline points="661,340 688,338 716,337 744,338 772,341"/>
+                <TextEquiv>
+                    <Unicode>82.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="134,437 1342,416 1327,341 948,328 632,379 508,338 281,373 133,334"/>
+                <Baseline points="141,407 200,408 260,409 319,409 379,410 439,410 498,409 558,409 618,409 677,408 737,408 797,407 856,407 916,406 976,405 1035,405 1095,404 1155,404 1214,403 1274,403 1334,402"/>
+                <TextEquiv>
+                    <Unicode>Talg, Balg, Bälge; tilgen, folgen; Milch, Molch,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="82,482 1117,502 1321,494 1350,434 81,422"/>
+                <Baseline points="90,478 152,478 215,479 277,479 340,479 403,479 465,479 528,479 590,479 653,478 716,478 778,477 841,477 903,476 966,476 1029,475 1091,474 1154,474 1216,474 1279,473 1342,473"/>
+                <TextEquiv>
+                    <Unicode>Dolch, Dolche, Kelch, Kelche; ſolcher, welcher, welche,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="84,566 1344,562 1344,510 1227,482 1075,525 990,481 920,513 84,509"/>
+                <Baseline points="92,546 154,547 216,547 278,548 341,548 403,548 465,548 527,549 590,549 652,549 714,548 776,548 839,548 901,548 963,547 1025,547 1088,546 1150,545 1212,544 1274,543 1337,542"/>
+                <TextEquiv>
+                    <Unicode>welches; Burg, Berg, Sarg, Särge; karg, arg, ärger;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="85,627 1348,633 1313,555 85,564"/>
+                <Baseline points="93,617 155,618 217,618 280,619 342,619 404,619 467,619 529,619 591,618 654,618 716,618 778,617 841,617 903,616 965,616 1028,615 1090,615 1152,614 1215,614 1277,614 1340,614"/>
+                <TextEquiv>
+                    <Unicode>borgen, ſorgen, bürgen, bergen; Kirche, Lerche; durch;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="286,712 1351,704 1350,637 1265,628 286,634"/>
+                <Baseline points="86,688 347,689 399,689 452,690 504,689 556,689 609,689 661,689 713,689 766,689 818,688 870,688 923,688 975,687 1027,687 1080,687 1132,686 1184,686 1237,685 1289,685 1342,684"/>
+                <TextEquiv>
+                    <Unicode>horchen, horchet; Mönch, Mönche, Fenchel; mancher,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="88,773 594,781 701,765 701,714 633,725 602,701 493,728 375,700 339,719 262,721 241,702 88,723"/>
+                <Baseline points="95,758 126,758 158,759 189,759 221,759 252,760 284,760 315,760 347,760 378,760 410,760 441,760 473,759 504,759 536,759 567,759 599,759 630,758 662,758 694,758"/>
+                <TextEquiv>
+                    <Unicode>manche, manches; tünchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="134,845 1353,838 1353,795 1252,767 134,784"/>
+                <Baseline points="142,829 202,830 262,831 322,831 382,831 443,832 503,832 563,832 623,831 683,831 744,831 804,831 864,830 924,830 984,829 1045,829 1105,828 1165,828 1225,827 1285,827 1346,827"/>
+                <TextEquiv>
+                    <Unicode>Salz, Holz, Schmalz, Pelz, Pelze; ſalzen, falzen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="87,913 1327,926 1351,836 87,859"/>
+                <Baseline points="95,897 157,897 219,897 282,898 344,898 407,898 469,898 531,898 594,898 656,898 719,898 781,898 843,899 906,899 968,899 1031,900 1093,900 1155,900 1218,901 1280,901 1343,902"/>
+                <TextEquiv>
+                    <Unicode>wälzen; Volk, Schalk, Kalk; welk; März, Erz, Harz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="89,985 1355,982 1355,940 1250,912 89,916"/>
+                <Baseline points="97,965 159,967 222,968 284,969 347,970 409,970 472,970 534,970 597,970 659,970 722,970 784,969 847,969 909,969 972,968 1034,968 1097,969 1159,969 1222,970 1284,971 1347,972"/>
+                <TextEquiv>
+                    <Unicode>Schmerz, Schürze, Kerze, Scherz, Scherze; ſchwarz, kurz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="104,1051 1302,1061 1356,1054 1356,978 104,987"/>
+                <Baseline points="112,1038 173,1038 235,1038 297,1038 359,1038 421,1038 482,1039 544,1039 606,1039 668,1039 730,1039 791,1039 853,1039 915,1039 977,1039 1039,1039 1100,1038 1162,1038 1224,1037 1286,1036 1348,1035"/>
+                <TextEquiv>
+                    <Unicode>ſcherzen; Kork, Mark, Gurke, Harke, Werk, Werke; mer=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="93,1126 1355,1137 1355,1069 1296,1056 93,1058"/>
+                <Baseline points="101,1106 163,1106 225,1107 287,1107 350,1107 412,1107 474,1108 537,1108 599,1108 661,1109 724,1109 786,1110 848,1110 910,1110 973,1110 1035,1110 1097,1110 1160,1110 1222,1110 1284,1109 1347,1109"/>
+                <TextEquiv>
+                    <Unicode>ken, wirken, wirke, wirket; Bank, Bänke, Fink, Finken;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="86,1202 1253,1195 1253,1143 1147,1133 86,1126"/>
+                <Baseline points="94,1178 151,1178 209,1177 266,1177 324,1178 381,1178 439,1178 496,1179 554,1180 611,1180 669,1181 727,1181 784,1182 842,1182 899,1182 957,1182 1014,1182 1072,1181 1129,1180 1187,1179 1245,1177"/>
+                <TextEquiv>
+                    <Unicode>danken, winken, denken; Tanz, Lenz; ganz, tanzen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="138,1262 1352,1262 1343,1197 818,1226 554,1182 494,1220 138,1196"/>
+                <Baseline points="145,1246 208,1247 271,1248 334,1249 397,1249 460,1250 523,1250 586,1251 649,1251 712,1251 776,1251 839,1251 902,1251 965,1251 1028,1251 1091,1251 1154,1250 1217,1250 1280,1250 1344,1250"/>
+                <TextEquiv>
+                    <Unicode>Kalb, Kälber, Salbe; halb, gelb; ſalben, wölben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="93,1331 1273,1349 1353,1332 1354,1268 94,1277"/>
+                <Baseline points="101,1314 163,1315 225,1316 287,1317 350,1318 412,1319 474,1319 536,1320 599,1321 661,1322 723,1322 785,1323 848,1323 910,1323 972,1323 1034,1324 1097,1324 1159,1323 1221,1323 1283,1323 1346,1322"/>
+                <TextEquiv>
+                    <Unicode>wölbet; Alpe; Korb, Körbe, Farbe, Scherben; herb,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="85,1403 1364,1417 1344,1334 86,1342"/>
+                <Baseline points="93,1385 156,1386 219,1387 282,1388 345,1389 408,1390 471,1391 535,1391 598,1391 661,1392 724,1392 787,1393 850,1393 913,1393 977,1393 1040,1393 1103,1394 1166,1394 1229,1394 1292,1395 1356,1395"/>
+                <TextEquiv>
+                    <Unicode>derb, mürbe; gerben, werben, färben, färbet; Schärpe;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="91,1479 1196,1495 1181,1414 395,1403 230,1439 91,1406"/>
+                <Baseline points="99,1460 153,1460 208,1460 262,1460 317,1461 371,1461 426,1461 480,1462 535,1462 589,1462 644,1463 698,1463 753,1463 807,1464 862,1464 916,1464 971,1465 1025,1465 1080,1465 1134,1466 1189,1466"/>
+                <TextEquiv>
+                    <Unicode>zirpen, zirpet; Kamp, Lampe, Pumpe; pumpen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="671,1557 690,1554 707,1562 717,1557 742,1556 761,1568 780,1568 784,1487 773,1487 764,1477 746,1476 738,1483 726,1478 714,1485 690,1474 675,1477"/>
+                <Baseline points="679,1544 710,1547 741,1547 773,1550"/>
+                <TextEquiv>
+                    <Unicode>83.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="139,1617 1311,1633 1358,1613 1359,1550 872,1585 140,1552"/>
+                <Baseline points="147,1609 207,1609 267,1609 327,1610 387,1610 448,1611 508,1611 568,1612 628,1613 688,1614 749,1614 809,1615 869,1615 929,1616 989,1616 1050,1616 1110,1616 1170,1615 1230,1614 1290,1614 1351,1612"/>
+                <TextEquiv>
+                    <Unicode>Wir gehen in die Schule. Der Lehrer hat uns lieb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="91,1688 1355,1702 1355,1646 1292,1627 92,1626"/>
+                <Baseline points="100,1675 162,1677 224,1678 287,1679 349,1680 411,1681 474,1682 536,1683 598,1683 661,1684 723,1684 785,1684 848,1685 910,1685 972,1685 1035,1684 1097,1684 1159,1683 1222,1683 1284,1682 1347,1681"/>
+                <TextEquiv>
+                    <Unicode>Gute Kinder haben auch den Lehrer lieb. Sie merken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="100,1764 1363,1767 1329,1696 100,1704"/>
+                <Baseline points="107,1749 169,1749 231,1749 294,1750 356,1750 419,1751 481,1752 544,1752 606,1753 669,1753 731,1754 793,1754 856,1755 918,1755 981,1755 1043,1755 1106,1755 1168,1755 1231,1755 1293,1754 1356,1753"/>
+                <TextEquiv>
+                    <Unicode>auf ſeine Lehren. Sie folgen ihm gern. Dadurch machen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="95,1851 1206,1854 1358,1838 1359,1782 95,1773"/>
+                <Baseline points="103,1818 165,1818 227,1819 290,1820 352,1821 414,1821 477,1822 539,1822 601,1823 664,1824 726,1824 788,1824 851,1825 913,1825 975,1825 1038,1825 1100,1825 1162,1825 1225,1825 1287,1825 1350,1825"/>
+                <TextEquiv>
+                    <Unicode>sie ihm Freude. Böse Kinder machen ihm nur Schmerz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="141,1910 1150,1921 1363,1906 1364,1856 141,1846"/>
+                <Baseline points="149,1888 209,1889 269,1890 329,1891 390,1892 450,1893 510,1893 571,1894 631,1895 691,1895 752,1896 812,1896 872,1896 932,1896 993,1897 1053,1897 1113,1897 1174,1896 1234,1896 1294,1896 1355,1896"/>
+                <TextEquiv>
+                    <Unicode>Wir gehen auch jeden Morgen in die Kirche. Da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="87,1960 1367,1976 1326,1914 88,1897"/>
+                <Baseline points="95,1958 158,1959 221,1959 284,1960 347,1961 411,1962 474,1962 537,1963 600,1963 663,1964 727,1964 790,1965 853,1965 916,1966 979,1966 1043,1967 1106,1967 1169,1968 1232,1968 1295,1969 1359,1969"/>
+                <TextEquiv>
+                    <Unicode>beten wir zu Gott. Wir danken ihm für den neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="89,2044 1032,2055 1032,1983 985,1975 616,2003 90,1982"/>
+                <Baseline points="97,2028 143,2030 189,2031 236,2031 282,2032 328,2032 375,2033 421,2033 467,2034 514,2034 560,2034 606,2034 653,2034 699,2034 745,2034 792,2035 838,2035 884,2035 931,2036 977,2036 1024,2037"/>
+                <TextEquiv>
+                    <Unicode>Tag. Wir bitten ihn um ſeinen Segen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="665,2125 674,2126 682,2135 710,2140 752,2131 781,2139 787,2051 758,2052 724,2066 711,2054 694,2048 680,2057 669,2056"/>
+                <Baseline points="673,2116 698,2119 724,2120 749,2121 775,2124"/>
+                <TextEquiv>
+                    <Unicode>84.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="141,2207 1195,2215 1354,2205 1355,2143 142,2129"/>
+                <Baseline points="149,2183 208,2184 268,2184 328,2185 388,2185 448,2185 508,2186 567,2186 627,2187 687,2187 747,2188 807,2188 867,2188 927,2189 986,2189 1046,2189 1106,2190 1166,2190 1226,2190 1286,2190 1346,2190"/>
+                <TextEquiv>
+                    <Unicode>Lust, Frost, Rast, Gast, Gäste, Nest, Nester, Küster,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="97,2276 1343,2280 1366,2211 98,2207"/>
+                <Baseline points="106,2251 168,2252 231,2252 293,2253 356,2254 419,2254 481,2255 544,2256 606,2256 669,2257 732,2257 794,2258 857,2258 919,2259 982,2259 1045,2259 1107,2260 1170,2260 1232,2260 1295,2261 1358,2261"/>
+                <TextEquiv>
+                    <Unicode>Meister, Schwester; faſt, wüſt, feſt; roſten, huſten, koſten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:29;}">
+                <Coords points="278,2345 1191,2357 1192,2290 278,2275"/>
+                <Baseline points="100,2326 332,2323 379,2323 426,2324 474,2324 521,2325 568,2326 616,2326 663,2327 710,2327 758,2328 805,2329 852,2329 900,2330 947,2330 994,2331 1042,2331 1089,2331 1136,2331 1358,2337"/>
+                <TextEquiv>
+                    <Unicode>faſten, faſtest, beteſt, nützeſt, schließeſt, flieheſt, ſiedesſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:30;}">
+                <Coords points="284,2417 1368,2418 1368,2349 1297,2335 1224,2363 285,2347"/>
+                <Baseline points="103,2396 346,2395 399,2396 453,2396 506,2397 559,2397 613,2398 666,2398 719,2398 773,2399 826,2399 879,2399 933,2400 986,2400 1039,2401 1093,2401 1146,2401 1199,2402 1253,2402 1306,2402 1360,2403"/>
+                <TextEquiv>
+                    <Unicode>fliegeſt, schwitzeſt, schwärzeſt, haſſeſt; ißt, mißt, reißt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:31;}">
+                <Coords points="98,2466 207,2510 252,2477 471,2501 563,2475 823,2477 823,2420 733,2406 614,2432 434,2402 382,2427 99,2408"/>
+                <Baseline points="107,2460 142,2461 177,2462 213,2463 248,2464 283,2465 319,2466 354,2466 389,2466 425,2467 460,2467 495,2467 531,2467 566,2467 601,2467 637,2467 672,2467 707,2467 743,2467 778,2467 814,2467"/>
+                <TextEquiv>
+                    <Unicode>läßt, faßt, weißt, haßt, schließt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>27&#xD;
+82.&#xD;
+Talg, Balg, Bälge; tilgen, folgen; Milch, Molch,&#xD;
+Dolch, Dolche, Kelch, Kelche; ſolcher, welcher, welche,&#xD;
+welches; Burg, Berg, Sarg, Särge; karg, arg, ärger;&#xD;
+borgen, ſorgen, bürgen, bergen; Kirche, Lerche; durch;&#xD;
+horchen, horchet; Mönch, Mönche, Fenchel; mancher,&#xD;
+manche, manches; tünchen.&#xD;
+Salz, Holz, Schmalz, Pelz, Pelze; ſalzen, falzen,&#xD;
+wälzen; Volk, Schalk, Kalk; welk; März, Erz, Harz,&#xD;
+Schmerz, Schürze, Kerze, Scherz, Scherze; ſchwarz, kurz,&#xD;
+ſcherzen; Kork, Mark, Gurke, Harke, Werk, Werke; mer=&#xD;
+ken, wirken, wirke, wirket; Bank, Bänke, Fink, Finken;&#xD;
+danken, winken, denken; Tanz, Lenz; ganz, tanzen.&#xD;
+Kalb, Kälber, Salbe; halb, gelb; ſalben, wölben,&#xD;
+wölbet; Alpe; Korb, Körbe, Farbe, Scherben; herb,&#xD;
+derb, mürbe; gerben, werben, färben, färbet; Schärpe;&#xD;
+zirpen, zirpet; Kamp, Lampe, Pumpe; pumpen.&#xD;
+83.&#xD;
+Wir gehen in die Schule. Der Lehrer hat uns lieb.&#xD;
+Gute Kinder haben auch den Lehrer lieb. Sie merken&#xD;
+auf ſeine Lehren. Sie folgen ihm gern. Dadurch machen&#xD;
+sie ihm Freude. Böse Kinder machen ihm nur Schmerz.&#xD;
+Wir gehen auch jeden Morgen in die Kirche. Da&#xD;
+beten wir zu Gott. Wir danken ihm für den neuen&#xD;
+Tag. Wir bitten ihn um ſeinen Segen.&#xD;
+84.&#xD;
+Lust, Frost, Rast, Gast, Gäste, Nest, Nester, Küster,&#xD;
+Meister, Schwester; faſt, wüſt, feſt; roſten, huſten, koſten,&#xD;
+faſten, faſtest, beteſt, nützeſt, schließeſt, flieheſt, ſiedesſt&#xD;
+fliegeſt, schwitzeſt, schwärzeſt, haſſeſt; ißt, mißt, reißt,&#xD;
+läßt, faßt, weißt, haßt, schließt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

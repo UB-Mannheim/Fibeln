@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:57.010+01:00</Created>
+        <LastChange>2020-03-26T15:00:48.996+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000042.png" imageWidth="1590" imageHeight="2620">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585231249065" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="174,126 174,2436 1449,2436 1449,126"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="690,187 711,178 723,188 741,193 750,188 764,198 777,193 784,201 822,180 833,191 846,190 861,184 863,118 822,117 803,106 776,121 762,121 751,132 691,135"/>
+                <Baseline points="698,157 724,158 750,159 776,160 802,160 828,160 854,159"/>
+                <TextEquiv>
+                    <Unicode>38</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="247,299 1304,288 1455,323 1455,234 991,268 873,229 247,235"/>
+                <Baseline points="255,290 314,290 374,291 433,291 493,291 553,292 612,292 672,293 731,293 791,293 851,293 910,293 970,294 1029,294 1089,294 1149,294 1208,294 1268,294 1327,294 1387,293 1447,293"/>
+                <TextEquiv>
+                    <Unicode>In einer Ecke des Hofes liegt ein Hund in einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="193,358 1454,372 1454,323 1306,289 1175,320 193,297"/>
+                <Baseline points="201,348 263,349 325,349 387,349 450,350 512,350 574,350 637,351 699,351 761,351 824,352 886,352 948,352 1010,352 1073,353 1135,353 1197,353 1260,353 1322,353 1384,353 1447,353"/>
+                <TextEquiv>
+                    <Unicode>Häuschen. Er iſt mit einer Kette befeſtigt. Sobald ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="194,423 1448,427 1448,366 1381,353 195,360"/>
+                <Baseline points="202,407 263,407 325,407 387,407 449,407 511,407 573,408 635,408 697,409 759,409 821,410 882,410 944,411 1006,411 1068,411 1130,412 1192,412 1254,411 1316,411 1378,410 1440,410"/>
+                <TextEquiv>
+                    <Unicode>Fremder auf dem Hofe erſcheint, ſpringt er plötzlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="191,464 1451,474 1451,426 1258,413 191,423"/>
+                <Baseline points="199,464 261,465 323,466 385,466 447,467 510,468 572,468 634,469 696,469 758,469 821,469 883,469 945,469 1007,470 1069,470 1132,470 1194,470 1256,470 1318,470 1380,470 1443,470"/>
+                <TextEquiv>
+                    <Unicode>aus ſeinem Häuschen, reißt gewaltig an der Kette und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="194,531 1446,540 1446,483 1369,475 429,506 194,467"/>
+                <Baseline points="202,523 263,523 325,524 387,525 449,525 510,526 572,526 634,527 696,527 757,527 819,527 881,528 943,528 1004,528 1066,528 1128,528 1190,528 1251,528 1313,529 1375,529 1437,529"/>
+                <TextEquiv>
+                    <Unicode>bellt laut. Kommt aber ſein Herr gegangen, ſo ist er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="192,606 1455,605 1455,548 1361,534 193,536"/>
+                <Baseline points="200,580 262,581 324,582 387,583 449,584 512,584 574,585 636,585 699,585 761,585 824,585 886,585 948,585 1011,585 1073,585 1136,585 1198,585 1260,586 1323,586 1385,587 1448,587"/>
+                <TextEquiv>
+                    <Unicode>voller Freude. Er wedelt mit dem Schweife und ſpringt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="194,655 1238,665 1457,649 1457,598 194,608"/>
+                <Baseline points="202,640 264,641 326,642 389,642 451,643 513,643 576,643 638,644 700,644 763,644 825,644 887,644 950,644 1012,644 1074,644 1137,644 1199,644 1261,644 1324,644 1386,645 1449,646"/>
+                <TextEquiv>
+                    <Unicode>an ihm hinan. Wenn es Abend geworden iſt, bindet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="188,716 1258,724 1378,718 1379,669 188,648"/>
+                <Baseline points="195,700 253,701 312,701 371,701 430,702 488,702 547,702 606,702 665,702 723,702 782,703 841,703 900,703 958,703 1017,703 1076,703 1135,703 1193,704 1252,704 1311,704 1370,704"/>
+                <TextEquiv>
+                    <Unicode>man ihn los. Er bewacht in der Nacht das Haus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="241,763 1441,772 1441,712 1400,704 1320,745 1210,705 241,711"/>
+                <Baseline points="249,758 308,758 367,759 426,759 485,760 545,760 604,760 663,761 722,761 781,761 841,761 900,761 959,761 1018,761 1077,761 1137,761 1196,762 1255,762 1314,762 1373,762 1433,762"/>
+                <TextEquiv>
+                    <Unicode>Auf dem Dache ſitzen die niedlichen Täubchen. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="193,830 1453,830 1453,786 1328,770 194,763"/>
+                <Baseline points="201,817 263,818 325,818 387,818 449,818 512,818 574,819 636,819 698,819 760,820 823,820 885,820 947,820 1009,820 1071,820 1134,821 1196,821 1258,821 1320,821 1382,821 1445,821"/>
+                <TextEquiv>
+                    <Unicode>sind ihrer gewöhnlich recht viele zusammen. Sie fliegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="192,887 1359,899 1440,889 1441,845 192,829"/>
+                <Baseline points="199,877 260,877 322,877 384,877 445,877 507,877 569,877 630,877 692,877 754,878 816,878 877,878 939,878 1001,878 1062,878 1124,879 1186,879 1247,880 1309,880 1371,881 1433,881"/>
+                <TextEquiv>
+                    <Unicode>häufig auf den Hof und ſuchen Gerſte und Hafer. Hier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="189,945 1287,962 1442,951 1443,902 189,885"/>
+                <Baseline points="197,935 258,935 320,936 382,936 444,936 506,936 568,936 630,937 692,937 754,937 816,937 877,937 939,937 1001,937 1063,938 1125,938 1187,938 1249,938 1311,938 1373,938 1435,938"/>
+                <TextEquiv>
+                    <Unicode>kann man ſie gut beſehen. Das Täubchen hat ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="186,1009 1419,1020 1434,948 187,942"/>
+                <Baseline points="194,993 255,993 317,994 378,994 440,994 502,994 563,995 625,995 686,995 748,995 810,995 871,995 933,995 994,995 1056,996 1118,996 1179,996 1241,997 1302,997 1364,998 1426,998"/>
+                <TextEquiv>
+                    <Unicode>ſchönes Federkleid und röthliche Füße. Es iſt reinlich,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="189,1058 1181,1079 1455,1063 1456,1019 190,1010"/>
+                <Baseline points="197,1052 259,1052 322,1052 384,1052 447,1052 509,1053 572,1053 634,1053 697,1054 759,1054 822,1054 884,1055 947,1055 1009,1055 1072,1056 1134,1056 1197,1056 1259,1057 1322,1057 1384,1057 1447,1057"/>
+                <TextEquiv>
+                    <Unicode>und man wird nie Schmutz an ihm entdecken. Mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="183,1119 322,1146 532,1113 1129,1132 1129,1061 183,1056"/>
+                <Baseline points="190,1110 236,1111 283,1112 329,1113 376,1113 422,1114 469,1114 515,1114 562,1114 608,1114 655,1114 701,1114 748,1113 794,1113 841,1113 887,1113 934,1113 980,1114 1027,1114 1073,1115 1120,1115"/>
+                <TextEquiv>
+                    <Unicode>Kind, laß dich nicht von ihm beſchämen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="553,1296 673,1293 795,1330 859,1302 1001,1308 1020,1301 1026,1177 911,1256 792,1218 717,1241 653,1203 635,1217 558,1207"/>
+                <Baseline points="562,1281 587,1283 612,1286 637,1288 662,1291 687,1293 712,1295 737,1297 762,1299 787,1301 812,1302 837,1304 862,1305 887,1305 912,1305 937,1305 962,1305 987,1304 1012,1302"/>
+                <TextEquiv>
+                    <Unicode>107. c, C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="784,1395 817,1403 890,1376 930,1397 999,1399 1016,1389 1063,1421 1096,1411 1096,1353 1035,1333 964,1347 924,1326 873,1356 840,1354 804,1330 784,1338"/>
+                <Baseline points="792,1383 818,1384 845,1385 872,1385 899,1384 926,1384 953,1383 980,1383 1007,1383 1034,1384 1061,1386 1088,1388"/>
+                <TextEquiv>
+                    <Unicode>c, C = z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="237,1463 1443,1471 1443,1431 1232,1383 968,1432 902,1394 799,1444 600,1386 526,1423 237,1419"/>
+                <Baseline points="245,1459 304,1459 364,1459 423,1459 483,1460 542,1460 602,1460 661,1460 721,1461 780,1461 840,1461 900,1461 959,1462 1019,1462 1078,1462 1138,1462 1197,1462 1257,1462 1316,1462 1376,1462 1436,1462"/>
+                <TextEquiv>
+                    <Unicode>Die Ceder, ein Centner, Cäsar, der Cirkel, Cedron.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="186,1526 1441,1528 1441,1469 272,1484 186,1443"/>
+                <Baseline points="193,1518 255,1517 317,1517 379,1517 441,1517 503,1518 565,1518 627,1518 689,1519 751,1519 813,1520 875,1520 937,1521 999,1521 1061,1522 1123,1522 1185,1522 1247,1522 1309,1521 1371,1521 1433,1520"/>
+                <TextEquiv>
+                    <Unicode>Die Ceder ist ein ſchöner Baum. Cäsar war ein großer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="182,1583 1450,1588 1410,1523 183,1528"/>
+                <Baseline points="190,1574 252,1575 315,1576 377,1576 440,1577 503,1578 565,1578 628,1579 690,1580 753,1580 816,1581 878,1581 941,1582 1003,1582 1066,1582 1129,1583 1191,1583 1254,1582 1316,1582 1379,1582 1442,1581"/>
+                <TextEquiv>
+                    <Unicode>Feldherr. Der Centner hat hundert Pfund. Wofür braucht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="182,1645 208,1661 228,1644 264,1652 295,1636 341,1653 410,1637 440,1653 465,1639 528,1650 584,1637 584,1582 510,1592 474,1578 433,1582 413,1600 352,1601 320,1586 259,1598 182,1583"/>
+                <Baseline points="190,1635 215,1636 241,1637 267,1638 292,1638 318,1638 344,1637 370,1637 395,1637 421,1637 447,1636 473,1636 498,1636 524,1636 550,1637 576,1638"/>
+                <TextEquiv>
+                    <Unicode>man den Cirkel?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="663,1745 694,1741 737,1757 755,1747 768,1758 834,1739 904,1760 936,1741 977,1746 976,1692 923,1674 884,1702 844,1693 832,1703 804,1678 760,1675 730,1694 694,1674 662,1674"/>
+                <Baseline points="670,1736 697,1736 724,1735 751,1735 778,1734 805,1734 832,1734 859,1734 886,1734 913,1734 940,1734 968,1734"/>
+                <TextEquiv>
+                    <Unicode>c, C= k.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="233,1830 1453,1849 1453,1784 1380,1760 233,1767"/>
+                <Baseline points="240,1821 300,1822 360,1822 420,1823 481,1823 541,1824 601,1824 661,1825 722,1825 782,1825 842,1825 902,1826 963,1826 1023,1826 1083,1826 1143,1826 1204,1826 1264,1825 1324,1825 1384,1825 1445,1825"/>
+                <TextEquiv>
+                    <Unicode>Die Cur, der Caplan, der Doctor, ein Concert, ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="183,1891 1448,1888 1448,1847 1388,1835 1041,1831 1007,1864 183,1822"/>
+                <Baseline points="191,1880 253,1880 315,1881 378,1882 440,1882 503,1882 565,1883 628,1883 690,1883 753,1883 815,1883 877,1883 940,1883 1002,1883 1065,1883 1127,1883 1190,1883 1252,1883 1315,1883 1377,1883 1440,1883"/>
+                <TextEquiv>
+                    <Unicode>Clavier, der Sclave, die Cigarren, die Complet, eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="183,1947 1446,1955 1446,1908 1370,1890 773,1883 726,1921 663,1886 183,1891"/>
+                <Baseline points="190,1939 252,1939 314,1940 377,1940 439,1940 502,1941 564,1941 626,1941 689,1941 751,1941 814,1941 876,1941 938,1941 1001,1941 1063,1941 1126,1941 1188,1941 1250,1941 1313,1941 1375,1941 1438,1941"/>
+                <TextEquiv>
+                    <Unicode>Quelle, das Quecksilber. Der Doctor curirt den Kranken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="189,2018 1042,2012 1103,2045 1445,2007 1445,1960 1365,1949 639,1981 189,1951"/>
+                <Baseline points="197,1998 259,1999 321,1999 383,2000 445,2000 507,2001 569,2001 631,2002 693,2002 755,2002 817,2003 879,2003 941,2003 1003,2003 1065,2003 1127,2003 1189,2003 1251,2003 1313,2003 1375,2003 1438,2003"/>
+                <TextEquiv>
+                    <Unicode>Im Concerte wird geſungen. Die Cigarren werden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="178,2084 205,2078 221,2094 297,2067 336,2076 358,2066 397,2064 396,2008 330,2002 296,2019 271,2014 263,2022 248,2016 177,2024"/>
+                <Baseline points="185,2064 210,2063 236,2061 261,2060 287,2060 312,2059 338,2059 363,2060 389,2061"/>
+                <TextEquiv>
+                    <Unicode>geraucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="645,2169 667,2160 733,2182 759,2164 808,2158 850,2174 882,2148 951,2177 993,2159 993,2098 927,2100 894,2078 868,2097 781,2084 761,2097 737,2086 708,2103 675,2089 645,2094"/>
+                <Baseline points="652,2155 677,2155 703,2155 729,2155 754,2154 780,2154 806,2153 831,2153 857,2152 883,2152 908,2153 934,2154 960,2156 986,2158"/>
+                <TextEquiv>
+                    <Unicode>ch, Ch= j.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="239,2251 1441,2266 1421,2185 647,2210 240,2157"/>
+                <Baseline points="247,2242 306,2243 365,2243 424,2243 484,2243 543,2244 602,2244 662,2244 721,2244 780,2245 840,2245 899,2245 958,2245 1017,2246 1077,2246 1136,2246 1195,2246 1255,2247 1314,2247 1373,2248 1433,2248"/>
+                <TextEquiv>
+                    <Unicode>Der Cherub, China, der Chineſe, Conrad, der Vocal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="179,2313 1445,2320 1445,2267 1377,2254 179,2260"/>
+                <Baseline points="187,2303 249,2302 312,2301 374,2301 437,2301 499,2301 562,2301 624,2301 687,2301 749,2302 812,2302 874,2303 937,2304 999,2304 1062,2305 1124,2305 1187,2305 1249,2305 1312,2305 1374,2305 1437,2305"/>
+                <TextEquiv>
+                    <Unicode>Der Cherub ist ein Engel. Conrad ist ein Name. China</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="182,2370 1364,2385 1452,2376 1453,2315 182,2315"/>
+                <Baseline points="190,2361 252,2361 315,2361 378,2361 440,2362 503,2362 566,2362 628,2363 691,2363 754,2363 817,2364 879,2364 942,2365 1005,2365 1067,2365 1130,2365 1193,2366 1255,2366 1318,2366 1381,2366 1444,2365"/>
+                <TextEquiv>
+                    <Unicode>iſt ein großes Land. In der Cisterne iſt Waſſer. Quäle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="167,2430 211,2448 294,2432 366,2449 410,2432 490,2452 578,2435 578,2372 526,2364 432,2388 334,2368 167,2375"/>
+                <Baseline points="174,2419 200,2420 226,2421 253,2421 279,2422 306,2422 332,2421 358,2421 385,2421 411,2420 438,2420 464,2420 490,2419 517,2420 543,2420 570,2421"/>
+                <TextEquiv>
+                    <Unicode>die Thiere nicht!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>38&#xD;
+In einer Ecke des Hofes liegt ein Hund in einem&#xD;
+Häuschen. Er iſt mit einer Kette befeſtigt. Sobald ein&#xD;
+Fremder auf dem Hofe erſcheint, ſpringt er plötzlich&#xD;
+aus ſeinem Häuschen, reißt gewaltig an der Kette und&#xD;
+bellt laut. Kommt aber ſein Herr gegangen, ſo ist er&#xD;
+voller Freude. Er wedelt mit dem Schweife und ſpringt&#xD;
+an ihm hinan. Wenn es Abend geworden iſt, bindet&#xD;
+man ihn los. Er bewacht in der Nacht das Haus.&#xD;
+Auf dem Dache ſitzen die niedlichen Täubchen. Es&#xD;
+sind ihrer gewöhnlich recht viele zusammen. Sie fliegen&#xD;
+häufig auf den Hof und ſuchen Gerſte und Hafer. Hier&#xD;
+kann man ſie gut beſehen. Das Täubchen hat ein&#xD;
+ſchönes Federkleid und röthliche Füße. Es iſt reinlich,&#xD;
+und man wird nie Schmutz an ihm entdecken. Mein&#xD;
+Kind, laß dich nicht von ihm beſchämen!&#xD;
+107. c, C.&#xD;
+c, C = z.&#xD;
+Die Ceder, ein Centner, Cäsar, der Cirkel, Cedron.&#xD;
+Die Ceder ist ein ſchöner Baum. Cäsar war ein großer&#xD;
+Feldherr. Der Centner hat hundert Pfund. Wofür braucht&#xD;
+man den Cirkel?&#xD;
+c, C= k.&#xD;
+Die Cur, der Caplan, der Doctor, ein Concert, ein&#xD;
+Clavier, der Sclave, die Cigarren, die Complet, eine&#xD;
+Quelle, das Quecksilber. Der Doctor curirt den Kranken.&#xD;
+Im Concerte wird geſungen. Die Cigarren werden&#xD;
+geraucht.&#xD;
+ch, Ch= j.&#xD;
+Der Cherub, China, der Chineſe, Conrad, der Vocal.&#xD;
+Der Cherub ist ein Engel. Conrad ist ein Name. China&#xD;
+iſt ein großes Land. In der Cisterne iſt Waſſer. Quäle&#xD;
+die Thiere nicht!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

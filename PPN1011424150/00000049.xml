@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:58.133+01:00</Created>
+        <LastChange>2020-03-26T15:27:42.605+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000049.png" imageWidth="1502" imageHeight="2636">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585232862672" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="77,153 77,2470 1333,2470 1333,153"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="660,204 683,211 689,207 698,210 718,201 748,216 756,216 754,136 729,137 720,128 709,128 681,146 668,138 659,139"/>
+                <Baseline points="668,184 694,187 721,184 748,184"/>
+                <TextEquiv>
+                    <Unicode>45</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="406,354 551,330 985,335 984,276 905,252 694,283 653,253 568,291 406,244"/>
+                <Baseline points="413,320 441,321 469,322 497,323 525,323 554,323 582,323 610,323 638,323 666,323 695,323 723,322 751,322 779,322 807,321 836,321 864,321 892,321 920,321 948,321 977,321"/>
+                <TextEquiv>
+                    <Unicode>121. Der Winter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="127,419 1340,422 1340,369 1276,353 127,360"/>
+                <Baseline points="134,411 197,411 260,412 323,412 386,412 449,412 512,412 575,412 638,412 701,412 765,411 828,411 891,411 954,411 1017,411 1080,411 1143,411 1206,411 1269,412 1333,413"/>
+                <TextEquiv>
+                    <Unicode>Im Winter wird es früh dunkel. Auf der Straße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="69,488 1330,473 1329,424 1258,417 681,414 620,453 535,414 69,413"/>
+                <Baseline points="77,469 139,469 201,470 263,470 326,470 388,470 450,471 512,471 575,471 637,470 699,470 761,470 824,470 886,470 948,470 1010,470 1073,469 1135,469 1197,469 1259,469 1322,469"/>
+                <TextEquiv>
+                    <Unicode>brennt die Laterne. — Die Luft wird kälter. Bäche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="69,533 1334,534 1334,487 1195,475 69,488"/>
+                <Baseline points="77,529 139,529 202,529 264,529 327,529 389,529 452,529 514,529 577,529 639,529 702,529 764,529 827,529 889,529 952,529 1014,529 1077,529 1139,529 1202,528 1264,528 1327,528"/>
+                <TextEquiv>
+                    <Unicode>und Teiche gefrieren. Die Fenſter sind mit Eisblumen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="71,600 1330,602 1302,543 1209,568 1086,528 71,550"/>
+                <Baseline points="78,589 140,589 202,589 264,588 326,588 389,588 451,588 513,588 575,588 637,588 700,588 762,588 824,588 886,588 948,588 1011,588 1073,588 1135,588 1197,588 1259,587 1322,587"/>
+                <TextEquiv>
+                    <Unicode>geziert. Statt des Regens fällt häufiger Schnee. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="77,657 1340,658 1340,614 1204,592 77,604"/>
+                <Baseline points="85,645 147,645 209,646 272,646 334,647 396,647 459,647 521,647 583,647 646,647 708,647 770,647 833,646 895,646 957,646 1020,646 1082,646 1144,646 1207,646 1269,646 1332,646"/>
+                <TextEquiv>
+                    <Unicode>Schnee deckt Feld und Flur. Muntere Knaben freuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="70,719 1289,729 1336,713 1336,654 70,657"/>
+                <Baseline points="78,704 140,704 203,705 265,706 328,706 390,706 453,706 515,706 578,706 640,706 703,706 765,706 828,706 890,706 953,706 1015,705 1078,705 1140,705 1203,705 1265,705 1328,705"/>
+                <TextEquiv>
+                    <Unicode>sich des glatten Eiſes. Der Wagen knarrt vom Froſte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="77,771 1331,784 1331,729 1256,717 77,718"/>
+                <Baseline points="85,762 146,763 208,764 270,764 332,765 394,765 456,765 518,766 580,766 642,766 704,766 765,766 827,765 889,765 951,765 1013,765 1075,765 1137,765 1199,766 1261,766 1323,766"/>
+                <TextEquiv>
+                    <Unicode>Es dampfen die Pferde. Man freut sich des wärmenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="73,852 907,848 944,821 1133,862 1133,807 1054,774 294,774 248,801 73,771"/>
+                <Baseline points="81,824 133,825 185,826 237,826 290,827 342,827 394,827 446,827 499,827 551,827 603,826 655,826 708,826 760,826 812,826 864,826 917,826 969,826 1021,826 1073,827 1126,827"/>
+                <TextEquiv>
+                    <Unicode>Ofens. Gott ſorgt für Menſchen und Thiere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="392,968 553,957 589,984 639,964 747,985 1010,960 1010,889 902,887 760,928 671,891 393,904"/>
+                <Baseline points="400,956 430,956 460,956 490,957 520,957 550,957 580,958 610,958 640,958 670,959 701,959 731,959 761,959 791,959 821,959 851,959 881,959 911,959 941,958 971,957 1002,956"/>
+                <TextEquiv>
+                    <Unicode>122. Morgengebet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="326,1058 470,1070 541,1038 584,1066 781,1048 865,1078 929,1047 1031,1071 1031,999 835,994 759,1016 657,990 540,1013 460,984 325,991"/>
+                <Baseline points="334,1054 368,1053 402,1052 437,1051 471,1051 506,1050 540,1050 575,1050 609,1050 644,1049 678,1049 712,1049 747,1049 781,1049 816,1049 850,1049 885,1049 919,1049 954,1049 988,1048 1023,1047"/>
+                <TextEquiv>
+                    <Unicode>Ich thu' die hellen Augen auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="271,1121 1086,1122 1086,1058 864,1077 601,1055 543,1082 271,1040"/>
+                <Baseline points="278,1109 318,1108 358,1108 398,1108 438,1108 478,1108 518,1108 558,1108 598,1108 638,1109 678,1109 718,1109 758,1109 798,1109 838,1109 878,1108 918,1108 958,1108 998,1108 1038,1107 1078,1107"/>
+                <TextEquiv>
+                    <Unicode>Und ſchau', o Gott, zu dir hinauf!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="270,1179 420,1189 475,1158 579,1192 758,1160 1074,1185 1095,1113 270,1125"/>
+                <Baseline points="277,1169 317,1168 358,1167 398,1167 439,1167 479,1166 520,1166 560,1166 601,1166 641,1166 682,1166 722,1166 763,1166 803,1166 844,1166 884,1166 925,1166 965,1166 1006,1166 1046,1166 1087,1166"/>
+                <TextEquiv>
+                    <Unicode>Du hast mich in der dunkeln Nacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="268,1247 620,1223 709,1248 761,1220 858,1254 1063,1257 1063,1196 1027,1174 269,1177"/>
+                <Baseline points="276,1226 317,1226 358,1226 399,1226 440,1226 481,1226 522,1225 563,1225 604,1225 645,1225 686,1225 727,1225 768,1225 809,1226 850,1226 891,1226 932,1227 973,1228 1014,1229 1055,1230"/>
+                <TextEquiv>
+                    <Unicode>Sanft ſchlafen laſſen und bewacht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="264,1352 330,1369 389,1349 508,1366 860,1344 924,1369 962,1355 962,1289 870,1298 721,1268 616,1301 496,1276 264,1294"/>
+                <Baseline points="272,1341 306,1343 340,1343 374,1344 408,1345 442,1345 476,1345 510,1345 544,1345 578,1345 613,1345 647,1345 681,1344 715,1344 749,1344 783,1344 817,1344 851,1344 885,1345 919,1346 954,1347"/>
+                <TextEquiv>
+                    <Unicode>Behüte mich auch dieſen Tag,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="271,1411 1065,1420 1065,1361 1012,1356 934,1376 857,1346 823,1367 271,1353"/>
+                <Baseline points="278,1403 317,1403 356,1404 395,1404 434,1404 473,1403 512,1403 551,1403 590,1402 629,1402 668,1401 707,1401 746,1401 785,1401 824,1401 863,1402 902,1403 941,1404 980,1405 1019,1407 1058,1410"/>
+                <TextEquiv>
+                    <Unicode>Daß mich kein Uebel treffen mag;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="275,1468 1060,1473 1060,1430 1006,1414 942,1434 819,1406 695,1428 275,1411"/>
+                <Baseline points="282,1461 320,1462 359,1462 397,1462 436,1462 474,1462 513,1462 551,1462 590,1461 628,1461 667,1461 705,1461 744,1460 782,1460 821,1460 859,1461 898,1461 936,1462 975,1463 1013,1463 1052,1465"/>
+                <TextEquiv>
+                    <Unicode>Und schenksſ du deine Gnade mir,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="274,1551 1038,1531 1038,1473 984,1464 355,1487 274,1467"/>
+                <Baseline points="281,1520 318,1521 355,1521 393,1521 430,1522 468,1522 505,1522 543,1522 580,1521 618,1521 655,1521 692,1521 730,1521 767,1521 805,1521 842,1521 880,1521 917,1521 955,1521 992,1522 1030,1522"/>
+                <TextEquiv>
+                    <Unicode>So leb' ich dir, ſo sterb' ich dir.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="411,1668 522,1684 666,1661 908,1688 990,1676 990,1590 835,1576 737,1617 654,1592 569,1626 458,1593 411,1612"/>
+                <Baseline points="419,1653 447,1653 475,1653 503,1653 531,1653 559,1653 587,1654 616,1654 644,1654 672,1654 700,1654 728,1654 756,1654 784,1654 813,1654 841,1654 869,1654 897,1654 925,1654 953,1655 982,1655"/>
+                <TextEquiv>
+                    <Unicode>123. Abendgebet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="371,1752 419,1768 443,1744 485,1763 596,1738 704,1764 946,1744 1032,1760 1032,1694 890,1681 862,1704 802,1679 713,1706 489,1705 432,1685 371,1708"/>
+                <Baseline points="379,1746 411,1745 443,1745 475,1745 508,1745 540,1745 572,1744 605,1744 637,1744 669,1744 702,1744 734,1745 766,1745 798,1745 831,1745 863,1745 895,1745 928,1746 960,1746 992,1746 1025,1747"/>
+                <TextEquiv>
+                    <Unicode>O guter Gott, ich danke dir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="312,1821 559,1815 588,1797 612,1816 834,1806 905,1822 904,1764 824,1745 802,1764 601,1747 438,1770 311,1748"/>
+                <Baseline points="320,1806 348,1806 377,1806 406,1805 435,1805 464,1804 493,1804 521,1804 550,1803 579,1803 608,1803 637,1802 666,1802 695,1802 723,1802 752,1802 781,1802 810,1802 839,1802 868,1803 897,1803"/>
+                <TextEquiv>
+                    <Unicode>Für all die vielen Gaben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="299,1860 1098,1876 1098,1824 1045,1804 1012,1826 958,1802 914,1827 755,1806 704,1828 601,1805 299,1823"/>
+                <Baseline points="307,1863 346,1862 385,1862 424,1862 463,1861 502,1861 541,1861 581,1861 620,1861 659,1861 698,1861 737,1861 776,1861 815,1861 855,1862 894,1862 933,1863 972,1864 1011,1865 1050,1865 1090,1866"/>
+                <TextEquiv>
+                    <Unicode>Und bitte dich, doch ſtets mit mir,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="301,1936 791,1927 842,1958 958,1930 958,1891 880,1871 849,1888 301,1873"/>
+                <Baseline points="309,1922 341,1922 373,1922 405,1922 437,1921 469,1921 501,1921 533,1921 565,1921 597,1921 629,1921 661,1921 693,1921 725,1921 757,1921 789,1921 821,1921 853,1921 885,1921 917,1921 950,1921"/>
+                <TextEquiv>
+                    <Unicode>Recht viel Geduld zu haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="354,2021 1110,2037 1110,1973 1052,1957 355,1960"/>
+                <Baseline points="363,2016 401,2016 440,2016 479,2016 518,2016 557,2016 596,2016 635,2016 674,2016 713,2016 751,2016 790,2016 829,2016 868,2017 907,2017 946,2018 985,2019 1024,2020 1063,2021 1102,2023"/>
+                <TextEquiv>
+                    <Unicode>Der Tag iſt wieder hingebracht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="302,2082 1054,2084 1054,2039 1014,2023 962,2045 835,2022 781,2046 735,2018 302,2030"/>
+                <Baseline points="310,2075 346,2076 383,2076 420,2076 457,2076 494,2076 530,2076 567,2076 604,2075 641,2075 678,2075 714,2075 751,2075 788,2075 825,2075 862,2075 898,2076 935,2076 972,2077 1009,2078 1046,2079"/>
+                <TextEquiv>
+                    <Unicode>Muß nun zur Ruh' mich legen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="309,2143 695,2132 851,2159 912,2131 1019,2158 1059,2154 1060,2080 809,2106 655,2077 309,2090"/>
+                <Baseline points="317,2134 353,2134 390,2133 427,2133 463,2132 500,2132 537,2132 573,2132 610,2132 647,2133 684,2133 720,2133 757,2133 794,2134 830,2134 867,2134 904,2134 940,2135 977,2135 1014,2135 1051,2135"/>
+                <TextEquiv>
+                    <Unicode>Sei du bei mir die ganze Nacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="302,2201 363,2221 418,2198 594,2197 699,2224 754,2194 788,2211 868,2188 907,2221 1023,2210 1023,2169 893,2138 854,2161 682,2136 302,2148"/>
+                <Baseline points="310,2194 345,2194 380,2193 415,2193 451,2193 486,2193 521,2193 556,2193 592,2193 627,2193 662,2193 697,2193 733,2193 768,2193 803,2193 838,2194 874,2194 909,2194 944,2195 979,2195 1015,2195"/>
+                <TextEquiv>
+                    <Unicode>Mit deinem Schutz und Segen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="355,2271 704,2297 768,2274 1044,2280 1090,2308 1091,2210 851,2235 740,2208 678,2238 550,2240 356,2217"/>
+                <Baseline points="364,2273 399,2273 435,2274 471,2274 507,2274 543,2274 579,2274 615,2274 651,2274 687,2274 723,2274 758,2274 794,2274 830,2274 866,2274 902,2274 938,2275 974,2276 1010,2277 1046,2277 1082,2279"/>
+                <TextEquiv>
+                    <Unicode>Erwecke mich zur Morgenstund',</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="307,2336 399,2355 435,2336 602,2355 710,2330 792,2350 925,2338 979,2366 979,2288 917,2278 631,2305 593,2283 307,2280"/>
+                <Baseline points="314,2334 346,2334 379,2334 412,2333 445,2333 478,2333 511,2333 544,2332 577,2332 610,2332 643,2332 675,2332 708,2332 741,2332 774,2332 807,2332 840,2333 873,2333 906,2334 939,2334 972,2335"/>
+                <TextEquiv>
+                    <Unicode>Gib, daß ich nie mehr fehle;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="306,2397 425,2414 484,2389 566,2408 685,2391 847,2419 957,2397 957,2361 914,2336 824,2361 716,2330 677,2355 306,2349"/>
+                <Baseline points="314,2392 345,2392 377,2392 409,2392 441,2392 472,2392 504,2391 536,2391 568,2391 599,2391 631,2391 663,2391 695,2391 726,2391 758,2391 790,2391 822,2391 853,2392 885,2392 917,2393 949,2393"/>
+                <TextEquiv>
+                    <Unicode>Erhalte meinen Leib geſund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="306,2484 365,2459 448,2479 479,2458 543,2472 617,2458 756,2497 870,2479 870,2414 759,2401 707,2420 635,2402 575,2419 534,2397 460,2397 418,2421 305,2398"/>
+                <Baseline points="313,2454 340,2454 368,2454 395,2454 423,2454 450,2454 478,2454 505,2453 533,2453 560,2453 588,2452 615,2452 643,2452 670,2452 698,2452 725,2452 753,2452 780,2452 808,2453 835,2454 863,2455"/>
+                <TextEquiv>
+                    <Unicode>Und ſtärke meine Seele.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>45&#xD;
+121. Der Winter.&#xD;
+Im Winter wird es früh dunkel. Auf der Straße&#xD;
+brennt die Laterne. — Die Luft wird kälter. Bäche&#xD;
+und Teiche gefrieren. Die Fenſter sind mit Eisblumen&#xD;
+geziert. Statt des Regens fällt häufiger Schnee. Der&#xD;
+Schnee deckt Feld und Flur. Muntere Knaben freuen&#xD;
+sich des glatten Eiſes. Der Wagen knarrt vom Froſte.&#xD;
+Es dampfen die Pferde. Man freut sich des wärmenden&#xD;
+Ofens. Gott ſorgt für Menſchen und Thiere.&#xD;
+122. Morgengebet.&#xD;
+Ich thu' die hellen Augen auf&#xD;
+Und ſchau', o Gott, zu dir hinauf!&#xD;
+Du hast mich in der dunkeln Nacht&#xD;
+Sanft ſchlafen laſſen und bewacht.&#xD;
+Behüte mich auch dieſen Tag,&#xD;
+Daß mich kein Uebel treffen mag;&#xD;
+Und schenksſ du deine Gnade mir,&#xD;
+So leb' ich dir, ſo sterb' ich dir.&#xD;
+123. Abendgebet.&#xD;
+O guter Gott, ich danke dir&#xD;
+Für all die vielen Gaben,&#xD;
+Und bitte dich, doch ſtets mit mir,&#xD;
+Recht viel Geduld zu haben.&#xD;
+Der Tag iſt wieder hingebracht,&#xD;
+Muß nun zur Ruh' mich legen;&#xD;
+Sei du bei mir die ganze Nacht&#xD;
+Mit deinem Schutz und Segen.&#xD;
+Erwecke mich zur Morgenstund',&#xD;
+Gib, daß ich nie mehr fehle;&#xD;
+Erhalte meinen Leib geſund&#xD;
+Und ſtärke meine Seele.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

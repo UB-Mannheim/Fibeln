@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:56.345+01:00</Created>
+        <LastChange>2020-03-26T14:33:35.745+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000038.png" imageWidth="1590" imageHeight="2630">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585229615812" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="172,149 172,2464 1440,2464 1440,149"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="684,196 714,207 740,195 772,215 816,198 837,214 883,184 910,198 928,185 961,183 960,155 930,144 888,158 797,120 766,130 745,124 731,134 720,123 682,127"/>
+                <Baseline points="692,185 718,186 744,186 770,186 796,186 822,186 848,185 874,184 900,183 926,182 952,180"/>
+                <TextEquiv>
+                    <Unicode>— 34 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="744,336 776,346 784,341 796,346 806,339 823,350 836,338 866,343 868,254 847,255 833,248 800,255 792,249 767,264 746,259"/>
+                <Baseline points="753,332 779,333 805,332 831,332 858,337"/>
+                <TextEquiv>
+                    <Unicode>98.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="230,407 1438,414 1425,314 1283,355 751,334 709,370 230,317"/>
+                <Baseline points="238,399 297,400 357,401 416,401 476,401 536,401 595,401 655,401 714,401 774,400 834,400 893,400 953,399 1012,399 1072,399 1132,398 1191,398 1251,399 1310,399 1370,400 1430,401"/>
+                <TextEquiv>
+                    <Unicode>Dampf, Dämpfe; Sumpf, Sümpfe; Strumpf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="173,482 1434,486 1434,416 1383,412 173,417"/>
+                <Baseline points="181,468 243,469 305,470 367,470 430,471 492,471 554,471 616,471 679,471 741,471 803,471 865,471 928,470 990,470 1052,470 1114,470 1177,470 1239,470 1301,470 1363,470 1426,471"/>
+                <TextEquiv>
+                    <Unicode>Strümpfe; dumpf, ſtumpf, ſtümpfen, ſtümpfeſt; ſchimpft,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="171,563 1436,548 1397,485 171,486"/>
+                <Baseline points="179,543 241,542 304,542 366,541 429,541 491,541 554,541 616,541 679,541 741,541 804,541 866,541 929,541 991,541 1054,541 1116,541 1179,540 1241,540 1304,540 1366,539 1429,538"/>
+                <TextEquiv>
+                    <Unicode>ſchimpfst; kämpft, kämpfſt, ſtampfſt; packt, packſt; ſtockt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="174,630 1434,631 1434,574 1373,547 174,565"/>
+                <Baseline points="182,611 244,611 306,610 368,610 431,610 493,611 555,611 617,611 680,611 742,612 804,612 866,612 929,613 991,613 1053,613 1115,613 1178,613 1240,612 1302,612 1364,611 1427,611"/>
+                <TextEquiv>
+                    <Unicode>ſtockſt; drückt, drückſt; flickt, flickſt; weckt, weckſt; hackt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="174,703 214,720 236,698 417,687 569,713 605,692 797,700 844,684 844,621 773,616 704,645 526,614 466,657 378,617 324,641 233,616 173,629"/>
+                <Baseline points="182,682 214,682 247,682 280,682 312,683 345,683 378,683 410,683 443,683 476,683 509,683 541,682 574,682 607,682 639,682 672,682 705,681 737,681 770,681 803,681 836,680"/>
+                <TextEquiv>
+                    <Unicode>hackſt, hackte, hacktet, hackteſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="232,757 1437,762 1407,691 1352,717 1167,671 687,720 232,699"/>
+                <Baseline points="240,750 299,750 358,750 418,749 477,749 537,749 596,749 656,749 715,749 775,749 834,749 893,749 953,749 1012,748 1072,748 1131,749 1191,749 1250,749 1310,749 1369,749 1429,749"/>
+                <TextEquiv>
+                    <Unicode>walkt, welkt; walkte, welkte; walkteſt, welkteſt; denkt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="173,832 1441,821 1398,752 173,769"/>
+                <Baseline points="180,810 242,810 305,809 367,809 430,809 493,809 555,809 618,809 681,809 743,809 806,809 869,808 931,808 994,808 1057,808 1119,808 1182,807 1245,807 1307,806 1370,805 1433,804"/>
+                <TextEquiv>
+                    <Unicode>wankt, lenkt, trinkt; denkſt, wankſt, lenkſt, trinkſt; dank=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="171,884 1438,879 1437,814 171,834"/>
+                <Baseline points="178,868 240,867 303,867 365,867 428,866 490,866 553,866 615,866 678,866 740,866 803,866 866,866 928,866 991,866 1053,866 1116,866 1178,866 1241,866 1303,866 1366,866 1429,866"/>
+                <TextEquiv>
+                    <Unicode>teſt; kränkt, kränkſt; Markt, Märkte; merkt, merkſt; wirkt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="179,941 1335,938 1425,926 1425,881 179,886"/>
+                <Baseline points="186,926 247,926 309,926 370,925 432,925 494,925 555,925 617,924 678,924 740,924 802,924 863,924 925,924 986,924 1048,923 1110,923 1171,923 1233,923 1294,923 1356,923 1418,923"/>
+                <TextEquiv>
+                    <Unicode>wirkſt; harkt, harkſt; stärkt, stärkſt; eilends, abends:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="170,997 1444,989 1443,947 1379,930 170,947"/>
+                <Baseline points="178,987 240,986 303,986 366,985 429,985 492,985 555,985 618,984 681,984 744,984 807,984 869,984 932,984 995,983 1058,983 1121,983 1184,983 1247,982 1310,982 1373,982 1436,981"/>
+                <TextEquiv>
+                    <Unicode>nachts, nichts, rechts; klatſcht, klatſchtet, klatſchteſt; glit=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="171,1058 1441,1067 1441,1012 1331,985 171,1004"/>
+                <Baseline points="179,1045 241,1045 304,1045 367,1044 429,1044 492,1044 555,1044 617,1043 680,1043 743,1043 806,1043 868,1044 931,1044 994,1044 1056,1044 1119,1044 1182,1044 1244,1044 1307,1045 1370,1045 1433,1045"/>
+                <TextEquiv>
+                    <Unicode>ſchen, glitſcht, glitſchteſt; rutſchen, rutſcht, rutſcheſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="164,1115 226,1135 397,1104 443,1107 495,1146 517,1127 602,1140 602,1059 586,1055 532,1066 516,1050 471,1051 373,1073 320,1040 230,1067 164,1062"/>
+                <Baseline points="172,1102 198,1103 224,1103 251,1103 277,1104 303,1104 330,1104 356,1104 383,1104 409,1103 435,1103 462,1103 488,1102 514,1102 541,1102 567,1101 594,1101"/>
+                <TextEquiv>
+                    <Unicode>rutſchtet, rutſchteſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="749,1181 769,1183 775,1190 790,1178 803,1189 813,1188 818,1193 829,1184 838,1183 843,1188 848,1183 862,1185 865,1111 846,1108 826,1091 812,1095 806,1090 781,1089 761,1103 752,1102"/>
+                <Baseline points="757,1174 789,1174 822,1175 855,1178"/>
+                <TextEquiv>
+                    <Unicode>99.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="229,1243 1436,1259 1436,1185 1378,1174 1079,1214 940,1156 884,1205 229,1188"/>
+                <Baseline points="237,1242 296,1242 356,1242 415,1242 475,1242 534,1242 594,1242 653,1242 713,1242 772,1242 832,1241 892,1241 951,1241 1011,1241 1070,1241 1130,1241 1189,1241 1249,1240 1308,1240 1368,1240 1428,1240"/>
+                <TextEquiv>
+                    <Unicode>Einſt ging Ernſt mit ſeinem Vater auf das Feld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="179,1303 1441,1303 1399,1248 1076,1248 1013,1285 935,1247 179,1241"/>
+                <Baseline points="187,1298 249,1298 311,1299 373,1299 436,1300 498,1300 560,1300 623,1301 685,1301 747,1301 810,1300 872,1300 934,1300 996,1300 1059,1300 1121,1299 1183,1299 1246,1298 1308,1298 1370,1297 1433,1297"/>
+                <TextEquiv>
+                    <Unicode>Sie kamen an einen großen Acker. Darauf ſtanden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="176,1358 1444,1365 1375,1300 176,1320"/>
+                <Baseline points="184,1357 246,1357 309,1357 371,1358 434,1358 497,1358 559,1358 622,1358 685,1359 747,1359 810,1359 873,1359 935,1359 998,1358 1061,1358 1123,1358 1186,1357 1249,1356 1311,1355 1374,1354 1437,1353"/>
+                <TextEquiv>
+                    <Unicode>Erbſen, Bohnen und Möhren. Eine Frau pflückte die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="173,1421 1439,1424 1426,1361 173,1367"/>
+                <Baseline points="181,1416 243,1417 305,1417 368,1417 430,1417 493,1417 555,1417 618,1417 680,1417 743,1417 805,1417 867,1417 930,1417 992,1417 1055,1416 1117,1416 1180,1416 1242,1415 1305,1414 1367,1414 1430,1413"/>
+                <TextEquiv>
+                    <Unicode>Bohnen und legte ſie in einen Korb. Sie kamen an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="176,1490 1440,1476 1402,1420 411,1425 326,1460 176,1422"/>
+                <Baseline points="185,1477 247,1476 309,1475 372,1475 434,1474 496,1474 559,1474 621,1474 683,1474 746,1474 808,1474 870,1474 933,1475 995,1475 1057,1475 1120,1474 1182,1474 1244,1473 1307,1473 1369,1472 1432,1470"/>
+                <TextEquiv>
+                    <Unicode>einen andern Acker. Ein Mann ſchärfte seine Senſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="175,1551 1439,1547 1438,1498 1383,1483 175,1499"/>
+                <Baseline points="182,1535 244,1534 306,1533 369,1533 431,1533 494,1533 556,1533 619,1533 681,1533 744,1533 806,1533 868,1534 931,1534 993,1534 1056,1533 1118,1533 1181,1533 1243,1532 1306,1531 1368,1530 1431,1528"/>
+                <TextEquiv>
+                    <Unicode>und mähte die reife Gerſte. Die Magd band die Gerſte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="172,1602 1431,1609 1430,1549 1339,1538 171,1555"/>
+                <Baseline points="179,1593 241,1593 303,1592 365,1592 427,1592 490,1592 552,1592 614,1592 676,1592 738,1592 801,1592 863,1592 925,1592 987,1592 1049,1592 1112,1592 1174,1592 1236,1592 1298,1591 1360,1591 1423,1590"/>
+                <TextEquiv>
+                    <Unicode>in Garben und ſetzte dieſe in Haufen. Ein Wagen fuhr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="174,1657 1433,1667 1433,1612 1364,1600 174,1602"/>
+                <Baseline points="182,1652 244,1651 306,1651 368,1650 430,1650 492,1650 554,1649 617,1650 679,1650 741,1650 803,1650 865,1650 927,1650 989,1650 1052,1650 1114,1650 1176,1650 1238,1649 1300,1649 1362,1648 1425,1647"/>
+                <TextEquiv>
+                    <Unicode>an ihnen vorbei. Die Pferde ſchwitzten; denn der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="176,1723 1442,1708 1402,1656 176,1661"/>
+                <Baseline points="184,1711 246,1710 309,1710 371,1709 434,1709 496,1709 559,1709 621,1709 684,1709 746,1709 809,1709 871,1709 934,1709 996,1709 1059,1709 1121,1708 1184,1708 1246,1707 1309,1707 1371,1706 1434,1705"/>
+                <TextEquiv>
+                    <Unicode>Wagen war ſehr ſchwer. Der Knecht aber klatſchte mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="174,1775 1442,1780 1442,1731 1348,1714 174,1724"/>
+                <Baseline points="182,1770 244,1769 307,1768 369,1768 432,1768 495,1768 557,1768 620,1768 682,1768 745,1768 808,1768 870,1768 933,1768 995,1768 1058,1768 1121,1768 1183,1767 1246,1767 1308,1766 1371,1765 1434,1764"/>
+                <TextEquiv>
+                    <Unicode>der Peitſche. Sie gingen weiter und ſahen einen andern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="178,1836 1400,1841 1438,1778 178,1779"/>
+                <Baseline points="186,1829 248,1828 310,1827 372,1826 434,1826 497,1826 559,1826 621,1826 683,1826 745,1826 808,1826 870,1826 932,1826 994,1826 1056,1826 1119,1826 1181,1825 1243,1825 1305,1824 1367,1824 1430,1823"/>
+                <TextEquiv>
+                    <Unicode>Knecht. Der ſtreute Samen aus und fuhr dann mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="174,1901 1392,1899 1440,1890 1440,1838 174,1844"/>
+                <Baseline points="182,1887 244,1886 307,1885 369,1884 432,1883 494,1883 557,1883 619,1883 682,1883 744,1883 807,1884 869,1884 932,1884 994,1884 1057,1884 1119,1884 1182,1884 1244,1884 1307,1883 1369,1882 1432,1881"/>
+                <TextEquiv>
+                    <Unicode>der Egge über das Feld. Ein Häſchen sprang aus der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="176,1957 1374,1962 1437,1955 1437,1891 176,1902"/>
+                <Baseline points="184,1944 246,1944 308,1943 370,1943 433,1943 495,1943 557,1943 619,1943 682,1943 744,1942 806,1942 868,1942 931,1942 993,1942 1055,1942 1117,1942 1180,1942 1242,1942 1304,1942 1366,1942 1429,1941"/>
+                <TextEquiv>
+                    <Unicode>Furche auf. Voll Angst lief es raſch dem Walde zu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="174,2006 1444,2016 1409,1947 174,1958"/>
+                <Baseline points="181,2001 243,2001 306,2001 369,2001 431,2001 494,2001 557,2001 619,2001 682,2001 745,2001 808,2001 870,2001 933,2001 996,2001 1058,2001 1121,2001 1184,2001 1246,2000 1309,2000 1372,1999 1435,1999"/>
+                <TextEquiv>
+                    <Unicode>Ein Vöglein flog in die Luft und ſang sein Lied. Ernſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="177,2075 1441,2087 1441,2016 1307,1999 717,2004 645,2040 178,2002"/>
+                <Baseline points="186,2061 248,2060 310,2059 373,2059 435,2059 498,2059 560,2059 622,2059 685,2059 747,2060 810,2060 872,2061 934,2061 997,2061 1059,2062 1122,2062 1184,2062 1246,2062 1309,2062 1371,2061 1434,2060"/>
+                <TextEquiv>
+                    <Unicode>horchte voll Freude. Jetzt war es Abend. Nun gingen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="176,2135 424,2119 627,2156 726,2126 964,2123 964,2080 888,2065 176,2074"/>
+                <Baseline points="184,2121 222,2121 261,2120 299,2120 338,2120 377,2119 415,2119 454,2119 492,2119 531,2119 570,2118 608,2118 647,2118 685,2118 724,2118 763,2118 801,2119 840,2119 878,2119 917,2120 956,2120"/>
+                <TextEquiv>
+                    <Unicode>der Vater und Ernſt nach Hauſe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="732,2228 746,2229 769,2214 786,2221 821,2202 836,2215 882,2212 885,2132 865,2123 852,2135 842,2140 834,2136 823,2144 797,2125 789,2131 781,2126 765,2138 735,2134"/>
+                <Baseline points="740,2198 767,2199 794,2200 821,2200 848,2201 875,2205"/>
+                <TextEquiv>
+                    <Unicode>100.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="231,2273 1440,2294 1440,2218 1402,2206 231,2227"/>
+                <Baseline points="239,2270 298,2271 358,2271 417,2271 477,2271 537,2271 596,2271 656,2271 716,2271 775,2270 835,2270 895,2270 954,2270 1014,2270 1074,2270 1133,2270 1193,2270 1253,2271 1312,2272 1372,2273 1432,2274"/>
+                <TextEquiv>
+                    <Unicode>Wohnhaus, Hausthür, Wanduhr, Schwarzbrod, Salz=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="174,2342 1359,2355 1433,2332 1433,2284 174,2290"/>
+                <Baseline points="181,2330 243,2330 305,2329 367,2329 429,2329 492,2329 554,2329 616,2329 678,2329 740,2329 803,2329 865,2329 927,2330 989,2330 1051,2330 1114,2330 1176,2331 1238,2331 1300,2331 1362,2331 1425,2331"/>
+                <TextEquiv>
+                    <Unicode>faß, Bierglas, Schlafrock, Festkleid, Hofraum, Jagd=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="313,2379 615,2413 1438,2395 1437,2350 1270,2330 313,2355"/>
+                <Baseline points="173,2395 376,2385 431,2385 487,2385 542,2385 598,2385 653,2386 709,2386 764,2386 820,2387 875,2387 930,2387 986,2388 1041,2388 1097,2388 1152,2388 1208,2388 1263,2387 1319,2387 1374,2387 1430,2386"/>
+                <TextEquiv>
+                    <Unicode>hund. — Gartenthür, Blumenbeet, Fingerhut, Immer=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:35;}">
+                <Coords points="175,2468 1248,2449 1338,2482 1448,2467 1448,2405 175,2412"/>
+                <Baseline points="183,2450 245,2449 308,2448 371,2447 434,2446 497,2446 560,2445 622,2445 685,2445 748,2445 811,2446 874,2446 937,2446 1000,2446 1062,2447 1125,2447 1188,2447 1251,2447 1314,2447 1377,2446 1440,2446"/>
+                <TextEquiv>
+                    <Unicode>grün, Veilchenduft, Apfelbaum, Sauerkraut, Blumen=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 34 —&#xD;
+98.&#xD;
+Dampf, Dämpfe; Sumpf, Sümpfe; Strumpf,&#xD;
+Strümpfe; dumpf, ſtumpf, ſtümpfen, ſtümpfeſt; ſchimpft,&#xD;
+ſchimpfst; kämpft, kämpfſt, ſtampfſt; packt, packſt; ſtockt,&#xD;
+ſtockſt; drückt, drückſt; flickt, flickſt; weckt, weckſt; hackt,&#xD;
+hackſt, hackte, hacktet, hackteſt.&#xD;
+walkt, welkt; walkte, welkte; walkteſt, welkteſt; denkt,&#xD;
+wankt, lenkt, trinkt; denkſt, wankſt, lenkſt, trinkſt; dank=&#xD;
+teſt; kränkt, kränkſt; Markt, Märkte; merkt, merkſt; wirkt,&#xD;
+wirkſt; harkt, harkſt; stärkt, stärkſt; eilends, abends:&#xD;
+nachts, nichts, rechts; klatſcht, klatſchtet, klatſchteſt; glit=&#xD;
+ſchen, glitſcht, glitſchteſt; rutſchen, rutſcht, rutſcheſt,&#xD;
+rutſchtet, rutſchteſt.&#xD;
+99.&#xD;
+Einſt ging Ernſt mit ſeinem Vater auf das Feld.&#xD;
+Sie kamen an einen großen Acker. Darauf ſtanden&#xD;
+Erbſen, Bohnen und Möhren. Eine Frau pflückte die&#xD;
+Bohnen und legte ſie in einen Korb. Sie kamen an&#xD;
+einen andern Acker. Ein Mann ſchärfte seine Senſe&#xD;
+und mähte die reife Gerſte. Die Magd band die Gerſte&#xD;
+in Garben und ſetzte dieſe in Haufen. Ein Wagen fuhr&#xD;
+an ihnen vorbei. Die Pferde ſchwitzten; denn der&#xD;
+Wagen war ſehr ſchwer. Der Knecht aber klatſchte mit&#xD;
+der Peitſche. Sie gingen weiter und ſahen einen andern&#xD;
+Knecht. Der ſtreute Samen aus und fuhr dann mit&#xD;
+der Egge über das Feld. Ein Häſchen sprang aus der&#xD;
+Furche auf. Voll Angst lief es raſch dem Walde zu.&#xD;
+Ein Vöglein flog in die Luft und ſang sein Lied. Ernſt&#xD;
+horchte voll Freude. Jetzt war es Abend. Nun gingen&#xD;
+der Vater und Ernſt nach Hauſe.&#xD;
+100.&#xD;
+Wohnhaus, Hausthür, Wanduhr, Schwarzbrod, Salz=&#xD;
+faß, Bierglas, Schlafrock, Festkleid, Hofraum, Jagd=&#xD;
+hund. — Gartenthür, Blumenbeet, Fingerhut, Immer=&#xD;
+grün, Veilchenduft, Apfelbaum, Sauerkraut, Blumen=</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

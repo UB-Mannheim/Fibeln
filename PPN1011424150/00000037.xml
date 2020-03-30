@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:56.147+01:00</Created>
+        <LastChange>2020-03-26T14:26:23.352+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000037.png" imageWidth="1530" imageHeight="2624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585229183420" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="98,109 98,2462 1383,2462 1383,109"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="689,197 716,194 730,202 752,186 761,192 764,189 780,191 780,115 766,112 755,118 735,112 714,93 706,99 689,102"/>
+                <Baseline points="696,173 721,175 747,174 773,174"/>
+                <TextEquiv>
+                    <Unicode>33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="91,320 1315,322 1366,309 1365,230 90,260"/>
+                <Baseline points="98,307 161,307 224,308 287,308 350,308 413,308 476,308 539,308 602,307 665,307 728,306 791,306 854,305 917,305 980,304 1043,303 1106,302 1169,301 1232,300 1295,299 1358,298"/>
+                <TextEquiv>
+                    <Unicode>kriechen und fliegen. Die Biene hat ſechs Füße und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="99,402 1324,393 1369,325 99,330"/>
+                <Baseline points="107,379 169,379 232,379 295,378 358,378 420,378 483,377 546,377 609,377 671,376 734,376 797,376 860,375 922,375 985,374 1048,374 1111,373 1173,372 1236,371 1299,370 1362,369"/>
+                <TextEquiv>
+                    <Unicode>vier Flügel. Was kann ſie? Die Gans hat zwei Füße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="106,456 1366,458 1365,401 1311,389 106,397"/>
+                <Baseline points="114,450 176,450 238,449 300,449 362,449 424,448 486,448 549,448 611,447 673,447 735,447 797,446 859,446 921,445 984,445 1046,444 1108,443 1170,442 1232,441 1294,440 1357,438"/>
+                <TextEquiv>
+                    <Unicode>und zwei Flügel; ſie kann gehen, fliegen und ſchwimmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="98,540 1356,544 1376,452 97,473"/>
+                <Baseline points="105,519 168,518 231,518 294,518 357,517 420,517 483,517 547,517 610,517 673,517 736,516 799,516 862,516 925,516 989,515 1052,515 1115,514 1178,513 1241,512 1304,511 1368,510"/>
+                <TextEquiv>
+                    <Unicode>Was hat der Frosch? Was kann er? Der Fisch hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="99,595 1077,608 1355,592 1375,540 98,540"/>
+                <Baseline points="106,589 169,589 232,589 295,588 358,588 421,588 484,588 547,588 610,588 673,588 737,588 800,587 863,587 926,587 989,586 1052,585 1115,585 1178,583 1241,582 1304,580 1368,579"/>
+                <TextEquiv>
+                    <Unicode>keine Füße und keine Flügel, ſondern Floſſen; er kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="107,679 1345,678 1372,592 106,611"/>
+                <Baseline points="114,661 176,660 239,660 301,659 364,659 426,659 489,658 551,658 614,658 676,658 739,658 802,658 864,658 927,658 989,658 1052,657 1114,657 1177,657 1239,656 1302,655 1365,654"/>
+                <TextEquiv>
+                    <Unicode>ſchwimmen. Der Wurm hat keine Füße, keine Flügel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="96,745 507,763 652,731 832,754 924,745 924,684 797,665 505,695 418,663 96,693"/>
+                <Baseline points="104,729 144,730 185,731 225,732 266,733 307,733 347,733 388,733 428,733 469,733 510,732 550,732 591,731 631,731 672,730 713,729 753,729 794,728 834,728 875,727 916,727"/>
+                <TextEquiv>
+                    <Unicode>und keine Floſſen; er muß kriechen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="674,852 685,851 696,862 724,847 751,867 762,863 792,867 792,798 779,798 752,779 740,779 730,787 724,781 717,784 711,779 706,784 684,773 673,775"/>
+                <Baseline points="682,853 707,851 733,849 758,850 784,853"/>
+                <TextEquiv>
+                    <Unicode>96.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="155,934 1261,938 1375,922 1376,857 156,863"/>
+                <Baseline points="164,918 189,918 215,918 241,919 267,919 293,919 319,919 345,919 371,918 397,918 422,918 448,918 474,918 500,918 526,918 552,918 578,919 604,919 630,919 1367,929"/>
+                <TextEquiv>
+                    <Unicode>Durſt, Gerſte, Wurſt, Firſte; du hörſt, lehrſt, führſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="107,1006 1376,993 1342,931 108,930"/>
+                <Baseline points="115,990 142,990 170,990 197,990 225,989 253,989 280,989 308,988 335,988 363,987 391,987 418,987 446,986 473,986 501,986 529,986 556,986 584,986 611,987 639,988 1367,1002"/>
+                <TextEquiv>
+                    <Unicode>frierſt, hinderſt, wanderſt, milderſt; Dunſt, Gunſt, Dienſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="111,1071 1073,1089 1370,1074 1370,1010 110,1009"/>
+                <Baseline points="118,1058 180,1058 242,1058 304,1058 366,1058 429,1058 491,1058 553,1058 615,1058 677,1057 740,1057 802,1057 864,1057 926,1057 988,1056 1051,1056 1113,1056 1175,1055 1237,1055 1299,1055 1362,1055"/>
+                <TextEquiv>
+                    <Unicode>Kunſt; du weinſt, kennſt, spinnſt; er lernt, warnt, zürnt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="109,1143 1232,1150 1382,1130 1383,1082 109,1072"/>
+                <Baseline points="117,1128 145,1128 173,1128 202,1129 230,1129 258,1129 287,1129 315,1129 343,1129 372,1129 400,1129 428,1129 457,1129 485,1129 513,1128 542,1128 570,1128 598,1128 627,1128 655,1128 1375,1139"/>
+                <TextEquiv>
+                    <Unicode>du lernſt, warnſt, zürnſt; er lernte, warnte, zürnte; du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:13;}">
+                <Coords points="104,1211 1362,1216 1363,1146 105,1156"/>
+                <Baseline points="113,1198 141,1198 170,1198 199,1198 228,1198 257,1199 286,1199 315,1199 344,1199 373,1199 402,1199 430,1198 459,1198 488,1198 517,1198 546,1198 575,1198 604,1198 633,1198 662,1198 1355,1206"/>
+                <TextEquiv>
+                    <Unicode>kommſt, träumſt, rühmſt; er wärmt, ſchirmt; du rufſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+                <Coords points="117,1274 1378,1283 1377,1208 116,1216"/>
+                <Baseline points="125,1270 187,1270 249,1270 311,1271 373,1271 436,1270 498,1270 560,1270 622,1269 684,1268 747,1268 809,1267 871,1266 933,1266 995,1265 1058,1265 1120,1265 1182,1265 1244,1265 1306,1265 1369,1265"/>
+                <TextEquiv>
+                    <Unicode>kaufſt, läufſt, hoffſt; Zunft, Sänfte; ſanft; darfſt, ſchärfſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+                <Coords points="160,1344 1345,1357 1373,1281 160,1296"/>
+                <Baseline points="168,1339 227,1340 287,1341 347,1341 407,1341 467,1341 527,1341 586,1341 646,1340 706,1340 766,1339 826,1339 886,1338 946,1338 1005,1337 1065,1337 1125,1337 1185,1336 1245,1336 1305,1336 1365,1337"/>
+                <TextEquiv>
+                    <Unicode>legſt, liegſt, ſägſt, ſagſt, beugſt; ſuchſt, reichſt, kochſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:16;}">
+                <Coords points="107,1406 1374,1416 1374,1355 1334,1349 107,1349"/>
+                <Baseline points="115,1409 177,1409 240,1409 302,1409 365,1409 427,1409 490,1409 552,1409 615,1409 677,1408 740,1408 803,1408 865,1408 928,1407 990,1407 1053,1406 1115,1406 1178,1406 1240,1405 1303,1404 1366,1404"/>
+                <TextEquiv>
+                    <Unicode>keuchſt, lachſt, ſchleichſt; folgt, kargt, birgt, horcht; tüncht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:17;}">
+                <Coords points="117,1499 1370,1489 1354,1421 116,1431"/>
+                <Baseline points="125,1479 186,1479 248,1479 310,1479 372,1479 434,1479 495,1479 557,1479 619,1479 681,1479 743,1478 804,1478 866,1478 928,1478 990,1477 1052,1477 1113,1477 1175,1476 1237,1476 1299,1476 1361,1476"/>
+                <TextEquiv>
+                    <Unicode>forſcht, herrſcht; folgſt, birgſt, horchſt, tünchſt, forſchst,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:18;}">
+                <Coords points="120,1572 482,1591 566,1551 825,1602 907,1552 1378,1568 1338,1484 120,1501"/>
+                <Baseline points="129,1553 191,1553 253,1552 315,1552 377,1551 439,1551 501,1551 563,1551 625,1550 687,1550 749,1550 811,1550 873,1550 935,1550 997,1549 1059,1549 1121,1549 1183,1548 1245,1548 1307,1547 1370,1547"/>
+                <TextEquiv>
+                    <Unicode>herrſchst; folgteſt, horchteſt, tünchteſt, forſchteſt, herrſchteſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+                <Coords points="694,1666 705,1667 717,1679 733,1685 751,1678 758,1682 770,1673 793,1683 806,1683 807,1599 785,1607 758,1599 738,1600 723,1593 715,1600 695,1593"/>
+                <Baseline points="702,1669 734,1668 766,1668 798,1671"/>
+                <TextEquiv>
+                    <Unicode>97.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:20;}">
+                <Coords points="168,1746 1381,1760 1381,1686 1237,1649 1068,1697 168,1672"/>
+                <Baseline points="175,1736 229,1737 284,1738 339,1738 393,1738 448,1738 503,1738 557,1737 612,1737 667,1737 721,1736 776,1736 831,1735 885,1735 940,1735 995,1734 1049,1734 1104,1735 1159,1735 1373,1743"/>
+                <TextEquiv>
+                    <Unicode>labſt, liebſt, lobſt, ſchreibſt, ſtrebſt, raubſt; Obst,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:21;}">
+                <Coords points="131,1828 1378,1821 1349,1753 131,1750"/>
+                <Baseline points="138,1808 199,1808 261,1808 322,1808 384,1808 445,1808 507,1808 568,1808 630,1808 691,1808 753,1808 815,1808 876,1808 938,1808 999,1807 1061,1807 1122,1807 1184,1807 1245,1806 1307,1806 1369,1806"/>
+                <TextEquiv>
+                    <Unicode>Propſt; ſchnappſt, tappſt, foppſt; ſelbſt; ſalbt, ſalbſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:22;}">
+                <Coords points="135,1885 1378,1901 1378,1840 1282,1811 135,1828"/>
+                <Baseline points="142,1876 203,1877 264,1877 326,1877 387,1877 449,1877 510,1877 571,1877 633,1876 694,1876 756,1876 817,1876 878,1875 940,1875 1001,1875 1063,1875 1124,1875 1185,1875 1247,1875 1308,1876 1370,1876"/>
+                <TextEquiv>
+                    <Unicode>ſalbtet; wölbt, wölbteſt; Herbſt; darbſt; wirbt, wirbſt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:23;}">
+                <Coords points="125,1962 1385,1960 1385,1908 1303,1886 125,1896"/>
+                <Baseline points="133,1947 195,1947 257,1946 319,1946 381,1946 444,1946 506,1946 568,1946 630,1946 692,1946 755,1946 817,1946 879,1946 941,1947 1003,1947 1066,1947 1128,1947 1190,1947 1252,1947 1314,1947 1377,1948"/>
+                <TextEquiv>
+                    <Unicode>färbt, färbſt; ſtirbt, ſtirbſt; ſalzt, falzt, wälzt, ſalzte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:24;}">
+                <Coords points="116,2046 1389,2042 1389,1978 1318,1958 116,1961"/>
+                <Baseline points="123,2017 189,2018 255,2018 321,2018 388,2018 454,2018 520,2019 586,2019 653,2019 719,2019 785,2019 851,2019 918,2020 984,2020 1050,2020 1116,2020 1183,2021 1249,2021 1315,2021 1382,2021"/>
+                <TextEquiv>
+                    <Unicode>falzte, wälzte; ſalztet, falztet, ſchmelztet; ſalzteſt, falzteſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:25;}">
+                <Coords points="114,2091 160,2097 174,2108 195,2099 215,2112 242,2111 255,2102 278,2111 296,2099 310,2104 311,2053 284,2048 263,2027 237,2034 228,2027 188,2045 180,2039 150,2046 141,2038 128,2048 115,2047"/>
+                <Baseline points="122,2085 147,2086 173,2087 199,2088 224,2088 250,2088 276,2089 302,2091"/>
+                <TextEquiv>
+                    <Unicode>wälzteſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:26;}">
+                <Coords points="168,2170 1387,2166 1386,2086 1347,2073 1206,2132 843,2069 641,2123 168,2115"/>
+                <Baseline points="177,2159 237,2160 297,2160 357,2161 417,2161 477,2161 537,2161 597,2161 657,2161 717,2160 777,2160 837,2160 897,2159 957,2159 1017,2159 1077,2158 1137,2158 1197,2158 1257,2157 1317,2157 1378,2157"/>
+                <TextEquiv>
+                    <Unicode>tanzt, grunzt, glänzt, pflanzt; tanzte, grunzte, glänzte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:27;}">
+                <Coords points="120,2245 1381,2237 1381,2190 1310,2168 120,2178"/>
+                <Baseline points="129,2231 191,2231 253,2231 315,2231 378,2230 440,2230 502,2230 564,2230 627,2230 689,2229 751,2229 813,2229 876,2229 938,2228 1000,2228 1062,2228 1125,2228 1187,2227 1249,2227 1311,2227 1374,2227"/>
+                <TextEquiv>
+                    <Unicode>pflanzte; ſcherzt, würzt; ſcherztet, würztet; herztest, kürz=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:28;}">
+                <Coords points="122,2303 1351,2316 1378,2243 122,2259"/>
+                <Baseline points="130,2300 192,2301 254,2301 316,2301 378,2301 440,2301 502,2301 564,2300 626,2300 688,2300 750,2300 812,2300 874,2299 936,2299 998,2299 1060,2299 1122,2299 1184,2298 1246,2298 1308,2298 1370,2298"/>
+                <TextEquiv>
+                    <Unicode>teſt; Arzt, Aerzte; ſeufzt, ſeufztet, ſeufztest; ächzt, ächzteſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:29;}">
+                <Coords points="131,2393 1289,2398 1380,2333 1241,2301 1028,2339 740,2302 353,2345 130,2321"/>
+                <Baseline points="138,2371 199,2371 261,2371 323,2371 385,2370 446,2370 508,2370 570,2370 632,2369 693,2369 755,2369 817,2369 879,2369 940,2368 1002,2368 1064,2368 1126,2368 1187,2367 1249,2367 1311,2367 1373,2366"/>
+                <TextEquiv>
+                    <Unicode>ſchluchzen, ſchluchzt, ſchluchzteſt; lechzen, lechzt, lechzteſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:30;}">
+                <Coords points="130,2458 1341,2469 1390,2453 1390,2394 129,2391"/>
+                <Baseline points="137,2444 199,2443 261,2443 323,2442 386,2442 448,2441 510,2441 573,2440 635,2440 697,2440 760,2439 822,2439 884,2439 946,2439 1009,2438 1071,2438 1133,2438 1196,2438 1258,2438 1320,2437 1383,2437"/>
+                <TextEquiv>
+                    <Unicode>pumpte, pumptet, pumpteſt; rupft, rupſt; klopft, klopfſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>33&#xD;
+kriechen und fliegen. Die Biene hat ſechs Füße und&#xD;
+vier Flügel. Was kann ſie? Die Gans hat zwei Füße&#xD;
+und zwei Flügel; ſie kann gehen, fliegen und ſchwimmen.&#xD;
+Was hat der Frosch? Was kann er? Der Fisch hat&#xD;
+keine Füße und keine Flügel, ſondern Floſſen; er kann&#xD;
+ſchwimmen. Der Wurm hat keine Füße, keine Flügel&#xD;
+und keine Floſſen; er muß kriechen.&#xD;
+96.&#xD;
+Durſt, Gerſte, Wurſt, Firſte; du hörſt, lehrſt, führſt,&#xD;
+frierſt, hinderſt, wanderſt, milderſt; Dunſt, Gunſt, Dienſt,&#xD;
+Kunſt; du weinſt, kennſt, spinnſt; er lernt, warnt, zürnt;&#xD;
+du lernſt, warnſt, zürnſt; er lernte, warnte, zürnte; du&#xD;
+kommſt, träumſt, rühmſt; er wärmt, ſchirmt; du rufſt,&#xD;
+kaufſt, läufſt, hoffſt; Zunft, Sänfte; ſanft; darfſt, ſchärfſt.&#xD;
+legſt, liegſt, ſägſt, ſagſt, beugſt; ſuchſt, reichſt, kochſt,&#xD;
+keuchſt, lachſt, ſchleichſt; folgt, kargt, birgt, horcht; tüncht,&#xD;
+forſcht, herrſcht; folgſt, birgſt, horchſt, tünchſt, forſchst,&#xD;
+herrſchst; folgteſt, horchteſt, tünchteſt, forſchteſt, herrſchteſt.&#xD;
+97.&#xD;
+labſt, liebſt, lobſt, ſchreibſt, ſtrebſt, raubſt; Obst,&#xD;
+Propſt; ſchnappſt, tappſt, foppſt; ſelbſt; ſalbt, ſalbſt,&#xD;
+ſalbtet; wölbt, wölbteſt; Herbſt; darbſt; wirbt, wirbſt;&#xD;
+färbt, färbſt; ſtirbt, ſtirbſt; ſalzt, falzt, wälzt, ſalzte,&#xD;
+falzte, wälzte; ſalztet, falztet, ſchmelztet; ſalzteſt, falzteſt,&#xD;
+wälzteſt.&#xD;
+tanzt, grunzt, glänzt, pflanzt; tanzte, grunzte, glänzte,&#xD;
+pflanzte; ſcherzt, würzt; ſcherztet, würztet; herztest, kürz=&#xD;
+teſt; Arzt, Aerzte; ſeufzt, ſeufztet, ſeufztest; ächzt, ächzteſt.&#xD;
+ſchluchzen, ſchluchzt, ſchluchzteſt; lechzen, lechzt, lechzteſt.&#xD;
+pumpte, pumptet, pumpteſt; rupft, rupſt; klopft, klopfſt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

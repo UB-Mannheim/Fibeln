@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:58.298+01:00</Created>
+        <LastChange>2020-03-26T15:31:40.429+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000050.png" imageWidth="1584" imageHeight="2630">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585233100522" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="319,159 319,2487 1288,2487 1288,159"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="663,196 686,206 740,197 775,215 852,204 871,189 904,201 932,193 959,202 958,170 931,174 881,141 867,148 811,126 775,129 744,149 713,144 700,153 683,140 662,142"/>
+                <Baseline points="669,191 694,193 720,196 746,197 772,199 798,199 823,198 849,198 875,196 901,194 927,191 953,188"/>
+                <TextEquiv>
+                    <Unicode>— 46 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="560,346 636,358 735,332 789,351 808,336 1023,343 1055,335 1055,262 987,286 743,264 683,290 559,280"/>
+                <Baseline points="565,332 590,333 615,333 641,333 666,334 692,334 717,333 743,333 768,333 794,332 819,332 845,331 870,331 896,331 921,330 947,330 972,330 998,330 1023,330 1049,331"/>
+                <TextEquiv>
+                    <Unicode>124. Vorsatz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="438,422 1160,417 1160,366 1088,346 928,371 888,348 813,365 499,334 437,348"/>
+                <Baseline points="443,404 478,404 514,404 549,403 585,403 620,402 656,402 691,401 727,401 762,400 798,400 834,399 869,399 905,399 940,399 976,399 1011,399 1047,400 1082,401 1118,402 1154,403"/>
+                <TextEquiv>
+                    <Unicode>0, wie freu' ich mich der Gabe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="445,479 553,462 666,482 760,461 793,477 959,461 1001,484 1056,479 1056,433 976,413 445,423"/>
+                <Baseline points="451,461 482,462 514,462 545,462 577,462 608,462 640,462 671,461 703,461 734,460 766,460 797,459 829,459 860,458 892,458 923,458 955,458 986,458 1018,459 1050,460"/>
+                <TextEquiv>
+                    <Unicode>Dass ich gute Eltern habe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="444,533 533,521 608,549 648,525 720,546 770,523 988,547 1037,534 1037,482 1020,477 894,467 813,489 720,472 637,492 601,475 524,493 444,479"/>
+                <Baseline points="450,522 479,522 508,521 537,521 566,521 595,520 624,520 653,519 682,519 711,518 740,518 769,518 798,517 827,517 856,517 885,517 914,516 943,517 972,517 1001,517 1031,517"/>
+                <TextEquiv>
+                    <Unicode>Die für mich vom Morgen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="444,595 774,600 824,584 888,606 914,587 986,588 985,540 968,536 885,550 768,531 712,551 648,525 538,556 491,530 443,531"/>
+                <Baseline points="450,580 476,580 503,579 529,579 556,579 582,579 609,578 635,578 662,577 688,577 715,577 741,576 768,576 794,576 821,576 847,576 874,576 900,576 927,577 953,578 980,579"/>
+                <TextEquiv>
+                    <Unicode>Bis zum Abend sorgen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="444,651 1142,653 1141,606 1023,588 935,609 444,596"/>
+                <Baseline points="451,639 485,638 519,638 553,637 588,637 622,636 656,636 690,636 725,635 759,635 793,634 827,634 862,634 896,634 930,634 964,634 999,634 1033,635 1067,635 1101,636 1136,637"/>
+                <TextEquiv>
+                    <Unicode>Die mich kleiden und ernähren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="438,712 1108,716 1100,653 668,647 624,664 590,647 542,667 438,647"/>
+                <Baseline points="444,698 476,697 509,697 542,696 575,696 608,695 641,695 673,695 706,694 739,694 772,694 805,694 838,693 871,693 903,693 936,694 969,694 1002,694 1035,695 1068,695 1101,696"/>
+                <TextEquiv>
+                    <Unicode>Mich das Böse meiden lehren,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="436,766 563,782 661,763 735,784 760,766 957,769 956,719 846,722 821,704 702,722 676,708 615,724 566,707 436,713"/>
+                <Baseline points="443,756 468,756 493,755 519,755 544,755 570,754 595,754 620,754 646,754 671,754 697,754 722,753 747,753 773,753 798,753 824,752 849,752 874,751 900,751 925,750 951,749"/>
+                <TextEquiv>
+                    <Unicode>Mich in allen Pflichten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="432,837 534,820 591,838 687,818 787,837 900,816 939,825 939,774 887,764 662,785 432,766"/>
+                <Baseline points="438,816 464,815 490,815 516,814 542,814 568,813 594,813 620,813 646,812 672,812 698,812 724,811 750,811 776,811 802,811 828,811 854,810 880,810 906,809 933,809"/>
+                <TextEquiv>
+                    <Unicode>Liebreich unterrichten!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="439,890 765,887 788,868 857,889 939,869 964,890 1090,884 1089,839 1065,827 775,843 688,819 504,855 438,835"/>
+                <Baseline points="444,874 476,874 508,874 540,874 572,874 604,873 636,873 668,872 700,872 732,871 764,871 796,870 828,870 860,870 892,869 924,869 956,869 988,869 1020,870 1052,870 1084,871"/>
+                <TextEquiv>
+                    <Unicode>O, ich will sie wieder lieben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="433,937 532,965 646,937 760,957 804,939 1114,948 1113,880 726,899 648,879 553,901 432,868"/>
+                <Baseline points="438,932 471,932 505,932 538,932 572,932 605,932 639,931 672,931 706,931 739,931 773,930 806,930 840,929 873,929 907,928 940,928 974,927 1007,927 1041,926 1074,925 1108,925"/>
+                <TextEquiv>
+                    <Unicode>Nie mit Vorsatz sio betrüben!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="486,1031 555,1041 653,1013 784,1026 808,1004 851,1029 992,1016 1108,1033 1108,978 1007,955 910,982 836,955 772,981 726,963 662,983 608,960 486,969"/>
+                <Baseline points="492,1012 522,1014 553,1015 583,1015 614,1016 644,1016 675,1015 705,1015 736,1014 766,1013 797,1013 827,1012 858,1011 888,1011 919,1011 949,1011 980,1011 1010,1012 1041,1013 1071,1015 1102,1017"/>
+                <TextEquiv>
+                    <Unicode>123. Am Samstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="443,1101 609,1085 712,1109 742,1089 936,1101 991,1083 1042,1114 1098,1108 1097,1038 1015,1025 930,1052 776,1025 721,1053 641,1027 442,1038"/>
+                <Baseline points="449,1082 481,1082 513,1083 545,1083 577,1083 609,1083 641,1083 673,1082 705,1082 737,1082 770,1081 802,1081 834,1081 866,1080 898,1080 930,1080 962,1080 994,1080 1026,1080 1058,1080 1091,1081"/>
+                <TextEquiv>
+                    <Unicode>Die Glocken, Glocken läuten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="385,1151 501,1146 538,1167 600,1149 633,1171 701,1145 898,1160 931,1140 1018,1168 1017,1101 994,1093 853,1108 795,1087 715,1114 670,1089 503,1110 384,1091"/>
+                <Baseline points="390,1144 421,1144 452,1144 483,1144 514,1143 545,1143 576,1143 607,1142 638,1142 669,1142 700,1141 731,1141 762,1140 793,1140 824,1139 855,1139 886,1138 917,1138 948,1138 979,1137 1011,1137"/>
+                <TextEquiv>
+                    <Unicode>Man höret ſie von weitem;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="392,1214 620,1208 681,1229 899,1196 1121,1216 1121,1135 995,1166 833,1143 746,1168 701,1145 649,1177 391,1151"/>
+                <Baseline points="398,1198 433,1200 469,1201 505,1202 541,1203 577,1203 613,1203 649,1202 685,1202 721,1201 757,1200 792,1199 828,1198 864,1197 900,1197 936,1196 972,1196 1008,1196 1044,1197 1080,1197 1116,1199"/>
+                <TextEquiv>
+                    <Unicode>Sie sagen: "Heut' ist Samstag,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="386,1268 659,1284 699,1259 1012,1257 1119,1277 1118,1228 1056,1201 1025,1224 876,1199 786,1228 385,1214"/>
+                <Baseline points="392,1259 428,1259 464,1259 500,1259 536,1259 572,1259 608,1259 644,1259 680,1258 716,1258 752,1257 788,1257 824,1256 860,1256 896,1255 932,1255 968,1254 1004,1254 1040,1254 1076,1253 1112,1253"/>
+                <TextEquiv>
+                    <Unicode>Und morgen, dann ist Sonntag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="381,1323 1086,1324 1085,1278 959,1261 866,1283 810,1263 764,1287 699,1259 661,1283 469,1289 380,1262"/>
+                <Baseline points="387,1318 421,1318 456,1319 490,1319 525,1318 560,1318 594,1318 629,1317 663,1317 698,1316 733,1316 767,1315 802,1315 836,1314 871,1314 906,1314 940,1313 975,1313 1009,1314 1044,1314 1079,1314"/>
+                <TextEquiv>
+                    <Unicode>Dann müßt ihr all' erſcheinen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="387,1393 436,1399 491,1371 524,1391 746,1378 800,1400 881,1376 1062,1387 1061,1323 875,1343 823,1325 783,1345 750,1320 712,1344 387,1333"/>
+                <Baseline points="393,1382 426,1380 459,1379 492,1378 525,1377 558,1377 591,1376 624,1375 657,1375 690,1375 724,1374 757,1374 790,1374 823,1374 856,1373 889,1373 922,1373 955,1373 988,1372 1021,1372 1055,1371"/>
+                <TextEquiv>
+                    <Unicode>Ihr Großen und ihr Kleinen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="401,1453 937,1451 985,1430 1131,1453 1130,1372 1096,1366 976,1393 880,1376 830,1406 492,1371 401,1394"/>
+                <Baseline points="407,1437 442,1436 478,1436 514,1435 550,1435 586,1434 622,1434 658,1434 694,1434 730,1433 766,1433 801,1433 837,1433 873,1432 909,1431 945,1431 981,1430 1017,1429 1053,1429 1089,1427 1125,1426"/>
+                <TextEquiv>
+                    <Unicode>Im Gotteshaus im beſten Kleid,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="381,1496 606,1527 749,1494 1062,1526 1197,1505 1196,1441 1150,1432 1123,1453 1003,1432 586,1466 380,1451"/>
+                <Baseline points="387,1495 427,1495 467,1495 507,1495 547,1494 588,1494 628,1494 668,1493 708,1493 748,1493 789,1492 829,1492 869,1492 909,1491 949,1491 990,1490 1030,1490 1070,1489 1110,1489 1150,1488 1191,1487"/>
+                <TextEquiv>
+                    <Unicode>Drum waſchet euch und ſeid bereit!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="391,1562 435,1568 453,1558 481,1572 539,1556 579,1570 620,1559 686,1581 708,1562 721,1574 742,1566 741,1526 686,1500 655,1520 639,1513 610,1526 568,1502 539,1510 518,1497 460,1517 391,1502"/>
+                <Baseline points="397,1552 423,1553 449,1554 475,1554 501,1553 527,1553 553,1552 579,1552 605,1551 631,1551 657,1550 683,1550 709,1551 735,1552"/>
+                <TextEquiv>
+                    <Unicode>Am Leibe rein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="386,1624 444,1631 464,1619 524,1632 550,1613 580,1631 641,1625 656,1611 772,1616 771,1567 747,1578 704,1564 689,1578 585,1566 544,1579 522,1562 461,1581 385,1564"/>
+                <Baseline points="392,1613 418,1613 445,1613 472,1613 498,1612 525,1612 552,1611 579,1611 605,1610 632,1610 659,1609 685,1609 712,1609 739,1609 766,1610"/>
+                <TextEquiv>
+                    <Unicode>Am Herzen rein:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="391,1679 1058,1684 1057,1612 992,1628 938,1602 910,1623 787,1626 752,1609 461,1641 391,1623"/>
+                <Baseline points="397,1671 429,1670 462,1669 495,1669 528,1668 560,1668 593,1668 626,1668 659,1668 691,1668 724,1668 757,1667 790,1667 822,1667 855,1667 888,1666 921,1665 953,1664 986,1663 1019,1662 1052,1660"/>
+                <TextEquiv>
+                    <Unicode>So könnt ihr Gott gefallen!"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="381,1739 673,1753 873,1727 956,1753 1059,1736 1058,1690 967,1671 841,1694 705,1670 644,1694 599,1671 380,1691"/>
+                <Baseline points="387,1730 420,1730 453,1730 486,1730 520,1730 553,1729 586,1729 620,1729 653,1728 686,1728 720,1727 753,1727 786,1726 819,1726 853,1725 886,1725 919,1725 953,1724 986,1724 1019,1723 1053,1723"/>
+                <TextEquiv>
+                    <Unicode>Die Glocken, Glocken ſchallen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="380,1786 631,1813 875,1782 1104,1796 1104,1753 1023,1738 836,1732 792,1757 704,1735 607,1760 502,1739 471,1760 380,1737"/>
+                <Baseline points="386,1782 421,1784 457,1786 492,1788 528,1789 564,1789 599,1789 635,1789 670,1789 706,1788 742,1787 777,1786 813,1785 848,1784 884,1784 920,1783 955,1783 991,1783 1026,1783 1062,1784 1098,1785"/>
+                <TextEquiv>
+                    <Unicode>Sie ſagen: "Heut ist Samstag,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="383,1867 676,1855 785,1882 840,1851 976,1865 1011,1844 1115,1866 1134,1794 549,1816 382,1797"/>
+                <Baseline points="388,1846 425,1847 462,1847 499,1848 536,1848 573,1848 610,1847 647,1846 684,1846 721,1845 758,1844 795,1844 832,1843 869,1842 906,1841 943,1841 980,1840 1017,1840 1054,1840 1091,1840 1128,1840"/>
+                <TextEquiv>
+                    <Unicode>Und morgen, dann ist Sonntag."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="313,1943 652,1932 722,1957 765,1931 1294,1921 1294,1895 1153,1864 313,1884"/>
+                <Baseline points="319,1931 367,1931 415,1931 464,1930 512,1930 561,1929 609,1929 658,1928 706,1928 755,1927 803,1927 851,1926 900,1926 948,1925 997,1925 1045,1924 1094,1924 1142,1924 1191,1924 1239,1924 1288,1924"/>
+                <TextEquiv>
+                    <Unicode>126. Gebet zum Christkindchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="440,2015 1078,2009 1077,1953 982,1936 872,1959 827,1936 765,1964 702,1944 647,1961 439,1950"/>
+                <Baseline points="446,2000 477,1999 508,1999 539,1999 571,1999 602,1999 633,1998 664,1998 696,1998 727,1997 758,1997 789,1997 821,1996 852,1996 883,1995 914,1995 946,1994 977,1994 1008,1994 1039,1993 1071,1993"/>
+                <TextEquiv>
+                    <Unicode>Lieb Jeſulein, süß Jesulein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="392,2069 619,2082 688,2054 1029,2053 1080,2071 1089,2016 676,2001 543,2030 391,2003"/>
+                <Baseline points="398,2057 432,2057 466,2057 500,2057 535,2057 569,2057 603,2056 637,2056 672,2056 706,2055 740,2055 774,2054 809,2054 843,2053 877,2053 911,2052 946,2051 980,2051 1014,2050 1048,2050 1083,2049"/>
+                <TextEquiv>
+                    <Unicode>Sei du mein liebes Brüderlein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="380,2132 613,2113 647,2134 887,2138 1060,2111 1060,2061 896,2081 782,2063 737,2084 576,2065 479,2087 379,2066"/>
+                <Baseline points="386,2115 419,2115 452,2115 486,2115 519,2114 553,2114 586,2114 619,2114 653,2113 686,2113 720,2113 753,2113 786,2112 820,2112 853,2112 887,2112 920,2111 953,2111 987,2110 1020,2110 1054,2110"/>
+                <TextEquiv>
+                    <Unicode>Und ſpiel' mit meiner Seele!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="384,2189 514,2198 593,2173 906,2201 938,2175 1080,2170 1122,2193 1121,2120 1091,2115 887,2138 667,2141 626,2114 384,2133"/>
+                <Baseline points="391,2181 427,2178 463,2176 499,2175 535,2174 572,2173 608,2172 644,2172 680,2172 716,2171 753,2171 789,2172 825,2172 861,2172 897,2172 934,2172 970,2172 1006,2171 1042,2170 1078,2170 1115,2168"/>
+                <TextEquiv>
+                    <Unicode>Ich wär' ſo gerne ganz bei dir,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="381,2239 1206,2246 1188,2173 1029,2194 939,2175 911,2198 381,2189"/>
+                <Baseline points="387,2233 427,2233 468,2233 508,2233 549,2233 590,2233 630,2232 671,2232 711,2231 752,2231 793,2230 833,2229 874,2229 914,2228 955,2228 996,2227 1036,2227 1077,2227 1117,2227 1158,2227 1199,2228"/>
+                <TextEquiv>
+                    <Unicode>O zeig' den Weg zum Himmel mir,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="382,2298 496,2289 547,2312 580,2287 618,2308 671,2286 696,2309 730,2290 878,2305 1016,2289 1015,2248 967,2233 641,2257 552,2233 532,2252 381,2245"/>
+                <Baseline points="388,2292 419,2291 450,2291 481,2290 512,2290 543,2290 574,2289 605,2289 636,2289 667,2289 699,2289 730,2288 761,2288 792,2288 823,2288 854,2287 885,2287 916,2287 947,2286 978,2286 1010,2285"/>
+                <TextEquiv>
+                    <Unicode>Weil ich ihn ſonst verfehle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="394,2365 1020,2343 1194,2362 1209,2278 842,2315 732,2291 620,2316 393,2304"/>
+                <Baseline points="399,2352 439,2351 479,2351 519,2350 559,2349 600,2348 640,2348 680,2347 720,2346 760,2346 801,2345 841,2344 881,2344 921,2344 961,2343 1002,2343 1042,2343 1082,2343 1122,2343 1162,2344 1203,2344"/>
+                <TextEquiv>
+                    <Unicode>Im Himmel möcht' ich bei dir ſein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="385,2429 1109,2412 1108,2360 1051,2346 384,2364"/>
+                <Baseline points="391,2413 426,2413 462,2413 497,2412 533,2412 569,2411 604,2410 640,2409 675,2408 711,2407 747,2406 782,2405 818,2405 853,2404 889,2403 925,2403 960,2402 996,2402 1031,2402 1067,2403 1103,2403"/>
+                <TextEquiv>
+                    <Unicode>Lieb Jeſulein, mein Brüderlein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 46 —&#xD;
+124. Vorsatz.&#xD;
+0, wie freu' ich mich der Gabe,&#xD;
+Dass ich gute Eltern habe,&#xD;
+Die für mich vom Morgen&#xD;
+Bis zum Abend sorgen;&#xD;
+Die mich kleiden und ernähren,&#xD;
+Mich das Böse meiden lehren,&#xD;
+Mich in allen Pflichten&#xD;
+Liebreich unterrichten!&#xD;
+O, ich will sie wieder lieben,&#xD;
+Nie mit Vorsatz sio betrüben!&#xD;
+123. Am Samstag.&#xD;
+Die Glocken, Glocken läuten,&#xD;
+Man höret ſie von weitem;&#xD;
+Sie sagen: "Heut' ist Samstag,&#xD;
+Und morgen, dann ist Sonntag.&#xD;
+Dann müßt ihr all' erſcheinen,&#xD;
+Ihr Großen und ihr Kleinen,&#xD;
+Im Gotteshaus im beſten Kleid,&#xD;
+Drum waſchet euch und ſeid bereit!&#xD;
+Am Leibe rein,&#xD;
+Am Herzen rein:&#xD;
+So könnt ihr Gott gefallen!"&#xD;
+Die Glocken, Glocken ſchallen,&#xD;
+Sie ſagen: "Heut ist Samstag,&#xD;
+Und morgen, dann ist Sonntag."&#xD;
+126. Gebet zum Christkindchen.&#xD;
+Lieb Jeſulein, süß Jesulein,&#xD;
+Sei du mein liebes Brüderlein&#xD;
+Und ſpiel' mit meiner Seele!&#xD;
+Ich wär' ſo gerne ganz bei dir,&#xD;
+O zeig' den Weg zum Himmel mir,&#xD;
+Weil ich ihn ſonst verfehle.&#xD;
+Im Himmel möcht' ich bei dir ſein,&#xD;
+Lieb Jeſulein, mein Brüderlein.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

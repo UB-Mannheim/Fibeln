@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:54.345+01:00</Created>
+        <LastChange>2020-03-26T13:21:25.301+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000027.png" imageWidth="1540" imageHeight="2628">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585225285371" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1585224689866_2759"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1585224689866_2759" custom="readingOrder {index:0;}">
+            <Coords points="75,88 1494,88 1494,2560 75,2560"/>
+            <TextLine id="line_1585224706226_2767" custom="readingOrder {index:0;}">
+                <Coords points="693,208 719,213 732,205 747,205 775,186 792,188 810,180 820,169 839,177 839,106 820,103 805,109 782,99 763,113 746,104 709,126 693,127"/>
+                <Baseline points="700,167 800,167 831,167"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224708826_2770" custom="readingOrder {index:1;}">
+                <Coords points="676,300 693,300 713,311 718,306 750,331 768,317 774,322 789,311 805,312 819,300 836,300 836,247 811,244 788,227 766,225 758,232 744,227 707,253 676,256"/>
+                <Baseline points="684,312 784,312 828,312"/>
+                <TextEquiv>
+                    <Unicode>67.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224711386_2773" custom="readingOrder {index:2;}">
+                <Coords points="127,413 1349,395 1373,333 951,299 672,354 450,315 127,339"/>
+                <Baseline points="135,395 235,395 435,394 535,395 735,396 835,395 1035,397 1135,400 1335,402 1365,402"/>
+                <TextEquiv>
+                    <Unicode>Herr, Fett, Elle, Tenne, Wetter, Meſſer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224714926_2776" custom="readingOrder {index:3;}">
+                <Coords points="132,484 1364,472 1365,392 132,423"/>
+                <Baseline points="140,467 240,467 440,468 540,468 740,469 840,470 1040,469 1140,470 1340,470 1356,470"/>
+                <TextEquiv>
+                    <Unicode>Kette, Kessel, Ebbe, Schwelle, Neſſel, Dekkel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224718096_2779" custom="readingOrder {index:4;}">
+                <Coords points="144,547 843,561 1019,523 1329,537 1349,493 1218,453 940,499 570,462 466,505 144,486"/>
+                <Baseline points="151,534 251,534 451,533 551,534 651,534 851,533 951,534 1051,542 1251,544 1340,544"/>
+                <TextEquiv>
+                    <Unicode>Teller, Vetter, Welle, Sezzer, Seſſel, Zelle;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224721272_2782" custom="readingOrder {index:5;}">
+                <Coords points="136,631 263,588 329,626 1166,581 1280,611 1351,602 1351,541 136,555"/>
+                <Baseline points="144,611 244,611 444,610 544,610 744,612 844,612 1044,612 1144,614 1344,615 1344,616"/>
+                <TextEquiv>
+                    <Unicode>fett, schnell, hell, helle, heller, helles;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224723796_2785" custom="readingOrder {index:6;}">
+                <Coords points="132,711 1377,684 1377,627 1266,600 133,633"/>
+                <Baseline points="140,681 240,681 440,682 540,681 740,679 840,679 1040,687 1140,687 1340,682 1370,682"/>
+                <TextEquiv>
+                    <Unicode>bellen, essen, rennen, herrſchen, zerren, retten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224725796_2788" custom="readingOrder {index:7;}">
+                <Coords points="715,799 740,794 750,783 763,791 775,786 788,789 802,780 845,769 845,707 830,705 820,715 794,705 775,707 769,701 747,707 726,688 715,688"/>
+                <Baseline points="723,778 823,778 838,778"/>
+                <TextEquiv>
+                    <Unicode>68.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224730126_2791" custom="readingOrder {index:8;}">
+                <Coords points="142,885 935,851 1365,914 1386,863 1184,855 1062,776 926,834 807,781 706,825 143,812"/>
+                <Baseline points="151,869 251,869 451,868 551,868 751,877 851,881 1051,881 1151,880 1351,882 1377,883"/>
+                <TextEquiv>
+                    <Unicode>Zoll, Zölle; Sonne, Tonne, Goſſe; Sommer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224739656_2794" custom="readingOrder {index:9;}">
+                <Coords points="147,950 1382,941 1404,889 1140,904 1028,859 924,902 843,864 147,891"/>
+                <Baseline points="154,936 254,936 454,936 554,937 754,936 854,937 1054,943 1154,943 1354,943 1396,943"/>
+                <TextEquiv>
+                    <Unicode>Tonnen, Goſſen; Rotte, Nonne, Wolle, Sommer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224742496_2797" custom="readingOrder {index:10;}">
+                <Coords points="143,1022 1342,989 1266,918 739,967 144,948"/>
+                <Baseline points="151,1013 251,1013 451,1014 551,1015 651,1019 851,1021 951,1021 1051,1020 1251,1021 1333,1021"/>
+                <TextEquiv>
+                    <Unicode>Koffer, Lokke, Motte, Flokken, Dotter, Löffel;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224745026_2800" custom="readingOrder {index:11;}">
+                <Coords points="153,1092 1340,1083 1373,1003 801,1029 728,994 294,1064 153,1031"/>
+                <Baseline points="161,1080 261,1081 461,1082 561,1083 761,1083 861,1086 1061,1089 1161,1089 1361,1087 1365,1088"/>
+                <TextEquiv>
+                    <Unicode>toll, voll, fromm; ſoppen, rollen, kommen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224748636_2803" custom="readingOrder {index:12;}">
+                <Coords points="141,1187 308,1155 679,1197 769,1140 827,1175 1356,1182 1357,1078 998,1063 936,1106 725,1114 646,1071 521,1124 142,1093"/>
+                <Baseline points="149,1155 249,1155 449,1157 549,1161 749,1163 849,1159 1049,1161 1149,1163 1349,1166 1349,1166"/>
+                <TextEquiv>
+                    <Unicode>ſollen, hoffen, wollen, können, dörren, gönnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224751027_2806" custom="readingOrder {index:13;}">
+                <Coords points="477,1282 673,1293 867,1249 920,1288 991,1263 1038,1277 1071,1263 1071,1181 858,1207 752,1182 617,1203 477,1187"/>
+                <Baseline points="485,1274 585,1274 685,1274 785,1274 885,1274 985,1274 1062,1274"/>
+                <TextEquiv>
+                    <Unicode>69. kk=ck. zz=tz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224754427_2809" custom="readingOrder {index:14;}">
+                <Coords points="154,1370 1280,1342 1299,1262 1052,1263 935,1307 799,1274 717,1309 456,1269 153,1293"/>
+                <Baseline points="161,1341 261,1341 461,1339 561,1337 661,1335 861,1332 961,1332 1061,1332 1261,1332 1293,1332"/>
+                <TextEquiv>
+                    <Unicode>Sack, Säcke; Bock, Böcke; Sitz, Netz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224757066_2812" custom="readingOrder {index:15;}">
+                <Coords points="154,1436 1342,1412 1343,1331 730,1376 603,1344 482,1383 351,1342 154,1363"/>
+                <Baseline points="161,1413 261,1412 461,1409 561,1407 661,1405 861,1404 961,1405 1061,1407 1261,1420 1335,1420"/>
+                <TextEquiv>
+                    <Unicode>Schätze, Mütze, Pocken, Setzer, Zucker, Bäcker,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224759596_2815" custom="readingOrder {index:16;}">
+                <Coords points="153,1501 644,1499 717,1456 757,1489 1366,1490 1367,1421 153,1436"/>
+                <Baseline points="161,1484 261,1484 461,1481 561,1479 661,1476 861,1474 961,1476 1061,1485 1261,1496 1358,1496"/>
+                <TextEquiv>
+                    <Unicode>Decke, Hecke, Acker, Rücken, Mücke, Flocken;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224762437_2818" custom="readingOrder {index:17;}">
+                <Coords points="158,1596 890,1546 1385,1565 1410,1484 158,1503"/>
+                <Baseline points="165,1574 265,1574 465,1574 565,1574 765,1575 865,1575 1065,1575 1165,1574 1365,1574 1403,1574"/>
+                <TextEquiv>
+                    <Unicode>putzen, wecken, ſchwitzen, ſchmecken, ſchützen, ſchmücken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224771136_2821" custom="readingOrder {index:18;}">
+                <Coords points="484,1855 589,1844 638,1878 761,1852 815,1885 927,1865 993,1888 1050,1857 1087,1862 1087,1820 872,1760 798,1784 718,1766 677,1790 648,1777 485,1816"/>
+                <Baseline points="493,1865 593,1865 693,1865 793,1865 893,1865 993,1866 1079,1866"/>
+                <TextEquiv>
+                    <Unicode>70. ss, ß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224772596_2824" custom="readingOrder {index:19;}">
+                <Coords points="712,1927 729,1928 746,1944 774,1942 806,1969 831,1975 864,1942 901,1948 937,1924 952,1927 952,1863 938,1860 870,1885 850,1874 816,1885 760,1851 744,1865 712,1865"/>
+                <Baseline points="719,1937 819,1937 919,1937 945,1937"/>
+                <TextEquiv>
+                    <Unicode>ſſ. ß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224775635_2827" custom="readingOrder {index:20;}">
+                <Coords points="162,2049 584,1993 681,2030 795,1993 1356,2017 1391,1942 1036,1918 811,1984 709,1942 368,1981 163,1953"/>
+                <Baseline points="170,2014 270,2013 470,2011 570,2010 770,2009 870,2013 1070,2026 1170,2026 1370,2025 1382,2026"/>
+                <TextEquiv>
+                    <Unicode>Bäſſe, Baß; Nüſſe, Nuß; Roſſe, Roß;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224779186_2830" custom="readingOrder {index:21;}">
+                <Coords points="159,2093 1383,2080 1383,2025 159,2047"/>
+                <Baseline points="166,2083 266,2082 466,2081 566,2081 766,2081 866,2080 1066,2080 1166,2085 1366,2087 1375,2087"/>
+                <TextEquiv>
+                    <Unicode>Schüſſe, Schuß; Riſſe, Riß; Fäſſer, Faß;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224782237_2833" custom="readingOrder {index:22;}">
+                <Coords points="177,2166 324,2197 830,2139 909,2168 1012,2128 1157,2161 1381,2143 1382,2079 810,2081 612,2123 439,2097 371,2133 177,2107"/>
+                <Baseline points="184,2154 284,2154 484,2152 584,2152 684,2152 884,2153 984,2158 1084,2163 1284,2162 1373,2162"/>
+                <TextEquiv>
+                    <Unicode>Schlöſſer, Schloß; Güſſe, Guß; Päſſe, Paß;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224785086_2836" custom="readingOrder {index:23;}">
+                <Coords points="170,2255 409,2260 582,2201 771,2254 1258,2200 1380,2226 1395,2136 1191,2189 1143,2150 824,2194 734,2159 170,2168"/>
+                <Baseline points="177,2226 277,2225 477,2223 577,2222 777,2221 877,2222 1077,2232 1177,2233 1377,2232 1387,2232"/>
+                <TextEquiv>
+                    <Unicode>faſſen, faß; müſſen, muß; meſſen, miß;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224788206_2839" custom="readingOrder {index:24;}">
+                <Coords points="171,2322 448,2324 617,2272 914,2315 1028,2275 1154,2349 1359,2349 1386,2290 1278,2304 1090,2210 996,2264 851,2225 173,2252"/>
+                <Baseline points="180,2298 280,2298 480,2295 580,2294 680,2293 880,2301 980,2308 1080,2312 1280,2315 1377,2315"/>
+                <TextEquiv>
+                    <Unicode>freſſen, friß; laſſen, laß; näſſen, naß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224791153_2842" custom="readingOrder {index:25;}">
+                <Coords points="172,2385 1430,2367 1430,2323 1081,2338 971,2280 888,2319 601,2294 519,2346 394,2306 173,2320"/>
+                <Baseline points="180,2369 280,2368 480,2365 580,2364 780,2364 880,2366 1080,2378 1180,2383 1380,2382 1422,2383"/>
+                <TextEquiv>
+                    <Unicode>Maß, Maße, Fuß, Füße; Ruß, Buße, weiß;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224793827_2845" custom="readingOrder {index:26;}">
+                <Coords points="175,2469 1183,2465 1432,2420 1432,2367 175,2400"/>
+                <Baseline points="182,2441 282,2440 482,2437 582,2435 782,2433 882,2433 1082,2433 1182,2434 1382,2442 1424,2442"/>
+                <TextEquiv>
+                    <Unicode>weißen; büßen, heißen, reißen; aß, saß, maß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>23&#xD;
+67.&#xD;
+Herr, Fett, Elle, Tenne, Wetter, Meſſer,&#xD;
+Kette, Kessel, Ebbe, Schwelle, Neſſel, Dekkel,&#xD;
+Teller, Vetter, Welle, Sezzer, Seſſel, Zelle;&#xD;
+fett, schnell, hell, helle, heller, helles;&#xD;
+bellen, essen, rennen, herrſchen, zerren, retten.&#xD;
+68.&#xD;
+Zoll, Zölle; Sonne, Tonne, Goſſe; Sommer&#xD;
+Tonnen, Goſſen; Rotte, Nonne, Wolle, Sommer,&#xD;
+Koffer, Lokke, Motte, Flokken, Dotter, Löffel;&#xD;
+toll, voll, fromm; ſoppen, rollen, kommen,&#xD;
+ſollen, hoffen, wollen, können, dörren, gönnen.&#xD;
+69. kk=ck. zz=tz.&#xD;
+Sack, Säcke; Bock, Böcke; Sitz, Netz,&#xD;
+Schätze, Mütze, Pocken, Setzer, Zucker, Bäcker,&#xD;
+Decke, Hecke, Acker, Rücken, Mücke, Flocken;&#xD;
+putzen, wecken, ſchwitzen, ſchmecken, ſchützen, ſchmücken.&#xD;
+70. ss, ß&#xD;
+ſſ. ß.&#xD;
+Bäſſe, Baß; Nüſſe, Nuß; Roſſe, Roß;&#xD;
+Schüſſe, Schuß; Riſſe, Riß; Fäſſer, Faß;&#xD;
+Schlöſſer, Schloß; Güſſe, Guß; Päſſe, Paß;&#xD;
+faſſen, faß; müſſen, muß; meſſen, miß;&#xD;
+freſſen, friß; laſſen, laß; näſſen, naß.&#xD;
+Maß, Maße, Fuß, Füße; Ruß, Buße, weiß;&#xD;
+weißen; büßen, heißen, reißen; aß, saß, maß.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

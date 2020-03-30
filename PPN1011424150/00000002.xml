@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:48.947+01:00</Created>
+        <LastChange>2020-03-25T09:30:05.872+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000002.png" imageWidth="1580" imageHeight="2700">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585125005938" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="109,1225 109,2608 1064,2608 1064,1225"/>
+            <TextLine id="r1l8" custom="readingOrder {index:0;}">
+                <Coords points="283,2215 881,2223 882,2161 838,2167 788,2140 719,2166 664,2147 627,2163 565,2146 528,2170 483,2144 284,2151"/>
+                <Baseline points="288,2205 317,2205 346,2205 376,2206 405,2206 435,2206 464,2207 493,2207 523,2207 552,2207 582,2208 611,2208 640,2208 670,2209 699,2209 729,2209 758,2209 787,2209 817,2209 846,2209 876,2209"/>
+                <TextEquiv>
+                    <Unicode>H. G. Schmitz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:1;}">
+                <Coords points="486,2296 509,2297 548,2282 569,2298 640,2285 688,2295 689,2240 662,2240 629,2221 615,2232 587,2226 549,2249 535,2239 507,2247 487,2242"/>
+                <Baseline points="491,2279 518,2279 545,2279 573,2279 600,2280 628,2280 655,2281 683,2282"/>
+                <TextEquiv>
+                    <Unicode>in Köln,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:2;}">
+                <Coords points="413,2358 489,2340 501,2349 577,2338 617,2347 640,2335 711,2348 751,2337 751,2308 724,2301 684,2313 592,2294 550,2303 507,2295 484,2304 433,2291 414,2298"/>
+                <Baseline points="419,2328 444,2329 469,2330 494,2331 519,2332 544,2333 569,2333 595,2333 620,2333 645,2333 670,2333 695,2333 720,2334 746,2334"/>
+                <TextEquiv>
+                    <Unicode>Breitſtraße Nro. 49.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:3;}">
+                <Coords points="206,2397 953,2407 953,2370 809,2355 673,2373 207,2351"/>
+                <Baseline points="211,2396 247,2396 284,2396 321,2396 358,2397 395,2397 432,2397 468,2397 505,2397 542,2398 579,2398 616,2398 653,2398 690,2399 726,2399 763,2400 800,2400 837,2401 874,2401 911,2402 948,2403"/>
+                <TextEquiv>
+                    <Unicode>Handlung in Elementar=Schulbüchern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:4;}">
+                <Coords points="162,2448 996,2467 997,2412 956,2400 903,2422 163,2400"/>
+                <Baseline points="167,2440 208,2441 249,2441 290,2442 331,2442 373,2443 414,2443 455,2443 496,2444 537,2444 579,2445 620,2445 661,2446 702,2446 743,2446 785,2447 826,2448 867,2448 908,2449 949,2450 991,2451"/>
+                <TextEquiv>
+                    <Unicode>Schulheften und allen Schreibmaterialien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:5;}">
+                <Coords points="255,2503 699,2491 913,2508 914,2452 256,2453"/>
+                <Baseline points="261,2489 293,2489 325,2489 358,2489 390,2489 422,2490 455,2490 487,2490 519,2490 552,2490 584,2490 616,2490 649,2490 681,2490 713,2491 746,2491 778,2492 810,2492 843,2493 875,2494 908,2495"/>
+                <TextEquiv>
+                    <Unicode>als auch Gebetbüchern und dahin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:6;}">
+                <Coords points="354,2550 392,2539 450,2553 469,2539 513,2560 553,2540 694,2539 807,2554 807,2511 784,2495 616,2509 355,2497"/>
+                <Baseline points="360,2534 386,2535 412,2535 438,2535 464,2535 490,2536 516,2536 542,2536 568,2536 594,2537 620,2537 646,2537 672,2537 698,2538 724,2538 750,2538 776,2538 802,2539"/>
+                <TextEquiv>
+                    <Unicode>einſchlagenden Artikeln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>H. G. Schmitz&#xD;
+in Köln,&#xD;
+Breitſtraße Nro. 49.&#xD;
+Handlung in Elementar=Schulbüchern,&#xD;
+Schulheften und allen Schreibmaterialien&#xD;
+als auch Gebetbüchern und dahin&#xD;
+einſchlagenden Artikeln.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1026,2492 1026,2646 1046,2646 1046,2492"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="1028,875 1028,1525 1182,1525 1182,875"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="1191,904 1191,1213 1239,1213 1239,904"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:4;}">
+            <Coords points="1216,1503 1216,1599 1256,1599 1256,1503"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r6" custom="readingOrder {index:5;}">
+            <Coords points="1326,0 1326,91 1394,91 1394,0"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

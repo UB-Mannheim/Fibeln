@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:56.700+01:00</Created>
+        <LastChange>2020-03-26T14:48:44.469+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000040.png" imageWidth="1594" imageHeight="2630">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585230524542" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1585230161183_3945"/>
+                <RegionRefIndexed index="1" regionRef="region_1585230250883_4017"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1585230161183_3945" custom="readingOrder {index:0;}">
+            <Coords points="49,57 1493,57 1493,2508 49,2508"/>
+            <TextLine id="line_1585230171633_3948" custom="readingOrder {index:0;}">
+                <Coords points="662,192 687,191 739,222 772,202 845,229 902,218 984,230 984,137 895,145 862,118 818,113 763,136 727,117 697,132 662,128"/>
+                <Baseline points="670,193 770,193 870,193 970,193 976,193"/>
+                <TextEquiv>
+                    <Unicode>— 36 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230174423_3951" custom="readingOrder {index:1;}">
+                <Coords points="247,300 1480,299 1479,252 1369,233 247,245"/>
+                <Baseline points="255,310 355,312 555,316 655,315 855,312 955,311 1155,310 1255,310 1455,311 1471,311"/>
+                <TextEquiv>
+                    <Unicode>Im Garten ſind auch noch andere Pflanzen, nämlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230177523_3954" custom="readingOrder {index:2;}">
+                <Coords points="208,373 1460,386 1451,312 208,296"/>
+                <Baseline points="216,364 316,364 516,363 616,363 816,363 916,363 1116,363 1216,363 1416,362 1452,362"/>
+                <TextEquiv>
+                    <Unicode>Blumen und Küchenpflanzen. Die schneeweiße Lilie hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230179923_3957" custom="readingOrder {index:3;}">
+                <Coords points="209,423 1464,426 1464,385 1366,363 209,365"/>
+                <Baseline points="218,431 318,431 518,429 618,427 818,427 918,427 1118,427 1218,427 1418,427 1457,427"/>
+                <TextEquiv>
+                    <Unicode>oben eine Glocke. Darin sitzen lange Fäden, auf welchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230182733_3960" custom="readingOrder {index:4;}">
+                <Coords points="201,485 1466,497 1466,443 1414,422 201,430"/>
+                <Baseline points="209,489 309,489 509,490 609,489 809,492 909,494 1109,488 1209,488 1409,488 1459,488"/>
+                <TextEquiv>
+                    <Unicode>goldgelbe Körner liegen. Die Stockviole ist braungelb;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230185473_3963" custom="readingOrder {index:5;}">
+                <Coords points="196,545 1465,556 1464,493 1409,481 195,488"/>
+                <Baseline points="203,552 303,550 503,547 603,550 803,545 903,542 1103,539 1203,539 1403,539 1457,539"/>
+                <TextEquiv>
+                    <Unicode>ſie riecht angenehm. Man nennt ſie auch Goldlack. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230188082_3966" custom="readingOrder {index:6;}">
+                <Coords points="201,594 1455,604 1415,541 202,544"/>
+                <Baseline points="209,599 309,599 509,599 609,599 809,600 909,599 1109,599 1209,599 1409,600 1446,600"/>
+                <TextEquiv>
+                    <Unicode>Tulpe ſieht wunderſchön aus; aber ſie duftet nicht; ſie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230190713_3969" custom="readingOrder {index:7;}">
+                <Coords points="191,654 1467,649 1457,596 1263,633 1137,598 191,595"/>
+                <Baseline points="199,657 299,656 499,656 599,655 799,655 899,655 1099,653 1199,653 1399,653 1459,653"/>
+                <TextEquiv>
+                    <Unicode>iſt geruchlos. Am liebſten ist mir die Roſe. Sie iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230193722_3972" custom="readingOrder {index:8;}">
+                <Coords points="192,712 1458,718 1458,673 1355,656 1248,692 1016,653 192,668"/>
+                <Baseline points="201,719 301,722 501,727 601,727 801,723 901,720 1101,718 1201,717 1401,714 1450,714"/>
+                <TextEquiv>
+                    <Unicode>wohlriechend und hat auch eine ſchöne Farbe. — Nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230196803_3975" custom="readingOrder {index:9;}">
+                <Coords points="194,774 440,826 512,788 681,798 728,772 979,795 960,719 194,713"/>
+                <Baseline points="201,784 301,783 401,782 501,782 601,782 701,783 801,783 901,783 971,783"/>
+                <TextEquiv>
+                    <Unicode>nennt auch einige Küchenpflanzen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230204663_3978" custom="readingOrder {index:10;}">
+                <Coords points="750,921 763,919 788,939 818,925 831,930 845,919 854,927 878,919 909,897 925,897 925,864 892,864 861,835 750,835"/>
+                <Baseline points="758,920 858,920 918,920"/>
+                <TextEquiv>
+                    <Unicode>103.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230208363_3981" custom="readingOrder {index:11;}">
+                <Coords points="193,998 1418,1014 1418,944 1308,925 193,930"/>
+                <Baseline points="202,998 302,998 502,998 602,998 802,998 902,998 1102,997 1202,997 1402,997 1410,997"/>
+                <TextEquiv>
+                    <Unicode>Baum, Bäumchen; Teller, Tellerchen; Löffelchen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230211193_3984" custom="readingOrder {index:12;}">
+                <Coords points="198,1059 1416,1065 1416,1012 1363,1001 436,995 354,1028 198,996"/>
+                <Baseline points="206,1057 306,1056 506,1057 606,1058 806,1057 906,1057 1106,1055 1206,1054 1406,1055 1408,1055"/>
+                <TextEquiv>
+                    <Unicode>Buch, Büchlein; Tuch, Tüchlein; Sternlein;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230213853_3987" custom="readingOrder {index:13;}">
+                <Coords points="194,1118 652,1146 1157,1096 1409,1132 1409,1072 1310,1056 736,1053 637,1096 534,1055 194,1058"/>
+                <Baseline points="202,1116 302,1116 502,1116 602,1116 702,1116 902,1116 1002,1117 1102,1116 1302,1116 1401,1116"/>
+                <TextEquiv>
+                    <Unicode>König, Königin; Lehrer, Lehrerin; Schülerin;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230216713_3990" custom="readingOrder {index:14;}">
+                <Coords points="196,1173 1111,1192 1364,1159 1222,1110 663,1145 196,1116"/>
+                <Baseline points="204,1174 304,1174 504,1173 604,1173 704,1173 904,1173 1004,1173 1104,1173 1304,1173 1356,1173"/>
+                <TextEquiv>
+                    <Unicode>Schule, Schüler; Schloß, Schlosser; Seiler:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230219543_3993" custom="readingOrder {index:15;}">
+                <Coords points="184,1234 653,1209 746,1248 1420,1253 1420,1179 1327,1154 1111,1193 184,1171"/>
+                <Baseline points="192,1232 292,1232 492,1232 592,1232 792,1232 892,1232 1092,1232 1192,1232 1392,1232 1412,1232"/>
+                <TextEquiv>
+                    <Unicode>böſe, boshaft; ſchaden, ſchadhaft; Herrschaft;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230222973_3996" custom="readingOrder {index:16;}">
+                <Coords points="190,1298 1405,1311 1405,1246 1127,1221 852,1257 190,1231"/>
+                <Baseline points="198,1292 298,1292 498,1292 598,1292 698,1292 898,1292 998,1291 1098,1290 1298,1289 1397,1289"/>
+                <TextEquiv>
+                    <Unicode>Freund, Freundschaft; Feind, Feindſchaft; Botſchaft;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230226423_3999" custom="readingOrder {index:17;}">
+                <Coords points="195,1346 1419,1367 1419,1310 1319,1291 962,1289 861,1328 757,1290 635,1322 526,1285 348,1324 195,1297"/>
+                <Baseline points="204,1351 304,1351 504,1351 604,1351 804,1352 904,1352 1104,1352 1204,1352 1404,1352 1410,1352"/>
+                <TextEquiv>
+                    <Unicode>Kind, Kindheit; Thor, Thorheit; Krankheit;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230229413_4002" custom="readingOrder {index:18;}">
+                <Coords points="192,1417 1416,1424 1416,1366 1361,1352 828,1380 718,1344 620,1388 556,1346 341,1384 192,1348"/>
+                <Baseline points="200,1403 300,1403 500,1403 600,1404 800,1403 900,1402 1100,1402 1200,1403 1400,1403 1408,1403"/>
+                <TextEquiv>
+                    <Unicode>faul, Faulheit; blind, Blindheit; Schönheit;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230232433_4005" custom="readingOrder {index:19;}">
+                <Coords points="178,1468 1350,1486 1432,1479 1432,1404 177,1421"/>
+                <Baseline points="186,1475 286,1474 486,1470 586,1469 786,1469 886,1469 1086,1468 1186,1468 1386,1468 1424,1467"/>
+                <TextEquiv>
+                    <Unicode>reich, Reichthum; eigen, Eigenthum; Heiligthum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230235272_4008" custom="readingOrder {index:20;}">
+                <Coords points="175,1519 1365,1540 1382,1476 764,1468 641,1501 570,1465 174,1468"/>
+                <Baseline points="183,1537 283,1537 483,1534 583,1535 683,1536 883,1536 983,1534 1083,1532 1283,1531 1374,1531"/>
+                <TextEquiv>
+                    <Unicode>kleiden, Kleidung; nähren, Nahrung; Achtung;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230238603_4011" custom="readingOrder {index:21;}">
+                <Coords points="179,1574 1103,1599 1144,1563 1366,1599 1366,1538 1317,1528 699,1521 629,1556 532,1519 351,1552 179,1518"/>
+                <Baseline points="188,1583 288,1583 488,1584 588,1584 688,1584 888,1583 988,1583 1088,1583 1288,1581 1358,1581"/>
+                <TextEquiv>
+                    <Unicode>bitter, Bitterkeit; heilig, Heiligkeit; Ewigkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230249383_4014" custom="readingOrder {index:22;}">
+                <Coords points="181,1689 625,1635 832,1690 1051,1686 1131,1636 1357,1656 1357,1587 1322,1580 1071,1622 967,1579 868,1619 742,1578 600,1616 498,1577 353,1609 181,1576"/>
+                <Baseline points="189,1657 289,1657 489,1657 589,1656 689,1656 889,1656 989,1656 1089,1656 1289,1655 1349,1655"/>
+                <TextEquiv>
+                    <Unicode>decken, Deckel; heben, Hebel; Klöpfel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230255193_4021" custom="readingOrder {index:23;}">
+                <Coords points="697,1799 714,1797 755,1775 787,1770 799,1776 815,1773 824,1783 861,1784 861,1710 843,1702 837,1709 824,1698 813,1704 793,1693 774,1698 764,1690 723,1699 711,1709 697,1706"/>
+                <Baseline points="705,1790 805,1790 853,1790"/>
+                <TextEquiv>
+                    <Unicode>104.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230258353_4024" custom="readingOrder {index:24;}">
+                <Coords points="175,1862 1348,1880 1348,1800 1091,1833 965,1794 808,1841 719,1795 175,1798"/>
+                <Baseline points="183,1865 283,1865 483,1866 583,1866 683,1866 883,1866 983,1866 1083,1865 1283,1865 1340,1865"/>
+                <TextEquiv>
+                    <Unicode>Sand, ſandig; Salz, ſalzig; dornig;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230262173_4027" custom="readingOrder {index:25;}">
+                <Coords points="183,1920 1349,1938 1371,1883 182,1868"/>
+                <Baseline points="191,1923 291,1923 491,1924 591,1924 691,1924 891,1924 991,1923 1091,1922 1291,1922 1363,1922"/>
+                <TextEquiv>
+                    <Unicode>Stein, ſteinicht; Holz, holzicht; thöricht;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230264523_4030" custom="readingOrder {index:26;}">
+                <Coords points="173,1989 955,1999 1115,1966 1388,2005 1361,1929 173,1921"/>
+                <Baseline points="181,1986 281,1985 481,1985 581,1984 681,1984 881,1984 981,1984 1081,1984 1281,1984 1380,1984"/>
+                <TextEquiv>
+                    <Unicode>König, königlich; Fürst, fürſtlich; ritterlich;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230267243_4033" custom="readingOrder {index:27;}">
+                <Coords points="173,2041 1345,2063 1356,2002 172,1989"/>
+                <Baseline points="181,2038 281,2038 481,2039 581,2039 681,2038 881,2037 981,2037 1081,2037 1281,2038 1349,2038"/>
+                <TextEquiv>
+                    <Unicode>ſüß, ſüßlich; ſchwach, ſchwächlich; länglich;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230269603_4036" custom="readingOrder {index:28;}">
+                <Coords points="173,2096 1339,2113 1339,2061 1289,2044 1084,2075 958,2037 173,2041"/>
+                <Baseline points="181,2102 281,2100 481,2099 581,2099 681,2098 881,2099 981,2098 1081,2097 1281,2098 1332,2098"/>
+                <TextEquiv>
+                    <Unicode>dienen, dienlich; erben, erblich; löblich;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230272323_4039" custom="readingOrder {index:29;}">
+                <Coords points="177,2157 1338,2174 1373,2171 1373,2100 1070,2127 730,2093 588,2135 481,2092 176,2104"/>
+                <Baseline points="185,2156 285,2156 485,2156 585,2156 685,2155 885,2155 985,2155 1085,2154 1285,2154 1365,2154"/>
+                <TextEquiv>
+                    <Unicode>Dieb, diebisch; Zank, zänkisch, kindiſch;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230275493_4042" custom="readingOrder {index:30;}">
+                <Coords points="173,2215 1371,2225 1371,2165 1251,2154 679,2156 567,2192 437,2151 173,2158"/>
+                <Baseline points="181,2211 281,2211 481,2211 581,2210 681,2210 881,2210 981,2210 1081,2210 1281,2211 1363,2211"/>
+                <TextEquiv>
+                    <Unicode>eſſen, eßbar; trinken, trinkbar; denkbar;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230279403_4045" custom="readingOrder {index:31;}">
+                <Coords points="173,2274 1355,2295 1355,2230 172,2211"/>
+                <Baseline points="181,2279 281,2280 481,2279 581,2278 681,2278 881,2278 981,2277 1081,2276 1281,2276 1347,2276"/>
+                <TextEquiv>
+                    <Unicode>Friede, friedſam; Ehre, ehrſam; lenkſam;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230282483_4048" custom="readingOrder {index:32;}">
+                <Coords points="175,2338 1372,2343 1372,2291 1227,2274 886,2272 828,2308 175,2275"/>
+                <Baseline points="183,2327 283,2328 483,2328 583,2327 683,2327 883,2328 983,2328 1083,2328 1283,2328 1363,2329"/>
+                <TextEquiv>
+                    <Unicode>biegen, biegſam; heilen, heilſam; duldſam;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230291563_4051" custom="readingOrder {index:33;}">
+                <Coords points="167,2386 1421,2415 1420,2335 1383,2327 837,2366 687,2328 167,2336"/>
+                <Baseline points="175,2394 275,2393 475,2393 575,2393 775,2393 875,2392 1075,2391 1175,2391 1375,2392 1413,2391"/>
+                <TextEquiv>
+                    <Unicode>Fehler, fehlerhaft; Tugend, tugendhaft; ſchmerzhaft;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230294003_4054" custom="readingOrder {index:34;}">
+                <Coords points="172,2465 1371,2478 1371,2409 1267,2392 648,2387 556,2420 172,2386"/>
+                <Baseline points="179,2467 279,2467 479,2466 579,2466 679,2466 879,2466 979,2466 1079,2465 1279,2465 1363,2464"/>
+                <TextEquiv>
+                    <Unicode>leben, lebhaft; schwätzen, ſchwatzhaft; nahrhaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 36 —&#xD;
+Im Garten ſind auch noch andere Pflanzen, nämlich&#xD;
+Blumen und Küchenpflanzen. Die schneeweiße Lilie hat&#xD;
+oben eine Glocke. Darin sitzen lange Fäden, auf welchen&#xD;
+goldgelbe Körner liegen. Die Stockviole ist braungelb;&#xD;
+ſie riecht angenehm. Man nennt ſie auch Goldlack. Die&#xD;
+Tulpe ſieht wunderſchön aus; aber ſie duftet nicht; ſie&#xD;
+iſt geruchlos. Am liebſten ist mir die Roſe. Sie iſt&#xD;
+wohlriechend und hat auch eine ſchöne Farbe. — Nun&#xD;
+nennt auch einige Küchenpflanzen!&#xD;
+103.&#xD;
+Baum, Bäumchen; Teller, Tellerchen; Löffelchen;&#xD;
+Buch, Büchlein; Tuch, Tüchlein; Sternlein;&#xD;
+König, Königin; Lehrer, Lehrerin; Schülerin;&#xD;
+Schule, Schüler; Schloß, Schlosser; Seiler:&#xD;
+böſe, boshaft; ſchaden, ſchadhaft; Herrschaft;&#xD;
+Freund, Freundschaft; Feind, Feindſchaft; Botſchaft;&#xD;
+Kind, Kindheit; Thor, Thorheit; Krankheit;&#xD;
+faul, Faulheit; blind, Blindheit; Schönheit;&#xD;
+reich, Reichthum; eigen, Eigenthum; Heiligthum&#xD;
+kleiden, Kleidung; nähren, Nahrung; Achtung;&#xD;
+bitter, Bitterkeit; heilig, Heiligkeit; Ewigkeit&#xD;
+decken, Deckel; heben, Hebel; Klöpfel.&#xD;
+104.&#xD;
+Sand, ſandig; Salz, ſalzig; dornig;&#xD;
+Stein, ſteinicht; Holz, holzicht; thöricht;&#xD;
+König, königlich; Fürst, fürſtlich; ritterlich;&#xD;
+ſüß, ſüßlich; ſchwach, ſchwächlich; länglich;&#xD;
+dienen, dienlich; erben, erblich; löblich;&#xD;
+Dieb, diebisch; Zank, zänkisch, kindiſch;&#xD;
+eſſen, eßbar; trinken, trinkbar; denkbar;&#xD;
+Friede, friedſam; Ehre, ehrſam; lenkſam;&#xD;
+biegen, biegſam; heilen, heilſam; duldſam;&#xD;
+Fehler, fehlerhaft; Tugend, tugendhaft; ſchmerzhaft;&#xD;
+leben, lebhaft; schwätzen, ſchwatzhaft; nahrhaft.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585230250883_4017" custom="readingOrder {index:1;}">
+            <Coords points="710,1786 868,1786"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:54.525+01:00</Created>
+        <LastChange>2020-03-26T13:27:17.492+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000028.png" imageWidth="1552" imageHeight="2636">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585225637562" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1585225317868_2881"/>
+                <RegionRefIndexed index="1" regionRef="region_1585225334638_2890"/>
+                <RegionRefIndexed index="2" regionRef="region_1585225357878_2912"/>
+                <RegionRefIndexed index="3" regionRef="region_1585225385348_2937"/>
+                <RegionRefIndexed index="4" regionRef="region_1585225402818_2956"/>
+                <RegionRefIndexed index="5" regionRef="region_1585225414888_2963"/>
+                <RegionRefIndexed index="6" regionRef="region_1585225430708_2979"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1585225317868_2881" custom="readingOrder {index:0;}">
+            <Coords points="63,68 1472,68 1472,2543 63,2543"/>
+            <TextLine id="line_1585225329698_2884" custom="readingOrder {index:0;}">
+                <Coords points="711,215 724,211 732,218 743,207 755,210 772,198 777,202 794,197 828,215 841,213 841,112 807,115 785,106 769,111 755,106 729,125 711,122"/>
+                <Baseline points="718,198 818,198 833,198"/>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225331538_2887" custom="readingOrder {index:1;}">
+                <Coords points="698,340 730,333 742,335 758,350 811,337 836,342 836,239 811,244 802,237 769,252 751,249 745,255 729,252 698,260"/>
+                <Baseline points="706,334 806,334 828,334"/>
+                <TextEquiv>
+                    <Unicode>71.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225340518_2894" custom="readingOrder {index:2;}">
+                <Coords points="199,410 1399,413 1433,348 198,327"/>
+                <Baseline points="207,404 307,404 507,403 607,403 807,403 907,403 1107,403 1207,403 1407,404 1424,404"/>
+                <TextEquiv>
+                    <Unicode>Die Katzen fangen Mäuſe. Die Fröſche ſchnappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225343528_2897" custom="readingOrder {index:3;}">
+                <Coords points="143,473 1430,475 1430,413 1317,400 143,415"/>
+                <Baseline points="152,478 252,478 452,478 552,479 752,479 852,479 1052,478 1152,478 1352,478 1422,478"/>
+                <TextEquiv>
+                    <Unicode>Mücken. Die Wölfe rauben Lämmer. Die Tauben picken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225345948_2900" custom="readingOrder {index:4;}">
+                <Coords points="150,559 596,533 688,567 914,524 1287,557 1414,539 1414,469 150,481"/>
+                <Baseline points="159,544 259,544 459,544 559,543 759,543 859,543 1059,543 1159,543 1359,543 1405,543"/>
+                <TextEquiv>
+                    <Unicode>Wicken. Die Schafe freſſen Heu. — Der Schneider hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225350368_2903" custom="readingOrder {index:5;}">
+                <Coords points="141,612 1315,621 1416,597 1416,558 141,568"/>
+                <Baseline points="149,625 249,625 449,624 549,624 749,626 849,626 1049,627 1149,628 1349,628 1407,628"/>
+                <TextEquiv>
+                    <Unicode>eine Elle. Der Schnitter hat eine Senſe. Der Maurer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225352718_2906" custom="readingOrder {index:6;}">
+                <Coords points="146,693 1318,695 1398,674 1398,617 146,629"/>
+                <Baseline points="154,687 254,687 454,688 554,687 754,687 854,687 1054,688 1154,688 1354,688 1390,688"/>
+                <TextEquiv>
+                    <Unicode>hat eine Kelle. Was hat der Müller? Der Schloſſer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225355228_2909" custom="readingOrder {index:7;}">
+                <Coords points="146,766 1347,756 1408,743 1408,696 146,699"/>
+                <Baseline points="154,759 254,759 454,759 554,759 754,759 854,759 1054,759 1154,759 1354,759 1400,759"/>
+                <TextEquiv>
+                    <Unicode>hat einen Hammer; er kann hämmern. Der Fiſcher hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225363358_2916" custom="readingOrder {index:8;}">
+                <Coords points="136,830 897,853 1428,807 1229,748 136,763"/>
+                <Baseline points="144,827 244,827 444,825 544,825 744,824 844,824 1044,827 1144,828 1344,829 1419,829"/>
+                <TextEquiv>
+                    <Unicode>ein Netz; er will Fiſche fangen. Der Bauer hat einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225365208_2919" custom="readingOrder {index:9;}">
+                <Coords points="154,914 174,911 189,925 208,925 220,916 231,925 254,919 288,942 330,929 330,864 294,852 275,833 242,841 221,829 190,852 172,838 154,839"/>
+                <Baseline points="162,907 262,907 322,907"/>
+                <TextEquiv>
+                    <Unicode>Karren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225367228_2922" custom="readingOrder {index:10;}">
+                <Coords points="717,986 751,987 772,966 794,972 805,963 821,969 844,961 844,891 833,891 800,873 774,881 764,877 748,883 740,878 717,885"/>
+                <Baseline points="726,973 826,973 836,973"/>
+                <TextEquiv>
+                    <Unicode>72.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225375402_2925" custom="readingOrder {index:11;}">
+                <Coords points="127,1026 217,1059 1357,1036 1357,967 1269,959 991,956 955,992 127,956"/>
+                <Baseline points="136,1044 236,1045 436,1045 536,1045 736,1044 836,1044 1036,1045 1136,1045 1336,1044 1349,1044"/>
+                <TextEquiv>
+                    <Unicode>Rad, Räder; Ton, Töne; Schwur, Schwüre; Schaf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225378708_2928" custom="readingOrder {index:12;}">
+                <Coords points="147,1114 1347,1094 1312,1038 1087,1072 884,1030 759,1071 474,1041 411,1080 147,1039"/>
+                <Baseline points="156,1108 256,1108 456,1109 556,1109 656,1108 856,1108 956,1109 1056,1109 1256,1109 1339,1109"/>
+                <TextEquiv>
+                    <Unicode>Bär, Tod, Hebel,Biber, Säbel, Base, Kübel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225381478_2931" custom="readingOrder {index:13;}">
+                <Coords points="135,1177 1397,1180 1415,1099 135,1129"/>
+                <Baseline points="143,1179 243,1179 443,1178 543,1177 743,1176 843,1176 1043,1178 1143,1184 1343,1185 1406,1186"/>
+                <TextEquiv>
+                    <Unicode>Hafen, Fibel, Leder, Schnabel, Pudel, Hobel, Schwefel;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225383788_2934" custom="readingOrder {index:14;}">
+                <Coords points="153,1271 735,1232 1000,1273 1135,1232 1368,1240 1368,1198 153,1204"/>
+                <Baseline points="161,1252 261,1251 461,1251 561,1251 661,1251 861,1255 961,1255 1061,1255 1261,1254 1359,1254"/>
+                <TextEquiv>
+                    <Unicode>müde, schwül, öde; holen, leſen, hören, tönen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225389448_2941" custom="readingOrder {index:15;}">
+                <Coords points="709,1345 740,1337 772,1337 779,1343 794,1330 807,1337 818,1327 864,1350 864,1299 852,1298 839,1285 813,1280 794,1260 774,1257 755,1242 709,1254"/>
+                <Baseline points="717,1341 817,1341 855,1341"/>
+                <TextEquiv>
+                    <Unicode>73.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225391868_2944" custom="readingOrder {index:16;}">
+                <Coords points="139,1404 1397,1402 1397,1349 1341,1324 140,1345"/>
+                <Baseline points="148,1397 248,1398 448,1400 548,1400 748,1399 848,1398 1048,1399 1148,1401 1348,1400 1389,1400"/>
+                <TextEquiv>
+                    <Unicode>Aal, Aas, Haar, Paar, Saal, Säle, Saat,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225394668_2947" custom="readingOrder {index:17;}">
+                <Coords points="137,1486 1380,1469 1380,1433 1261,1401 1048,1437 679,1410 635,1443 539,1405 471,1435 137,1404"/>
+                <Baseline points="146,1473 246,1473 446,1472 546,1471 746,1471 846,1471 1046,1473 1146,1473 1346,1473 1371,1473"/>
+                <TextEquiv>
+                    <Unicode>Waare, baar; Allee, Armee, Beere, Beet, Heer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225398098_2950" custom="readingOrder {index:18;}">
+                <Coords points="134,1539 203,1571 1387,1529 1387,1487 1151,1465 1011,1514 918,1480 134,1483"/>
+                <Baseline points="143,1545 243,1545 443,1544 543,1543 743,1542 843,1542 1043,1543 1143,1545 1343,1548 1379,1549"/>
+                <TextEquiv>
+                    <Unicode>Kameel, Meer, Schnee, Scheere, See, Seele, leer;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225400948_2953" custom="readingOrder {index:19;}">
+                <Coords points="138,1629 586,1645 772,1605 1060,1653 1434,1604 1372,1538 138,1556"/>
+                <Baseline points="146,1606 246,1606 446,1605 546,1605 746,1604 846,1604 1046,1605 1146,1605 1346,1605 1426,1605"/>
+                <TextEquiv>
+                    <Unicode>Boot, Loos, Moor, Moos, Schooß, Schöße,looſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225412498_2960" custom="readingOrder {index:20;}">
+                <Coords points="704,1685 750,1706 774,1690 815,1708 865,1686 873,1693 890,1691 890,1623 880,1621 851,1647 826,1643 800,1620 761,1623 746,1610 704,1625"/>
+                <Baseline points="712,1696 812,1696 881,1696"/>
+                <TextEquiv>
+                    <Unicode>74.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225419918_2967" custom="readingOrder {index:21;}">
+                <Coords points="134,1782 1434,1757 1434,1701 1358,1693 135,1713"/>
+                <Baseline points="143,1769 243,1768 443,1768 543,1767 743,1766 843,1766 1043,1770 1143,1773 1343,1775 1425,1775"/>
+                <TextEquiv>
+                    <Unicode>Hahn, Hähne; Sohn, Söhne; Kuh, Kühe; Kahn;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225422349_2970" custom="readingOrder {index:22;}">
+                <Coords points="142,1851 1302,1841 1372,1815 1372,1768 782,1765 684,1807 601,1764 493,1808 142,1778"/>
+                <Baseline points="150,1840 250,1839 450,1839 550,1838 750,1838 850,1839 1050,1842 1150,1844 1350,1844 1363,1844"/>
+                <TextEquiv>
+                    <Unicode>Zahn, Zähne; Huhn, Hühner; Zahl, Kohl, Reh,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225425739_2973" custom="readingOrder {index:23;}">
+                <Coords points="141,1921 621,1924 671,1880 812,1920 1202,1890 1356,1925 1399,1909 1400,1834 787,1835 630,1873 549,1842 461,1883 378,1839 142,1848"/>
+                <Baseline points="150,1908 250,1908 450,1908 550,1907 750,1906 850,1907 1050,1917 1150,1920 1350,1920 1390,1921"/>
+                <TextEquiv>
+                    <Unicode>Jahr, Lehm, Uhr, Möhre, Mühle, Ehre, Mühe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225428157_2976" custom="readingOrder {index:24;}">
+                <Coords points="141,1982 1393,1970 1393,1923 1263,1899 1214,1933 595,1910 499,1954 452,1920 141,1922"/>
+                <Baseline points="150,1968 250,1968 450,1967 550,1967 750,1966 850,1967 1050,1967 1150,1967 1350,1967 1385,1967"/>
+                <TextEquiv>
+                    <Unicode>Sohle, Mähne, Lehne, Röhre, Bohne, Zähre, Höhe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225436428_2983" custom="readingOrder {index:25;}">
+                <Coords points="141,2056 1384,2039 1317,1978 141,1983"/>
+                <Baseline points="150,2053 250,2052 450,2052 550,2051 750,2053 850,2054 1050,2054 1150,2055 1350,2057 1376,2057"/>
+                <TextEquiv>
+                    <Unicode>Aehre, Rahmen, Köhler, Fehler; zahm, hohl, mehr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225438918_2986" custom="readingOrder {index:26;}">
+                <Coords points="139,2127 783,2138 880,2089 939,2124 1278,2121 1399,2083 1248,2047 140,2057"/>
+                <Baseline points="148,2116 248,2117 448,2117 548,2117 748,2116 848,2115 1048,2119 1148,2126 1348,2130 1390,2130"/>
+                <TextEquiv>
+                    <Unicode>kühl, zehn, jähe, frühe; ihn, ihm, ihr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225441198_2989" custom="readingOrder {index:27;}">
+                <Coords points="127,2202 1399,2183 1399,2137 1302,2108 1195,2142 1070,2113 990,2157 854,2111 529,2162 127,2122"/>
+                <Baseline points="135,2184 235,2184 435,2182 535,2182 735,2182 835,2182 1035,2182 1135,2181 1335,2181 1390,2180"/>
+                <TextEquiv>
+                    <Unicode>ihrer, ihnen; zahlen, lohnen, wählen, fühlen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225443499_2992" custom="readingOrder {index:28;}">
+                <Coords points="135,2266 1451,2257 1333,2179 970,2221 785,2186 136,2206"/>
+                <Baseline points="143,2257 343,2258 443,2258 643,2257 743,2257 943,2261 1043,2268 1243,2272 1343,2272 1443,2272"/>
+                <TextEquiv>
+                    <Unicode>lähmen, wohnen, flehen, führen, zehren, währen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225446448_2995" custom="readingOrder {index:29;}">
+                <Coords points="132,2346 1053,2348 1155,2311 1404,2325 1423,2284 1207,2254 132,2290"/>
+                <Baseline points="140,2325 240,2325 440,2323 540,2323 740,2325 840,2325 1040,2324 1140,2323 1340,2322 1415,2322"/>
+                <TextEquiv>
+                    <Unicode>mähen, rühren, mehren, rühmen, ſehen, höhnen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225448829_2998" custom="readingOrder {index:30;}">
+                <Coords points="135,2411 1402,2386 1290,2325 1173,2362 615,2327 330,2382 135,2341"/>
+                <Baseline points="143,2401 243,2401 443,2401 543,2401 743,2401 843,2402 1043,2404 1143,2405 1343,2406 1393,2406"/>
+                <TextEquiv>
+                    <Unicode>Reihe, Seihe, Weihe, Weiher; rauh, rauhe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225451239_3001" custom="readingOrder {index:31;}">
+                <Coords points="129,2514 687,2472 1022,2498 1194,2451 1390,2513 1403,2398 129,2439"/>
+                <Baseline points="138,2474 238,2474 438,2474 538,2474 738,2474 838,2474 1038,2474 1138,2475 1338,2474 1395,2474"/>
+                <TextEquiv>
+                    <Unicode>rauher, rauhes; leihen, weihen, ſeihen, reihen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24&#xD;
+71.&#xD;
+Die Katzen fangen Mäuſe. Die Fröſche ſchnappen&#xD;
+Mücken. Die Wölfe rauben Lämmer. Die Tauben picken&#xD;
+Wicken. Die Schafe freſſen Heu. — Der Schneider hat&#xD;
+eine Elle. Der Schnitter hat eine Senſe. Der Maurer&#xD;
+hat eine Kelle. Was hat der Müller? Der Schloſſer&#xD;
+hat einen Hammer; er kann hämmern. Der Fiſcher hat&#xD;
+ein Netz; er will Fiſche fangen. Der Bauer hat einen&#xD;
+Karren.&#xD;
+72.&#xD;
+Rad, Räder; Ton, Töne; Schwur, Schwüre; Schaf,&#xD;
+Bär, Tod, Hebel,Biber, Säbel, Base, Kübel,&#xD;
+Hafen, Fibel, Leder, Schnabel, Pudel, Hobel, Schwefel;&#xD;
+müde, schwül, öde; holen, leſen, hören, tönen.&#xD;
+73.&#xD;
+Aal, Aas, Haar, Paar, Saal, Säle, Saat,&#xD;
+Waare, baar; Allee, Armee, Beere, Beet, Heer,&#xD;
+Kameel, Meer, Schnee, Scheere, See, Seele, leer;&#xD;
+Boot, Loos, Moor, Moos, Schooß, Schöße,looſen.&#xD;
+74.&#xD;
+Hahn, Hähne; Sohn, Söhne; Kuh, Kühe; Kahn;&#xD;
+Zahn, Zähne; Huhn, Hühner; Zahl, Kohl, Reh,&#xD;
+Jahr, Lehm, Uhr, Möhre, Mühle, Ehre, Mühe,&#xD;
+Sohle, Mähne, Lehne, Röhre, Bohne, Zähre, Höhe,&#xD;
+Aehre, Rahmen, Köhler, Fehler; zahm, hohl, mehr,&#xD;
+kühl, zehn, jähe, frühe; ihn, ihm, ihr,&#xD;
+ihrer, ihnen; zahlen, lohnen, wählen, fühlen,&#xD;
+lähmen, wohnen, flehen, führen, zehren, währen,&#xD;
+mähen, rühren, mehren, rühmen, ſehen, höhnen;&#xD;
+Reihe, Seihe, Weihe, Weiher; rauh, rauhe,&#xD;
+rauher, rauhes; leihen, weihen, ſeihen, reihen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585225334638_2890" custom="readingOrder {index:1;}">
+            <Coords points="202,400 1397,400"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585225357878_2912" custom="readingOrder {index:2;}">
+            <Coords points="149,827 1412,827"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585225385348_2937" custom="readingOrder {index:3;}">
+            <Coords points="722,1333 850,1333"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585225402818_2956" custom="readingOrder {index:4;}">
+            <Coords points="717,1690 894,1690"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585225414888_2963" custom="readingOrder {index:5;}">
+            <Coords points="148,1777 1418,1777"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585225430708_2979" custom="readingOrder {index:6;}">
+            <Coords points="153,2046 1363,2046"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:55.940+01:00</Created>
+        <LastChange>2020-03-26T14:16:16.866+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000036.png" imageWidth="1590" imageHeight="2630">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585228576935" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="173,144 173,2455 1445,2455 1445,144"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="756,197 777,198 786,205 791,200 800,209 810,204 816,210 826,207 837,213 854,210 852,104 822,107 818,112 814,109 804,120 795,113 791,118 778,105 754,107"/>
+                <Baseline points="763,181 790,179 817,179 845,179"/>
+                <TextEquiv>
+                    <Unicode>32</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="225,346 1441,326 1441,242 1285,276 226,265"/>
+                <Baseline points="234,326 260,326 286,326 312,326 338,327 364,327 390,327 416,327 442,326 468,326 495,326 521,326 547,326 573,326 599,326 625,326 651,326 677,326 703,326 729,326 1433,333"/>
+                <TextEquiv>
+                    <Unicode>Zwang, Zweig, Zwerg, Zweck, Zwiſt, Zweifel, Zwie=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:2;}">
+                <Coords points="169,403 1351,415 1447,400 1448,353 169,347"/>
+                <Baseline points="177,390 209,391 242,392 274,393 307,394 339,394 372,395 405,395 437,395 470,396 502,396 535,396 567,396 600,396 633,396 665,395 698,395 730,395 763,396 1440,403"/>
+                <TextEquiv>
+                    <Unicode>bel, Zwetsche; zwei, zwölf; zwingen, zwacken, zwängen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:3;}">
+                <Coords points="168,485 1405,481 1439,421 168,430"/>
+                <Baseline points="176,476 204,476 232,476 261,475 289,475 317,475 346,475 374,475 402,475 431,475 459,476 487,476 516,476 544,476 572,476 601,476 629,476 657,476 686,476 714,476 1431,477"/>
+                <TextEquiv>
+                    <Unicode>zwitſchern; Qual, Qualm, Quaſt, Quelle, Quitte, Quirle;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:4;}">
+                <Coords points="179,550 1353,564 1444,556 1445,495 1092,465 179,504"/>
+                <Baseline points="187,534 249,534 311,534 374,534 436,534 499,534 561,534 624,534 686,534 749,535 811,535 873,535 936,535 998,536 1061,536 1123,536 1186,536 1248,536 1311,536 1373,536 1436,536"/>
+                <TextEquiv>
+                    <Unicode>quälen, quillen; Pfund, Pferd, Pfeil, Pfahl, Pfanne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:5;}">
+                <Coords points="183,625 364,616 440,635 500,613 641,636 725,618 724,547 688,564 574,548 535,570 486,545 182,552"/>
+                <Baseline points="190,602 216,603 242,605 268,606 295,606 321,607 347,607 374,608 400,608 426,608 453,608 479,607 505,607 531,607 558,606 584,605 610,605 637,604 663,603 689,602 716,601"/>
+                <TextEquiv>
+                    <Unicode>Pforte, Pfosten, Pfeffer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:6;}">
+                <Coords points="758,715 801,704 810,711 820,708 852,731 866,732 870,651 848,643 826,623 817,621 809,628 800,623 782,632 776,625 761,625"/>
+                <Baseline points="766,699 797,699 828,700 860,703"/>
+                <TextEquiv>
+                    <Unicode>93.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="232,782 1446,779 1446,717 1259,701 232,706"/>
+                <Baseline points="241,766 300,766 360,765 420,765 480,765 540,766 600,766 659,766 719,766 779,767 839,767 899,767 959,768 1019,768 1078,768 1138,767 1198,767 1258,766 1318,765 1378,763 1438,762"/>
+                <TextEquiv>
+                    <Unicode>Die Biene hat einen Stachel; ſie ſticht mit dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="182,853 1440,840 1440,791 1365,770 182,788"/>
+                <Baseline points="190,835 252,835 314,835 376,835 438,835 500,835 562,836 624,836 686,836 748,836 811,836 873,837 935,837 997,837 1059,837 1121,836 1183,836 1245,835 1307,834 1369,833 1432,832"/>
+                <TextEquiv>
+                    <Unicode>Stachel. Der Ochs hat Hörner; er stößt mit den Hör=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="178,918 1432,923 1432,858 1366,849 178,856"/>
+                <Baseline points="186,906 247,906 309,905 371,905 433,905 495,906 557,906 619,906 681,906 743,906 805,906 866,906 928,906 990,906 1052,906 1114,906 1176,905 1238,905 1300,904 1362,904 1424,903"/>
+                <TextEquiv>
+                    <Unicode>nern. Die Katze hat Krallen; ſie kratzt mit den Krallen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="181,982 1337,997 1448,986 1448,926 180,924"/>
+                <Baseline points="188,976 250,976 313,977 375,977 438,977 500,977 563,977 625,977 688,977 750,977 813,977 876,976 938,976 1001,976 1063,976 1126,976 1188,975 1251,975 1313,975 1376,974 1439,974"/>
+                <TextEquiv>
+                    <Unicode>Der Hund hat ſcharfe Zähne; er beißt mit den Zähnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="174,1061 1403,1072 1444,990 174,998"/>
+                <Baseline points="182,1046 244,1045 307,1045 370,1045 433,1046 495,1046 558,1046 621,1046 684,1046 746,1046 809,1046 872,1046 935,1046 997,1046 1060,1046 1123,1045 1186,1045 1248,1044 1311,1044 1374,1043 1437,1042"/>
+                <TextEquiv>
+                    <Unicode>Welche Thiere haben Scheeren? Was thun die Vögel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:12;}">
+                <Coords points="179,1130 1397,1139 1438,1136 1438,1070 179,1081"/>
+                <Baseline points="186,1115 248,1115 310,1115 372,1115 434,1115 497,1115 559,1115 621,1115 683,1115 745,1115 808,1115 870,1115 932,1115 994,1115 1056,1115 1119,1115 1181,1115 1243,1115 1305,1115 1367,1115 1430,1115"/>
+                <TextEquiv>
+                    <Unicode>mit dem Schnabel? — Die Brücke ist breit; der Steg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:13;}">
+                <Coords points="165,1196 1444,1192 1444,1147 1374,1124 165,1130"/>
+                <Baseline points="174,1185 237,1186 300,1186 363,1186 426,1187 489,1187 552,1187 615,1187 678,1188 741,1188 804,1188 867,1188 930,1188 993,1188 1056,1187 1119,1187 1182,1186 1245,1186 1308,1185 1371,1184 1435,1183"/>
+                <TextEquiv>
+                    <Unicode>ist ſchmal. Der Baum ist groß; der Pfahl ist klein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:14;}">
+                <Coords points="171,1256 1448,1280 1448,1214 1329,1191 171,1218"/>
+                <Baseline points="179,1257 242,1257 305,1257 368,1257 431,1257 494,1257 557,1257 620,1257 683,1257 746,1257 809,1257 872,1257 935,1257 998,1256 1061,1256 1124,1256 1187,1255 1250,1255 1313,1254 1376,1253 1439,1253"/>
+                <TextEquiv>
+                    <Unicode>Der Balken ist dick; der Stock ist dünn. Der Pfosten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:15;}">
+                <Coords points="178,1343 1440,1348 1404,1269 1013,1259 807,1302 178,1265"/>
+                <Baseline points="186,1328 248,1328 310,1327 372,1327 435,1327 497,1327 559,1327 622,1327 684,1327 746,1327 809,1327 871,1327 933,1327 995,1327 1058,1327 1120,1327 1182,1326 1245,1326 1307,1325 1369,1325 1432,1324"/>
+                <TextEquiv>
+                    <Unicode>ist lang; der Stift ist kurz. — Die Nadel ist ſpitzer als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:16;}">
+                <Coords points="179,1406 1449,1422 1449,1360 1370,1339 179,1348"/>
+                <Baseline points="186,1396 248,1396 311,1396 374,1397 437,1397 500,1397 562,1398 625,1398 688,1398 751,1398 814,1398 876,1399 939,1399 1002,1398 1065,1398 1128,1398 1190,1398 1253,1398 1316,1397 1379,1397 1442,1396"/>
+                <TextEquiv>
+                    <Unicode>der Griffel. Der Tisch ist höher als der Stuhl. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:17;}">
+                <Coords points="182,1474 497,1512 674,1470 806,1504 907,1488 907,1441 852,1413 811,1432 651,1405 560,1433 446,1411 397,1435 349,1403 229,1423 182,1401"/>
+                <Baseline points="190,1467 225,1468 261,1469 296,1470 332,1471 367,1471 403,1471 438,1471 474,1471 509,1470 545,1470 580,1469 616,1469 651,1468 687,1468 722,1468 758,1467 793,1467 829,1468 864,1468 900,1469"/>
+                <TextEquiv>
+                    <Unicode>Saal ist größer als die Stube.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:18;}">
+                <Coords points="750,1596 762,1596 767,1601 791,1589 826,1596 866,1584 868,1509 843,1505 836,1498 815,1511 798,1500 791,1504 785,1499 766,1509 753,1504"/>
+                <Baseline points="758,1573 783,1575 808,1574 833,1575 858,1579"/>
+                <TextEquiv>
+                    <Unicode>94.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+                <Coords points="231,1644 1379,1671 1423,1660 1424,1570 1135,1569 1072,1606 975,1572 740,1605 650,1575 607,1610 231,1585"/>
+                <Baseline points="239,1638 270,1640 301,1641 332,1642 363,1642 394,1643 425,1643 456,1643 487,1643 518,1643 549,1643 580,1643 611,1643 642,1643 673,1643 704,1643 735,1643 766,1643 797,1644 828,1645 1416,1652"/>
+                <TextEquiv>
+                    <Unicode>Strand, Stroh, Strauch, Strahl, Strick, Strauß,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:20;}">
+                <Coords points="183,1724 764,1707 965,1747 1232,1714 1380,1748 1425,1661 183,1643"/>
+                <Baseline points="191,1720 231,1721 271,1722 312,1723 352,1723 392,1724 433,1724 473,1724 513,1724 554,1724 594,1724 634,1724 675,1723 715,1723 755,1723 796,1723 836,1723 876,1723 917,1724 957,1724 1416,1724"/>
+                <TextEquiv>
+                    <Unicode>Strich, Straße; ſtrafen, ſtreicheln, ſtreben; Spruch,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:21;}">
+                <Coords points="185,1792 1422,1805 1442,1745 186,1721"/>
+                <Baseline points="194,1779 234,1780 274,1781 314,1781 354,1782 394,1782 434,1782 475,1782 515,1782 555,1782 595,1782 635,1782 675,1782 715,1782 756,1782 796,1782 836,1783 876,1783 916,1783 956,1784 1433,1793"/>
+                <TextEquiv>
+                    <Unicode>Sproß, Sprung, Sprache; ſpröde; ſprudeln, ſpritzen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:22;}">
+                <Coords points="189,1870 1400,1885 1425,1804 1081,1787 1025,1821 901,1783 804,1845 700,1792 382,1825 190,1791"/>
+                <Baseline points="197,1856 222,1853 248,1852 273,1852 299,1852 324,1853 350,1854 1416,1868"/>
+                <TextEquiv>
+                    <Unicode>ſpringen, ſprießen; Splint, Splitter; ſpleißen; Pfropf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:23;}">
+                <Coords points="788,1848 796,1846 799,1847 802,1846 806,1847 813,1846 808,1822 807,1823 799,1824 796,1827 790,1826 784,1828"/>
+                <Baseline points="797,1855 807,1853"/>
+                <TextEquiv>
+                    <Unicode>94.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:24;}">
+                <Coords points="174,1936 1441,1958 1442,1881 1330,1866 175,1879"/>
+                <Baseline points="182,1924 460,1923 511,1922 562,1922 614,1922 665,1922 716,1923 767,1923 819,1924 870,1924 921,1925 972,1926 1024,1926 1075,1927 1126,1927 1177,1928 1229,1928 1280,1928 1331,1927 1382,1927 1434,1926"/>
+                <TextEquiv>
+                    <Unicode>Pfrieme, Pfründe; pfropfen; Pflug, Pflaume, Pflaster,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:25;}">
+                <Coords points="204,2023 1188,2022 1165,1943 834,1935 784,1969 607,1936 559,1969 510,1933 204,1936"/>
+                <Baseline points="212,1996 260,1996 308,1996 357,1996 405,1996 454,1996 502,1995 551,1995 599,1995 648,1995 696,1996 744,1996 793,1996 841,1996 890,1996 938,1996 987,1996 1035,1996 1084,1996 1132,1997 1181,1997"/>
+                <TextEquiv>
+                    <Unicode>Pflicht; pflastern, pflanzen, pflügen, pflücken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:26;}">
+                <Coords points="751,2103 775,2105 780,2101 797,2109 808,2103 816,2107 824,2099 843,2101 861,2091 872,2094 874,2018 863,2018 847,2032 836,2022 830,2025 819,2018 809,2024 789,2012 770,2024 754,2024"/>
+                <Baseline points="760,2089 786,2089 812,2089 838,2090 864,2093"/>
+                <TextEquiv>
+                    <Unicode>95.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:27;}">
+                <Coords points="230,2157 1446,2170 1446,2112 1379,2096 230,2093"/>
+                <Baseline points="237,2157 297,2156 357,2155 417,2155 477,2154 537,2154 597,2155 657,2155 717,2155 777,2156 837,2156 897,2156 957,2157 1017,2157 1077,2158 1137,2158 1197,2158 1257,2158 1317,2157 1377,2157 1438,2156"/>
+                <TextEquiv>
+                    <Unicode>Das Pferd hat vier Füße; es kann gehen, laufen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:28;}">
+                <Coords points="177,2237 1446,2227 1446,2188 1266,2166 177,2168"/>
+                <Baseline points="186,2228 248,2227 311,2226 373,2226 436,2226 499,2225 561,2225 624,2225 686,2225 749,2225 812,2226 874,2226 937,2226 999,2226 1062,2226 1125,2226 1187,2226 1250,2226 1312,2226 1375,2226 1438,2225"/>
+                <TextEquiv>
+                    <Unicode>und ſpringen. Die Katze hat auch vier Füße; ſie kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:29;}">
+                <Coords points="182,2316 1454,2316 1453,2256 1237,2228 1046,2277 821,2233 182,2251"/>
+                <Baseline points="189,2301 251,2300 314,2299 377,2298 440,2297 503,2297 565,2296 628,2296 691,2296 754,2296 817,2296 879,2296 942,2296 1005,2296 1068,2296 1131,2297 1193,2297 1256,2297 1319,2297 1382,2298 1445,2298"/>
+                <TextEquiv>
+                    <Unicode>gehen, laufen, ſpringen und klettern. Der Storch hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:30;}">
+                <Coords points="176,2389 1447,2396 1447,2340 1301,2312 176,2326"/>
+                <Baseline points="185,2369 247,2367 310,2366 372,2365 435,2365 498,2364 560,2364 623,2364 686,2364 748,2364 811,2365 874,2365 936,2365 999,2366 1062,2366 1124,2366 1187,2366 1250,2366 1312,2366 1375,2366 1438,2365"/>
+                <TextEquiv>
+                    <Unicode>zwei Füße und zwei Flügel; er kann gehen und fliegen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l47" custom="readingOrder {index:31;}">
+                <Coords points="174,2466 1401,2464 1450,2454 1450,2394 174,2398"/>
+                <Baseline points="181,2438 244,2437 307,2437 370,2437 433,2436 496,2436 559,2436 622,2436 685,2435 748,2435 811,2435 874,2435 937,2435 1000,2435 1063,2435 1126,2436 1189,2436 1252,2436 1315,2436 1378,2437 1442,2437"/>
+                <TextEquiv>
+                    <Unicode>Die Fliege hat ſechs Füße und zwei Flügel; ſie kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>32&#xD;
+Zwang, Zweig, Zwerg, Zweck, Zwiſt, Zweifel, Zwie=&#xD;
+bel, Zwetsche; zwei, zwölf; zwingen, zwacken, zwängen,&#xD;
+zwitſchern; Qual, Qualm, Quaſt, Quelle, Quitte, Quirle;&#xD;
+quälen, quillen; Pfund, Pferd, Pfeil, Pfahl, Pfanne,&#xD;
+Pforte, Pfosten, Pfeffer.&#xD;
+93.&#xD;
+Die Biene hat einen Stachel; ſie ſticht mit dem&#xD;
+Stachel. Der Ochs hat Hörner; er stößt mit den Hör=&#xD;
+nern. Die Katze hat Krallen; ſie kratzt mit den Krallen.&#xD;
+Der Hund hat ſcharfe Zähne; er beißt mit den Zähnen.&#xD;
+Welche Thiere haben Scheeren? Was thun die Vögel&#xD;
+mit dem Schnabel? — Die Brücke ist breit; der Steg&#xD;
+ist ſchmal. Der Baum ist groß; der Pfahl ist klein.&#xD;
+Der Balken ist dick; der Stock ist dünn. Der Pfosten&#xD;
+ist lang; der Stift ist kurz. — Die Nadel ist ſpitzer als&#xD;
+der Griffel. Der Tisch ist höher als der Stuhl. Der&#xD;
+Saal ist größer als die Stube.&#xD;
+94.&#xD;
+Strand, Stroh, Strauch, Strahl, Strick, Strauß,&#xD;
+Strich, Straße; ſtrafen, ſtreicheln, ſtreben; Spruch,&#xD;
+Sproß, Sprung, Sprache; ſpröde; ſprudeln, ſpritzen,&#xD;
+ſpringen, ſprießen; Splint, Splitter; ſpleißen; Pfropf&#xD;
+94.&#xD;
+Pfrieme, Pfründe; pfropfen; Pflug, Pflaume, Pflaster,&#xD;
+Pflicht; pflastern, pflanzen, pflügen, pflücken.&#xD;
+95.&#xD;
+Das Pferd hat vier Füße; es kann gehen, laufen&#xD;
+und ſpringen. Die Katze hat auch vier Füße; ſie kann&#xD;
+gehen, laufen, ſpringen und klettern. Der Storch hat&#xD;
+zwei Füße und zwei Flügel; er kann gehen und fliegen.&#xD;
+Die Fliege hat ſechs Füße und zwei Flügel; ſie kann</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

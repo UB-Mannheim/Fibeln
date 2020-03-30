@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:57.537+01:00</Created>
+        <LastChange>2020-03-26T15:13:41.424+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000045.png" imageWidth="1532" imageHeight="2634">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585232021491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="67,130 67,2456 1393,2456 1393,130"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="595,202 691,207 721,188 856,177 856,106 794,121 767,108 729,112 709,103 665,138 594,153"/>
+                <Baseline points="603,173 630,174 657,175 685,176 712,176 739,176 767,176 794,174 821,172 849,169"/>
+                <TextEquiv>
+                    <Unicode>— 41 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="128,333 1381,335 1381,277 1159,242 544,285 128,244"/>
+                <Baseline points="136,317 197,317 259,317 321,317 383,317 445,317 507,317 568,317 630,317 692,317 754,317 816,317 878,317 940,317 1001,317 1063,317 1125,317 1187,317 1249,317 1311,316 1373,316"/>
+                <TextEquiv>
+                    <Unicode>hobeln, klopfen, leimen, poliren; quälen; man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="131,414 1292,414 1378,405 1378,339 131,343"/>
+                <Baseline points="139,388 200,388 262,388 323,388 385,387 446,387 508,387 569,387 631,387 692,387 754,386 816,386 877,386 939,386 1000,386 1062,386 1123,386 1185,386 1246,387 1308,387 1370,387"/>
+                <TextEquiv>
+                    <Unicode>pflügt, egget, walzt und säet; es blitzt, donnert,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="126,481 1383,474 1382,414 1178,392 126,422"/>
+                <Baseline points="134,458 196,458 258,457 320,457 382,457 444,457 506,457 568,457 630,457 692,457 754,457 816,457 878,457 940,458 1002,458 1064,457 1126,457 1188,457 1250,457 1312,457 1374,456"/>
+                <TextEquiv>
+                    <Unicode>regnet; alles wächst, grünt, blüht und reift; man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="133,547 1382,548 1353,469 133,484"/>
+                <Baseline points="141,529 202,529 264,529 325,528 387,528 449,528 510,528 572,528 633,529 695,529 757,529 818,529 880,529 941,529 1003,529 1065,528 1126,528 1188,528 1249,527 1311,526 1373,525"/>
+                <TextEquiv>
+                    <Unicode>schneidet, bindet, fährt, drischt, mahlt, bäckt und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="127,610 1314,619 1385,605 1385,548 127,552"/>
+                <Baseline points="135,599 197,598 259,598 321,597 383,597 445,597 507,597 569,598 631,598 693,598 756,598 818,599 880,599 942,599 1004,599 1066,599 1128,599 1190,599 1252,598 1314,597 1377,596"/>
+                <TextEquiv>
+                    <Unicode>isst; — ich höre, was ich spreche; ich sehe, was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="124,692 573,663 677,707 999,670 1289,702 1347,675 1347,609 124,622"/>
+                <Baseline points="131,671 191,671 251,670 312,670 372,669 433,669 493,669 553,669 614,669 674,669 735,669 795,669 855,669 916,670 976,670 1037,670 1097,669 1157,669 1218,669 1278,668 1339,668"/>
+                <TextEquiv>
+                    <Unicode>ich schreibe; — sei aufmerksam, folge willig!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="188,862 457,900 549,868 913,897 960,855 1299,879 1300,710 1120,748 482,713 411,752 189,752"/>
+                <Baseline points="196,844 250,847 305,849 360,851 415,853 470,854 524,855 579,856 634,857 689,857 744,857 798,857 853,857 908,857 963,857 1018,856 1072,856 1127,856 1182,855 1237,855 1292,855"/>
+                <TextEquiv>
+                    <Unicode>112. A, B, C, D, E, F, G.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="378,1018 1017,1015 1096,1053 1146,1016 1231,1018 1231,955 742,963 694,940 637,981 567,953 378,958"/>
+                <Baseline points="387,1008 428,1009 470,1010 512,1010 554,1011 596,1011 638,1011 679,1011 721,1011 763,1011 805,1011 847,1011 889,1010 931,1010 972,1010 1014,1009 1056,1009 1098,1009 1140,1009 1182,1009 1224,1008"/>
+                <TextEquiv>
+                    <Unicode>A, B, C, D, E, F, G.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="194,1102 1394,1100 1340,1024 1096,1053 1006,1018 535,1024 440,1059 194,1024"/>
+                <Baseline points="202,1083 261,1084 320,1084 379,1084 438,1085 498,1085 557,1085 616,1085 675,1085 734,1084 794,1084 853,1084 912,1084 971,1084 1030,1084 1090,1084 1149,1084 1208,1084 1267,1084 1326,1084 1386,1084"/>
+                <TextEquiv>
+                    <Unicode>Der Arm, der Finger, das Bein, der Fuss,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="128,1173 1397,1180 1347,1099 1173,1087 128,1106"/>
+                <Baseline points="136,1154 198,1154 261,1154 324,1154 386,1154 449,1155 512,1155 574,1155 637,1155 700,1155 763,1154 825,1154 888,1154 951,1154 1013,1154 1076,1154 1139,1154 1201,1154 1264,1154 1327,1153 1390,1153"/>
+                <TextEquiv>
+                    <Unicode>ein Dach, eine Ecke; mein Brod, dein Fleisch;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="126,1247 1392,1247 1392,1182 1242,1165 126,1176"/>
+                <Baseline points="134,1225 196,1224 258,1224 321,1225 383,1225 446,1225 508,1225 571,1225 633,1225 696,1225 758,1225 820,1225 883,1225 945,1225 1008,1225 1070,1225 1133,1224 1195,1224 1258,1223 1320,1223 1383,1222"/>
+                <TextEquiv>
+                    <Unicode>seine Gabel, unsere Aepfel. Der Baum hat Aeste;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="128,1300 1398,1307 1398,1253 1155,1233 128,1253"/>
+                <Baseline points="135,1296 197,1295 260,1295 323,1295 386,1294 448,1294 511,1294 574,1294 637,1294 699,1294 762,1294 825,1294 888,1294 950,1294 1013,1294 1076,1294 1139,1294 1201,1294 1264,1294 1327,1293 1390,1293"/>
+                <TextEquiv>
+                    <Unicode>er trägt Blätter, Blüthen und Früchte. Der Arme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="131,1381 1390,1387 1390,1330 1149,1302 131,1311"/>
+                <Baseline points="139,1365 201,1365 263,1365 325,1365 387,1365 450,1365 512,1365 574,1365 636,1365 698,1365 761,1365 823,1365 885,1365 947,1365 1009,1365 1072,1365 1134,1365 1196,1365 1258,1365 1320,1365 1383,1365"/>
+                <TextEquiv>
+                    <Unicode>betet; der Fromme hilft dem Bedrängten; er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="132,1454 460,1436 496,1458 603,1442 633,1459 733,1436 732,1379 628,1400 523,1373 438,1394 406,1375 365,1412 305,1380 244,1395 201,1373 132,1378"/>
+                <Baseline points="140,1440 169,1439 198,1439 227,1438 256,1438 286,1437 315,1437 344,1437 373,1437 402,1437 432,1437 461,1437 490,1437 519,1437 548,1437 578,1437 607,1436 636,1436 665,1435 694,1435 724,1434"/>
+                <TextEquiv>
+                    <Unicode>gibt ihm ein Almosen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="205,1637 1053,1673 1203,1626 1246,1664 1395,1635 1394,1490 376,1521 301,1491 204,1555"/>
+                <Baseline points="67,1637 271,1636 330,1637 389,1637 447,1637 506,1636 565,1636 623,1635 682,1634 741,1633 800,1632 858,1631 917,1630 976,1629 1034,1629 1093,1628 1152,1628 1210,1628 1269,1628 1328,1629 1387,1630"/>
+                <TextEquiv>
+                    <Unicode>113. H. I., J. K, L, M. N, O, P, Q.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="191,1806 1396,1805 1396,1742 1260,1716 1079,1747 923,1707 192,1722"/>
+                <Baseline points="200,1786 259,1787 318,1788 378,1788 437,1789 496,1789 556,1789 615,1789 674,1790 734,1790 793,1790 852,1790 912,1790 971,1790 1030,1791 1090,1791 1149,1791 1208,1792 1268,1793 1327,1793 1387,1794"/>
+                <TextEquiv>
+                    <Unicode>H. I., J. K, L, M. N, O, P, Q.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="192,1889 1393,1893 1393,1833 1215,1811 375,1846 192,1805"/>
+                <Baseline points="200,1873 259,1874 318,1874 377,1875 437,1876 496,1876 555,1876 614,1877 674,1877 733,1877 792,1877 851,1877 911,1877 970,1877 1029,1876 1088,1876 1148,1876 1207,1876 1266,1876 1325,1875 1385,1875"/>
+                <TextEquiv>
+                    <Unicode>Kirche, Altar, Kerzen, Bänke, Leute, Predigt=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="124,1956 1401,1971 1401,1909 1343,1890 125,1904"/>
+                <Baseline points="133,1945 196,1946 259,1946 322,1946 385,1946 448,1946 511,1946 574,1947 637,1947 700,1947 763,1947 826,1947 889,1947 952,1947 1015,1947 1078,1948 1141,1948 1204,1948 1267,1948 1330,1949 1393,1949"/>
+                <TextEquiv>
+                    <Unicode>stuhl, Orgel, Pfeife, Blasebalg; Kopf, Mund, Nase,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="135,2032 1395,2036 1395,1972 1354,1959 1281,1990 1204,1953 323,1991 135,1961"/>
+                <Baseline points="143,2018 205,2017 267,2016 329,2016 391,2016 454,2015 516,2015 578,2015 640,2015 702,2015 765,2016 827,2016 889,2016 951,2016 1013,2017 1076,2017 1138,2017 1200,2017 1262,2017 1324,2017 1387,2017"/>
+                <TextEquiv>
+                    <Unicode>Augen, Ohren, Haare; ein Igel; das Jahr; die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="153,2108 1392,2106 1355,2035 153,2037"/>
+                <Baseline points="161,2086 222,2086 283,2085 344,2085 405,2085 467,2085 528,2085 589,2085 650,2085 711,2085 773,2086 834,2086 895,2086 956,2086 1017,2087 1079,2087 1140,2087 1201,2087 1262,2086 1323,2086 1385,2085"/>
+                <TextEquiv>
+                    <Unicode>Qual. — Die Nachtigall schlägt; die Ente schnat=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="140,2166 1390,2178 1368,2102 140,2108"/>
+                <Baseline points="147,2156 208,2155 270,2155 332,2155 394,2155 455,2155 517,2155 579,2155 641,2155 702,2156 764,2156 826,2156 888,2157 949,2157 1011,2158 1073,2158 1135,2158 1196,2158 1258,2158 1320,2158 1382,2157"/>
+                <TextEquiv>
+                    <Unicode>tert; der Hund bellt; die Katze miaut; der Frosch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="144,2247 1391,2255 1391,2179 1297,2172 145,2184"/>
+                <Baseline points="152,2227 213,2226 275,2226 336,2225 398,2225 459,2225 521,2225 582,2225 644,2225 705,2226 767,2226 829,2226 890,2227 952,2228 1013,2228 1075,2228 1136,2229 1198,2229 1259,2229 1321,2229 1383,2230"/>
+                <TextEquiv>
+                    <Unicode>quakt. — Der Pflug besteht aus Holz und Eisen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="142,2313 1389,2312 1389,2257 1337,2246 143,2248"/>
+                <Baseline points="150,2298 211,2297 273,2297 334,2296 396,2296 458,2296 519,2296 581,2296 642,2296 704,2296 766,2297 827,2297 889,2297 950,2297 1012,2298 1074,2298 1135,2298 1197,2298 1258,2297 1320,2297 1382,2297"/>
+                <TextEquiv>
+                    <Unicode>das Pferdegeschirr ist aus Leder und Kupfer ver=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="139,2384 1166,2403 1228,2372 1291,2407 1393,2378 1394,2311 139,2314"/>
+                <Baseline points="147,2371 418,2366 469,2366 520,2366 571,2366 622,2366 673,2367 724,2367 775,2368 826,2368 877,2369 927,2369 978,2370 1029,2370 1080,2371 1131,2371 1182,2371 1233,2371 1284,2371 1335,2371 1386,2371"/>
+                <TextEquiv>
+                    <Unicode>fertigt. Im Frühjahre pflücke ich Blumen; im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="132,2475 271,2462 331,2488 446,2445 514,2477 633,2447 802,2463 802,2390 778,2384 671,2376 637,2403 564,2406 493,2379 391,2401 132,2383"/>
+                <Baseline points="140,2439 172,2438 205,2438 238,2437 270,2437 303,2437 336,2437 368,2437 401,2437 434,2437 467,2437 499,2437 532,2438 565,2438 597,2438 630,2438 663,2438 695,2438 728,2438 761,2438 794,2437"/>
+                <TextEquiv>
+                    <Unicode>Herbste mäht man Gras.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 41 —&#xD;
+hobeln, klopfen, leimen, poliren; quälen; man&#xD;
+pflügt, egget, walzt und säet; es blitzt, donnert,&#xD;
+regnet; alles wächst, grünt, blüht und reift; man&#xD;
+schneidet, bindet, fährt, drischt, mahlt, bäckt und&#xD;
+isst; — ich höre, was ich spreche; ich sehe, was&#xD;
+ich schreibe; — sei aufmerksam, folge willig!&#xD;
+112. A, B, C, D, E, F, G.&#xD;
+A, B, C, D, E, F, G.&#xD;
+Der Arm, der Finger, das Bein, der Fuss,&#xD;
+ein Dach, eine Ecke; mein Brod, dein Fleisch;&#xD;
+seine Gabel, unsere Aepfel. Der Baum hat Aeste;&#xD;
+er trägt Blätter, Blüthen und Früchte. Der Arme&#xD;
+betet; der Fromme hilft dem Bedrängten; er&#xD;
+gibt ihm ein Almosen.&#xD;
+113. H. I., J. K, L, M. N, O, P, Q.&#xD;
+H. I., J. K, L, M. N, O, P, Q.&#xD;
+Kirche, Altar, Kerzen, Bänke, Leute, Predigt=&#xD;
+stuhl, Orgel, Pfeife, Blasebalg; Kopf, Mund, Nase,&#xD;
+Augen, Ohren, Haare; ein Igel; das Jahr; die&#xD;
+Qual. — Die Nachtigall schlägt; die Ente schnat=&#xD;
+tert; der Hund bellt; die Katze miaut; der Frosch&#xD;
+quakt. — Der Pflug besteht aus Holz und Eisen;&#xD;
+das Pferdegeschirr ist aus Leder und Kupfer ver=&#xD;
+fertigt. Im Frühjahre pflücke ich Blumen; im&#xD;
+Herbste mäht man Gras.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

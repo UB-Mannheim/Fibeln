@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:58.003+01:00</Created>
+        <LastChange>2020-03-26T15:24:10.099+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000048.png" imageWidth="1610" imageHeight="2624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585232650168" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="147,141 147,2445 1420,2445 1420,141"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="687,174 704,173 713,182 732,177 773,205 797,200 806,210 822,199 845,197 845,120 832,123 814,111 798,126 782,119 763,131 746,122 722,136 686,124"/>
+                <Baseline points="695,171 723,172 751,172 780,172 808,171 837,171"/>
+                <TextEquiv>
+                    <Unicode> 44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="478,321 602,323 642,303 734,328 779,309 846,332 1018,310 1106,330 1106,268 1017,242 800,240 737,265 683,238 615,268 534,224 479,228"/>
+                <Baseline points="486,300 516,301 547,302 577,303 608,304 639,304 669,304 700,305 730,305 761,305 792,305 822,305 853,305 883,305 914,305 945,306 975,306 1006,306 1036,307 1067,308 1098,309"/>
+                <TextEquiv>
+                    <Unicode>118. Der Frühling.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="223,384 1269,410 1420,399 1420,317 223,334"/>
+                <Baseline points="231,385 290,384 349,383 408,382 467,382 526,381 585,381 644,381 703,381 762,381 821,382 880,382 939,382 998,383 1057,383 1116,383 1175,383 1234,384 1293,384 1352,383 1411,383"/>
+                <TextEquiv>
+                    <Unicode>Im Frühlinge wird die Luft milde. Es ſchmilzt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="177,453 1424,453 1424,398 1347,385 177,382"/>
+                <Baseline points="185,440 246,440 308,441 369,441 431,442 492,442 554,442 615,442 677,442 738,441 800,441 862,441 923,441 985,441 1046,441 1108,441 1169,441 1231,442 1292,442 1354,443 1416,444"/>
+                <TextEquiv>
+                    <Unicode>Schnee und das Eis. Davon wird die Erde naß. Bäche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="167,513 1418,508 1362,446 167,464"/>
+                <Baseline points="175,499 236,500 298,500 360,500 422,501 484,501 545,500 607,500 669,500 731,500 793,500 854,499 916,499 978,499 1040,499 1102,499 1163,499 1225,500 1287,500 1349,501 1411,502"/>
+                <TextEquiv>
+                    <Unicode>und Flüsse ſchwellen an. Der Himmel wird wieder blau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="168,565 1425,570 1425,507 1390,505 169,513"/>
+                <Baseline points="177,556 239,556 301,557 363,557 425,557 487,557 549,557 611,557 673,557 735,557 797,558 859,558 921,558 983,558 1045,558 1107,558 1169,558 1231,559 1293,559 1355,560 1417,560"/>
+                <TextEquiv>
+                    <Unicode>Bald ſcheint die Sonne wärmer. Der Landmann zieht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="165,634 1423,633 1423,570 165,566"/>
+                <Baseline points="173,618 235,618 297,618 359,617 421,617 483,617 545,617 607,617 669,617 731,617 794,617 856,617 918,617 980,617 1042,617 1104,617 1166,617 1228,617 1290,617 1352,617 1415,617"/>
+                <TextEquiv>
+                    <Unicode>fröhlich zum Acker. Das Feld wird gepflügt, der Garten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="162,682 1428,689 1428,644 1362,623 662,624 584,662 526,621 162,634"/>
+                <Baseline points="170,674 232,674 295,675 357,675 420,675 482,675 545,675 607,675 670,675 732,675 795,675 857,675 920,675 982,675 1045,674 1107,674 1170,674 1232,674 1295,674 1357,674 1420,674"/>
+                <TextEquiv>
+                    <Unicode>wird umgegraben. Die Winzer beſchneiden den Wein=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="164,747 1420,740 1386,680 909,680 867,713 805,676 164,682"/>
+                <Baseline points="172,733 234,733 296,733 358,734 420,734 482,734 544,734 606,734 668,734 730,734 792,734 854,734 916,733 978,733 1040,733 1102,733 1164,733 1226,733 1288,733 1350,733 1412,734"/>
+                <TextEquiv>
+                    <Unicode>ſtock. Nun grünet der Buſch. Es grünet der Garten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="163,791 1426,811 1405,740 751,774 163,747"/>
+                <Baseline points="170,790 232,791 294,791 357,792 419,792 482,792 544,793 606,793 669,793 731,793 794,793 856,793 918,793 981,793 1043,793 1106,793 1168,792 1230,792 1293,792 1355,792 1418,793"/>
+                <TextEquiv>
+                    <Unicode>Die Saatſschießt empor. Die Zugvögel kehren zurück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="168,854 1421,871 1421,811 1353,798 168,802"/>
+                <Baseline points="176,849 237,850 299,850 361,850 423,850 485,850 547,850 608,850 670,850 732,850 794,850 856,850 918,850 980,850 1041,850 1103,850 1165,850 1227,850 1289,851 1351,851 1413,852"/>
+                <TextEquiv>
+                    <Unicode>und bauen ſich Neſter. Der Geſang der Nachtigallen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="160,915 1037,927 1157,891 1201,929 1424,928 1392,857 160,851"/>
+                <Baseline points="168,908 230,908 292,908 355,908 417,908 480,908 542,909 604,909 667,909 729,909 792,909 854,909 916,909 979,909 1041,909 1104,909 1166,909 1228,909 1291,909 1353,909 1416,909"/>
+                <TextEquiv>
+                    <Unicode>belebt das Gebüſch. Das Veilchen duftet. Das Mai=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="160,983 1408,992 1421,925 160,936"/>
+                <Baseline points="168,970 230,970 292,969 354,969 417,969 479,969 541,968 603,968 666,968 728,968 790,969 852,969 915,969 977,969 1039,969 1101,969 1164,969 1226,970 1288,970 1350,970 1413,970"/>
+                <TextEquiv>
+                    <Unicode>glöckchen blühet. Viele Blumen zieren Wieſen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="165,1033 232,1030 242,1035 248,1030 281,1038 319,1033 325,1039 353,1028 353,990 339,993 321,984 299,990 272,969 244,988 225,976 217,982 208,976 183,984 164,981"/>
+                <Baseline points="173,1029 201,1027 230,1025 259,1025 287,1025 316,1026 345,1026"/>
+                <TextEquiv>
+                    <Unicode>Garten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="452,1116 507,1135 644,1111 719,1136 792,1113 910,1144 957,1113 1102,1127 1114,1031 1050,1021 924,1073 848,1045 801,1075 655,1045 510,1066 452,1047"/>
+                <Baseline points="460,1110 492,1110 524,1110 556,1110 589,1110 621,1110 653,1110 686,1110 718,1110 750,1110 783,1109 815,1109 847,1109 879,1109 912,1109 944,1109 976,1109 1009,1110 1041,1110 1073,1110 1106,1111"/>
+                <TextEquiv>
+                    <Unicode>119. Der Sommer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="214,1203 1369,1207 1417,1197 1418,1137 215,1137"/>
+                <Baseline points="223,1180 282,1179 341,1179 400,1179 460,1179 519,1178 578,1178 638,1178 697,1178 756,1178 816,1179 875,1179 934,1179 993,1179 1053,1179 1112,1180 1171,1180 1231,1181 1290,1181 1349,1181 1409,1182"/>
+                <TextEquiv>
+                    <Unicode>Im Sommer sind die Tage lang, die Nächte kurz. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="158,1266 1417,1251 1417,1204 1271,1185 669,1186 595,1225 468,1183 158,1186"/>
+                <Baseline points="165,1238 227,1238 289,1237 351,1237 414,1237 476,1237 538,1236 600,1236 663,1236 725,1236 787,1236 849,1236 912,1236 974,1236 1036,1237 1098,1237 1161,1237 1223,1238 1285,1238 1347,1239 1410,1239"/>
+                <TextEquiv>
+                    <Unicode>Sonne wird heisser. Die Erdbeeren und Johannisbeeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="161,1302 1369,1319 1408,1258 161,1263"/>
+                <Baseline points="169,1296 230,1295 292,1295 353,1295 415,1295 476,1294 538,1294 599,1294 661,1294 722,1294 784,1294 846,1294 907,1294 969,1294 1030,1295 1092,1295 1153,1296 1215,1296 1276,1297 1338,1298 1400,1299"/>
+                <TextEquiv>
+                    <Unicode>werden reif. Es reifen die Kirschen. Es blühet der Wein=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="154,1364 1413,1361 1413,1325 1199,1294 154,1320"/>
+                <Baseline points="161,1354 223,1354 285,1354 347,1354 409,1354 472,1354 534,1354 596,1354 658,1354 720,1353 783,1353 845,1353 907,1353 969,1353 1031,1353 1094,1354 1156,1354 1218,1355 1280,1356 1342,1357 1405,1358"/>
+                <TextEquiv>
+                    <Unicode>stock. Das Gras auf der Wiese wird abgemähet. Das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="150,1419 1403,1438 1413,1385 150,1367"/>
+                <Baseline points="158,1411 220,1412 282,1412 344,1412 407,1412 469,1412 531,1411 594,1411 656,1411 718,1410 781,1410 843,1410 905,1410 967,1410 1030,1410 1092,1411 1154,1412 1217,1413 1279,1414 1341,1416 1404,1418"/>
+                <TextEquiv>
+                    <Unicode>Heu wird eingefahren. Das Getreide ist nicht mehr grün,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="149,1500 1366,1491 1413,1439 149,1440"/>
+                <Baseline points="157,1473 219,1472 281,1472 344,1472 406,1471 469,1471 531,1471 594,1470 656,1470 719,1470 781,1470 843,1470 906,1470 968,1470 1031,1470 1093,1471 1156,1471 1218,1472 1281,1472 1343,1473 1406,1474"/>
+                <TextEquiv>
+                    <Unicode>sondern gelb. Die Aehren sind schwer. Es nahet die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="157,1535 1393,1549 1410,1485 157,1497"/>
+                <Baseline points="165,1530 226,1530 288,1530 350,1530 412,1530 474,1530 536,1529 598,1529 660,1529 722,1529 784,1529 845,1528 907,1528 969,1528 1031,1529 1093,1529 1155,1529 1217,1530 1279,1530 1341,1531 1403,1532"/>
+                <TextEquiv>
+                    <Unicode>Aernte. Roggen und Weizen werden gemäht. Die Hitze</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="151,1595 1413,1606 1413,1548 1333,1538 151,1533"/>
+                <Baseline points="159,1588 221,1588 283,1588 345,1588 408,1587 470,1587 532,1587 595,1587 657,1587 719,1586 782,1586 844,1586 906,1586 968,1586 1031,1586 1093,1587 1155,1587 1218,1588 1280,1588 1342,1589 1405,1590"/>
+                <TextEquiv>
+                    <Unicode>ist brennend und drückend. Die Schnitter schwitzen auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="156,1659 1421,1653 1421,1607 1293,1596 156,1596"/>
+                <Baseline points="164,1647 226,1646 288,1646 351,1646 413,1646 476,1646 538,1645 601,1645 663,1645 726,1645 788,1645 850,1645 913,1645 975,1645 1038,1645 1100,1646 1163,1646 1225,1647 1288,1647 1350,1648 1413,1649"/>
+                <TextEquiv>
+                    <Unicode>dem Felde. Der Schatten ist kühl und labend. Alles hofft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="149,1724 1418,1726 1418,1678 1335,1654 149,1675"/>
+                <Baseline points="158,1705 220,1706 283,1706 345,1706 408,1705 471,1705 533,1705 596,1705 658,1705 721,1704 784,1704 846,1704 909,1704 971,1704 1034,1704 1097,1705 1159,1705 1222,1706 1284,1707 1347,1708 1410,1709"/>
+                <TextEquiv>
+                    <Unicode>auf erquickenden Regen. Gott sorgt für die Menschen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="150,1766 752,1768 828,1803 930,1763 1307,1774 1307,1719 150,1730"/>
+                <Baseline points="158,1767 215,1766 272,1765 329,1764 386,1764 443,1764 500,1763 557,1763 614,1763 671,1762 728,1762 785,1762 842,1762 899,1763 956,1763 1013,1763 1070,1763 1127,1764 1184,1764 1241,1764 1299,1765"/>
+                <TextEquiv>
+                    <Unicode>er sendet Sonnenschein und Regen zur rechten Zeit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="494,1902 546,1912 628,1888 746,1909 776,1893 1054,1922 1054,1826 798,1843 697,1819 653,1855 614,1829 494,1822"/>
+                <Baseline points="503,1881 530,1882 557,1882 584,1882 611,1882 639,1883 666,1883 693,1883 720,1883 747,1883 775,1883 802,1883 829,1883 856,1883 883,1883 911,1883 938,1883 965,1883 992,1883 1019,1883 1047,1883"/>
+                <TextEquiv>
+                    <Unicode>120. Der Herbst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="209,1971 1407,1983 1425,1913 209,1906"/>
+                <Baseline points="217,1966 277,1964 337,1963 397,1962 457,1961 517,1960 577,1960 637,1960 697,1959 757,1960 817,1960 877,1960 937,1961 997,1961 1057,1962 1117,1963 1177,1964 1237,1964 1297,1965 1357,1966 1417,1967"/>
+                <TextEquiv>
+                    <Unicode>Im Herbſte nehmen die Tage ab. Die Hitze läßt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="153,2027 1408,2036 1408,1982 1294,1965 154,1969"/>
+                <Baseline points="161,2020 223,2020 285,2019 347,2019 409,2018 471,2018 533,2018 595,2018 657,2018 719,2017 781,2018 843,2018 905,2018 967,2018 1029,2019 1091,2019 1153,2020 1215,2020 1277,2021 1339,2022 1401,2023"/>
+                <TextEquiv>
+                    <Unicode>nach. Aepfel, Birnen und Nüſſe werden reif. Auch die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="154,2089 1414,2081 1403,2025 154,2023"/>
+                <Baseline points="162,2077 224,2076 286,2076 348,2076 410,2076 473,2076 535,2076 597,2076 659,2076 721,2076 784,2076 846,2077 908,2077 970,2077 1032,2078 1095,2078 1157,2079 1219,2079 1281,2079 1343,2079 1406,2079"/>
+                <TextEquiv>
+                    <Unicode>Weintrauben kommen zur Reife. Die Weinleſe wird</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="151,2145 1414,2154 1414,2108 1340,2081 151,2096"/>
+                <Baseline points="159,2140 221,2139 283,2137 345,2136 408,2135 470,2135 532,2134 595,2134 657,2134 719,2134 782,2134 844,2134 906,2135 968,2135 1031,2136 1093,2136 1155,2137 1218,2137 1280,2138 1342,2138 1405,2139"/>
+                <TextEquiv>
+                    <Unicode>gehalten. Die Kartoffeln werden ausgegraben. Man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="148,2214 1362,2218 1414,2204 1415,2150 149,2144"/>
+                <Baseline points="157,2194 219,2193 281,2193 344,2193 406,2193 469,2193 531,2193 594,2193 656,2193 719,2193 781,2193 843,2193 906,2194 968,2194 1031,2194 1093,2195 1156,2195 1218,2195 1281,2196 1343,2196 1406,2196"/>
+                <TextEquiv>
+                    <Unicode>verſieht ſich mit Vorrath für den Winter. Keller und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="151,2263 1288,2272 1311,2206 151,2215"/>
+                <Baseline points="158,2251 215,2251 272,2251 329,2251 387,2251 444,2251 501,2251 559,2251 616,2251 673,2251 731,2252 788,2252 845,2252 902,2252 960,2253 1017,2253 1074,2253 1132,2254 1189,2254 1246,2255 1304,2255"/>
+                <TextEquiv>
+                    <Unicode>Speicher werden angefüllt. Gott ist ſehr gütig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="139,2317 1407,2324 1407,2273 1336,2260 140,2263"/>
+                <Baseline points="148,2310 210,2310 273,2310 335,2309 398,2309 460,2309 523,2309 585,2309 648,2309 710,2309 773,2309 836,2309 898,2310 961,2310 1023,2310 1086,2311 1148,2311 1211,2312 1273,2313 1336,2313 1399,2314"/>
+                <TextEquiv>
+                    <Unicode>Nun werden die Blätter gelb und fallen ab. Die Zug=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="145,2376 1318,2388 1418,2380 1419,2338 145,2323"/>
+                <Baseline points="153,2370 215,2370 278,2369 341,2369 404,2369 467,2368 530,2368 592,2368 655,2369 718,2369 781,2369 844,2369 907,2370 970,2370 1032,2370 1095,2370 1158,2371 1221,2371 1284,2371 1347,2371 1410,2371"/>
+                <TextEquiv>
+                    <Unicode>vögel ziehen in wärmere Länder. Kalter Nebel erfüllt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="140,2442 204,2449 234,2429 328,2457 470,2431 618,2443 644,2435 644,2377 506,2369 400,2393 293,2377 235,2400 139,2387"/>
+                <Baseline points="147,2431 172,2430 198,2429 224,2429 250,2429 275,2429 301,2428 327,2428 353,2428 379,2428 404,2428 430,2428 456,2428 482,2428 508,2428 533,2428 559,2428 585,2428 611,2428 637,2428"/>
+                <TextEquiv>
+                    <Unicode>am Morgen die Luft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> 44&#xD;
+118. Der Frühling.&#xD;
+Im Frühlinge wird die Luft milde. Es ſchmilzt der&#xD;
+Schnee und das Eis. Davon wird die Erde naß. Bäche&#xD;
+und Flüsse ſchwellen an. Der Himmel wird wieder blau.&#xD;
+Bald ſcheint die Sonne wärmer. Der Landmann zieht&#xD;
+fröhlich zum Acker. Das Feld wird gepflügt, der Garten&#xD;
+wird umgegraben. Die Winzer beſchneiden den Wein=&#xD;
+ſtock. Nun grünet der Buſch. Es grünet der Garten.&#xD;
+Die Saatſschießt empor. Die Zugvögel kehren zurück&#xD;
+und bauen ſich Neſter. Der Geſang der Nachtigallen&#xD;
+belebt das Gebüſch. Das Veilchen duftet. Das Mai=&#xD;
+glöckchen blühet. Viele Blumen zieren Wieſen und&#xD;
+Garten.&#xD;
+119. Der Sommer.&#xD;
+Im Sommer sind die Tage lang, die Nächte kurz. Die&#xD;
+Sonne wird heisser. Die Erdbeeren und Johannisbeeren&#xD;
+werden reif. Es reifen die Kirschen. Es blühet der Wein=&#xD;
+stock. Das Gras auf der Wiese wird abgemähet. Das&#xD;
+Heu wird eingefahren. Das Getreide ist nicht mehr grün,&#xD;
+sondern gelb. Die Aehren sind schwer. Es nahet die&#xD;
+Aernte. Roggen und Weizen werden gemäht. Die Hitze&#xD;
+ist brennend und drückend. Die Schnitter schwitzen auf&#xD;
+dem Felde. Der Schatten ist kühl und labend. Alles hofft&#xD;
+auf erquickenden Regen. Gott sorgt für die Menschen;&#xD;
+er sendet Sonnenschein und Regen zur rechten Zeit.&#xD;
+120. Der Herbst.&#xD;
+Im Herbſte nehmen die Tage ab. Die Hitze läßt&#xD;
+nach. Aepfel, Birnen und Nüſſe werden reif. Auch die&#xD;
+Weintrauben kommen zur Reife. Die Weinleſe wird&#xD;
+gehalten. Die Kartoffeln werden ausgegraben. Man&#xD;
+verſieht ſich mit Vorrath für den Winter. Keller und&#xD;
+Speicher werden angefüllt. Gott ist ſehr gütig.&#xD;
+Nun werden die Blätter gelb und fallen ab. Die Zug=&#xD;
+vögel ziehen in wärmere Länder. Kalter Nebel erfüllt&#xD;
+am Morgen die Luft.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

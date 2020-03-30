@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:53.650+01:00</Created>
+        <LastChange>2020-03-26T12:36:46.146+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000023.png" imageWidth="1558" imageHeight="2636">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585222606213" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="127,-259 127,2078 1446,2078 1446,-259"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="753,243 770,236 787,246 842,205 857,210 877,202 919,222 911,107 884,115 859,109 833,122 828,117 810,133 785,132 770,147 746,150"/>
+                <Baseline points="758,196 783,195 808,193 833,190 858,188 883,187 908,188"/>
+                <TextEquiv>
+                    <Unicode>19.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="121,425 1372,438 1422,412 1420,265 521,308 455,266 120,330"/>
+                <Baseline points="129,421 193,422 257,423 321,423 385,423 450,422 514,422 578,421 642,420 706,419 771,418 835,417 899,416 963,416 1027,415 1092,415 1156,415 1220,415 1284,415 1348,416 1413,417"/>
+                <TextEquiv>
+                    <Unicode>53. K. L. M, N, O, Oe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:2;}">
+                <Coords points="287,526 1408,504 1376,436 1241,474 1077,428 878,479 800,436 690,483 573,440 425,486 287,439"/>
+                <Baseline points="295,508 564,501 608,501 652,501 696,501 740,501 784,501 828,501 872,501 916,501 960,501 1004,501 1048,501 1092,502 1136,502 1180,502 1224,502 1268,502 1312,502 1356,502 1401,502"/>
+                <TextEquiv>
+                    <Unicode>K, L, M, N, O, Oe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:3;}">
+                <Coords points="214,585 1430,598 1419,516 1198,509 1149,548 215,517"/>
+                <Baseline points="222,577 282,577 342,576 402,576 462,576 522,575 582,575 642,576 702,576 762,576 822,576 882,576 942,577 1002,577 1062,577 1122,577 1182,577 1242,578 1302,577 1362,577 1422,577"/>
+                <TextEquiv>
+                    <Unicode>Der Kaiſer, eine Kirſche, eine Lampe, das Oel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:4;}">
+                <Coords points="151,659 1063,680 1441,645 1441,601 1288,582 151,598"/>
+                <Baseline points="159,647 222,647 286,647 349,646 413,646 477,646 540,646 604,646 668,646 731,646 795,646 859,646 922,646 986,646 1050,646 1113,646 1177,647 1241,647 1304,647 1368,647 1432,647"/>
+                <TextEquiv>
+                    <Unicode>die Linſe, ein Maler, eine Muſchel, die Nadel, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="147,725 1421,735 1421,673 1353,655 568,686 147,655"/>
+                <Baseline points="155,718 217,718 280,718 343,718 406,717 469,717 532,717 595,717 658,717 721,717 784,717 846,717 909,718 972,718 1035,718 1098,718 1161,718 1224,718 1287,719 1350,719 1413,719"/>
+                <TextEquiv>
+                    <Unicode>Note, ein Ofen, die Oefen, eine Kanzel, der Jubel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="161,800 1313,815 1432,794 1432,733 161,736"/>
+                <Baseline points="169,789 231,789 294,789 357,789 420,789 482,789 545,789 608,789 671,789 733,789 796,789 859,789 922,789 984,789 1047,789 1110,789 1173,789 1235,788 1298,788 1361,788 1424,787"/>
+                <TextEquiv>
+                    <Unicode>ein Name, die Meiſe, eine Haube, eine Nudel, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="152,864 1432,867 1397,800 152,805"/>
+                <Baseline points="160,861 223,860 286,860 349,859 413,859 476,859 539,859 602,859 666,859 729,859 792,859 855,859 919,859 982,859 1045,859 1108,859 1172,859 1235,859 1298,858 1361,858 1425,857"/>
+                <TextEquiv>
+                    <Unicode>Orden, ein Kölner, ein Läufer, die Kelter, ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:8;}">
+                <Coords points="154,941 1300,952 1438,931 1438,864 154,874"/>
+                <Baseline points="162,929 225,929 288,929 352,929 415,929 478,929 542,929 605,929 668,929 732,929 795,929 858,929 922,929 985,929 1048,929 1112,929 1175,929 1238,929 1302,929 1365,929 1429,928"/>
+                <TextEquiv>
+                    <Unicode>Gulden, das Leder, das Leinen, der Oheim, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:9;}">
+                <Coords points="157,1012 1275,1028 1440,1001 1440,938 1030,979 867,934 721,967 157,942"/>
+                <Baseline points="165,1003 228,1002 291,1001 355,1000 418,1000 481,999 545,999 608,999 671,999 735,1000 798,1000 861,1000 925,1001 988,1001 1051,1002 1115,1002 1178,1003 1241,1003 1305,1003 1368,1003 1432,1003"/>
+                <TextEquiv>
+                    <Unicode>Odem, der Marmor, eine Kante, ein Eimer, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:10;}">
+                <Coords points="161,1076 424,1076 526,1103 636,1076 953,1078 953,1019 874,1003 688,1032 358,1019 328,1045 271,1009 161,1021"/>
+                <Baseline points="169,1074 207,1074 246,1073 285,1073 324,1073 362,1073 401,1073 440,1072 479,1072 517,1072 556,1072 595,1072 634,1072 672,1071 711,1071 750,1071 789,1071 827,1071 866,1072 905,1072 944,1072"/>
+                <TextEquiv>
+                    <Unicode>Narbe, der Laden, eine Mandel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:11;}">
+                <Coords points="731,1200 746,1199 766,1211 794,1206 805,1212 811,1206 852,1218 859,1132 828,1115 808,1114 776,1132 737,1125"/>
+                <Baseline points="740,1193 766,1194 792,1196 818,1198 845,1200"/>
+                <TextEquiv>
+                    <Unicode>54.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:12;}">
+                <Coords points="230,1293 1433,1298 1433,1232 1295,1211 230,1227"/>
+                <Baseline points="237,1283 296,1283 355,1282 415,1282 474,1282 534,1282 593,1282 652,1282 712,1282 771,1283 831,1283 890,1283 949,1283 1009,1284 1068,1284 1128,1284 1187,1284 1246,1284 1306,1283 1365,1283 1425,1282"/>
+                <TextEquiv>
+                    <Unicode>Der lange Mantel, die langen Mäntel, die weite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:13;}">
+                <Coords points="159,1372 1432,1363 1432,1309 1115,1288 159,1306"/>
+                <Baseline points="167,1356 229,1355 292,1354 355,1354 418,1353 481,1353 543,1353 606,1353 669,1353 732,1353 795,1353 857,1354 920,1354 983,1354 1046,1354 1109,1354 1171,1354 1234,1354 1297,1354 1360,1353 1423,1353"/>
+                <TextEquiv>
+                    <Unicode>Hoſe, die weiten Hoſen, die neue Haube, die neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:14;}">
+                <Coords points="163,1444 1393,1447 1436,1440 1436,1360 163,1386"/>
+                <Baseline points="170,1426 236,1425 302,1424 368,1423 435,1423 501,1423 567,1423 633,1423 700,1423 766,1423 832,1423 898,1423 965,1424 1031,1424 1097,1424 1163,1424 1230,1424 1296,1424 1362,1423 1429,1422"/>
+                <TextEquiv>
+                    <Unicode>Hauben, der ſchöne Garten, die ſchönen Gärten, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:15;}">
+                <Coords points="167,1515 1435,1493 1435,1452 1276,1431 167,1443"/>
+                <Baseline points="175,1495 237,1495 300,1494 362,1493 425,1493 487,1493 550,1493 612,1493 675,1493 737,1494 800,1494 863,1494 925,1495 988,1495 1050,1495 1113,1495 1175,1495 1238,1495 1300,1494 1363,1494 1426,1493"/>
+                <TextEquiv>
+                    <Unicode>jungen Bäume, die reifen Kirſchen, die langen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:16;}">
+                <Coords points="169,1579 1442,1572 1399,1502 169,1515"/>
+                <Baseline points="176,1564 238,1564 301,1564 364,1564 427,1564 490,1564 553,1564 616,1565 679,1565 742,1565 805,1565 867,1566 930,1566 993,1566 1056,1566 1119,1566 1182,1565 1245,1565 1308,1565 1371,1564 1434,1564"/>
+                <TextEquiv>
+                    <Unicode>Birnen, die hübſchen Nelken, die bunten Käfer, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:17;}">
+                <Coords points="162,1663 1430,1657 1430,1595 1341,1577 162,1586"/>
+                <Baseline points="171,1637 233,1637 296,1636 358,1635 421,1635 483,1635 546,1635 608,1635 671,1635 733,1635 796,1635 859,1636 921,1636 984,1636 1046,1637 1109,1637 1171,1637 1234,1637 1296,1638 1359,1638 1422,1638"/>
+                <TextEquiv>
+                    <Unicode>ſchöne Laube, die ſcharfen Dornen, das lange Eiſen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:18;}">
+                <Coords points="162,1709 352,1729 419,1703 568,1742 655,1707 734,1739 922,1709 1018,1740 1071,1710 1071,1655 162,1663"/>
+                <Baseline points="170,1706 214,1707 259,1707 303,1707 348,1707 393,1707 437,1707 482,1707 527,1707 571,1706 616,1706 661,1706 705,1706 750,1706 795,1706 839,1707 884,1707 929,1708 973,1708 1018,1710 1063,1711"/>
+                <TextEquiv>
+                    <Unicode>die kurzen Nadeln, die ſcharfe Lanze.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="212,1919 228,1921 240,1916 248,1923 261,1921 269,1928 275,1923 280,1928 298,1912 317,1925 326,1925 327,1824 313,1817 284,1825 269,1822 256,1810 213,1808"/>
+                <Baseline points="221,1894 253,1893 286,1894 319,1894"/>
+                <TextEquiv>
+                    <Unicode>55.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="364,1987 607,1905 704,1938 899,1924 1001,1994 1116,1919 1382,1930 1434,1902 1432,1820 1357,1862 1308,1823 1126,1858 1039,1802 863,1882 708,1792 362,1908"/>
+                <Baseline points="372,1978 542,1914 572,1907 601,1903 631,1900 660,1898 690,1897 719,1897 749,1898 778,1899 808,1900 837,1901 867,1902 896,1903 926,1903 955,1903 985,1902 1014,1900 1044,1897 1073,1892 1427,1925"/>
+                <TextEquiv>
+                    <Unicode>P. R, S, Sch, T..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:21;}">
+                <Coords points="422,2052 601,2029 883,2065 940,2034 1047,2065 1190,2033 1352,2065 1351,1971 1144,2013 423,1962"/>
+                <Baseline points="431,2042 463,2041 496,2040 528,2040 561,2039 594,2039 626,2039 659,2040 691,2040 724,2041 757,2041 789,2042 822,2042 854,2042 887,2043 920,2043 952,2043 985,2043 1017,2043 1050,2043 1345,2048"/>
+                <TextEquiv>
+                    <Unicode>P. R, S, Sch, T.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:22;}">
+                <Coords points="227,2127 1434,2132 1434,2048 925,2081 228,2047"/>
+                <Baseline points="235,2114 294,2114 354,2115 413,2115 473,2115 532,2115 592,2116 651,2116 711,2116 770,2116 830,2116 890,2117 949,2117 1009,2117 1068,2117 1128,2117 1187,2117 1247,2117 1306,2117 1366,2117 1426,2117"/>
+                <TextEquiv>
+                    <Unicode>Die Pumpe, der Pinſel, der Raub, ein Räuber,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:23;}">
+                <Coords points="166,2200 1125,2189 1353,2225 1430,2206 1431,2132 417,2151 167,2108"/>
+                <Baseline points="175,2184 237,2184 299,2184 362,2185 424,2185 487,2185 549,2185 611,2185 674,2186 736,2186 799,2186 861,2186 923,2186 986,2187 1048,2187 1111,2187 1173,2188 1235,2188 1298,2188 1360,2189 1423,2189"/>
+                <TextEquiv>
+                    <Unicode>eine Reiſe, der Säbel, die Silbe, die Tante, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:24;}">
+                <Coords points="159,2257 1437,2279 1437,2210 1182,2190 159,2199"/>
+                <Baseline points="166,2258 229,2257 292,2256 355,2256 418,2256 481,2256 544,2256 608,2256 671,2256 734,2256 797,2256 860,2257 923,2257 986,2257 1050,2258 1113,2258 1176,2258 1239,2258 1302,2259 1365,2259 1429,2259"/>
+                <TextEquiv>
+                    <Unicode>Taufe, der Täufer, eine Schaufel, ein Pudel, ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:25;}">
+                <Coords points="167,2317 636,2361 713,2315 925,2364 1002,2329 1313,2366 1445,2335 1444,2294 1368,2276 167,2264"/>
+                <Baseline points="175,2324 231,2324 287,2324 343,2324 399,2325 455,2325 511,2325 567,2326 623,2326 679,2327 735,2327 791,2327 847,2328 903,2328 959,2328 1015,2329 1071,2329 1127,2329 1183,2329 1239,2328 1438,2330"/>
+                <TextEquiv>
+                    <Unicode>Schäfer, ein Reiter, eine Perle, die Tulpe, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:26;}">
+                <Coords points="163,2405 1302,2429 1441,2408 1442,2334 940,2376 865,2334 163,2346"/>
+                <Baseline points="171,2394 229,2395 288,2395 347,2396 406,2396 465,2396 524,2396 583,2396 642,2397 701,2397 759,2397 818,2397 877,2397 936,2397 995,2397 1054,2397 1113,2397 1172,2397 1231,2397 1433,2403"/>
+                <TextEquiv>
+                    <Unicode>Käfer, die Hirſe, ein Säbel, der Schädel, eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:27;}">
+                <Coords points="165,2497 642,2480 735,2517 864,2474 1331,2516 1429,2482 1429,2428 1352,2403 165,2405"/>
+                <Baseline points="173,2466 235,2466 297,2466 360,2466 422,2466 485,2466 547,2466 610,2467 672,2467 735,2467 797,2467 859,2467 922,2467 984,2468 1047,2468 1109,2468 1172,2468 1234,2468 1297,2469 1359,2469 1422,2469"/>
+                <TextEquiv>
+                    <Unicode>Palme, die Rübe, der Salat, ein Tempel, das Pulver.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>19.&#xD;
+53. K. L. M, N, O, Oe.&#xD;
+K, L, M, N, O, Oe.&#xD;
+Der Kaiſer, eine Kirſche, eine Lampe, das Oel,&#xD;
+die Linſe, ein Maler, eine Muſchel, die Nadel, die&#xD;
+Note, ein Ofen, die Oefen, eine Kanzel, der Jubel,&#xD;
+ein Name, die Meiſe, eine Haube, eine Nudel, der&#xD;
+Orden, ein Kölner, ein Läufer, die Kelter, ein&#xD;
+Gulden, das Leder, das Leinen, der Oheim, der&#xD;
+Odem, der Marmor, eine Kante, ein Eimer, die&#xD;
+Narbe, der Laden, eine Mandel.&#xD;
+54.&#xD;
+Der lange Mantel, die langen Mäntel, die weite&#xD;
+Hoſe, die weiten Hoſen, die neue Haube, die neuen&#xD;
+Hauben, der ſchöne Garten, die ſchönen Gärten, die&#xD;
+jungen Bäume, die reifen Kirſchen, die langen&#xD;
+Birnen, die hübſchen Nelken, die bunten Käfer, die&#xD;
+ſchöne Laube, die ſcharfen Dornen, das lange Eiſen,&#xD;
+die kurzen Nadeln, die ſcharfe Lanze.&#xD;
+55.&#xD;
+P. R, S, Sch, T..&#xD;
+P. R, S, Sch, T.&#xD;
+Die Pumpe, der Pinſel, der Raub, ein Räuber,&#xD;
+eine Reiſe, der Säbel, die Silbe, die Tante, die&#xD;
+Taufe, der Täufer, eine Schaufel, ein Pudel, ein&#xD;
+Schäfer, ein Reiter, eine Perle, die Tulpe, der&#xD;
+Käfer, die Hirſe, ein Säbel, der Schädel, eine&#xD;
+Palme, die Rübe, der Salat, ein Tempel, das Pulver.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

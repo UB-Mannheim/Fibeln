@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:56.855+01:00</Created>
+        <LastChange>2020-03-26T14:55:51.647+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000041.png" imageWidth="1546" imageHeight="2640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585230951716" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1585230562244_4100"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1585230562244_4100" custom="readingOrder {index:0;}">
+            <Coords points="58,45 1441,45 1441,2491 58,2491"/>
+            <TextLine id="line_1585230571394_4103" custom="readingOrder {index:0;}">
+                <Coords points="639,193 655,187 663,192 681,182 702,187 712,182 753,195 773,190 773,118 749,127 741,119 729,126 697,122 662,150 639,153"/>
+                <Baseline points="647,200 747,200 764,200"/>
+                <TextEquiv>
+                    <Unicode>37</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230572954_4106" custom="readingOrder {index:1;}">
+                <Coords points="618,357 638,361 647,354 662,356 679,340 692,341 700,333 725,343 749,325 762,332 784,327 784,267 766,266 755,254 683,253 671,259 652,253 642,261 634,254 618,261"/>
+                <Baseline points="626,340 726,340 776,340"/>
+                <TextEquiv>
+                    <Unicode>105.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230575724_4109" custom="readingOrder {index:2;}">
+                <Coords points="79,425 1238,424 1238,374 1117,337 961,383 559,346 431,398 79,357"/>
+                <Baseline points="87,417 187,417 387,417 487,417 587,418 787,418 887,417 987,417 1187,417 1230,417"/>
+                <TextEquiv>
+                    <Unicode>Salz, ſalzen; Pflug, pflügen; fiſchen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230578334_4112" custom="readingOrder {index:3;}">
+                <Coords points="82,483 1236,488 1254,415 1088,412 1025,451 819,414 697,456 589,421 502,453 82,429"/>
+                <Baseline points="90,476 190,476 390,477 490,478 590,478 790,478 890,479 990,481 1190,480 1245,480"/>
+                <TextEquiv>
+                    <Unicode>weiß, weißen; grün, grünen; faulen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230581124_4115" custom="readingOrder {index:4;}">
+                <Coords points="76,543 1040,519 1248,553 1248,485 1182,464 1000,501 879,472 76,493"/>
+                <Baseline points="84,533 184,532 384,531 484,531 584,530 784,531 884,532 984,532 1184,532 1239,532"/>
+                <TextEquiv>
+                    <Unicode>voll, füllen; trocken, trocknen; höhlen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230583284_4118" custom="readingOrder {index:5;}">
+                <Coords points="76,603 1227,597 1226,539 1125,530 1019,563 900,528 552,536 478,576 365,539 75,549"/>
+                <Baseline points="84,594 184,593 384,592 484,591 584,590 784,589 884,589 984,588 1184,589 1218,588"/>
+                <TextEquiv>
+                    <Unicode>lachen, lächeln; ſtreichen, ſtreicheln; fällen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230586154_4121" custom="readingOrder {index:6;}">
+                <Coords points="79,673 467,644 676,678 1008,631 1256,667 1256,598 79,607"/>
+                <Baseline points="87,650 187,649 387,649 487,648 587,649 787,650 887,650 987,649 1187,649 1248,649"/>
+                <TextEquiv>
+                    <Unicode>ſitzen, ſetzen; hangen, hängen; tränken;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230588804_4124" custom="readingOrder {index:7;}">
+                <Coords points="87,725 1335,722 1335,670 1269,647 1078,648 1028,688 810,652 87,665"/>
+                <Baseline points="96,712 196,712 396,713 496,714 696,713 796,712 996,716 1096,718 1296,715 1327,715"/>
+                <TextEquiv>
+                    <Unicode>Flügel, beflügeln; Feder, befiedern; bewaffnen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230591384_4127" custom="readingOrder {index:8;}">
+                <Coords points="83,785 751,753 859,785 1040,749 1276,777 1309,716 82,726"/>
+                <Baseline points="90,769 190,768 390,766 490,766 690,764 790,764 990,764 1090,765 1290,766 1301,766"/>
+                <TextEquiv>
+                    <Unicode>ſanft, beſänftigen; ſchwer, beſchweren; befremden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230594804_4130" custom="readingOrder {index:9;}">
+                <Coords points="85,845 1250,833 1312,821 1312,767 85,784"/>
+                <Baseline points="93,832 193,832 393,833 493,832 693,831 793,831 993,833 1093,835 1293,836 1304,836"/>
+                <TextEquiv>
+                    <Unicode>gießen, begießen; ſtreichen, beſtreichen; bepflanzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230598044_4133" custom="readingOrder {index:10;}">
+                <Coords points="88,908 1283,895 1301,837 88,844"/>
+                <Baseline points="96,887 196,887 396,886 496,886 596,887 796,888 896,889 996,890 1196,890 1292,890"/>
+                <TextEquiv>
+                    <Unicode>Laub, entlauben; Blätter, entblättern; entdecken;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230600714_4136" custom="readingOrder {index:11;}">
+                <Coords points="83,954 1268,955 1300,890 1087,882 997,923 884,884 702,922 578,889 521,923 82,904"/>
+                <Baseline points="90,943 190,943 390,941 490,940 690,939 790,938 990,936 1090,935 1290,936 1292,935"/>
+                <TextEquiv>
+                    <Unicode>reißen, entreißen; gehen, entgehen; entfliehen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230602874_4139" custom="readingOrder {index:12;}">
+                <Coords points="88,1012 1281,1015 1294,952 88,964"/>
+                <Baseline points="96,1000 196,1000 396,999 496,998 596,998 796,996 896,996 996,996 1196,996 1286,996"/>
+                <TextEquiv>
+                    <Unicode>warm, erwärmen; bleich, erbleichen; erblaſſen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230607054_4142" custom="readingOrder {index:13;}">
+                <Coords points="84,1074 1279,1065 1279,1014 1190,1002 1042,1035 834,1001 84,1009"/>
+                <Baseline points="93,1061 193,1060 393,1059 493,1059 593,1058 793,1058 893,1058 993,1059 1193,1060 1271,1060"/>
+                <TextEquiv>
+                    <Unicode>fragen, erfragen; leben, erleben; errathen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230609884_4145" custom="readingOrder {index:14;}">
+                <Coords points="88,1127 1178,1127 1312,1109 1312,1073 88,1075"/>
+                <Baseline points="96,1112 196,1112 396,1113 496,1113 696,1113 796,1112 996,1110 1096,1109 1296,1108 1304,1108"/>
+                <TextEquiv>
+                    <Unicode>bieten, gebieten; horchen, gehorchen; geleiten;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230613534_4148" custom="readingOrder {index:15;}">
+                <Coords points="94,1191 1349,1186 1349,1118 93,1135"/>
+                <Baseline points="101,1176 201,1176 401,1175 501,1174 701,1172 801,1171 1001,1171 1101,1171 1301,1173 1342,1173"/>
+                <TextEquiv>
+                    <Unicode>deuten, mißdeuten; brauchen, mißbrauchen; mißglücken;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230626784_4151" custom="readingOrder {index:16;}">
+                <Coords points="84,1251 1343,1235 1343,1194 1243,1172 84,1188"/>
+                <Baseline points="92,1235 192,1235 392,1234 492,1233 692,1232 792,1231 992,1233 1092,1234 1292,1233 1335,1233"/>
+                <TextEquiv>
+                    <Unicode>süß, verſüßen; dünn, verdünnen; verdichten;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230629944_4154" custom="readingOrder {index:17;}">
+                <Coords points="72,1314 1373,1311 1373,1250 1299,1238 850,1236 729,1276 601,1240 73,1251"/>
+                <Baseline points="80,1299 180,1299 380,1300 480,1300 680,1300 780,1300 980,1301 1080,1302 1280,1304 1365,1304"/>
+                <TextEquiv>
+                    <Unicode>spielen, verspielen; blühen, verblühen; verhungern;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230632324_4157" custom="readingOrder {index:18;}">
+                <Coords points="98,1386 524,1363 614,1403 728,1355 908,1382 1337,1347 1287,1292 747,1335 598,1298 99,1311"/>
+                <Baseline points="106,1361 206,1362 406,1362 506,1362 706,1361 806,1361 1006,1360 1106,1360 1306,1367 1329,1368"/>
+                <TextEquiv>
+                    <Unicode>brechen, zerbrechen; reißen, zerreißen; zerſtören.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230634034_4160" custom="readingOrder {index:19;}">
+                <Coords points="619,1475 648,1480 664,1495 692,1482 714,1495 767,1484 795,1486 806,1475 822,1478 823,1428 784,1431 753,1402 681,1408 671,1400 642,1411 620,1404"/>
+                <Baseline points="628,1487 728,1487 814,1488"/>
+                <TextEquiv>
+                    <Unicode>106.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230637794_4163" custom="readingOrder {index:20;}">
+                <Coords points="124,1554 1371,1562 1289,1480 1224,1519 1070,1490 482,1524 282,1487 125,1523"/>
+                <Baseline points="133,1566 233,1566 433,1566 533,1566 733,1567 833,1568 1033,1567 1133,1567 1333,1568 1362,1568"/>
+                <TextEquiv>
+                    <Unicode>Auf einem Bauernhofe ſieht man viele Thiere. Da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230640354_4166" custom="readingOrder {index:21;}">
+                <Coords points="89,1628 1091,1636 1350,1625 1373,1585 89,1581"/>
+                <Baseline points="97,1627 197,1627 397,1627 497,1627 697,1629 797,1628 997,1628 1097,1628 1297,1627 1365,1627"/>
+                <TextEquiv>
+                    <Unicode>laufen viele Hühner umher und picken die Körnchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230643734_4169" custom="readingOrder {index:22;}">
+                <Coords points="87,1695 1193,1701 1360,1677 1360,1623 87,1652"/>
+                <Baseline points="95,1684 195,1684 395,1684 495,1684 695,1684 795,1686 995,1686 1095,1685 1295,1684 1353,1684"/>
+                <TextEquiv>
+                    <Unicode>auf. Die Küchlein werden von einer Henne geführt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230646054_4172" custom="readingOrder {index:23;}">
+                <Coords points="92,1747 850,1769 1367,1731 1291,1677 92,1699"/>
+                <Baseline points="100,1744 200,1744 400,1745 500,1745 700,1746 800,1746 1000,1747 1100,1749 1300,1749 1359,1750"/>
+                <TextEquiv>
+                    <Unicode>Diese ſucht ihnen überall Nahrung. Wenn ſie ein Krüm=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230650164_4175" custom="readingOrder {index:24;}">
+                <Coords points="95,1813 1241,1815 1364,1791 1364,1730 95,1763"/>
+                <Baseline points="103,1800 203,1799 403,1799 503,1799 703,1800 803,1800 1003,1800 1103,1801 1303,1801 1356,1801"/>
+                <TextEquiv>
+                    <Unicode>chen oder ein Körnchen gefunden hat, ruft ſie ſogleich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230652714_4178" custom="readingOrder {index:25;}">
+                <Coords points="88,1877 1202,1872 1350,1856 1350,1814 87,1814"/>
+                <Baseline points="95,1857 195,1856 395,1856 495,1855 695,1854 795,1854 995,1853 1095,1853 1295,1854 1341,1854"/>
+                <TextEquiv>
+                    <Unicode>die Küchlein. Geſchwind kommen die Kleinen herbei=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230655204_4181" custom="readingOrder {index:26;}">
+                <Coords points="86,1924 1391,1924 1328,1857 86,1877"/>
+                <Baseline points="95,1917 195,1917 395,1916 495,1915 695,1914 795,1914 995,1915 1095,1917 1295,1917 1382,1917"/>
+                <TextEquiv>
+                    <Unicode>gelaufen und picken die Krümchen und Körnchen auf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230658690_4184" custom="readingOrder {index:27;}">
+                <Coords points="104,1983 1253,1993 1377,1967 1377,1930 104,1935"/>
+                <Baseline points="112,1975 212,1975 412,1974 512,1974 712,1973 812,1972 1012,1973 1112,1974 1312,1975 1370,1975"/>
+                <TextEquiv>
+                    <Unicode>Des Abends verkriechen ſie ſich unter die Flügel ihrer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230661774_4187" custom="readingOrder {index:28;}">
+                <Coords points="87,2059 1379,2040 1378,1967 87,2001"/>
+                <Baseline points="95,2034 195,2033 395,2032 495,2032 695,2031 795,2030 995,2030 1095,2030 1295,2031 1370,2031"/>
+                <TextEquiv>
+                    <Unicode>Mutter. Auf dem Hofe ist auch ein Hahn. Er ist viel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230664924_4190" custom="readingOrder {index:29;}">
+                <Coords points="107,2109 1133,2109 1348,2092 1348,2051 107,2052"/>
+                <Baseline points="115,2092 215,2091 415,2090 515,2089 715,2088 815,2087 1015,2086 1115,2086 1315,2085 1341,2085"/>
+                <TextEquiv>
+                    <Unicode>größer, als ein Huhn und hat auch ein ſchöneres Ge=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230668004_4193" custom="readingOrder {index:30;}">
+                <Coords points="90,2162 1373,2136 1249,2077 1209,2109 90,2104"/>
+                <Baseline points="97,2152 197,2152 397,2151 497,2151 697,2151 797,2151 997,2153 1097,2153 1297,2152 1365,2152"/>
+                <TextEquiv>
+                    <Unicode>fieder. In seinem Schwanze ſind zwei lange ſichel=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230671654_4196" custom="readingOrder {index:31;}">
+                <Coords points="95,2233 1370,2222 1370,2166 1223,2147 557,2152 449,2188 95,2163"/>
+                <Baseline points="103,2209 203,2208 403,2207 503,2207 703,2206 803,2205 1003,2204 1103,2204 1303,2204 1362,2204"/>
+                <TextEquiv>
+                    <Unicode>förmige Federn. Auf dem Kopfe hat er einen fleiſchigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230676464_4199" custom="readingOrder {index:32;}">
+                <Coords points="93,2278 1337,2277 1352,2229 93,2233"/>
+                <Baseline points="100,2269 200,2269 400,2267 500,2267 700,2267 800,2266 1000,2264 1100,2264 1300,2267 1344,2267"/>
+                <TextEquiv>
+                    <Unicode>Kamm, und an jedem Fuße befindet sich ein Sporn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230683774_4202" custom="readingOrder {index:33;}">
+                <Coords points="98,2341 1365,2325 1325,2267 98,2278"/>
+                <Baseline points="106,2326 206,2325 406,2325 506,2325 706,2324 806,2323 1006,2324 1106,2324 1306,2324 1358,2324"/>
+                <TextEquiv>
+                    <Unicode>Des Morgens, noch ehe die Sonne aufgegangen ist,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230686425_4205" custom="readingOrder {index:34;}">
+                <Coords points="96,2394 1353,2404 1367,2326 96,2334"/>
+                <Baseline points="103,2387 203,2387 403,2386 503,2386 703,2388 803,2390 1003,2392 1103,2395 1303,2397 1358,2397"/>
+                <TextEquiv>
+                    <Unicode>verkündet er schon den Tag. Dann ruft er: Kikeriki!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585230690474_4208" custom="readingOrder {index:35;}">
+                <Coords points="110,2463 651,2450 820,2486 1093,2444 1382,2479 1381,2407 1298,2383 109,2394"/>
+                <Baseline points="118,2446 218,2446 418,2445 518,2444 718,2443 818,2443 1018,2443 1118,2444 1318,2445 1373,2445"/>
+                <TextEquiv>
+                    <Unicode>Dadurch mahnt er die Leute, daß ſie aufſtehen ſollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>37&#xD;
+105.&#xD;
+Salz, ſalzen; Pflug, pflügen; fiſchen;&#xD;
+weiß, weißen; grün, grünen; faulen;&#xD;
+voll, füllen; trocken, trocknen; höhlen;&#xD;
+lachen, lächeln; ſtreichen, ſtreicheln; fällen;&#xD;
+ſitzen, ſetzen; hangen, hängen; tränken;&#xD;
+Flügel, beflügeln; Feder, befiedern; bewaffnen;&#xD;
+ſanft, beſänftigen; ſchwer, beſchweren; befremden&#xD;
+gießen, begießen; ſtreichen, beſtreichen; bepflanzen&#xD;
+Laub, entlauben; Blätter, entblättern; entdecken;&#xD;
+reißen, entreißen; gehen, entgehen; entfliehen;&#xD;
+warm, erwärmen; bleich, erbleichen; erblaſſen;&#xD;
+fragen, erfragen; leben, erleben; errathen;&#xD;
+bieten, gebieten; horchen, gehorchen; geleiten;&#xD;
+deuten, mißdeuten; brauchen, mißbrauchen; mißglücken;&#xD;
+süß, verſüßen; dünn, verdünnen; verdichten;&#xD;
+spielen, verspielen; blühen, verblühen; verhungern;&#xD;
+brechen, zerbrechen; reißen, zerreißen; zerſtören.&#xD;
+106.&#xD;
+Auf einem Bauernhofe ſieht man viele Thiere. Da&#xD;
+laufen viele Hühner umher und picken die Körnchen&#xD;
+auf. Die Küchlein werden von einer Henne geführt.&#xD;
+Diese ſucht ihnen überall Nahrung. Wenn ſie ein Krüm=&#xD;
+chen oder ein Körnchen gefunden hat, ruft ſie ſogleich&#xD;
+die Küchlein. Geſchwind kommen die Kleinen herbei=&#xD;
+gelaufen und picken die Krümchen und Körnchen auf.&#xD;
+Des Abends verkriechen ſie ſich unter die Flügel ihrer&#xD;
+Mutter. Auf dem Hofe ist auch ein Hahn. Er ist viel&#xD;
+größer, als ein Huhn und hat auch ein ſchöneres Ge=&#xD;
+fieder. In seinem Schwanze ſind zwei lange ſichel=&#xD;
+förmige Federn. Auf dem Kopfe hat er einen fleiſchigen&#xD;
+Kamm, und an jedem Fuße befindet sich ein Sporn.&#xD;
+Des Morgens, noch ehe die Sonne aufgegangen ist,&#xD;
+verkündet er schon den Tag. Dann ruft er: Kikeriki!&#xD;
+Dadurch mahnt er die Leute, daß ſie aufſtehen ſollen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

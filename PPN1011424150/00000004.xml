@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:49.510+01:00</Created>
+        <LastChange>2020-03-24T12:06:51.885+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000004.png" imageWidth="1588" imageHeight="2634">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585048011979" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="104,2508 104,2633 118,2633 118,2508"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="134,1377 134,2407 1100,2407 1100,1377"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="349,1425 382,1422 402,1436 433,1422 461,1444 512,1419 746,1412 743,1364 698,1376 665,1361 583,1366 542,1342 431,1386 397,1373 347,1395"/>
+                <Baseline points="354,1418 379,1417 405,1416 431,1416 456,1415 482,1414 508,1412 534,1411 559,1410 585,1409 611,1407 637,1406 662,1404 688,1403 714,1401 740,1400"/>
+                <TextEquiv>
+                    <Unicode>Georg-Eckert-Institut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="283,1485 499,1465 539,1479 667,1455 816,1464 848,1452 847,1418 796,1403 717,1428 576,1412 461,1444 439,1427 387,1438 280,1418"/>
+                <Baseline points="288,1475 315,1473 343,1470 371,1468 399,1467 426,1465 454,1463 482,1462 510,1460 537,1459 565,1458 593,1456 621,1455 648,1454 676,1453 704,1452 732,1451 759,1449 787,1448 815,1447 843,1446"/>
+                <TextEquiv>
+                    <Unicode>Leibniz-Institut für internationale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="382,1529 418,1515 446,1526 461,1515 521,1522 620,1508 737,1520 735,1473 644,1468 589,1482 549,1472 527,1484 499,1465 476,1479 412,1470 380,1480"/>
+                <Baseline points="387,1515 413,1513 439,1512 466,1511 492,1510 519,1508 545,1507 572,1506 598,1505 625,1504 651,1503 678,1502 704,1501 731,1501"/>
+                <TextEquiv>
+                    <Unicode>Schulbuchforschung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="430,1581 454,1574 485,1582 501,1572 514,1579 561,1566 624,1576 649,1563 690,1574 708,1566 706,1527 633,1521 614,1530 549,1513 507,1534 477,1536 450,1521 427,1535"/>
+                <Baseline points="434,1568 460,1568 487,1567 514,1566 541,1565 568,1563 594,1561 621,1560 648,1557 675,1555 702,1552"/>
+                <TextEquiv>
+                    <Unicode>BIBLIOTHEK-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="342,1818 419,1797 438,1807 486,1785 539,1799 576,1781 669,1790 739,1776 726,1675 601,1704 529,1700 481,1727 412,1707 329,1719"/>
+                <Baseline points="345,1801 370,1799 396,1796 422,1794 447,1791 473,1788 499,1785 525,1782 550,1779 576,1775 602,1772 628,1769 653,1765 679,1760 705,1757 731,1753"/>
+                <TextEquiv>
+                    <Unicode>2015/183</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="143,2280 152,2285 193,2265 207,2274 257,2266 280,2272 305,2258 321,2265 334,2259 336,2182 317,2181 252,2137 235,2135 179,2153 147,2144"/>
+                <Baseline points="149,2245 174,2250 200,2251 226,2250 251,2249 277,2248 303,2251 329,2258"/>
+                <TextEquiv>
+                    <Unicode>DB-II</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="130,2412 183,2392 494,2421 597,2393 696,2422 776,2362 857,2386 854,2296 813,2308 725,2267 675,2299 519,2314 370,2282 127,2307"/>
+                <Baseline points="134,2388 169,2388 205,2388 241,2388 277,2388 313,2387 349,2387 384,2387 420,2386 456,2386 492,2385 528,2384 564,2383 600,2382 635,2380 671,2378 707,2375 743,2373 779,2370 815,2367 851,2363"/>
+                <TextEquiv>
+                    <Unicode>398 (29,1871)-1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Georg-Eckert-Institut&#xD;
+Leibniz-Institut für internationale&#xD;
+Schulbuchforschung&#xD;
+BIBLIOTHEK-&#xD;
+2015/183&#xD;
+DB-II&#xD;
+398 (29,1871)-1</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:53.832+01:00</Created>
+        <LastChange>2020-03-26T12:43:51.228+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000024.png" imageWidth="1580" imageHeight="2628">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585223031295" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="148,170 148,2514 1416,2514 1416,170"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="727,219 738,217 750,225 756,218 762,224 772,221 780,225 789,217 795,221 808,211 821,213 818,136 787,133 778,127 765,134 760,129 751,133 746,128 735,132 724,130"/>
+                <Baseline points="734,208 760,209 786,207 812,206"/>
+                <TextEquiv>
+                    <Unicode>20.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="172,476 602,504 777,458 1334,449 1355,288 1272,322 1100,286 777,337 405,321 296,381 168,352"/>
+                <Baseline points="180,468 238,467 297,465 355,464 414,461 473,460 531,457 590,456 648,453 707,451 766,450 824,448 883,446 941,444 1000,443 1059,442 1117,441 1176,440 1234,440 1293,440 1352,440"/>
+                <TextEquiv>
+                    <Unicode>56. U, Ue, V, W, Z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="349,634 750,595 1005,641 1310,610 1307,505 1196,557 833,495 347,548"/>
+                <Baseline points="357,611 864,592 890,590 916,589 941,589 967,588 993,588 1018,588 1044,588 1070,588 1095,588 1121,589 1147,589 1172,590 1198,590 1224,590 1249,590 1275,590 1301,590"/>
+                <TextEquiv>
+                    <Unicode>U, Ue, V. W, Z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:3;}">
+                <Coords points="221,723 1411,715 1409,647 1355,629 758,664 713,633 596,670 220,641"/>
+                <Baseline points="228,711 286,711 345,710 404,710 462,709 521,708 580,707 638,706 697,705 756,704 815,703 873,702 932,701 991,700 1049,699 1108,698 1167,697 1225,696 1284,696 1343,695 1402,694"/>
+                <TextEquiv>
+                    <Unicode>Die Urne, eine Vaſe, ein Weber, der Weizen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:4;}">
+                <Coords points="146,794 1213,792 1404,778 1418,709 145,738"/>
+                <Baseline points="154,784 216,783 279,782 342,781 405,780 468,779 531,778 593,777 656,776 719,774 782,773 845,772 908,771 971,770 1033,769 1096,768 1159,767 1222,765 1285,764 1348,763 1411,762"/>
+                <TextEquiv>
+                    <Unicode>eine Zange, der Zaum, der Raſen, ein Uebel, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:5;}">
+                <Coords points="153,872 1415,842 1414,784 1327,777 1124,812 488,788 436,826 152,797"/>
+                <Baseline points="161,852 223,851 285,851 347,850 410,850 472,849 534,848 597,847 659,846 721,845 784,843 846,842 908,841 970,840 1033,839 1095,838 1157,836 1220,835 1282,834 1344,833 1407,833"/>
+                <TextEquiv>
+                    <Unicode>Zeile, eine Scherbe, der Zunder, ein Löwe, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:6;}">
+                <Coords points="146,932 1418,928 1417,844 145,875"/>
+                <Baseline points="154,923 216,922 279,921 342,921 405,920 468,919 530,918 593,917 656,916 719,915 782,914 844,912 907,911 970,910 1033,909 1096,908 1158,907 1221,906 1284,905 1347,904 1410,902"/>
+                <TextEquiv>
+                    <Unicode>Purpur, der Gerber, eine Waiſe, der Zirkel, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:7;}">
+                <Coords points="144,993 325,1027 635,988 1291,1009 1420,975 1420,928 528,927 359,974 143,928"/>
+                <Baseline points="151,993 193,993 235,993 277,993 319,992 361,992 403,991 445,990 487,990 529,989 571,988 613,987 655,986 697,985 739,984 781,983 823,983 865,982 907,982 949,982 1413,978"/>
+                <TextEquiv>
+                    <Unicode>Uebung, ein Schurke, eine Ulme, die Zunge, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:8;}">
+                <Coords points="140,1072 852,1093 1425,1051 1424,1002 1355,990 139,1001"/>
+                <Baseline points="148,1063 211,1063 274,1063 338,1063 401,1062 465,1062 528,1061 591,1060 655,1059 718,1058 782,1057 845,1056 908,1055 972,1054 1035,1052 1099,1051 1162,1050 1225,1049 1289,1048 1352,1047 1416,1046"/>
+                <TextEquiv>
+                    <Unicode>Vater, eine Wunde, eine Zeile, die Weide, eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:9;}">
+                <Coords points="148,1166 180,1167 191,1159 248,1169 266,1157 286,1174 310,1165 335,1166 337,1106 326,1106 306,1086 291,1080 251,1093 234,1077 214,1090 196,1074 188,1078 175,1071 151,1080"/>
+                <Baseline points="157,1128 185,1132 214,1133 243,1134 271,1135 300,1135 329,1136"/>
+                <TextEquiv>
+                    <Unicode>Schule.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:10;}">
+                <Coords points="729,1249 739,1251 764,1238 769,1242 775,1235 780,1239 783,1235 794,1245 809,1234 818,1234 826,1241 833,1236 844,1238 845,1173 832,1173 810,1155 750,1162 731,1155"/>
+                <Baseline points="738,1224 770,1226 803,1226 836,1226"/>
+                <TextEquiv>
+                    <Unicode>57.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:11;}">
+                <Coords points="215,1345 448,1376 700,1336 948,1372 1125,1334 1412,1350 1411,1257 214,1299"/>
+                <Baseline points="223,1346 391,1343 444,1343 497,1342 551,1341 604,1340 657,1339 711,1338 764,1337 817,1336 871,1335 924,1334 977,1333 1030,1332 1084,1332 1137,1331 1190,1330 1244,1330 1297,1330 1350,1329 1404,1329"/>
+                <TextEquiv>
+                    <Unicode>An der Schule, in der Schule, vor der Schule,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:12;}">
+                <Coords points="156,1443 1416,1416 1414,1348 1371,1338 155,1359"/>
+                <Baseline points="164,1417 226,1416 288,1415 350,1414 412,1413 475,1412 537,1411 599,1410 661,1409 723,1408 786,1407 848,1406 910,1405 972,1404 1034,1403 1097,1401 1159,1400 1221,1399 1283,1398 1345,1397 1408,1396"/>
+                <TextEquiv>
+                    <Unicode>hinter der Schule, neben der Schule, über der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:13;}">
+                <Coords points="162,1492 1420,1473 1419,1422 1322,1411 161,1439"/>
+                <Baseline points="170,1485 232,1485 294,1485 356,1485 418,1484 480,1483 542,1483 604,1481 666,1480 728,1479 791,1478 853,1476 915,1475 977,1474 1039,1472 1101,1471 1163,1470 1225,1469 1287,1468 1349,1467 1412,1467"/>
+                <TextEquiv>
+                    <Unicode>Schule, unter der Schule, aus der Schule; mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:14;}">
+                <Coords points="150,1584 324,1548 1378,1558 1420,1497 149,1489"/>
+                <Baseline points="158,1554 220,1554 283,1554 346,1554 408,1553 471,1552 534,1552 596,1551 659,1550 722,1549 785,1547 847,1546 910,1545 973,1544 1035,1543 1098,1542 1161,1541 1223,1540 1286,1539 1349,1539 1412,1539"/>
+                <TextEquiv>
+                    <Unicode>Feder, mit der Feile, mit dem Beile, mit dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:15;}">
+                <Coords points="154,1648 1413,1623 1412,1565 1290,1539 1255,1572 798,1550 712,1593 633,1561 153,1581"/>
+                <Baseline points="162,1624 224,1625 286,1625 348,1624 410,1624 472,1623 534,1623 597,1621 659,1620 721,1619 783,1618 845,1616 907,1615 969,1614 1032,1613 1094,1612 1156,1611 1218,1610 1280,1610 1342,1609 1405,1609"/>
+                <TextEquiv>
+                    <Unicode>Zirkel, mit dem Haken, mit der Angel; aus Eiſen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:16;}">
+                <Coords points="153,1715 1401,1702 1418,1628 152,1666"/>
+                <Baseline points="160,1698 222,1697 285,1696 347,1696 410,1695 472,1694 535,1693 597,1692 660,1691 722,1689 785,1688 847,1687 910,1686 972,1685 1035,1683 1097,1682 1160,1681 1222,1680 1285,1679 1347,1677 1410,1676"/>
+                <TextEquiv>
+                    <Unicode>aus Silber, aus Marmor, aus Leder, aus Purpur;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:17;}">
+                <Coords points="149,1789 1421,1761 1420,1696 1320,1687 1108,1724 910,1683 810,1736 668,1691 148,1720"/>
+                <Baseline points="156,1769 218,1768 281,1767 344,1766 407,1765 470,1764 532,1763 595,1762 658,1761 721,1759 784,1758 846,1757 909,1756 972,1755 1035,1754 1098,1753 1160,1752 1223,1750 1286,1749 1349,1748 1412,1748"/>
+                <TextEquiv>
+                    <Unicode>im Hauſe, auf dem Tische, hinter dem Ofen, über</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:18;}">
+                <Coords points="148,1850 1417,1822 1416,1770 1308,1766 147,1790"/>
+                <Baseline points="156,1839 218,1838 281,1837 343,1837 406,1836 469,1835 531,1834 594,1832 656,1831 719,1830 782,1829 844,1828 907,1826 969,1825 1032,1824 1095,1823 1157,1822 1220,1821 1282,1819 1345,1818 1408,1817"/>
+                <TextEquiv>
+                    <Unicode>den Hof, neben der Scheune, in dem Garten, an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:19;}">
+                <Coords points="146,1922 1415,1918 1415,1856 1341,1825 1018,1827 961,1869 819,1832 450,1877 146,1854"/>
+                <Baseline points="154,1908 216,1908 279,1907 341,1906 404,1906 467,1905 529,1904 592,1903 655,1902 717,1901 780,1901 843,1900 905,1899 968,1898 1031,1897 1093,1896 1156,1895 1219,1894 1281,1894 1344,1893 1407,1892"/>
+                <TextEquiv>
+                    <Unicode>der Mauer, unter dem Baume, bei den Schafen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:20;}">
+                <Coords points="147,1991 234,2001 269,1983 336,1998 377,1976 398,1990 491,1996 516,1984 516,1930 414,1917 360,1942 321,1922 305,1933 282,1913 239,1913 146,1932"/>
+                <Baseline points="155,1978 180,1979 205,1979 230,1979 255,1979 281,1979 306,1978 331,1977 356,1977 381,1976 407,1976 432,1975 457,1975 482,1976 508,1976"/>
+                <TextEquiv>
+                    <Unicode>über der Erde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:21;}">
+                <Coords points="442,2106 527,2135 598,2115 635,2139 801,2129 877,2098 1104,2113 1135,2100 1134,2004 872,2058 755,2026 442,2054"/>
+                <Baseline points="450,2095 483,2096 517,2096 551,2096 585,2097 619,2096 653,2096 687,2096 721,2095 755,2095 789,2095 822,2094 856,2093 890,2093 924,2092 958,2092 992,2091 1026,2090 1060,2090 1094,2089 1128,2089"/>
+                <TextEquiv>
+                    <Unicode>58. If, lm, In, ls, lsch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:22;}">
+                <Coords points="155,2225 1273,2219 1327,2205 1327,2125 435,2127 344,2178 155,2149"/>
+                <Baseline points="163,2208 191,2207 219,2209 248,2211 276,2213 1320,2206"/>
+                <TextEquiv>
+                    <Unicode>Schilf, Wolf, Wölfe, Hülfe, helfen, hilf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:23;}">
+                <Coords points="151,2300 1392,2273 1315,2204 1174,2239 536,2214 360,2260 151,2231"/>
+                <Baseline points="159,2282 187,2284 216,2285 245,2285 1384,2274"/>
+                <TextEquiv>
+                    <Unicode>half; Halm, Salm, Schelm, Halme, Salme,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:24;}">
+                <Coords points="147,2366 1359,2365 1402,2291 954,2267 146,2315"/>
+                <Baseline points="154,2360 180,2362 206,2363 232,2364 258,2363 284,2363 310,2364 1394,2344"/>
+                <TextEquiv>
+                    <Unicode>Schelme, Palme; Köln, schaufeln, handeln, ſäuseln,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:25;}">
+                <Coords points="147,2431 334,2462 380,2427 548,2456 943,2406 1378,2434 1377,2361 1174,2385 1023,2350 924,2392 508,2353 146,2392"/>
+                <Baseline points="154,2424 181,2424 208,2425 235,2425 262,2425 289,2423 1370,2414"/>
+                <TextEquiv>
+                    <Unicode>angeln, lächeln; Hals, Hälſe, Puls, Pulſe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l52" custom="readingOrder {index:26;}">
+                <Coords points="160,2524 1256,2485 1331,2524 1416,2503 1416,2454 946,2407 554,2456 380,2427 323,2474 159,2435"/>
+                <Baseline points="167,2490 199,2494 231,2495 1408,2485"/>
+                <TextEquiv>
+                    <Unicode>Fels, Felſen, als; falſch, fälſchen, Fälſcher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>20.&#xD;
+56. U, Ue, V, W, Z.&#xD;
+U, Ue, V. W, Z.&#xD;
+Die Urne, eine Vaſe, ein Weber, der Weizen,&#xD;
+eine Zange, der Zaum, der Raſen, ein Uebel, die&#xD;
+Zeile, eine Scherbe, der Zunder, ein Löwe, der&#xD;
+Purpur, der Gerber, eine Waiſe, der Zirkel, die&#xD;
+Uebung, ein Schurke, eine Ulme, die Zunge, der&#xD;
+Vater, eine Wunde, eine Zeile, die Weide, eine&#xD;
+Schule.&#xD;
+57.&#xD;
+An der Schule, in der Schule, vor der Schule,&#xD;
+hinter der Schule, neben der Schule, über der&#xD;
+Schule, unter der Schule, aus der Schule; mit der&#xD;
+Feder, mit der Feile, mit dem Beile, mit dem&#xD;
+Zirkel, mit dem Haken, mit der Angel; aus Eiſen,&#xD;
+aus Silber, aus Marmor, aus Leder, aus Purpur;&#xD;
+im Hauſe, auf dem Tische, hinter dem Ofen, über&#xD;
+den Hof, neben der Scheune, in dem Garten, an&#xD;
+der Mauer, unter dem Baume, bei den Schafen,&#xD;
+über der Erde.&#xD;
+58. If, lm, In, ls, lsch.&#xD;
+Schilf, Wolf, Wölfe, Hülfe, helfen, hilf,&#xD;
+half; Halm, Salm, Schelm, Halme, Salme,&#xD;
+Schelme, Palme; Köln, schaufeln, handeln, ſäuseln,&#xD;
+angeln, lächeln; Hals, Hälſe, Puls, Pulſe,&#xD;
+Fels, Felſen, als; falſch, fälſchen, Fälſcher.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:54.178+01:00</Created>
+        <LastChange>2020-03-26T13:10:53.326+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000026.png" imageWidth="1582" imageHeight="2638">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585224653392" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1585224254545_2600"/>
+                <RegionRefIndexed index="1" regionRef="region_1585224320305_2638"/>
+                <RegionRefIndexed index="2" regionRef="region_1585224273785_2608"/>
+                <RegionRefIndexed index="3" regionRef="region_1585224369025_2678"/>
+                <RegionRefIndexed index="4" regionRef="region_1585224403205_2696"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1585224254545_2600" custom="readingOrder {index:0;}">
+            <Coords points="1463,2534 69,2534 69,43 1463,43"/>
+            <TextLine id="line_1585224287680_2617" custom="readingOrder {index:0;}">
+                <Coords points="730,204 755,208 766,203 796,218 820,204 828,209 841,204 858,206 858,123 848,123 830,141 821,136 795,140 781,130 773,133 766,128 730,131"/>
+                <Baseline points="738,209 838,209 849,209"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224291360_2620" custom="readingOrder {index:1;}">
+                <Coords points="198,440 1427,432 1427,372 1279,355 434,392 198,344"/>
+                <Baseline points="207,437 307,437 507,437 607,437 807,437 907,436 1107,436 1207,436 1407,438 1419,438"/>
+                <TextEquiv>
+                    <Unicode>Wölfe heulen. Esel schreien. Mäuse pipen. Kinder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224296385_2623" custom="readingOrder {index:2;}">
+                <Coords points="145,520 1051,490 1141,523 1377,500 1392,443 145,446"/>
+                <Baseline points="153,507 253,507 453,506 553,507 753,507 853,507 1053,506 1153,506 1353,507 1383,507"/>
+                <TextEquiv>
+                    <Unicode>ſingen. Die Schüler schreiben. Die Maler malen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224300355_2626" custom="readingOrder {index:3;}">
+                <Coords points="144,589 1286,584 1414,568 1415,524 144,520"/>
+                <Baseline points="153,580 253,580 453,580 553,580 753,580 853,580 1053,580 1153,580 1353,581 1407,581"/>
+                <TextEquiv>
+                    <Unicode>Die Färber färben. Die Maurer mauern. Die Weber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224310805_2629" custom="readingOrder {index:4;}">
+                <Coords points="143,657 1440,633 1440,593 1340,573 143,593"/>
+                <Baseline points="152,648 252,648 452,647 552,647 752,647 852,648 1052,648 1152,647 1352,647 1431,647"/>
+                <TextEquiv>
+                    <Unicode>weben. Die Gerber gerben. Die Fiſcher fiſchen. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224315165_2632" custom="readingOrder {index:5;}">
+                <Coords points="144,723 1423,712 1423,665 1310,640 1125,680 144,660"/>
+                <Baseline points="152,717 252,717 452,718 552,718 752,718 852,717 1052,717 1152,718 1352,718 1415,718"/>
+                <TextEquiv>
+                    <Unicode>Reiter reiten. Wir lernen leſen. Wir leſen laut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224318345_2635" custom="readingOrder {index:6;}">
+                <Coords points="143,796 294,822 756,782 808,821 924,783 1021,814 1393,782 1393,734 1308,709 1124,746 823,703 595,739 143,723"/>
+                <Baseline points="152,791 252,791 452,791 552,791 752,790 852,790 1052,790 1152,789 1352,789 1385,789"/>
+                <TextEquiv>
+                    <Unicode>Wir lernen ſchreiben. Wir ſchreiben ſchön. Wir hören</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224327530_2643" custom="readingOrder {index:7;}">
+                <Coords points="147,884 196,859 241,879 323,853 458,856 552,886 602,858 787,868 772,803 547,786 461,809 424,788 301,831 225,791 147,793"/>
+                <Baseline points="155,866 255,866 355,866 455,865 555,865 655,866 755,866 779,866"/>
+                <TextEquiv>
+                    <Unicode>ſingen. Wir ſingen gern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224330025_2646" custom="readingOrder {index:8;}">
+                <Coords points="713,983 730,983 746,994 766,981 798,996 813,988 831,999 843,999 843,921 823,911 816,914 810,909 805,914 786,904 773,904 756,914 736,904 713,904"/>
+                <Baseline points="722,989 822,989 834,989"/>
+                <TextEquiv>
+                    <Unicode>64.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224335075_2649" custom="readingOrder {index:9;}">
+                <Coords points="113,1072 1415,1072 1448,991 113,1009"/>
+                <Baseline points="122,1073 322,1073 422,1073 622,1073 722,1073 922,1073 1022,1073 1222,1073 1322,1073 1439,1073"/>
+                <TextEquiv>
+                    <Unicode>Ball, Kamm, Schwamm; Bälle, Kämme, Schwämme;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224353100_2660" custom="readingOrder {index:10;}">
+                <Coords points="105,1159 1331,1138 1306,1081 105,1086"/>
+                <Baseline points="113,1134 213,1134 413,1135 513,1136 713,1135 813,1136 1013,1135 1113,1134 1313,1133 1323,1133"/>
+                <TextEquiv>
+                    <Unicode>Mann, Lamm; Männer, Lämmer; Sattel, Sättel;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224356345_2663" custom="readingOrder {index:11;}">
+                <Coords points="102,1215 1302,1215 1302,1167 1153,1118 837,1160 102,1161"/>
+                <Baseline points="110,1217 210,1216 410,1214 510,1214 610,1215 810,1218 910,1218 1010,1217 1210,1215 1294,1215"/>
+                <TextEquiv>
+                    <Unicode>Halle, Gasse, Pappe, Kammer, Karren, Akker,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224358915_2666" custom="readingOrder {index:12;}">
+                <Coords points="99,1287 1288,1271 1288,1224 1206,1196 569,1234 99,1214"/>
+                <Baseline points="107,1286 207,1286 407,1286 507,1286 607,1286 807,1286 907,1286 1007,1286 1207,1287 1280,1287"/>
+                <TextEquiv>
+                    <Unicode>Ratte, Kazze, Jammer, Wasser, Galle, Haff,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224362725_2669" custom="readingOrder {index:13;}">
+                <Coords points="105,1357 1280,1348 1280,1300 1220,1270 796,1270 685,1322 595,1272 105,1298"/>
+                <Baseline points="113,1359 213,1359 413,1359 513,1359 613,1359 813,1359 913,1359 1013,1359 1213,1359 1272,1359"/>
+                <TextEquiv>
+                    <Unicode>Rappen, Tasse, Wanne, Hammer, Bäkker, Affe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224365215_2672" custom="readingOrder {index:14;}">
+                <Coords points="101,1431 1260,1426 1260,1353 1127,1376 994,1340 906,1380 604,1350 439,1385 361,1348 238,1380 101,1357"/>
+                <Baseline points="110,1422 210,1422 410,1422 510,1422 610,1422 810,1422 910,1421 1010,1421 1210,1423 1252,1423"/>
+                <TextEquiv>
+                    <Unicode>Kappe, Falle, Flamme; matt, ſchlaff, satt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224367365_2675" custom="readingOrder {index:15;}">
+                <Coords points="105,1509 369,1489 477,1539 645,1539 923,1515 968,1477 1119,1483 1184,1530 1305,1498 1305,1447 1224,1417 753,1419 628,1456 575,1421 264,1456 105,1431"/>
+                <Baseline points="113,1485 213,1485 413,1486 513,1486 613,1486 813,1486 913,1485 1013,1485 1213,1484 1297,1484"/>
+                <TextEquiv>
+                    <Unicode>harren, ſchaffen, haſſen, ſcharren, kämmen, fällen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224395905_2687" custom="readingOrder {index:16;}">
+                <Coords points="121,1705 1399,1697 1399,1631 1311,1622 1035,1651 954,1607 721,1666 476,1600 322,1672 249,1625 121,1631"/>
+                <Baseline points="129,1701 229,1701 429,1701 529,1700 729,1699 829,1699 1029,1698 1129,1698 1329,1699 1391,1699"/>
+                <TextEquiv>
+                    <Unicode>Mutter, Mütter; Puppe, Butter, Hummel, Schuppen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224398155_2690" custom="readingOrder {index:17;}">
+                <Coords points="137,1771 1361,1755 1264,1693 1128,1735 1051,1701 746,1739 408,1706 297,1751 137,1709"/>
+                <Baseline points="145,1778 245,1778 445,1777 545,1777 745,1778 845,1778 1045,1778 1145,1778 1345,1778 1353,1778"/>
+                <TextEquiv>
+                    <Unicode>Kutte, Kuppe, Futter, Suppe; Müller, Mükke,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224400695_2693" custom="readingOrder {index:18;}">
+                <Coords points="130,1839 549,1869 740,1829 1337,1830 1231,1767 1111,1802 983,1762 921,1800 797,1767 753,1799 130,1790"/>
+                <Baseline points="139,1848 239,1848 439,1848 539,1849 639,1849 839,1848 939,1848 1039,1848 1239,1848 1328,1848"/>
+                <TextEquiv>
+                    <Unicode>Kümmel, Schüssel, Füllen, Hütte, Rüssel, Bütte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224409355_2700" custom="readingOrder {index:19;}">
+                <Coords points="130,1919 1317,1919 1356,1856 403,1846 331,1892 130,1860"/>
+                <Baseline points="139,1918 239,1918 439,1919 539,1920 739,1921 839,1921 1039,1920 1139,1919 1339,1918 1347,1918"/>
+                <TextEquiv>
+                    <Unicode>Müzze, Rükken; dürr, dünn, dünner, dünnes;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224411555_2703" custom="readingOrder {index:20;}">
+                <Coords points="127,1995 1136,1975 1339,2005 1339,1937 1170,1900 327,1950 127,1915"/>
+                <Baseline points="136,1993 236,1993 436,1993 536,1993 636,1994 836,1994 936,1994 1036,1994 1236,1994 1331,1994"/>
+                <TextEquiv>
+                    <Unicode>ſummen, murren, hüllen, füllen, ſchütteln, füttern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224414095_2706" custom="readingOrder {index:21;}">
+                <Coords points="678,2143 698,2133 758,2143 776,2133 823,2131 823,2015 808,2020 786,2003 771,2012 758,2005 743,2018 723,2010 710,2022 678,2005"/>
+                <Baseline points="687,2105 787,2105 814,2105"/>
+                <TextEquiv>
+                    <Unicode>66.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224417616_2709" custom="readingOrder {index:22;}">
+                <Coords points="114,2216 1341,2204 1406,2191 1406,2129 114,2151"/>
+                <Baseline points="123,2189 223,2189 423,2189 523,2190 723,2191 823,2190 1023,2190 1123,2190 1323,2190 1398,2190"/>
+                <TextEquiv>
+                    <Unicode>Schiff, Kinn, Schritt; Schiffe, Kinne, Schritte;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224420447_2712" custom="readingOrder {index:23;}">
+                <Coords points="123,2283 1280,2279 1342,2266 1342,2193 123,2216"/>
+                <Baseline points="132,2262 232,2262 432,2263 532,2262 732,2262 832,2262 1032,2262 1132,2262 1332,2263 1334,2263"/>
+                <TextEquiv>
+                    <Unicode>Zimmer, Rinne, Kissen, Widder, Hizze, Wille,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224422725_2715" custom="readingOrder {index:24;}">
+                <Coords points="134,2334 1382,2347 1394,2269 777,2261 506,2310 365,2265 134,2281"/>
+                <Baseline points="142,2328 242,2328 442,2328 542,2328 742,2328 842,2329 1042,2330 1142,2330 1342,2329 1385,2329"/>
+                <TextEquiv>
+                    <Unicode>Schimmel, Zinn, Lippe, Bitte, Schnitter, Himmel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224427495_2718" custom="readingOrder {index:25;}">
+                <Coords points="124,2426 1391,2425 1390,2349 1329,2339 400,2341 328,2382 124,2351"/>
+                <Baseline points="132,2401 232,2402 432,2403 532,2403 732,2403 832,2403 1032,2402 1132,2402 1332,2402 1382,2402"/>
+                <TextEquiv>
+                    <Unicode>Kittel, Sitte; immer, nimmer,ſchlimm, bitter;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585224430195_2721" custom="readingOrder {index:26;}">
+                <Coords points="131,2480 1423,2489 1423,2426 1235,2396 1130,2431 817,2406 746,2443 606,2402 131,2422"/>
+                <Baseline points="139,2477 239,2477 439,2476 539,2476 739,2475 839,2475 1039,2475 1139,2475 1339,2476 1414,2476"/>
+                <TextEquiv>
+                    <Unicode>rinnen, ſchwimmen,ſinnen, wiſſen, pikken, ſchwirren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22&#xD;
+Wölfe heulen. Esel schreien. Mäuse pipen. Kinder&#xD;
+ſingen. Die Schüler schreiben. Die Maler malen.&#xD;
+Die Färber färben. Die Maurer mauern. Die Weber&#xD;
+weben. Die Gerber gerben. Die Fiſcher fiſchen. Die&#xD;
+Reiter reiten. Wir lernen leſen. Wir leſen laut.&#xD;
+Wir lernen ſchreiben. Wir ſchreiben ſchön. Wir hören&#xD;
+ſingen. Wir ſingen gern.&#xD;
+64.&#xD;
+Ball, Kamm, Schwamm; Bälle, Kämme, Schwämme;&#xD;
+Mann, Lamm; Männer, Lämmer; Sattel, Sättel;&#xD;
+Halle, Gasse, Pappe, Kammer, Karren, Akker,&#xD;
+Ratte, Kazze, Jammer, Wasser, Galle, Haff,&#xD;
+Rappen, Tasse, Wanne, Hammer, Bäkker, Affe,&#xD;
+Kappe, Falle, Flamme; matt, ſchlaff, satt;&#xD;
+harren, ſchaffen, haſſen, ſcharren, kämmen, fällen.&#xD;
+Mutter, Mütter; Puppe, Butter, Hummel, Schuppen,&#xD;
+Kutte, Kuppe, Futter, Suppe; Müller, Mükke,&#xD;
+Kümmel, Schüssel, Füllen, Hütte, Rüssel, Bütte,&#xD;
+Müzze, Rükken; dürr, dünn, dünner, dünnes;&#xD;
+ſummen, murren, hüllen, füllen, ſchütteln, füttern.&#xD;
+66.&#xD;
+Schiff, Kinn, Schritt; Schiffe, Kinne, Schritte;&#xD;
+Zimmer, Rinne, Kissen, Widder, Hizze, Wille,&#xD;
+Schimmel, Zinn, Lippe, Bitte, Schnitter, Himmel,&#xD;
+Kittel, Sitte; immer, nimmer,ſchlimm, bitter;&#xD;
+rinnen, ſchwimmen,ſinnen, wiſſen, pikken, ſchwirren.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585224320305_2638" custom="readingOrder {index:1;}">
+            <Coords points="168,872 776,872"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585224273785_2608" custom="readingOrder {index:2;}">
+            <Coords points="750,209 837,209"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585224369025_2678" custom="readingOrder {index:3;}">
+            <Coords points="726,1616 834,1616"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585224403205_2696" custom="readingOrder {index:4;}">
+            <Coords points="132,1918 1350,1918"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

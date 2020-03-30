@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:57.344+01:00</Created>
+        <LastChange>2020-03-26T15:09:39.986+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000044.png" imageWidth="1574" imageHeight="2626">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585231780055" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="141,117 141,2462 1449,2462 1449,117"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="726,170 745,166 782,186 795,178 817,192 841,184 846,189 854,181 867,190 883,184 899,190 927,177 926,138 908,142 845,104 808,111 788,107 771,93 734,106 722,103"/>
+                <Baseline points="733,165 759,168 786,168 812,167 839,164 865,162 892,161 919,160"/>
+                <TextEquiv>
+                    <Unicode>40 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="709,335 736,328 745,334 765,331 781,322 816,325 842,338 852,328 862,328 861,254 848,259 825,248 821,252 803,247 787,259 769,246 761,249 751,239 733,236 721,246 708,246"/>
+                <Baseline points="718,316 745,318 772,318 799,317 826,316 854,316"/>
+                <TextEquiv>
+                    <Unicode>109.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="218,493 1326,464 1316,393 458,415 218,385"/>
+                <Baseline points="227,454 281,455 336,455 390,456 445,456 499,457 554,457 608,457 663,457 717,457 772,456 826,456 881,455 935,455 990,454 1044,454 1099,453 1153,452 1208,452 1262,451 1317,450"/>
+                <TextEquiv>
+                    <Unicode>a, e, I, 0, u, al, au, en, ei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="243,583 903,548 1140,573 1312,538 1312,497 242,518"/>
+                <Baseline points="250,555 302,555 355,555 408,554 460,554 513,553 566,552 618,550 671,549 724,548 777,547 829,546 882,544 935,543 987,542 1040,541 1093,541 1145,540 1198,540 1251,540 1304,540"/>
+                <TextEquiv>
+                    <Unicode>a, e, I, 0, u, al, au, en, ei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="441,653 991,650 1115,630 1114,573 999,557 854,590 777,569 739,586 685,560 564,588 516,569 440,607"/>
+                <Baseline points="449,630 481,630 514,630 547,630 580,630 613,629 646,629 678,628 711,628 744,628 777,627 810,627 843,626 876,625 908,625 941,624 974,623 1007,622 1040,622 1073,621 1106,620"/>
+                <TextEquiv>
+                    <Unicode>n, m. v. w. r.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="464,724 526,738 581,715 642,740 732,711 804,732 861,698 966,731 1015,706 1097,713 1096,663 1070,656 937,671 862,651 820,676 734,654 682,684 635,660 571,703 463,674"/>
+                <Baseline points="472,714 502,715 533,715 564,716 595,716 626,716 657,716 687,716 718,715 749,715 780,714 811,714 842,713 873,713 903,712 934,711 965,711 996,710 1027,710 1058,709 1089,709"/>
+                <TextEquiv>
+                    <Unicode>n, m. v. w. r.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="230,827 1425,833 1398,737 1032,783 230,773"/>
+                <Baseline points="238,818 300,818 362,818 424,817 486,817 548,816 610,815 672,815 734,814 796,813 858,812 920,811 982,810 1044,810 1106,809 1168,807 1230,806 1292,805 1354,804 1417,803"/>
+                <TextEquiv>
+                    <Unicode>in, am, mai, ein, neu, von, man, war, nun, wir,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="167,904 1428,886 1371,822 166,840"/>
+                <Baseline points="174,892 236,891 298,890 360,889 423,888 485,887 547,887 609,886 672,885 734,884 796,883 858,882 921,881 983,880 1045,880 1107,879 1170,878 1232,877 1294,876 1356,875 1419,874"/>
+                <TextEquiv>
+                    <Unicode>mein, war, nein, wir, rein, von, wer, neun,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="158,977 1431,959 1390,894 1164,881 934,892 890,932 785,895 157,914"/>
+                <Baseline points="166,962 228,961 291,960 354,959 417,958 480,957 542,957 605,956 668,955 731,954 794,953 856,953 919,952 982,951 1045,950 1108,950 1170,949 1233,948 1296,948 1359,947 1422,946"/>
+                <TextEquiv>
+                    <Unicode>arm, warm, reuen, weinen, irren, einer, vorne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="156,1046 353,1070 439,1034 1075,1037 1063,971 780,956 378,1000 155,979"/>
+                <Baseline points="164,1033 209,1033 254,1033 299,1032 344,1032 389,1031 434,1030 480,1029 525,1029 570,1028 615,1027 660,1026 705,1025 750,1024 796,1024 841,1023 886,1022 931,1022 976,1021 1021,1021 1067,1021"/>
+                <TextEquiv>
+                    <Unicode>nennen, nimmer, rennen, wimmern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="710,1165 723,1167 734,1156 741,1163 749,1157 752,1161 783,1146 826,1148 839,1161 847,1155 867,1158 864,1083 851,1087 823,1070 789,1077 759,1062 716,1095 707,1095"/>
+                <Baseline points="718,1142 746,1141 774,1139 802,1138 830,1137 858,1138"/>
+                <TextEquiv>
+                    <Unicode>110.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="167,1338 384,1307 538,1347 637,1295 731,1337 952,1273 1372,1306 1379,1196 961,1252 802,1187 656,1272 541,1201 430,1271 165,1262"/>
+                <Baseline points="174,1315 237,1315 300,1315 363,1314 426,1313 489,1312 552,1310 615,1308 678,1306 741,1304 805,1302 868,1299 931,1297 994,1295 1057,1293 1120,1291 1183,1290 1246,1289 1309,1288 1373,1287"/>
+                <TextEquiv>
+                    <Unicode>f, I. h, ſ, s, ss, sch, j. g, d, t.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="176,1488 1252,1467 1373,1449 1372,1369 1278,1413 1226,1384 467,1399 416,1432 175,1403"/>
+                <Baseline points="184,1464 243,1463 302,1461 361,1460 420,1459 479,1458 538,1458 597,1457 656,1457 715,1457 774,1456 833,1456 892,1455 951,1454 1010,1454 1069,1452 1128,1451 1187,1449 1246,1447 1305,1444 1365,1441"/>
+                <TextEquiv>
+                    <Unicode>f, I. h, ſ, s, ss, sch, j. g, d, t.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="238,1544 1434,1541 1413,1469 756,1470 694,1509 595,1474 515,1506 237,1480"/>
+                <Baseline points="246,1538 308,1539 370,1539 432,1538 494,1538 556,1538 618,1537 680,1536 742,1535 804,1535 866,1533 928,1532 990,1532 1052,1531 1114,1530 1176,1529 1238,1528 1300,1528 1362,1527 1425,1527"/>
+                <TextEquiv>
+                    <Unicode>weiss, roth; jung, alt; sanft, rauh; rund, lang;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="166,1621 1225,1627 1426,1612 1425,1542 165,1555"/>
+                <Baseline points="174,1612 236,1611 298,1611 360,1610 422,1609 485,1608 547,1607 609,1606 671,1605 733,1605 796,1603 858,1602 920,1601 982,1600 1044,1599 1107,1599 1169,1598 1231,1597 1293,1596 1355,1595 1418,1595"/>
+                <TextEquiv>
+                    <Unicode>leise, laut; faul, fleissig; süss, sauer; gescheit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="169,1696 1422,1687 1421,1622 168,1646"/>
+                <Baseline points="176,1680 237,1680 299,1680 361,1679 423,1679 485,1678 547,1677 609,1677 671,1676 733,1675 795,1674 856,1673 918,1672 980,1671 1042,1670 1104,1669 1166,1669 1228,1668 1290,1667 1352,1667 1414,1667"/>
+                <TextEquiv>
+                    <Unicode>einfältig; vornehm, gering; mässig, unmässig;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="159,1771 1400,1769 1428,1680 158,1706"/>
+                <Baseline points="167,1750 229,1751 292,1751 355,1751 417,1750 480,1749 543,1748 605,1747 668,1746 731,1744 794,1743 856,1741 919,1740 982,1739 1044,1738 1107,1737 1170,1736 1232,1736 1295,1736 1358,1737 1421,1738"/>
+                <TextEquiv>
+                    <Unicode>schnell, langsam; träge, feurig; — jagen, sehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="167,1839 1421,1827 1420,1773 1308,1752 166,1770"/>
+                <Baseline points="175,1823 236,1823 298,1822 360,1821 422,1821 484,1820 546,1819 608,1818 670,1817 732,1816 794,1815 855,1814 917,1813 979,1812 1041,1811 1103,1811 1165,1809 1227,1809 1289,1808 1351,1807 1413,1806"/>
+                <TextEquiv>
+                    <Unicode>schiessen, holen, bauen, säen, gäten, mähen, reissen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="160,1914 1436,1908 1435,1828 159,1845"/>
+                <Baseline points="167,1893 230,1892 293,1892 356,1891 419,1890 482,1889 545,1889 608,1888 671,1887 734,1886 797,1885 860,1884 923,1883 986,1882 1049,1882 1112,1881 1175,1880 1238,1880 1301,1879 1364,1879 1427,1878"/>
+                <TextEquiv>
+                    <Unicode>fällen, hüten, reifen, lesen, werfen, waschen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="161,1976 993,1973 1070,1955 1069,1898 863,1904 819,1932 663,1890 564,1921 501,1898 160,1921"/>
+                <Baseline points="168,1963 212,1963 257,1964 302,1964 346,1963 391,1963 436,1962 480,1962 525,1961 570,1960 615,1960 659,1959 704,1958 749,1957 793,1956 838,1955 883,1955 927,1954 972,1954 1017,1953 1062,1953"/>
+                <TextEquiv>
+                    <Unicode>röthen, helfen, schneiden, wandeln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="133,2145 1445,2138 1456,2050 914,2076 784,2012 546,2101 132,2073"/>
+                <Baseline points="141,2130 206,2132 271,2134 337,2135 402,2136 468,2137 533,2136 598,2136 664,2135 729,2134 795,2133 860,2132 925,2131 991,2129 1056,2128 1122,2126 1187,2125 1252,2123 1318,2122 1383,2121 1449,2121"/>
+                <TextEquiv>
+                    <Unicode>b, p, g. k. z, c, ch, d. x. y.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="298,2308 1393,2305 1392,2258 1335,2226 1269,2270 1172,2221 1005,2216 922,2254 634,2238 462,2279 296,2236"/>
+                <Baseline points="306,2303 359,2302 413,2301 467,2300 521,2299 575,2298 629,2296 683,2295 737,2294 791,2293 845,2292 898,2290 952,2289 1006,2288 1060,2287 1114,2286 1168,2286 1222,2285 1276,2285 1330,2285 1384,2284"/>
+                <TextEquiv>
+                    <Unicode>b, p, g. k. z, c, ch, d. x. y.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="236,2371 307,2404 781,2366 1030,2397 1167,2352 1428,2390 1427,2325 1374,2296 235,2335"/>
+                <Baseline points="244,2374 302,2373 361,2373 420,2372 479,2371 537,2371 596,2370 655,2369 714,2368 772,2366 831,2365 890,2364 949,2363 1007,2362 1066,2361 1125,2360 1184,2359 1242,2358 1301,2357 1360,2357 1419,2356"/>
+                <TextEquiv>
+                    <Unicode>du sprichst, singst, rufst, pfeifst; ich gehe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="164,2457 505,2489 661,2450 796,2487 898,2446 1338,2481 1445,2446 1444,2392 1228,2391 1165,2349 1110,2395 163,2391"/>
+                <Baseline points="172,2445 235,2445 298,2445 361,2445 425,2444 488,2443 551,2442 614,2441 678,2440 741,2439 804,2437 867,2436 931,2434 994,2433 1057,2432 1120,2431 1184,2429 1247,2428 1310,2428 1373,2427 1437,2427"/>
+                <TextEquiv>
+                    <Unicode>laufe, springe, hüpfe, klettere; schneiden, sägen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>40 &#xD;
+109.&#xD;
+a, e, I, 0, u, al, au, en, ei.&#xD;
+a, e, I, 0, u, al, au, en, ei.&#xD;
+n, m. v. w. r.&#xD;
+n, m. v. w. r.&#xD;
+in, am, mai, ein, neu, von, man, war, nun, wir,&#xD;
+mein, war, nein, wir, rein, von, wer, neun,&#xD;
+arm, warm, reuen, weinen, irren, einer, vorne,&#xD;
+nennen, nimmer, rennen, wimmern.&#xD;
+110.&#xD;
+f, I. h, ſ, s, ss, sch, j. g, d, t.&#xD;
+f, I. h, ſ, s, ss, sch, j. g, d, t.&#xD;
+weiss, roth; jung, alt; sanft, rauh; rund, lang;&#xD;
+leise, laut; faul, fleissig; süss, sauer; gescheit,&#xD;
+einfältig; vornehm, gering; mässig, unmässig;&#xD;
+schnell, langsam; träge, feurig; — jagen, sehen,&#xD;
+schiessen, holen, bauen, säen, gäten, mähen, reissen,&#xD;
+fällen, hüten, reifen, lesen, werfen, waschen,&#xD;
+röthen, helfen, schneiden, wandeln.&#xD;
+b, p, g. k. z, c, ch, d. x. y.&#xD;
+b, p, g. k. z, c, ch, d. x. y.&#xD;
+du sprichst, singst, rufst, pfeifst; ich gehe,&#xD;
+laufe, springe, hüpfe, klettere; schneiden, sägen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

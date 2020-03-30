@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:53.242+01:00</Created>
+        <LastChange>2020-03-25T18:16:52.795+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000021.png" imageWidth="1550" imageHeight="2642">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585156612870" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="137,420 137,2477 347,2477 347,420"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="131,466 1345,437 131,443"/>
+                <Baseline points="139,454 167,453 196,454 224,455 1337,446"/>
+                <TextEquiv>
+                    <Unicode>mein, meiner, meinen, meinem, meines,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="129,535 1315,530 1315,491 129,512"/>
+                <Baseline points="137,522 164,524 191,525 218,525 1307,518"/>
+                <TextEquiv>
+                    <Unicode>dein, deiner, deinen, deinem, deines,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="142,608 1309,604 1309,559 142,574"/>
+                <Baseline points="149,593 176,595 203,596 1302,592"/>
+                <TextEquiv>
+                    <Unicode>fein, feiner, feinen, feinem, feines,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="144,661 1336,670 144,633"/>
+                <Baseline points="152,661 184,666 217,667 1328,669"/>
+                <TextEquiv>
+                    <Unicode>jung, junger, jungen, jungem, junges,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="152,744 1350,739 152,705"/>
+                <Baseline points="160,735 186,733 213,735 239,735 1342,735"/>
+                <TextEquiv>
+                    <Unicode>ſchön, ſchöner, ſchönen, ſchönen, ſchönem, ſchönes,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="145,817 1330,817 1078,781 145,789"/>
+                <Baseline points="153,808 181,808 209,809 1322,808"/>
+                <TextEquiv>
+                    <Unicode>faul, fauler, faulen, faulem, faules. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="142,1061 1301,1043 141,1046"/>
+                <Baseline points="149,1057 178,1056 208,1057 237,1058 1293,1056"/>
+                <TextEquiv>
+                    <Unicode>halte, wölbe, binde, färbe, merke,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="142,1139 1290,1129 1289,1089 142,1108"/>
+                <Baseline points="149,1126 175,1125 201,1125 228,1126 254,1127 1282,1120"/>
+                <TextEquiv>
+                    <Unicode>winde, hefte, wärme, ſcherze, falte,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="138,1201 1336,1207 1106,1169 138,1175"/>
+                <Baseline points="146,1198 173,1197 200,1198 227,1198 1329,1197"/>
+                <TextEquiv>
+                    <Unicode>ende, wünſche, ſende, lüfte, wende, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="133,1286 1323,1266 133,1246"/>
+                <Baseline points="140,1272 165,1273 190,1274 215,1274 240,1273 1316,1262"/>
+                <TextEquiv>
+                    <Unicode>zürne, ſchirme, forme, lerne, lärme,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="144,1356 1342,1325 144,1330"/>
+                <Baseline points="152,1341 180,1341 208,1342 236,1343 1335,1338"/>
+                <TextEquiv>
+                    <Unicode>ſalbe, pumpe, gerbe, milde, mürbe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="137,1598 1376,1599 1364,1568 137,1569"/>
+                <Baseline points="145,1588 170,1587 196,1587 221,1588 247,1588 272,1588 1368,1591"/>
+                <TextEquiv>
+                    <Unicode>lernen, helfen, lärmen, warnen, ſchärfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="150,1668 1377,1658 150,1629"/>
+                <Baseline points="158,1658 186,1659 214,1660 242,1661 271,1661 299,1661 327,1661 1369,1656"/>
+                <TextEquiv>
+                    <Unicode>wünſchen, dürfen, formen, zürnen, wärmen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="142,1741 1350,1735 1142,1702 142,1715"/>
+                <Baseline points="150,1735 178,1734 206,1735 234,1735 262,1734 1342,1727"/>
+                <TextEquiv>
+                    <Unicode>halten, heften, ſenden, würzen, melden, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="139,1804 1349,1807 1360,1771 139,1788"/>
+                <Baseline points="146,1800 172,1799 199,1798 226,1799 252,1799 279,1799 1353,1794"/>
+                <TextEquiv>
+                    <Unicode>werden, lüften, gelten, dulden, gürten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="139,1882 1363,1878 1140,1844 139,1851"/>
+                <Baseline points="147,1869 176,1872 205,1872 234,1871 263,1870 292,1870 1355,1872"/>
+                <TextEquiv>
+                    <Unicode>ſcherzen, tanzen, wirken, gerben, wälzen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="139,2119 1382,2121 1382,2085 139,2091"/>
+                <Baseline points="147,2106 173,2106 199,2106 225,2106 251,2106 277,2107 1375,2108"/>
+                <TextEquiv>
+                    <Unicode>zünden, zündet, färben, färbet, morden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="138,2180 1344,2186 138,2148"/>
+                <Baseline points="146,2179 173,2178 200,2179 227,2179 254,2177 1336,2181"/>
+                <TextEquiv>
+                    <Unicode>gelten, geltet, duften, duftet, meldet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="146,2257 1343,2255 1108,2220 146,2223"/>
+                <Baseline points="154,2247 179,2248 205,2249 230,2249 256,2248 1335,2248"/>
+                <TextEquiv>
+                    <Unicode>salzen, salzet, merken, merket, binden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="151,2320 1358,2327 1346,2287 151,2289"/>
+                <Baseline points="159,2318 186,2317 213,2317 240,2318 267,2319 294,2319 1351,2317"/>
+                <TextEquiv>
+                    <Unicode>ſcherzen, ſcherzet, winden, windet, wölbet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="140,2392 1366,2397 1366,2354 140,2363"/>
+                <Baseline points="148,2385 173,2385 199,2386 225,2386 251,2387 1358,2386"/>
+                <TextEquiv>
+                    <Unicode>dürfen, dürfet, ſalben, ſsalbet, forſchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="157,2472 1361,2466 157,2432"/>
+                <Baseline points="164,2460 189,2460 214,2460 239,2460 264,2460 289,2460 1353,2460"/>
+                <TextEquiv>
+                    <Unicode>ſchelten, ſcheltet, werfen, werfet, duldet. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>mein, meiner, meinen, meinem, meines,&#xD;
+dein, deiner, deinen, deinem, deines,&#xD;
+fein, feiner, feinen, feinem, feines,&#xD;
+jung, junger, jungen, jungem, junges,&#xD;
+ſchön, ſchöner, ſchönen, ſchönen, ſchönem, ſchönes,&#xD;
+faul, fauler, faulen, faulem, faules. &#xD;
+halte, wölbe, binde, färbe, merke,&#xD;
+winde, hefte, wärme, ſcherze, falte,&#xD;
+ende, wünſche, ſende, lüfte, wende, &#xD;
+zürne, ſchirme, forme, lerne, lärme,&#xD;
+ſalbe, pumpe, gerbe, milde, mürbe.&#xD;
+lernen, helfen, lärmen, warnen, ſchärfen,&#xD;
+wünſchen, dürfen, formen, zürnen, wärmen,&#xD;
+halten, heften, ſenden, würzen, melden, &#xD;
+werden, lüften, gelten, dulden, gürten,&#xD;
+ſcherzen, tanzen, wirken, gerben, wälzen.&#xD;
+zünden, zündet, färben, färbet, morden&#xD;
+gelten, geltet, duften, duftet, meldet,&#xD;
+salzen, salzet, merken, merket, binden,&#xD;
+ſcherzen, ſcherzet, winden, windet, wölbet,&#xD;
+dürfen, dürfet, ſalben, ſsalbet, forſchen,&#xD;
+ſchelten, ſcheltet, werfen, werfet, duldet. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="381,417 381,2473 593,2473 593,417"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="628,141 628,2472 825,2472 825,141"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="724,207 734,203 740,207 745,203 751,205 757,201 766,202 769,198 772,201 781,196 792,200 807,196 798,124 787,127 776,138 758,127 752,132 740,123 736,127 730,124 724,130 713,130"/>
+                <Baseline points="729,191 763,190 798,182"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="702,344 719,342 742,349 759,344 765,350 780,352 793,345 804,349 810,343 822,344 827,289 817,290 806,281 792,279 782,269 730,269 717,276 708,275"/>
+                <Baseline points="710,333 736,335 762,338 788,340 815,340"/>
+                <TextEquiv>
+                    <Unicode>46.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:2;}">
+                <Coords points="728,951 771,950 777,955 796,950 808,957 814,951 822,951 826,873 818,873 811,866 802,870 790,860 785,863 781,860 768,868 760,863 756,868 742,861 733,862"/>
+                <Baseline points="737,940 763,938 789,942 815,942"/>
+                <TextEquiv>
+                    <Unicode>47.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:3;}">
+                <Coords points="719,1484 733,1481 745,1485 750,1480 770,1478 782,1486 833,1481 835,1412 820,1412 797,1397 791,1402 781,1401 769,1393 733,1414 721,1415"/>
+                <Baseline points="727,1470 759,1471 792,1473 825,1472"/>
+                <TextEquiv>
+                    <Unicode>48.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:4;}">
+                <Coords points="712,2001 723,2000 734,2011 756,2011 765,2006 780,2013 792,2005 803,2014 823,2013 829,1953 811,1945 798,1946 777,1922 770,1925 757,1920 742,1930 730,1921 720,1921"/>
+                <Baseline points="720,1995 752,2001 784,2002 817,2006"/>
+                <TextEquiv>
+                    <Unicode>49.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>17&#xD;
+46.&#xD;
+47.&#xD;
+48.&#xD;
+49.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="887,411 887,2468 1080,2468 1080,411"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:4;}">
+            <Coords points="1151,408 1151,2467 1372,2467 1372,408"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

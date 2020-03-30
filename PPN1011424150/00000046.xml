@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:57.690+01:00</Created>
+        <LastChange>2020-03-26T15:16:17.198+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000046.png" imageWidth="1586" imageHeight="2624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585232177269" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="81,133 81,2467 1448,2467 1448,133"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="676,208 690,202 716,210 777,189 808,201 823,188 847,186 867,195 879,190 902,205 929,196 928,155 892,145 882,151 822,115 787,134 760,128 719,145 674,134"/>
+                <Baseline points="684,174 710,178 736,180 762,181 788,180 815,179 841,177 867,175 893,173 920,171"/>
+                <TextEquiv>
+                    <Unicode>— 42 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="73,422 221,414 359,473 760,466 859,414 1142,463 1314,389 1456,420 1455,268 1145,229 590,279 396,240 252,329 72,302"/>
+                <Baseline points="81,405 149,410 217,414 286,417 354,419 422,420 491,421 559,421 627,420 696,419 764,418 832,416 901,415 969,413 1037,412 1106,410 1174,409 1242,409 1311,408 1379,409 1448,409"/>
+                <TextEquiv>
+                    <Unicode>114. R, S, T, U, V, W, X, X, Z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="239,608 721,575 1022,608 1183,565 1323,605 1422,578 1422,532 1230,506 1155,540 1097,506 1037,546 896,472 688,540 238,517"/>
+                <Baseline points="248,579 306,580 364,580 422,581 481,581 539,580 597,580 656,580 714,579 772,578 831,577 889,577 947,576 1005,575 1064,574 1122,573 1180,572 1239,571 1297,570 1355,570 1414,569"/>
+                <TextEquiv>
+                    <Unicode>R, S, T, U, V, W, X, X, Z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="222,667 1315,680 1410,672 1410,604 221,610"/>
+                <Baseline points="230,663 288,663 347,663 405,663 464,663 522,662 581,662 639,661 698,661 756,660 815,659 874,659 932,658 991,657 1049,657 1108,656 1166,655 1225,655 1283,654 1342,654 1401,653"/>
+                <TextEquiv>
+                    <Unicode>Ofen, Thüre, Rost, Schublade, Rohr; Fenster,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="148,746 1417,740 1417,687 1353,665 435,668 387,703 148,667"/>
+                <Baseline points="157,733 219,734 282,734 344,734 407,733 470,733 532,733 595,732 657,732 720,731 783,730 845,730 908,729 970,728 1033,727 1096,727 1158,726 1221,726 1283,725 1346,725 1409,725"/>
+                <TextEquiv>
+                    <Unicode>Rahmen, Scheibe, Riegel; Haus, Dach, Wände,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="149,819 1413,816 1413,746 1267,731 149,746"/>
+                <Baseline points="158,804 220,804 282,804 345,804 407,804 469,804 532,803 594,803 656,802 719,801 781,801 843,800 906,799 968,798 1030,798 1093,797 1155,796 1217,796 1280,795 1342,795 1405,794"/>
+                <TextEquiv>
+                    <Unicode>Speicher, Zimmer, Küche, Keller, Hof, Stall,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="149,884 619,899 1097,853 1337,895 1417,871 1417,812 148,817"/>
+                <Baseline points="157,873 219,874 282,875 344,875 407,875 470,875 532,874 595,874 657,873 720,872 783,871 845,870 908,869 970,868 1033,867 1096,866 1158,865 1221,864 1283,864 1346,863 1409,863"/>
+                <TextEquiv>
+                    <Unicode>Scheune; Xaverius, Ypsilon. — Im Winter gibt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="152,950 1392,954 1408,884 151,908"/>
+                <Baseline points="160,946 225,946 290,945 355,945 420,945 486,944 551,943 616,942 681,942 746,940 812,939 877,939 942,937 1007,936 1072,935 1138,934 1203,933 1268,932 1333,931 1399,931"/>
+                <TextEquiv>
+                    <Unicode>es Reif, Schnee und Eis. Im Sommer sieht man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="163,1022 1415,1010 1414,961 1351,944 380,956 312,990 162,959"/>
+                <Baseline points="171,1015 232,1015 294,1015 356,1015 418,1015 480,1015 541,1014 603,1013 665,1012 727,1011 789,1010 850,1009 912,1008 974,1007 1036,1006 1098,1005 1159,1004 1221,1004 1283,1003 1345,1003 1407,1003"/>
+                <TextEquiv>
+                    <Unicode>Thau, Nebel und Regen. Im Walde nisten die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="163,1089 1420,1073 1313,1016 162,1022"/>
+                <Baseline points="172,1086 234,1086 296,1086 358,1086 420,1086 482,1085 544,1084 606,1084 668,1083 730,1082 792,1081 854,1080 916,1079 978,1078 1040,1077 1102,1076 1164,1075 1226,1074 1288,1073 1350,1073 1412,1072"/>
+                <TextEquiv>
+                    <Unicode>Vögel; im Kirchthurme schreit die Eule. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="158,1175 1418,1150 1392,1088 561,1121 157,1091"/>
+                <Baseline points="166,1158 228,1158 290,1157 352,1157 414,1156 476,1155 538,1155 601,1154 663,1153 725,1153 787,1152 849,1151 911,1151 973,1150 1036,1149 1098,1149 1160,1148 1222,1147 1284,1147 1346,1146 1409,1146"/>
+                <TextEquiv>
+                    <Unicode>Ein Fisch kann schwimmen; Hasen können laufen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="706,1264 718,1261 725,1268 737,1263 749,1275 754,1271 761,1277 776,1266 803,1292 822,1279 843,1275 843,1171 831,1174 824,1169 806,1183 790,1171 766,1181 749,1174 734,1188 706,1189"/>
+                <Baseline points="714,1256 744,1254 774,1253 804,1254 835,1257"/>
+                <TextEquiv>
+                    <Unicode>115.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="212,1371 1414,1361 1413,1292 1184,1257 1089,1299 211,1302"/>
+                <Baseline points="221,1347 280,1346 339,1345 398,1344 457,1343 517,1342 576,1341 635,1341 694,1340 753,1340 813,1339 872,1339 931,1338 990,1338 1049,1337 1109,1336 1168,1336 1227,1335 1286,1334 1345,1333 1405,1332"/>
+                <TextEquiv>
+                    <Unicode>Das Eichhörnchen ist ein munteres Thierchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="155,1442 1361,1434 1418,1408 1418,1355 154,1360"/>
+                <Baseline points="164,1415 226,1415 288,1415 350,1414 413,1414 475,1413 537,1412 600,1412 662,1411 724,1410 787,1409 849,1409 911,1408 973,1407 1036,1407 1098,1406 1160,1405 1223,1405 1285,1405 1347,1404 1410,1404"/>
+                <TextEquiv>
+                    <Unicode>Hurtig klettert es den Baum hinauf. Es springt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="158,1507 1389,1496 1419,1417 157,1442"/>
+                <Baseline points="166,1485 228,1485 290,1484 352,1484 415,1484 477,1483 539,1483 601,1482 664,1481 726,1481 788,1480 850,1479 913,1479 975,1478 1037,1477 1099,1477 1162,1476 1224,1475 1286,1474 1348,1473 1411,1473"/>
+                <TextEquiv>
+                    <Unicode>von einem Baume zum anderen und sucht Nüsse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="157,1563 505,1592 550,1559 1409,1551 1408,1495 1357,1487 157,1512"/>
+                <Baseline points="166,1558 227,1557 289,1556 351,1555 412,1554 474,1554 536,1553 597,1553 659,1552 721,1552 783,1551 844,1551 906,1550 968,1549 1029,1549 1091,1548 1153,1547 1214,1546 1276,1545 1338,1544 1400,1543"/>
+                <TextEquiv>
+                    <Unicode>und Buchecker. — Der Fuchs ist listig. Vorsich=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="146,1647 1413,1624 1412,1572 1271,1552 145,1584"/>
+                <Baseline points="154,1629 216,1628 278,1627 341,1626 403,1625 466,1624 528,1623 591,1623 653,1622 716,1622 778,1621 840,1621 903,1620 965,1619 1028,1619 1090,1618 1153,1617 1215,1616 1278,1615 1340,1614 1403,1613"/>
+                <TextEquiv>
+                    <Unicode>tig schleicht er umher und späht auf Hasen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="154,1705 1321,1710 1416,1694 1416,1649 1321,1620 1175,1660 1017,1630 154,1659"/>
+                <Baseline points="163,1697 225,1697 287,1696 349,1696 411,1695 474,1695 536,1694 598,1694 660,1693 722,1693 785,1692 847,1691 909,1691 971,1690 1033,1689 1096,1689 1158,1688 1220,1687 1282,1686 1344,1685 1407,1684"/>
+                <TextEquiv>
+                    <Unicode>und Hühner. Hat er sie erhascht, so flieht er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="154,1768 273,1798 313,1768 457,1794 1304,1761 1303,1717 1252,1702 836,1724 728,1691 464,1735 154,1705"/>
+                <Baseline points="163,1769 219,1768 276,1768 332,1767 389,1766 446,1765 502,1765 559,1764 615,1763 672,1763 729,1762 785,1762 842,1761 898,1760 955,1760 1012,1759 1068,1758 1125,1757 1181,1757 1238,1756 1295,1755"/>
+                <TextEquiv>
+                    <Unicode>damit nach seiner Höhle und verzehrt sie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="153,1852 1417,1839 1406,1758 925,1763 755,1805 330,1770 264,1805 152,1767"/>
+                <Baseline points="162,1838 224,1837 286,1837 349,1836 411,1836 473,1836 536,1835 598,1834 660,1834 723,1833 785,1833 847,1832 910,1831 972,1831 1034,1830 1097,1829 1159,1828 1221,1827 1284,1826 1346,1825 1409,1824"/>
+                <TextEquiv>
+                    <Unicode>Die Kuh ist uns sehr nützlich; wir trinken ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="153,1926 1423,1912 1422,1837 1291,1829 928,1869 152,1850"/>
+                <Baseline points="161,1908 223,1908 286,1908 348,1907 411,1907 474,1906 536,1906 599,1905 662,1904 724,1904 787,1903 850,1903 912,1902 975,1901 1038,1900 1100,1900 1163,1899 1226,1898 1288,1897 1351,1895 1414,1894"/>
+                <TextEquiv>
+                    <Unicode>Milch und essen ihr Fleisch; aus ihrem Felle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="142,1979 1428,1975 1427,1910 142,1945"/>
+                <Baseline points="151,1980 214,1979 277,1979 341,1978 404,1977 468,1977 531,1976 594,1976 658,1976 721,1975 785,1975 848,1975 911,1974 975,1974 1038,1973 1102,1972 1165,1972 1228,1971 1292,1970 1355,1968 1419,1966"/>
+                <TextEquiv>
+                    <Unicode>macht der Gerber Leder; das Leder wird zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="154,2056 413,2094 664,2079 727,2046 849,2087 1033,2063 1032,2008 993,1988 909,2010 572,1979 511,2016 487,1996 390,2024 153,1989"/>
+                <Baseline points="162,2052 205,2052 248,2051 291,2051 334,2050 377,2050 420,2049 464,2049 507,2048 550,2047 593,2047 636,2046 679,2045 722,2045 766,2045 809,2044 852,2044 895,2044 938,2044 981,2044 1025,2045"/>
+                <TextEquiv>
+                    <Unicode>Schuhen und Stiefeln verarbeitet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="709,2162 726,2157 738,2169 779,2174 786,2181 808,2169 818,2172 832,2158 861,2163 861,2088 832,2087 805,2066 762,2086 748,2078 729,2088 709,2085"/>
+                <Baseline points="718,2149 744,2147 771,2146 798,2146 825,2147 852,2149"/>
+                <TextEquiv>
+                    <Unicode>116.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="223,2258 1346,2252 1428,2229 1428,2169 1281,2207 1149,2145 969,2193 731,2161 222,2183"/>
+                <Baseline points="231,2239 290,2238 349,2237 409,2237 468,2236 528,2235 587,2235 646,2234 706,2233 765,2233 825,2233 884,2232 943,2231 1003,2231 1062,2230 1122,2230 1181,2229 1240,2228 1300,2228 1359,2227 1419,2226"/>
+                <TextEquiv>
+                    <Unicode>In der Stadt befindet sich ein Markt. Auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="161,2319 1179,2326 1409,2305 1409,2252 161,2262"/>
+                <Baseline points="170,2308 231,2308 293,2307 354,2306 416,2306 477,2305 539,2305 600,2304 662,2303 723,2303 785,2302 847,2301 908,2301 970,2300 1031,2299 1093,2298 1154,2298 1216,2297 1277,2296 1339,2295 1401,2294"/>
+                <TextEquiv>
+                    <Unicode>demselben kommen täglich viele Leute zusammen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="152,2381 1232,2367 1376,2402 1414,2398 1413,2304 151,2324"/>
+                <Baseline points="160,2378 222,2377 284,2377 346,2376 409,2376 471,2375 533,2374 595,2374 658,2373 720,2373 782,2372 844,2372 907,2371 969,2370 1031,2370 1093,2369 1156,2368 1218,2367 1280,2366 1342,2365 1405,2364"/>
+                <TextEquiv>
+                    <Unicode>Die Landleute und einige Bürger bringen allerlei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="152,2492 629,2445 1426,2472 1425,2407 1322,2379 151,2392"/>
+                <Baseline points="160,2450 222,2450 285,2449 348,2448 411,2448 474,2447 537,2447 599,2446 662,2445 725,2445 788,2444 851,2443 914,2443 977,2442 1039,2441 1102,2441 1165,2440 1228,2438 1291,2437 1354,2436 1417,2435"/>
+                <TextEquiv>
+                    <Unicode>Lebensmittel zum Verkaufe dahin. In langen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 42 —&#xD;
+114. R, S, T, U, V, W, X, X, Z.&#xD;
+R, S, T, U, V, W, X, X, Z.&#xD;
+Ofen, Thüre, Rost, Schublade, Rohr; Fenster,&#xD;
+Rahmen, Scheibe, Riegel; Haus, Dach, Wände,&#xD;
+Speicher, Zimmer, Küche, Keller, Hof, Stall,&#xD;
+Scheune; Xaverius, Ypsilon. — Im Winter gibt&#xD;
+es Reif, Schnee und Eis. Im Sommer sieht man&#xD;
+Thau, Nebel und Regen. Im Walde nisten die&#xD;
+Vögel; im Kirchthurme schreit die Eule. —&#xD;
+Ein Fisch kann schwimmen; Hasen können laufen.&#xD;
+115.&#xD;
+Das Eichhörnchen ist ein munteres Thierchen.&#xD;
+Hurtig klettert es den Baum hinauf. Es springt&#xD;
+von einem Baume zum anderen und sucht Nüsse&#xD;
+und Buchecker. — Der Fuchs ist listig. Vorsich=&#xD;
+tig schleicht er umher und späht auf Hasen&#xD;
+und Hühner. Hat er sie erhascht, so flieht er&#xD;
+damit nach seiner Höhle und verzehrt sie.&#xD;
+Die Kuh ist uns sehr nützlich; wir trinken ihre&#xD;
+Milch und essen ihr Fleisch; aus ihrem Felle&#xD;
+macht der Gerber Leder; das Leder wird zu&#xD;
+Schuhen und Stiefeln verarbeitet.&#xD;
+116.&#xD;
+In der Stadt befindet sich ein Markt. Auf&#xD;
+demselben kommen täglich viele Leute zusammen.&#xD;
+Die Landleute und einige Bürger bringen allerlei&#xD;
+Lebensmittel zum Verkaufe dahin. In langen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

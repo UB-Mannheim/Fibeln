@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:49.251+01:00</Created>
+        <LastChange>2020-03-25T09:31:17.136+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000003.png" imageWidth="1582" imageHeight="2628">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585125077203" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="190,189 190,2394 1461,2394 1461,189"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="184,307 650,250 811,300 973,255 1113,296 1181,251 1424,255 1421,129 1347,112 891,168 794,116 669,193 364,134 181,167"/>
+                <Baseline points="190,266 251,263 312,260 373,258 435,256 496,254 557,252 619,251 680,250 741,249 803,248 864,247 925,247 986,246 1048,245 1109,245 1170,244 1232,243 1293,242 1354,241 1416,239"/>
+                <TextEquiv>
+                    <Unicode>Kölner Handfibel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="532,688 606,698 713,659 882,679 935,655 1110,679 1109,616 1034,586 974,604 813,572 648,602 531,584"/>
+                <Baseline points="540,660 568,659 596,659 624,658 652,658 680,657 708,657 736,657 764,657 792,657 821,656 849,656 877,656 905,656 933,655 961,655 989,654 1017,653 1045,653 1073,651 1102,651"/>
+                <TextEquiv>
+                    <Unicode>Erſte Abtheilung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="647,1039 725,1015 832,1033 870,1014 889,1024 905,1009 924,1021 1009,1006 1006,949 961,960 927,939 873,962 795,939 746,968 678,950 643,961"/>
+                <Baseline points="653,1011 679,1011 706,1011 733,1009 760,1008 786,1007 813,1006 840,1004 867,1002 893,1001 920,999 947,998 974,997 1001,997"/>
+                <TextEquiv>
+                    <Unicode>Herausgegeben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="780,1137 790,1137 813,1126 820,1133 829,1131 837,1137 855,1129 871,1139 882,1137 882,1086 874,1087 848,1068 835,1077 826,1074 820,1080 800,1080 797,1084 780,1082"/>
+                <Baseline points="788,1115 816,1117 845,1117 874,1115"/>
+                <TextEquiv>
+                    <Unicode>vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="429,1283 661,1305 809,1250 914,1275 993,1248 1185,1255 1209,1249 1208,1183 1030,1169 883,1200 671,1173 604,1205 540,1170 427,1203"/>
+                <Baseline points="436,1254 474,1253 512,1253 550,1252 589,1252 627,1251 665,1250 703,1249 742,1248 780,1248 818,1246 856,1245 895,1244 933,1243 971,1242 1009,1241 1048,1240 1086,1239 1124,1239 1162,1238 1201,1237"/>
+                <TextEquiv>
+                    <Unicode>Lehrervereine zu Köln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:5;}">
+                <Coords points="503,1776 1054,1789 1172,1771 1170,1677 1126,1692 1096,1673 1031,1710 807,1699 729,1720 673,1701 597,1732 502,1708"/>
+                <Baseline points="510,1771 542,1771 575,1771 608,1770 640,1769 673,1768 706,1767 738,1767 771,1765 804,1764 837,1763 869,1762 902,1761 935,1760 967,1759 1000,1759 1033,1759 1065,1758 1098,1759 1131,1759 1164,1760"/>
+                <TextEquiv>
+                    <Unicode>Neunundzwanzigste Auflage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="1090,1947 1161,1936 1181,1944 1218,1925 1239,1934 1256,1928 1278,1938 1319,1931 1345,1939 1346,1879 1324,1890 1306,1879 1237,1888 1165,1867 1135,1871 1114,1887 1091,1882"/>
+                <Baseline points="1098,1919 1124,1919 1151,1919 1177,1919 1204,1920 1230,1920 1257,1921 1283,1922 1310,1922 1337,1923"/>
+                <TextEquiv>
+                    <Unicode>HISTORISCHE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:7;}">
+                <Coords points="1008,1991 1033,2002 1153,1987 1341,2000 1369,1988 1418,2002 1419,1944 1373,1953 1331,1938 1276,1956 1210,1931 1158,1950 1133,1939 1066,1950 1009,1928"/>
+                <Baseline points="1016,1982 1042,1982 1068,1982 1094,1982 1121,1982 1147,1983 1173,1984 1199,1984 1226,1985 1252,1985 1278,1986 1304,1986 1331,1986 1357,1986 1383,1986 1410,1985"/>
+                <TextEquiv>
+                    <Unicode>ONDERWIJSCOLLECTIE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="647,2190 702,2204 737,2186 802,2202 852,2179 875,2191 901,2177 944,2191 964,2178 1021,2180 1037,2176 1035,2116 978,2104 827,2131 717,2091 691,2108 643,2089"/>
+                <Baseline points="654,2181 679,2180 704,2179 729,2178 754,2177 779,2176 804,2175 829,2174 854,2173 879,2172 904,2171 929,2171 954,2170 979,2170 1004,2170 1030,2170"/>
+                <TextEquiv>
+                    <Unicode>Köln, 1871.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="245,2281 1432,2279 1458,2217 1099,2192 892,2232 244,2236"/>
+                <Baseline points="252,2281 315,2279 378,2277 441,2275 504,2274 567,2272 630,2271 693,2270 756,2269 819,2268 883,2267 946,2266 1009,2264 1072,2263 1135,2262 1198,2260 1261,2259 1324,2257 1387,2255 1451,2252"/>
+                <TextEquiv>
+                    <Unicode>Verlag der M. Du Mont=Schauberg'schen Buchhandlung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="500,2392 752,2371 857,2403 891,2383 1045,2401 1157,2372 1205,2394 1203,2334 1120,2307 1087,2331 1038,2307 499,2335"/>
+                <Baseline points="508,2371 542,2371 576,2370 611,2370 645,2369 680,2368 714,2367 748,2367 783,2365 817,2365 852,2363 886,2363 920,2361 955,2360 989,2359 1024,2359 1058,2358 1092,2357 1127,2357 1161,2356 1196,2356"/>
+                <TextEquiv>
+                    <Unicode>Druck von M. Du Mont=Schauberg in Köln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kölner Handfibel.&#xD;
+Erſte Abtheilung.&#xD;
+Herausgegeben&#xD;
+vom&#xD;
+Lehrervereine zu Köln.&#xD;
+Neunundzwanzigste Auflage.&#xD;
+HISTORISCHE&#xD;
+ONDERWIJSCOLLECTIE&#xD;
+Köln, 1871.&#xD;
+Verlag der M. Du Mont=Schauberg'schen Buchhandlung.&#xD;
+Druck von M. Du Mont=Schauberg in Köln.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1450,1769 1450,1921 1470,1921 1470,1769"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:55.475+01:00</Created>
+        <LastChange>2020-03-26T13:59:19.943+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000033.png" imageWidth="1512" imageHeight="2634">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585227560010" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="81,137 81,2495 1362,2495 1362,137"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="594,204 637,204 678,235 712,236 753,215 770,218 817,189 841,181 857,187 856,154 825,163 791,140 763,140 712,120 680,132 650,123 639,129 618,112 593,114"/>
+                <Baseline points="602,172 629,178 656,182 684,183 711,183 739,181 766,179 794,177 821,176 849,176"/>
+                <TextEquiv>
+                    <Unicode>— 29 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="134,334 1341,338 1329,274 1049,245 602,283 537,244 134,260"/>
+                <Baseline points="142,321 201,321 261,320 320,320 380,320 439,320 499,320 558,320 618,320 677,320 737,320 797,320 856,321 916,321 975,321 1035,322 1094,322 1154,323 1213,323 1273,323 1333,324"/>
+                <TextEquiv>
+                    <Unicode>Jagd, Magd, Mägde; wagt, ſchweigt, ſchmiegt, fliegt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="73,407 1348,410 1309,337 73,325"/>
+                <Baseline points="81,389 147,389 213,389 279,389 346,390 412,390 478,390 544,390 611,390 677,390 743,390 809,390 876,390 942,391 1008,391 1074,392 1141,393 1207,394 1273,395 1340,397"/>
+                <TextEquiv>
+                    <Unicode>ſchlägt, ſaugt, ſägt, ſägtet, ſägtest; Pacht, Licht, Hecht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="83,478 1323,492 1354,413 83,415"/>
+                <Baseline points="91,459 153,459 216,459 279,460 341,460 404,460 467,460 529,460 592,460 655,460 718,460 780,460 843,461 906,461 968,462 1031,462 1094,463 1156,465 1219,466 1282,467 1345,469"/>
+                <TextEquiv>
+                    <Unicode>Docht, Nacht, Nächte, Tochter, Töchter; leicht, recht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="87,548 880,569 1027,555 1028,501 961,469 727,495 88,473"/>
+                <Baseline points="96,532 142,532 188,532 234,532 280,532 327,532 373,532 419,532 465,532 511,532 558,532 604,532 650,532 696,533 742,533 789,533 835,533 881,533 927,534 973,534 1020,534"/>
+                <TextEquiv>
+                    <Unicode>ſchlecht; kocht, keucht, ſicht, wacht, haucht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="658,661 668,662 682,674 722,649 746,657 755,667 775,666 779,571 750,573 733,563 709,575 662,567"/>
+                <Baseline points="667,640 692,641 718,643 743,644 769,642"/>
+                <TextEquiv>
+                    <Unicode>87.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="138,746 1297,757 1355,740 1356,690 139,667"/>
+                <Baseline points="146,730 206,730 266,730 326,730 386,730 446,730 506,731 566,731 626,731 686,732 747,732 807,733 867,733 927,734 987,734 1047,734 1107,735 1167,735 1227,735 1287,735 1348,735"/>
+                <TextEquiv>
+                    <Unicode>Am Tage ſcheint die Sonne. Sie macht, daß es bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="83,806 1360,820 1322,745 83,757"/>
+                <Baseline points="91,802 154,801 217,801 280,800 343,800 406,800 469,800 532,800 595,800 658,801 721,801 784,802 847,802 910,803 973,803 1036,804 1099,804 1162,804 1225,804 1288,804 1351,803"/>
+                <TextEquiv>
+                    <Unicode>uns hell ist. Dann können die Menſchen gut ihre Arbeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="83,891 1172,906 1358,893 1359,820 221,845 83,806"/>
+                <Baseline points="91,872 154,871 217,871 280,871 343,871 406,871 469,871 532,871 595,871 658,871 721,872 784,872 847,873 910,873 973,874 1036,874 1099,875 1162,875 1225,876 1288,876 1351,877"/>
+                <TextEquiv>
+                    <Unicode>thun. Aber der Abend kommt. Es wird dunkel, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="81,951 1307,965 1362,946 1363,894 81,901"/>
+                <Baseline points="89,943 152,943 215,942 278,942 342,943 405,943 468,943 531,943 595,943 658,944 721,944 784,944 848,945 911,945 974,945 1037,945 1101,946 1164,946 1227,946 1290,946 1354,946"/>
+                <TextEquiv>
+                    <Unicode>man kann nicht gut mehr ſehen. Dann zündet man ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="82,1027 1359,1025 1359,987 1252,957 82,975"/>
+                <Baseline points="90,1014 153,1014 216,1014 279,1014 342,1014 405,1014 468,1014 531,1014 594,1014 657,1014 721,1014 784,1014 847,1015 910,1015 973,1015 1036,1016 1099,1016 1162,1017 1225,1017 1288,1018 1352,1019"/>
+                <TextEquiv>
+                    <Unicode>Licht an. Der Vater, die Mutter und die Kinder ſetzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="85,1103 1255,1108 1356,1096 1356,1034 85,1038"/>
+                <Baseline points="93,1086 155,1086 218,1086 281,1086 344,1085 406,1085 469,1085 532,1085 595,1085 657,1085 720,1085 783,1085 846,1085 908,1085 971,1086 1034,1086 1097,1086 1159,1087 1222,1087 1285,1088 1348,1089"/>
+                <TextEquiv>
+                    <Unicode>ſich um das Licht herum. — Nach dem Abend kommt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="82,1170 1332,1185 1356,1099 1066,1137 1004,1094 82,1105"/>
+                <Baseline points="89,1156 151,1156 214,1156 277,1156 340,1156 403,1156 466,1156 529,1156 592,1156 655,1156 718,1156 780,1156 843,1156 906,1157 969,1157 1032,1157 1095,1157 1158,1158 1221,1158 1284,1158 1347,1159"/>
+                <TextEquiv>
+                    <Unicode>die Nacht. Dann legt man sich zu Bette und ſchläft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="83,1228 1357,1251 1357,1185 1142,1167 979,1204 731,1165 83,1181"/>
+                <Baseline points="91,1227 153,1227 216,1227 279,1226 342,1226 405,1226 468,1226 531,1227 594,1227 657,1227 720,1227 782,1227 845,1228 908,1228 971,1228 1034,1229 1097,1229 1160,1229 1223,1230 1286,1230 1349,1230"/>
+                <TextEquiv>
+                    <Unicode>Ein Kranker kann oft nicht ſchlafen. Er hat große</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="89,1321 1313,1315 1364,1257 88,1242"/>
+                <Baseline points="96,1296 159,1297 222,1297 285,1297 348,1297 411,1298 474,1298 537,1298 600,1298 663,1297 726,1297 789,1297 852,1297 915,1297 978,1297 1041,1296 1104,1296 1167,1296 1230,1296 1293,1296 1356,1296"/>
+                <TextEquiv>
+                    <Unicode>Schmerzen. Danke Gott, daß es dir wohl geht! — Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="89,1372 1360,1389 1351,1303 89,1321"/>
+                <Baseline points="98,1368 160,1368 223,1368 286,1369 348,1369 411,1369 474,1369 536,1369 599,1368 662,1368 725,1368 787,1368 850,1368 913,1368 975,1368 1038,1368 1101,1368 1163,1369 1226,1369 1289,1370 1352,1371"/>
+                <TextEquiv>
+                    <Unicode>Schreiner hobelt und ſägt. Der Schloſſer hämmert und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="89,1462 1346,1455 1356,1387 90,1372"/>
+                <Baseline points="97,1439 159,1439 222,1438 284,1438 347,1438 409,1438 472,1438 534,1438 597,1438 659,1438 722,1438 784,1438 847,1438 909,1439 972,1439 1034,1439 1097,1439 1159,1440 1222,1440 1284,1440 1347,1441"/>
+                <TextEquiv>
+                    <Unicode>feilt. Der Schneider mißt, ſchneidet und näht. Was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="87,1540 1294,1535 1354,1518 1354,1466 87,1473"/>
+                <Baseline points="94,1509 156,1509 219,1509 281,1509 344,1509 407,1509 469,1509 532,1509 595,1509 657,1509 720,1509 783,1509 845,1509 908,1509 971,1509 1033,1509 1096,1510 1159,1510 1221,1510 1284,1511 1347,1512"/>
+                <TextEquiv>
+                    <Unicode>thut der Bauer? Was macht der Schuſter? Der Maler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="91,1600 1335,1603 1365,1535 91,1537"/>
+                <Baseline points="99,1581 165,1581 231,1581 297,1580 364,1580 430,1580 496,1580 562,1580 629,1580 695,1580 761,1580 827,1580 894,1580 960,1580 1026,1581 1092,1581 1159,1581 1225,1582 1291,1583 1358,1583"/>
+                <TextEquiv>
+                    <Unicode>malt Bilder. Der Tüncher weißt die Wände. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="87,1662 1247,1681 1364,1653 1365,1602 88,1600"/>
+                <Baseline points="96,1652 159,1651 222,1651 285,1650 348,1650 411,1650 474,1650 537,1651 600,1651 663,1652 726,1652 789,1653 852,1653 915,1653 978,1654 1041,1654 1104,1654 1167,1653 1230,1653 1293,1652 1356,1651"/>
+                <TextEquiv>
+                    <Unicode>Maurer führt Mauern auf. Wer deckt das Dach? Wer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="94,1741 124,1735 167,1757 291,1728 439,1744 473,1726 527,1726 527,1672 397,1664 342,1685 323,1666 274,1678 237,1664 190,1687 164,1670 93,1673"/>
+                <Baseline points="101,1727 127,1726 153,1725 179,1725 205,1724 231,1724 258,1723 284,1723 310,1723 336,1723 362,1723 389,1723 415,1722 441,1722 467,1722 493,1722 520,1722"/>
+                <TextEquiv>
+                    <Unicode>setzt Scheiben ein?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="662,1835 688,1837 701,1848 724,1828 744,1842 749,1837 761,1843 790,1842 795,1736 772,1737 761,1747 737,1738 718,1745 704,1734 689,1735 667,1722"/>
+                <Baseline points="670,1819 698,1821 726,1822 754,1823 782,1825"/>
+                <TextEquiv>
+                    <Unicode>88.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="137,1911 223,1941 1357,1921 1357,1856 1229,1837 993,1867 137,1839"/>
+                <Baseline points="145,1909 196,1910 247,1910 299,1911 350,1911 402,1911 453,1911 504,1911 556,1911 607,1911 659,1911 710,1911 761,1911 813,1911 864,1911 916,1911 967,1912 1018,1912 1070,1913 1121,1915 1349,1926"/>
+                <TextEquiv>
+                    <Unicode>Gips, Mops, Möpse, Schöps, Schöpſe; Napf, Näpfe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="81,1993 1347,1999 1347,1944 1275,1928 81,1917"/>
+                <Baseline points="89,1989 129,1988 169,1987 210,1986 250,1986 291,1985 331,1984 372,1984 412,1983 453,1982 493,1982 533,1982 574,1982 614,1981 655,1981 695,1981 736,1982 776,1982 817,1982 857,1983 1339,1991"/>
+                <TextEquiv>
+                    <Unicode>Zopf, Zöpfe, Kopf, Köpfe; hüpfen, ſchnupfen, rupfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:24;}">
+                <Coords points="86,2055 1355,2071 1355,2006 1295,1995 86,2014"/>
+                <Baseline points="93,2053 132,2052 172,2052 211,2052 251,2051 290,2051 330,2051 369,2051 409,2051 448,2051 488,2051 527,2051 567,2051 606,2051 646,2051 685,2052 725,2052 764,2052 804,2052 843,2052 1347,2064"/>
+                <TextEquiv>
+                    <Unicode>rupfet, rupfeſt; hübſch, hübſcher, hübſches; Kutſche;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:25;}">
+                <Coords points="87,2125 1333,2145 1357,2080 88,2072"/>
+                <Baseline points="95,2122 137,2122 179,2122 221,2123 264,2123 306,2123 348,2122 391,2122 433,2122 475,2122 518,2122 560,2122 602,2121 644,2121 687,2121 729,2121 771,2121 814,2121 856,2122 898,2122 1349,2136"/>
+                <TextEquiv>
+                    <Unicode>rutſchen, rutſchet, rutſcheſt; Wachs, Flachs, Dachs,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:26;}">
+                <Coords points="90,2205 1352,2216 1353,2146 90,2146"/>
+                <Baseline points="97,2197 139,2196 182,2195 225,2194 268,2193 311,2193 354,2192 396,2192 439,2191 482,2191 525,2191 568,2191 611,2191 654,2191 696,2191 739,2191 782,2191 825,2191 868,2192 911,2192 1344,2204"/>
+                <TextEquiv>
+                    <Unicode>Fuchs, Füchſe, Büchſe, Büchſen; sechſ; wichſen, wichſet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:27;}">
+                <Coords points="149,2283 1347,2293 1347,2216 1304,2206 149,2216"/>
+                <Baseline points="156,2266 206,2266 256,2266 306,2265 356,2265 406,2265 456,2265 506,2264 556,2264 606,2264 656,2264 706,2264 756,2264 806,2264 856,2264 906,2264 956,2264 1006,2263 1056,2263 1106,2263 1339,2277"/>
+                <TextEquiv>
+                    <Unicode>jetzt, schätzt, reizt, ſitzt, ſetzt, heizt, ſchwitzt, ſchnitzt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:28;}">
+                <Coords points="88,2349 1240,2362 1360,2353 1361,2299 88,2290"/>
+                <Baseline points="96,2335 147,2335 198,2334 250,2334 301,2334 353,2333 404,2333 456,2333 507,2333 559,2333 610,2333 661,2333 713,2333 764,2334 816,2334 867,2334 919,2334 970,2334 1022,2334 1073,2334 1352,2346"/>
+                <TextEquiv>
+                    <Unicode>putzt, putzte, putztet, putzteſt, ſchützt, ſchützte, ſchützten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:29;}">
+                <Coords points="102,2425 1159,2403 1365,2436 1321,2349 102,2354"/>
+                <Baseline points="109,2404 159,2404 210,2404 261,2404 312,2404 363,2403 413,2403 464,2403 515,2403 566,2403 617,2403 667,2402 718,2402 769,2402 820,2403 871,2403 921,2403 972,2403 1023,2404 1074,2404 1356,2410"/>
+                <TextEquiv>
+                    <Unicode>ſchütztet, ſchützteſt; weckt, lockt, duckt, hackt, ſchmeckt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:30;}">
+                <Coords points="97,2494 1370,2502 1318,2411 97,2424"/>
+                <Baseline points="105,2476 167,2476 230,2476 293,2476 356,2476 419,2476 482,2476 544,2476 607,2476 670,2476 733,2476 796,2476 859,2476 922,2476 984,2476 1047,2476 1110,2477 1173,2477 1236,2477 1299,2477 1362,2478"/>
+                <TextEquiv>
+                    <Unicode>ſchmückt, ſchmückte, ſchmückten, ſchmücktet, ſchmückteſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>— 29 —&#xD;
+Jagd, Magd, Mägde; wagt, ſchweigt, ſchmiegt, fliegt,&#xD;
+ſchlägt, ſaugt, ſägt, ſägtet, ſägtest; Pacht, Licht, Hecht,&#xD;
+Docht, Nacht, Nächte, Tochter, Töchter; leicht, recht,&#xD;
+ſchlecht; kocht, keucht, ſicht, wacht, haucht.&#xD;
+87.&#xD;
+Am Tage ſcheint die Sonne. Sie macht, daß es bei&#xD;
+uns hell ist. Dann können die Menſchen gut ihre Arbeit&#xD;
+thun. Aber der Abend kommt. Es wird dunkel, und&#xD;
+man kann nicht gut mehr ſehen. Dann zündet man ein&#xD;
+Licht an. Der Vater, die Mutter und die Kinder ſetzen&#xD;
+ſich um das Licht herum. — Nach dem Abend kommt&#xD;
+die Nacht. Dann legt man sich zu Bette und ſchläft.&#xD;
+Ein Kranker kann oft nicht ſchlafen. Er hat große&#xD;
+Schmerzen. Danke Gott, daß es dir wohl geht! — Der&#xD;
+Schreiner hobelt und ſägt. Der Schloſſer hämmert und&#xD;
+feilt. Der Schneider mißt, ſchneidet und näht. Was&#xD;
+thut der Bauer? Was macht der Schuſter? Der Maler&#xD;
+malt Bilder. Der Tüncher weißt die Wände. Der&#xD;
+Maurer führt Mauern auf. Wer deckt das Dach? Wer&#xD;
+setzt Scheiben ein?&#xD;
+88.&#xD;
+Gips, Mops, Möpse, Schöps, Schöpſe; Napf, Näpfe,&#xD;
+Zopf, Zöpfe, Kopf, Köpfe; hüpfen, ſchnupfen, rupfen,&#xD;
+rupfet, rupfeſt; hübſch, hübſcher, hübſches; Kutſche;&#xD;
+rutſchen, rutſchet, rutſcheſt; Wachs, Flachs, Dachs,&#xD;
+Fuchs, Füchſe, Büchſe, Büchſen; sechſ; wichſen, wichſet.&#xD;
+jetzt, schätzt, reizt, ſitzt, ſetzt, heizt, ſchwitzt, ſchnitzt,&#xD;
+putzt, putzte, putztet, putzteſt, ſchützt, ſchützte, ſchützten,&#xD;
+ſchütztet, ſchützteſt; weckt, lockt, duckt, hackt, ſchmeckt,&#xD;
+ſchmückt, ſchmückte, ſchmückten, ſchmücktet, ſchmückteſt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

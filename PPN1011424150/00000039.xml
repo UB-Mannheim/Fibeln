@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:56.523+01:00</Created>
+        <LastChange>2020-03-26T14:42:03.156+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000039.png" imageWidth="1548" imageHeight="2632">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585230123233" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="96,138 96,2481 1393,2481 1393,138"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="616,190 627,186 644,195 664,189 688,170 705,187 708,183 724,191 749,181 765,186 763,98 744,98 723,116 710,110 699,118 690,113 674,128 665,126 652,136 615,127"/>
+                <Baseline points="623,170 649,169 676,168 703,168 730,168 757,167"/>
+                <TextEquiv>
+                    <Unicode>35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="87,313 1350,298 1348,225 86,244"/>
+                <Baseline points="96,311 158,310 220,308 282,307 345,306 407,305 469,303 532,302 594,301 656,300 719,299 781,298 843,296 905,295 968,294 1030,293 1092,292 1155,290 1217,289 1279,288 1342,287"/>
+                <TextEquiv>
+                    <Unicode>kohl, Hülſenfrucht, Mitternacht, Morgenſtern, Sonnen=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="93,384 1348,365 1317,290 607,305 553,339 92,318"/>
+                <Baseline points="101,367 166,366 231,366 296,365 361,364 427,363 492,362 557,361 622,359 687,358 753,356 818,355 883,354 948,352 1013,351 1079,350 1144,348 1209,347 1274,347 1340,346"/>
+                <TextEquiv>
+                    <Unicode>ſchein, Glockenklang, Hörnerſchall. — Buchbinder, Dach=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="99,440 1338,427 1351,365 98,382"/>
+                <Baseline points="106,428 167,427 229,425 291,424 353,423 415,422 477,421 539,419 601,418 663,417 725,416 786,414 848,413 910,412 972,411 1034,410 1096,409 1158,408 1220,407 1282,407 1344,406"/>
+                <TextEquiv>
+                    <Unicode>decker, Hutmacher, Poſtbote, Rothgerber, Großvater,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="96,500 1360,480 1316,412 1170,446 1111,412 95,437"/>
+                <Baseline points="104,486 166,484 228,483 291,481 353,480 415,479 478,478 540,477 602,477 665,476 727,475 789,474 852,473 914,472 976,471 1039,470 1101,469 1163,467 1226,466 1288,464 1351,462"/>
+                <TextEquiv>
+                    <Unicode>Kinnbacken, Ohrmuschel, Augapfel, Fußſohle, Raub=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="92,554 1356,541 1355,493 1253,470 91,506"/>
+                <Baseline points="100,546 162,544 224,542 287,541 349,539 412,538 474,537 536,535 599,534 661,533 724,532 786,531 848,530 911,529 973,528 1036,527 1098,526 1160,524 1223,523 1285,522 1348,521"/>
+                <TextEquiv>
+                    <Unicode>vogel, Maiblume; Blumengarten, Schlüſſelblume, Knaben=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:6;}">
+                <Coords points="102,617 265,634 415,599 893,605 892,570 772,535 101,557"/>
+                <Baseline points="109,603 147,603 186,602 225,601 264,600 303,599 341,598 380,597 419,596 458,596 497,595 535,594 574,593 613,593 652,592 691,592 729,591 768,591 807,591 846,591 1351,595"/>
+                <TextEquiv>
+                    <Unicode>ſchule, Kleiderbürſte, Kaffeemühle, Federmeſſer, Abend=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:7;}">
+                <Coords points="111,686 292,651 371,673 902,657 901,612 819,595 694,634 586,597 537,619 345,605 267,634 110,615"/>
+                <Baseline points="108,670 146,669 185,668 224,667 263,666 302,665 340,664 379,664 418,663 457,662 496,662 534,661 573,660 612,660 651,659 690,658 728,658 767,657 806,657 845,656 1359,646"/>
+                <TextEquiv>
+                    <Unicode>ſonne. — Maulbeerbaum, Landwehrmann, Obſtbaum=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:8;}">
+                <Coords points="97,750 1350,717 1327,650 96,675"/>
+                <Baseline points="105,724 166,722 228,720 290,718 352,716 414,715 475,713 537,712 599,711 661,710 723,708 784,707 846,706 908,705 970,704 1032,703 1093,702 1155,700 1217,699 1279,697 1341,695"/>
+                <TextEquiv>
+                    <Unicode>zucht, Handwerksmann, Sonntagskleid, Branntwein=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:9;}">
+                <Coords points="99,794 1361,767 1360,712 1287,706 99,750"/>
+                <Baseline points="107,782 169,780 231,778 293,777 356,775 418,773 480,772 543,771 605,770 667,769 730,768 792,767 854,766 916,765 979,765 1041,764 1103,763 1166,762 1228,762 1290,761 1353,760"/>
+                <TextEquiv>
+                    <Unicode>glas, Wallfischfang, Schauſpielhaus; Handſchuhmacher,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:10;}">
+                <Coords points="100,863 355,837 415,860 540,825 625,851 949,838 948,787 833,773 99,794"/>
+                <Baseline points="107,837 148,837 190,837 232,836 273,836 315,835 357,834 398,833 440,832 482,831 524,830 565,829 607,828 649,827 690,827 732,826 774,826 815,826 857,826 899,827 941,828"/>
+                <TextEquiv>
+                    <Unicode>Schreinerhandwerk, Schloſſerwerkzeug.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:11;}">
+                <Coords points="676,920 691,925 715,913 792,908 793,833 785,832 774,839 752,832 747,837 722,833 716,839 710,836 697,841 677,837"/>
+                <Baseline points="684,900 709,900 734,899 759,900 784,902"/>
+                <TextEquiv>
+                    <Unicode>101.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:12;}">
+                <Coords points="159,987 1300,975 1368,962 1367,881 158,943"/>
+                <Baseline points="167,981 226,979 286,977 345,976 405,974 465,973 524,972 584,971 644,969 703,968 763,967 823,966 882,965 942,964 1002,963 1061,962 1121,961 1181,959 1240,958 1300,956 1360,955"/>
+                <TextEquiv>
+                    <Unicode>grasgrün, ſchneeweiß, hellblau, roſenroth, ſchwefel=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:13;}">
+                <Coords points="116,1058 1363,1041 1362,980 115,1002"/>
+                <Baseline points="123,1039 184,1037 246,1036 307,1035 369,1033 431,1032 492,1031 554,1030 615,1028 677,1027 739,1026 800,1025 862,1024 923,1023 985,1022 1047,1021 1108,1020 1170,1019 1231,1018 1293,1018 1355,1016"/>
+                <TextEquiv>
+                    <Unicode>gelb, braunroth, milchweiß, rabenſchwarz, dunkelroth,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:14;}">
+                <Coords points="106,1102 1362,1091 1317,1024 105,1054"/>
+                <Baseline points="113,1099 175,1097 237,1095 299,1094 361,1092 423,1091 485,1090 547,1088 609,1087 671,1086 733,1085 795,1084 857,1083 919,1082 981,1081 1043,1080 1105,1079 1167,1077 1229,1076 1291,1075 1353,1074"/>
+                <TextEquiv>
+                    <Unicode>aſchgrau, feuerroth, ſchieferblau; eirund, wagerecht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:15;}">
+                <Coords points="112,1160 1351,1151 1357,1094 111,1109"/>
+                <Baseline points="120,1155 181,1154 243,1153 304,1151 366,1150 427,1149 489,1148 550,1147 612,1146 673,1145 735,1144 796,1142 858,1141 919,1140 981,1139 1042,1138 1104,1136 1165,1135 1227,1134 1288,1132 1350,1131"/>
+                <TextEquiv>
+                    <Unicode>viereckig, kugelrund; haushoch; ſteinhart, eiſenfeſt, baum=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:16;}">
+                <Coords points="120,1229 1363,1207 1328,1141 119,1165"/>
+                <Baseline points="128,1214 189,1213 250,1211 312,1210 373,1209 435,1207 496,1206 557,1205 619,1204 680,1203 742,1201 803,1200 864,1199 926,1198 987,1197 1049,1196 1110,1194 1171,1193 1233,1192 1294,1190 1356,1189"/>
+                <TextEquiv>
+                    <Unicode>ſtark; blitzsſhnell; kummervoll, muthlos; ſchlaflos, muth=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:17;}">
+                <Coords points="111,1286 1250,1276 1287,1267 1286,1210 110,1234"/>
+                <Baseline points="119,1273 177,1271 235,1270 293,1269 351,1268 409,1267 467,1265 525,1265 583,1263 641,1262 699,1261 757,1260 815,1259 873,1258 931,1257 989,1256 1047,1255 1105,1253 1163,1252 1221,1251 1279,1249"/>
+                <TextEquiv>
+                    <Unicode>voll, lieblos, athemlos, liebevoll, liebreich, zuckersüß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:18;}">
+                <Coords points="162,1344 1365,1321 1363,1266 1315,1252 161,1306"/>
+                <Baseline points="169,1330 228,1330 287,1328 347,1327 406,1326 466,1325 525,1324 584,1323 644,1322 703,1321 763,1319 822,1318 881,1317 941,1316 1000,1314 1060,1313 1119,1312 1178,1310 1238,1309 1297,1308 1357,1307"/>
+                <TextEquiv>
+                    <Unicode>ausgehen, nachlaufen, anſehen, abtreten, hinwerfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:19;}">
+                <Coords points="121,1409 1105,1398 1310,1383 1370,1365 1370,1322 120,1336"/>
+                <Baseline points="129,1389 190,1388 252,1387 313,1386 375,1385 437,1384 498,1383 560,1382 622,1381 683,1380 745,1379 807,1377 868,1376 930,1375 992,1373 1053,1372 1115,1371 1177,1369 1238,1368 1300,1367 1362,1366"/>
+                <TextEquiv>
+                    <Unicode>herkommen, zuschlagen, wegſpringen, durchſtoßen, ein=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:20;}">
+                <Coords points="122,1458 1051,1466 1368,1440 1367,1365 121,1409"/>
+                <Baseline points="129,1447 190,1446 252,1445 313,1444 375,1443 437,1442 498,1441 560,1440 621,1439 683,1438 745,1437 806,1436 868,1434 929,1433 991,1432 1053,1431 1114,1430 1176,1429 1237,1427 1299,1426 1361,1425"/>
+                <TextEquiv>
+                    <Unicode>machen, umfallen, losdrücken, heimfliegen, darreichen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:21;}">
+                <Coords points="122,1516 1356,1499 1366,1439 1038,1475 913,1437 121,1459"/>
+                <Baseline points="130,1506 191,1505 252,1504 314,1503 375,1502 437,1501 498,1500 560,1499 621,1497 683,1496 744,1495 805,1494 867,1493 928,1492 990,1491 1051,1490 1113,1488 1174,1487 1236,1486 1297,1484 1359,1483"/>
+                <TextEquiv>
+                    <Unicode>aufſtehen, niederſetzen, voranſchreiten, untertauchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:22;}">
+                <Coords points="124,1571 1369,1561 1368,1501 123,1530"/>
+                <Baseline points="132,1564 193,1563 254,1562 316,1561 377,1560 439,1559 500,1558 562,1557 623,1556 685,1555 746,1554 807,1553 869,1551 930,1550 992,1549 1053,1548 1115,1547 1176,1546 1238,1545 1299,1543 1361,1542"/>
+                <TextEquiv>
+                    <Unicode>niederdrücken, übertragen, wiederbringen, herumlaufen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:23;}">
+                <Coords points="124,1638 718,1636 764,1601 1365,1635 1378,1558 123,1571"/>
+                <Baseline points="132,1622 197,1621 262,1620 327,1619 392,1618 458,1617 523,1616 588,1615 653,1614 718,1613 784,1612 849,1611 914,1609 979,1608 1044,1607 1110,1606 1175,1605 1240,1604 1305,1603 1371,1602"/>
+                <TextEquiv>
+                    <Unicode>hinterbringen, überſenden, wiederholen, unterhalten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:24;}">
+                <Coords points="117,1684 1214,1696 1213,1639 1124,1613 116,1646"/>
+                <Baseline points="125,1683 179,1682 233,1681 287,1680 341,1679 395,1678 449,1677 503,1676 557,1675 611,1674 665,1673 719,1672 773,1671 827,1670 881,1670 935,1669 989,1668 1043,1667 1097,1666 1151,1665 1206,1664"/>
+                <TextEquiv>
+                    <Unicode>überreichen, zurückweichen, einnehmen, ausgeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:25;}">
+                <Coords points="674,1755 689,1758 718,1750 736,1763 751,1749 764,1755 795,1751 806,1760 817,1757 817,1693 797,1687 782,1674 764,1672 742,1680 728,1670 716,1680 700,1680 683,1694 675,1694"/>
+                <Baseline points="683,1746 708,1745 733,1745 758,1746 783,1746 809,1746"/>
+                <TextEquiv>
+                    <Unicode>102.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:26;}">
+                <Coords points="178,1828 1311,1820 1387,1811 1387,1766 177,1770"/>
+                <Baseline points="186,1819 245,1819 305,1818 364,1817 424,1817 484,1816 543,1815 603,1814 663,1813 722,1812 782,1811 842,1810 901,1808 961,1807 1021,1806 1080,1805 1140,1804 1200,1802 1259,1801 1319,1800 1379,1799"/>
+                <TextEquiv>
+                    <Unicode>An unſerem Hauſe ist ein Garten. Darin sſehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:27;}">
+                <Coords points="128,1896 1320,1877 1387,1872 1386,1822 127,1848"/>
+                <Baseline points="135,1879 197,1878 259,1877 321,1876 383,1876 446,1874 508,1874 570,1872 632,1871 694,1870 757,1869 819,1868 881,1867 943,1866 1005,1864 1068,1863 1130,1862 1192,1861 1254,1859 1316,1858 1379,1857"/>
+                <TextEquiv>
+                    <Unicode>allerlei Bäume. Es ſind meiſtens Obſtbäume. Wer kann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:28;}">
+                <Coords points="127,1962 1384,1922 1374,1867 126,1899"/>
+                <Baseline points="134,1938 196,1937 258,1936 320,1935 382,1934 444,1933 506,1932 569,1931 631,1929 693,1928 755,1927 817,1926 879,1925 941,1924 1004,1923 1066,1921 1128,1920 1190,1919 1252,1918 1314,1916 1377,1915"/>
+                <TextEquiv>
+                    <Unicode>mir Obſtbäume angeben? — Auf dem Kirſchbaume</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:29;}">
+                <Coords points="125,2012 1361,1990 1391,1930 124,1965"/>
+                <Baseline points="132,1995 194,1995 257,1994 319,1993 382,1993 445,1992 507,1991 570,1990 632,1989 695,1988 758,1987 820,1985 883,1984 945,1983 1008,1982 1071,1980 1133,1979 1196,1978 1258,1976 1321,1975 1384,1974"/>
+                <TextEquiv>
+                    <Unicode>wachſen Kirſchen. Der Apfelbaum trägt Aepfel. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:30;}">
+                <Coords points="119,2063 1364,2052 1382,1986 118,2016"/>
+                <Baseline points="127,2055 189,2053 251,2052 314,2052 376,2051 439,2050 501,2049 563,2048 626,2047 688,2046 751,2045 813,2044 875,2043 938,2042 1000,2040 1063,2039 1125,2038 1187,2037 1250,2035 1312,2034 1375,2032"/>
+                <TextEquiv>
+                    <Unicode>Pflaumenbaum ſchenkt uns Pflaumen. — Manche Früchte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:31;}">
+                <Coords points="136,2123 1392,2110 1391,2055 1281,2039 602,2050 494,2093 409,2055 135,2068"/>
+                <Baseline points="143,2113 205,2113 267,2112 329,2111 391,2110 453,2109 515,2108 577,2106 639,2105 701,2104 763,2103 825,2102 887,2100 949,2099 1011,2098 1073,2097 1135,2096 1197,2094 1259,2093 1321,2092 1384,2090"/>
+                <TextEquiv>
+                    <Unicode>ißt man gleich. Andere trocknet man und ſpeiſt ſie in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:32;}">
+                <Coords points="131,2177 1388,2158 1368,2098 130,2116"/>
+                <Baseline points="138,2172 200,2171 262,2170 324,2169 386,2168 448,2167 510,2166 572,2165 634,2164 696,2163 759,2162 821,2161 883,2160 945,2159 1007,2157 1069,2156 1131,2155 1193,2153 1255,2152 1317,2150 1380,2148"/>
+                <TextEquiv>
+                    <Unicode>den kalten Wintertagen. — Man findet auch Sträucher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:33;}">
+                <Coords points="133,2238 1385,2229 1366,2154 132,2184"/>
+                <Baseline points="141,2229 202,2228 264,2228 326,2227 388,2227 450,2226 511,2225 573,2224 635,2223 697,2222 759,2220 820,2219 882,2218 944,2217 1006,2215 1068,2214 1129,2213 1191,2211 1253,2210 1315,2209 1377,2207"/>
+                <TextEquiv>
+                    <Unicode>im Garten. Da steht der Johannis= und der Stachel=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:34;}">
+                <Coords points="130,2300 1397,2272 1396,2227 1205,2213 129,2236"/>
+                <Baseline points="138,2288 200,2288 263,2287 325,2286 388,2285 450,2285 513,2284 575,2283 638,2281 700,2280 763,2279 826,2278 888,2277 951,2275 1013,2274 1076,2273 1138,2271 1201,2270 1263,2269 1326,2267 1389,2266"/>
+                <TextEquiv>
+                    <Unicode>beerſtrauch. An dem Johannisbeerſtrauche hangen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:35;}">
+                <Coords points="137,2364 1256,2347 1391,2328 1390,2284 135,2302"/>
+                <Baseline points="144,2350 209,2349 274,2348 339,2346 404,2345 470,2344 535,2342 600,2341 665,2340 730,2338 796,2337 861,2336 926,2334 991,2333 1056,2332 1122,2330 1187,2328 1252,2327 1317,2325 1383,2323"/>
+                <TextEquiv>
+                    <Unicode>Johannisbeeren; an dem Stachelbeerſtrauche findet man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:36;}">
+                <Coords points="137,2413 1401,2409 1366,2336 137,2365"/>
+                <Baseline points="145,2407 207,2406 269,2404 332,2403 394,2402 457,2401 519,2400 581,2399 644,2398 706,2397 769,2396 831,2395 893,2394 956,2393 1018,2392 1081,2390 1143,2389 1205,2388 1268,2386 1330,2385 1393,2383"/>
+                <TextEquiv>
+                    <Unicode>Stachelbeeren. An der Mauer wächst der Weinstock und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:37;}">
+                <Coords points="140,2496 308,2465 474,2492 608,2464 914,2478 899,2406 139,2413"/>
+                <Baseline points="148,2467 185,2466 223,2465 261,2465 299,2464 337,2464 375,2463 412,2463 450,2462 488,2461 526,2461 564,2460 602,2460 640,2459 677,2458 715,2457 753,2457 791,2456 829,2455 867,2454 905,2452"/>
+                <TextEquiv>
+                    <Unicode>in der Ecke steht eine Haſelſtaude.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>35&#xD;
+kohl, Hülſenfrucht, Mitternacht, Morgenſtern, Sonnen=&#xD;
+ſchein, Glockenklang, Hörnerſchall. — Buchbinder, Dach=&#xD;
+decker, Hutmacher, Poſtbote, Rothgerber, Großvater,&#xD;
+Kinnbacken, Ohrmuschel, Augapfel, Fußſohle, Raub=&#xD;
+vogel, Maiblume; Blumengarten, Schlüſſelblume, Knaben=&#xD;
+ſchule, Kleiderbürſte, Kaffeemühle, Federmeſſer, Abend=&#xD;
+ſonne. — Maulbeerbaum, Landwehrmann, Obſtbaum=&#xD;
+zucht, Handwerksmann, Sonntagskleid, Branntwein=&#xD;
+glas, Wallfischfang, Schauſpielhaus; Handſchuhmacher,&#xD;
+Schreinerhandwerk, Schloſſerwerkzeug.&#xD;
+101.&#xD;
+grasgrün, ſchneeweiß, hellblau, roſenroth, ſchwefel=&#xD;
+gelb, braunroth, milchweiß, rabenſchwarz, dunkelroth,&#xD;
+aſchgrau, feuerroth, ſchieferblau; eirund, wagerecht,&#xD;
+viereckig, kugelrund; haushoch; ſteinhart, eiſenfeſt, baum=&#xD;
+ſtark; blitzsſhnell; kummervoll, muthlos; ſchlaflos, muth=&#xD;
+voll, lieblos, athemlos, liebevoll, liebreich, zuckersüß.&#xD;
+ausgehen, nachlaufen, anſehen, abtreten, hinwerfen,&#xD;
+herkommen, zuschlagen, wegſpringen, durchſtoßen, ein=&#xD;
+machen, umfallen, losdrücken, heimfliegen, darreichen,&#xD;
+aufſtehen, niederſetzen, voranſchreiten, untertauchen,&#xD;
+niederdrücken, übertragen, wiederbringen, herumlaufen,&#xD;
+hinterbringen, überſenden, wiederholen, unterhalten,&#xD;
+überreichen, zurückweichen, einnehmen, ausgeben.&#xD;
+102.&#xD;
+An unſerem Hauſe ist ein Garten. Darin sſehen&#xD;
+allerlei Bäume. Es ſind meiſtens Obſtbäume. Wer kann&#xD;
+mir Obſtbäume angeben? — Auf dem Kirſchbaume&#xD;
+wachſen Kirſchen. Der Apfelbaum trägt Aepfel. Der&#xD;
+Pflaumenbaum ſchenkt uns Pflaumen. — Manche Früchte&#xD;
+ißt man gleich. Andere trocknet man und ſpeiſt ſie in&#xD;
+den kalten Wintertagen. — Man findet auch Sträucher&#xD;
+im Garten. Da steht der Johannis= und der Stachel=&#xD;
+beerſtrauch. An dem Johannisbeerſtrauche hangen&#xD;
+Johannisbeeren; an dem Stachelbeerſtrauche findet man&#xD;
+Stachelbeeren. An der Mauer wächst der Weinstock und&#xD;
+in der Ecke steht eine Haſelſtaude.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

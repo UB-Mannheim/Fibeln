@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:54.746+01:00</Created>
+        <LastChange>2020-03-26T13:32:42.226+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000029.png" imageWidth="1556" imageHeight="2620">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585225962307" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1585225676139_3040"/>
+                <RegionRefIndexed index="1" regionRef="region_1585225688859_3049"/>
+                <RegionRefIndexed index="2" regionRef="region_1585225713059_3080"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1585225676139_3040" custom="readingOrder {index:0;}">
+            <Coords points="80,87 1515,87 1515,2552 80,2552"/>
+            <TextLine id="line_1585225684409_3043" custom="readingOrder {index:0;}">
+                <Coords points="704,180 774,198 785,192 800,198 836,193 856,211 875,209 875,150 849,147 790,110 745,132 731,147 704,137"/>
+                <Baseline points="712,207 812,207 867,207"/>
+                <TextEquiv>
+                    <Unicode>25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225686430_3046" custom="readingOrder {index:1;}">
+                <Coords points="712,327 739,330 774,358 789,348 805,354 814,348 827,354 849,348 849,255 827,260 809,249 795,260 782,260 766,246 712,265"/>
+                <Baseline points="720,333 820,333 841,333"/>
+                <TextEquiv>
+                    <Unicode>75.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225693199_3053" custom="readingOrder {index:2;}">
+                <Coords points="154,417 927,426 1122,388 1297,417 1351,403 1351,358 1002,315 533,376 402,333 154,364"/>
+                <Baseline points="162,418 262,418 462,418 562,418 662,418 862,418 962,418 1062,419 1262,420 1344,420"/>
+                <TextEquiv>
+                    <Unicode>Dieb, Diebe; Lied, Lieder; Bier, Kiel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225695836_3056" custom="readingOrder {index:3;}">
+                <Coords points="156,503 1412,459 1259,395 905,448 857,413 418,414 308,452 156,418"/>
+                <Baseline points="164,481 264,480 464,478 564,479 764,479 864,479 1064,478 1164,478 1364,483 1405,483"/>
+                <TextEquiv>
+                    <Unicode>Ziel, Wieſe, Biene, Hiebe, Schiefer, Flieder,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225697759_3059" custom="readingOrder {index:4;}">
+                <Coords points="151,552 878,570 1186,529 1326,559 1365,505 1277,468 1154,508 1090,473 913,510 760,476 151,504"/>
+                <Baseline points="159,555 259,555 459,555 559,555 659,555 859,555 959,554 1059,555 1259,556 1357,556"/>
+                <TextEquiv>
+                    <Unicode>Giebel, Kiefer, Zierde, Miene, Rieſe, Vieh;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225699949_3062" custom="readingOrder {index:5;}">
+                <Coords points="161,638 1415,624 1416,564 1314,551 618,546 547,588 163,558"/>
+                <Baseline points="169,617 269,617 469,618 569,619 769,618 869,618 1069,629 1169,631 1369,632 1407,633"/>
+                <TextEquiv>
+                    <Unicode>hier, tief, ſchief; gießen, lieben, dienen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225702349_3065" custom="readingOrder {index:6;}">
+                <Coords points="160,718 318,683 1434,693 1434,640 1332,611 965,652 160,638"/>
+                <Baseline points="169,690 269,690 469,689 569,689 769,689 869,689 1069,688 1169,688 1369,689 1427,689"/>
+                <TextEquiv>
+                    <Unicode>zieren, ſchieben, zielen, fließen, frieren, schließen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225704446_3068" custom="readingOrder {index:7;}">
+                <Coords points="149,780 1085,775 1157,737 1244,776 1327,756 1328,698 387,700 320,739 150,710"/>
+                <Baseline points="157,765 257,764 457,765 557,770 657,773 857,773 957,770 1057,763 1257,773 1319,774"/>
+                <TextEquiv>
+                    <Unicode>ziehen, zieh; fliehen, flieh; ſehen, ſieh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225705869_3071" custom="readingOrder {index:8;}">
+                <Coords points="737,828 769,836 784,832 803,848 817,849 828,838 840,838 852,825 867,824 867,768 846,768 841,773 817,757 797,757 785,765 776,758 737,760"/>
+                <Baseline points="745,840 845,840 859,840"/>
+                <TextEquiv>
+                    <Unicode>76.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225707989_3074" custom="readingOrder {index:9;}">
+                <Coords points="202,895 315,930 1420,895 1419,831 1297,817 202,857"/>
+                <Baseline points="210,898 310,898 510,898 610,899 810,899 910,899 1110,898 1210,897 1410,898 1412,898"/>
+                <TextEquiv>
+                    <Unicode>Thal, Thau, Theil, Thee, Thon, That, Thor, Theer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225710589_3077" custom="readingOrder {index:10;}">
+                <Coords points="171,985 1411,975 1429,901 171,917"/>
+                <Baseline points="179,969 279,968 479,967 579,967 779,968 879,969 1079,968 1179,969 1379,970 1420,970"/>
+                <TextEquiv>
+                    <Unicode>Thurm, Thier, Thür, Thaler, Thomas, Rath, Noth,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225717799_3084" custom="readingOrder {index:11;}">
+                <Coords points="164,1048 1043,1067 1162,1027 1455,1041 1456,998 1374,956 164,990"/>
+                <Baseline points="172,1039 272,1039 472,1040 572,1040 772,1040 872,1039 1072,1038 1172,1040 1372,1046 1448,1046"/>
+                <TextEquiv>
+                    <Unicode>Muth, Koth, Wuth, Loth, Ruthe, Pathe, Athem, Röthel;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225726049_3087" custom="readingOrder {index:12;}">
+                <Coords points="178,1126 1415,1116 1447,1039 178,1073"/>
+                <Baseline points="185,1116 285,1116 485,1115 585,1115 785,1115 885,1116 1085,1116 1185,1116 1385,1117 1438,1117"/>
+                <TextEquiv>
+                    <Unicode>roth, theuer; thun, theilen, thauen, rathen, wüthen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225728199_3090" custom="readingOrder {index:13;}">
+                <Coords points="174,1192 273,1209 452,1185 482,1206 574,1172 679,1209 736,1178 903,1178 903,1135 835,1112 735,1138 590,1124 561,1145 426,1114 347,1151 175,1123"/>
+                <Baseline points="182,1189 282,1189 382,1189 482,1189 582,1190 682,1193 782,1196 882,1199 895,1200"/>
+                <TextEquiv>
+                    <Unicode>miethen, athmen; Rhein, Rhede.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225729579_3093" custom="readingOrder {index:14;}">
+                <Coords points="729,1261 755,1258 766,1269 784,1266 793,1275 800,1272 825,1280 851,1274 857,1267 870,1271 870,1210 848,1200 844,1204 812,1184 769,1192 750,1186 729,1196"/>
+                <Baseline points="738,1266 838,1266 862,1266"/>
+                <TextEquiv>
+                    <Unicode>77.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225731669_3096" custom="readingOrder {index:15;}">
+                <Coords points="222,1349 1428,1336 1428,1266 221,1267"/>
+                <Baseline points="230,1329 330,1329 530,1329 630,1330 730,1330 930,1331 1030,1330 1130,1328 1330,1328 1420,1328"/>
+                <TextEquiv>
+                    <Unicode>Der Schmied ſchmiedet das Eiſen. Der Schäfer hütet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225734109_3099" custom="readingOrder {index:16;}">
+                <Coords points="172,1425 1090,1421 1432,1389 1432,1336 172,1349"/>
+                <Baseline points="180,1399 280,1399 480,1398 580,1397 780,1400 880,1400 1080,1399 1180,1399 1380,1398 1423,1398"/>
+                <TextEquiv>
+                    <Unicode>die Schafe. Der Bauer mähet den Weizen. Der Müller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225736849_3102" custom="readingOrder {index:17;}">
+                <Coords points="176,1477 1421,1480 1442,1415 177,1421"/>
+                <Baseline points="185,1471 285,1470 485,1468 585,1467 785,1465 885,1465 1085,1479 1185,1488 1385,1489 1433,1490"/>
+                <TextEquiv>
+                    <Unicode>mahlet das Korn. Wer nähet den Rock? Was ſchneidet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225739589_3105" custom="readingOrder {index:18;}">
+                <Coords points="172,1561 1442,1534 1442,1471 1368,1465 749,1510 173,1493"/>
+                <Baseline points="180,1540 280,1539 480,1537 580,1536 780,1534 880,1533 1080,1534 1180,1536 1380,1546 1433,1546"/>
+                <TextEquiv>
+                    <Unicode>man mit der Scheere? — Die Thür hat ein Schloß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225741459_3108" custom="readingOrder {index:19;}">
+                <Coords points="184,1625 1311,1622 1438,1603 1438,1530 1226,1568 183,1567"/>
+                <Baseline points="192,1612 292,1611 492,1609 592,1608 792,1608 892,1609 1092,1608 1192,1608 1392,1609 1430,1608"/>
+                <TextEquiv>
+                    <Unicode>Das Schloß hat einen Schlüssel. Was thut man mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225744301_3111" custom="readingOrder {index:20;}">
+                <Coords points="167,1693 1070,1670 1149,1704 1437,1679 1437,1615 167,1647"/>
+                <Baseline points="174,1681 274,1681 474,1679 574,1677 774,1675 874,1674 1074,1672 1174,1673 1374,1684 1430,1684"/>
+                <TextEquiv>
+                    <Unicode>dem Schlüssel? Die Tafel hat einen Rahmen. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225746909_3114" custom="readingOrder {index:21;}">
+                <Coords points="181,1766 1428,1752 1417,1674 1296,1711 707,1682 587,1726 506,1688 182,1698"/>
+                <Baseline points="190,1754 290,1753 490,1752 590,1754 790,1756 890,1756 1090,1756 1190,1756 1390,1757 1420,1757"/>
+                <TextEquiv>
+                    <Unicode>Kübel hat Reifen. Wozu dienen die Reifen? — Viele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225749129_3117" custom="readingOrder {index:22;}">
+                <Coords points="187,1835 1293,1838 1454,1813 1455,1757 188,1771"/>
+                <Baseline points="195,1822 295,1822 495,1821 595,1821 795,1822 895,1828 1095,1838 1195,1839 1395,1838 1445,1838"/>
+                <TextEquiv>
+                    <Unicode>Thiere wohnen in Höhlen. Die Hühner laufen auf dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225758389_3120" custom="readingOrder {index:23;}">
+                <Coords points="186,1914 1437,1912 1438,1813 1246,1811 1185,1857 1058,1824 186,1849"/>
+                <Baseline points="194,1905 294,1906 494,1905 594,1905 794,1908 894,1908 1094,1908 1194,1908 1394,1906 1430,1906"/>
+                <TextEquiv>
+                    <Unicode>Hofe. Die Aale schwimmen im Waſſer. Was für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225760369_3123" custom="readingOrder {index:24;}">
+                <Coords points="170,1986 482,1967 518,1986 569,1962 648,1989 787,1972 787,1916 573,1904 528,1922 459,1900 356,1917 241,1904 170,1925"/>
+                <Baseline points="179,1975 279,1976 379,1976 479,1975 579,1975 679,1976 778,1976"/>
+                <TextEquiv>
+                    <Unicode>Thiere leben im Walde?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225762279_3126" custom="readingOrder {index:25;}">
+                <Coords points="660,2049 736,2064 771,2048 821,2075 880,2046 928,2065 982,2056 982,1992 944,1997 912,1974 850,2000 819,1984 805,1992 768,1968 660,1987"/>
+                <Baseline points="667,2056 767,2056 867,2056 967,2056 975,2055"/>
+                <TextEquiv>
+                    <Unicode>78. g, ch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225764880_3129" custom="readingOrder {index:26;}">
+                <Coords points="209,2132 1412,2124 1447,2056 209,2063"/>
+                <Baseline points="217,2121 317,2121 517,2119 617,2118 817,2116 917,2117 1117,2118 1217,2122 1417,2127 1440,2128"/>
+                <TextEquiv>
+                    <Unicode>mag, zog, lag, log; ach, doch, mach, noch, ſchwach;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225767049_3132" custom="readingOrder {index:27;}">
+                <Coords points="199,2199 1445,2184 1445,2119 1355,2112 698,2126 615,2162 535,2125 200,2129"/>
+                <Baseline points="207,2190 307,2190 507,2188 607,2187 807,2184 907,2184 1107,2187 1207,2190 1407,2198 1437,2198"/>
+                <TextEquiv>
+                    <Unicode>Tag, Dach, Zug, Koch, Bach, Loch, Flug, Wage,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225769749_3135" custom="readingOrder {index:28;}">
+                <Coords points="191,2284 1426,2258 1451,2201 191,2203"/>
+                <Baseline points="199,2262 299,2262 499,2263 599,2262 799,2261 899,2262 1099,2272 1199,2272 1399,2265 1442,2266"/>
+                <TextEquiv>
+                    <Unicode>Wache, Woge, Woche, Sage, Sache, Lauge, Rachen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225772799_3138" custom="readingOrder {index:29;}">
+                <Coords points="184,2342 1300,2339 1454,2319 1454,2267 184,2286"/>
+                <Baseline points="192,2330 292,2329 492,2326 592,2325 792,2324 892,2324 1092,2324 1192,2323 1392,2322 1447,2322"/>
+                <TextEquiv>
+                    <Unicode>Bogen, Augen, Nachen, Nagel, Roggen, Dogge; mager,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225774958_3141" custom="readingOrder {index:30;}">
+                <Coords points="189,2420 1377,2412 1476,2390 1476,2323 189,2351"/>
+                <Baseline points="197,2402 297,2402 497,2401 597,2402 797,2401 897,2400 1097,2399 1197,2401 1397,2404 1468,2404"/>
+                <TextEquiv>
+                    <Unicode>fragen, pochen, ſaugen, machen, jagen, lachen, zagen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1585225777529_3144" custom="readingOrder {index:31;}">
+                <Coords points="193,2512 490,2472 626,2501 794,2466 1263,2479 1263,2425 1107,2393 194,2436"/>
+                <Baseline points="202,2483 302,2483 402,2482 602,2482 702,2485 802,2489 902,2489 1102,2487 1202,2488 1255,2488"/>
+                <TextEquiv>
+                    <Unicode>wagen, wachen, ragen, schlagen, kochen, ſagen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25&#xD;
+75.&#xD;
+Dieb, Diebe; Lied, Lieder; Bier, Kiel,&#xD;
+Ziel, Wieſe, Biene, Hiebe, Schiefer, Flieder,&#xD;
+Giebel, Kiefer, Zierde, Miene, Rieſe, Vieh;&#xD;
+hier, tief, ſchief; gießen, lieben, dienen,&#xD;
+zieren, ſchieben, zielen, fließen, frieren, schließen,&#xD;
+ziehen, zieh; fliehen, flieh; ſehen, ſieh.&#xD;
+76.&#xD;
+Thal, Thau, Theil, Thee, Thon, That, Thor, Theer,&#xD;
+Thurm, Thier, Thür, Thaler, Thomas, Rath, Noth,&#xD;
+Muth, Koth, Wuth, Loth, Ruthe, Pathe, Athem, Röthel;&#xD;
+roth, theuer; thun, theilen, thauen, rathen, wüthen,&#xD;
+miethen, athmen; Rhein, Rhede.&#xD;
+77.&#xD;
+Der Schmied ſchmiedet das Eiſen. Der Schäfer hütet&#xD;
+die Schafe. Der Bauer mähet den Weizen. Der Müller&#xD;
+mahlet das Korn. Wer nähet den Rock? Was ſchneidet&#xD;
+man mit der Scheere? — Die Thür hat ein Schloß.&#xD;
+Das Schloß hat einen Schlüssel. Was thut man mit&#xD;
+dem Schlüssel? Die Tafel hat einen Rahmen. Der&#xD;
+Kübel hat Reifen. Wozu dienen die Reifen? — Viele&#xD;
+Thiere wohnen in Höhlen. Die Hühner laufen auf dem&#xD;
+Hofe. Die Aale schwimmen im Waſſer. Was für&#xD;
+Thiere leben im Walde?&#xD;
+78. g, ch.&#xD;
+mag, zog, lag, log; ach, doch, mach, noch, ſchwach;&#xD;
+Tag, Dach, Zug, Koch, Bach, Loch, Flug, Wage,&#xD;
+Wache, Woge, Woche, Sage, Sache, Lauge, Rachen,&#xD;
+Bogen, Augen, Nachen, Nagel, Roggen, Dogge; mager,&#xD;
+fragen, pochen, ſaugen, machen, jagen, lachen, zagen,&#xD;
+wagen, wachen, ragen, schlagen, kochen, ſagen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585225688859_3049" custom="readingOrder {index:1;}">
+            <Coords points="154,415 1362,415"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585225713059_3080" custom="readingOrder {index:2;}">
+            <Coords points="167,1042 1455,1042"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

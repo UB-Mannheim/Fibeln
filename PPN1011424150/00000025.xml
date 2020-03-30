@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:53.995+01:00</Created>
+        <LastChange>2020-03-26T13:03:13.928+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000025.png" imageWidth="1534" imageHeight="2628">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585224194020" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1585223649853_2366"/>
+                <RegionRefIndexed index="1" regionRef="region_1585223536613_2304"/>
+                <RegionRefIndexed index="2" regionRef="region_1585223819393_2502"/>
+                <RegionRefIndexed index="3" regionRef="region_1585223574993_2308"/>
+                <RegionRefIndexed index="4" regionRef="region_1585223806073_2490"/>
+                <RegionRefIndexed index="5" regionRef="region_1585223579433_2314"/>
+                <RegionRefIndexed index="6" regionRef="region_1585223587733_2319"/>
+                <RegionRefIndexed index="7" regionRef="region_1585223594568_2325"/>
+                <RegionRefIndexed index="8" regionRef="region_1585223812293_2496"/>
+                <RegionRefIndexed index="9" regionRef="region_1585223608823_2330"/>
+                <RegionRefIndexed index="10" regionRef="region_1585223614653_2336"/>
+                <RegionRefIndexed index="11" regionRef="region_1585223617978_2342"/>
+                <RegionRefIndexed index="12" regionRef="region_1585223622553_2348"/>
+                <RegionRefIndexed index="13" regionRef="region_1585223627518_2354"/>
+                <RegionRefIndexed index="14" regionRef="region_1585223639373_2360"/>
+                <RegionRefIndexed index="15" regionRef="region_1585223662343_2375"/>
+                <RegionRefIndexed index="16" regionRef="region_1585223845623_2528"/>
+                <RegionRefIndexed index="17" regionRef="region_1585223835709_2518"/>
+                <RegionRefIndexed index="18" regionRef="region_1585223668713_2379"/>
+                <RegionRefIndexed index="19" regionRef="region_1585223841993_2522"/>
+                <RegionRefIndexed index="20" regionRef="region_1585223676023_2384"/>
+                <RegionRefIndexed index="21" regionRef="region_1585223678683_2390"/>
+                <RegionRefIndexed index="22" regionRef="region_1585223682093_2396"/>
+                <RegionRefIndexed index="23" regionRef="region_1585223685503_2402"/>
+                <RegionRefIndexed index="24" regionRef="region_1585223688833_2408"/>
+                <RegionRefIndexed index="25" regionRef="region_1585223691793_2414"/>
+                <RegionRefIndexed index="26" regionRef="region_1585223694123_2420"/>
+                <RegionRefIndexed index="27" regionRef="region_1585223696813_2426"/>
+                <RegionRefIndexed index="28" regionRef="region_1585223699583_2432"/>
+                <RegionRefIndexed index="29" regionRef="region_1585223703223_2438"/>
+                <RegionRefIndexed index="30" regionRef="region_1585223713253_2444"/>
+                <RegionRefIndexed index="31" regionRef="region_1585223716783_2450"/>
+                <RegionRefIndexed index="32" regionRef="region_1585223877393_2550"/>
+                <RegionRefIndexed index="33" regionRef="region_1585223726333_2454"/>
+                <RegionRefIndexed index="34" regionRef="region_1585223872323_2544"/>
+                <RegionRefIndexed index="35" regionRef="region_1585223729383_2460"/>
+                <RegionRefIndexed index="36" regionRef="region_1585223752873_2481"/>
+                <RegionRefIndexed index="37" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1585223649853_2366" custom="readingOrder {index:0;}">
+            <Coords points="-189,768 -189,771 -149,771 -149,768"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223536613_2304" custom="readingOrder {index:1;}">
+            <Coords points="587,188 961,188"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223819393_2502" custom="readingOrder {index:2;}">
+            <Coords points="449,350 449,355 1136,355 1136,350"/>
+            <TextLine id="line_1585223819523_2505" custom="readingOrder {index:0;}">
+                <Coords points="439,365 595,347 645,374 792,356 974,372 1144,352 1144,328 1049,299 969,317 871,294 815,317 753,276 678,303 439,292"/>
+                <Baseline points="449,353 549,353 649,353 749,353 849,353 949,353 1049,353 1136,353"/>
+                <TextEquiv>
+                    <Unicode>59. nf, ns, nsch, ms.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>59. nf, ns, nsch, ms.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223574993_2308" custom="readingOrder {index:3;}">
+            <Coords points="82,429 82,432 1430,432 1430,429"/>
+            <TextLine id="line_1585223575013_2311" custom="readingOrder {index:0;}">
+                <Coords points="73,448 244,406 907,461 1438,438 1438,363 1374,358 73,363"/>
+                <Baseline points="82,432 282,431 382,431 582,431 682,431 882,431 982,431 1182,431 1282,432 1430,432"/>
+                <TextEquiv>
+                    <Unicode>Hanf, Senf, fünf; Gans, Zins, Gänſe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hanf, Senf, fünf; Gans, Zins, Gänſe,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223806073_2490" custom="readingOrder {index:4;}">
+            <Coords points="89,496 89,502 1447,502 1447,496"/>
+            <TextLine id="line_1585223806184_2493" custom="readingOrder {index:0;}">
+                <Coords points="80,508 1457,512 1456,463 1279,431 1185,479 1069,436 925,481 744,433 80,444"/>
+                <Baseline points="89,501 289,500 389,500 589,501 689,501 889,500 989,500 1189,500 1289,499 1447,499"/>
+                <TextEquiv>
+                    <Unicode>Zinſen, Hans, Sense, uns, unſer, eins;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zinſen, Hans, Sense, uns, unſer, eins;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223579433_2314" custom="readingOrder {index:5;}">
+            <Coords points="92,497 1447,497"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223587733_2319" custom="readingOrder {index:6;}">
+            <Coords points="84,574 84,576 1476,576 1476,574"/>
+            <TextLine id="line_1585223587753_2322" custom="readingOrder {index:0;}">
+                <Coords points="74,586 1484,579 1300,501 74,508"/>
+                <Baseline points="84,576 284,576 384,576 584,576 684,576 884,576 984,576 1184,576 1284,576 1476,576"/>
+                <TextEquiv>
+                    <Unicode>Punſch, Menſch, Menſchen, Wunſch, Wünſche, wünſchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Punſch, Menſch, Menſchen, Wunſch, Wünſche, wünſchen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223594568_2325" custom="readingOrder {index:7;}">
+            <Coords points="80,643 1424,643"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223812293_2496" custom="readingOrder {index:8;}">
+            <Coords points="96,640 96,647 1443,647 1443,640"/>
+            <TextLine id="line_1585223812405_2499" custom="readingOrder {index:0;}">
+                <Coords points="87,638 651,676 780,633 1451,652 1451,613 1322,571 1187,620 1111,573 950,617 870,569 87,583"/>
+                <Baseline points="96,645 296,646 396,645 596,646 696,646 896,645 996,645 1196,645 1296,644 1443,644"/>
+                <TextEquiv>
+                    <Unicode>wünſchet; Wams, Wämſer, Sims, Simſe, Pinſel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wünſchet; Wams, Wämſer, Sims, Simſe, Pinſel.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223608823_2330" custom="readingOrder {index:9;}">
+            <Coords points="344,741 344,742 1213,742 1213,741"/>
+            <TextLine id="line_1585223608838_2333" custom="readingOrder {index:0;}">
+                <Coords points="335,765 441,735 576,776 631,737 769,765 827,735 1015,770 1174,755 1222,747 1222,671 1119,687 1045,659 944,701 827,680 723,705 638,675 335,680"/>
+                <Baseline points="344,742 444,742 544,742 644,742 744,742 844,742 944,742 1044,742 1144,742 1213,742"/>
+                <TextEquiv>
+                    <Unicode>60. rm, rn, rf, rs, rsch, rl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>60. rm, rn, rf, rs, rsch, rl.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223614653_2336" custom="readingOrder {index:10;}">
+            <Coords points="82,824 82,826 1460,826 1460,824"/>
+            <TextLine id="line_1585223614673_2339" custom="readingOrder {index:0;}">
+                <Coords points="73,836 1468,847 1468,790 1261,742 1169,788 1057,749 510,809 354,760 292,801 73,769"/>
+                <Baseline points="82,825 282,825 382,825 582,825 682,825 882,825 982,825 1182,825 1282,825 1460,825"/>
+                <TextEquiv>
+                    <Unicode>Arm, Arme, Schirm, Schirme, Form, Formen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Arm, Arme, Schirm, Schirme, Form, Formen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223617978_2342" custom="readingOrder {index:11;}">
+            <Coords points="92,904 92,907 1491,907 1491,904"/>
+            <TextLine id="line_1585223617993_2345" custom="readingOrder {index:0;}">
+                <Coords points="82,905 1351,929 1499,894 1395,835 947,872 83,838"/>
+                <Baseline points="92,906 292,906 392,906 592,906 692,906 892,906 992,906 1192,907 1292,907 1491,907"/>
+                <TextEquiv>
+                    <Unicode>Wurm, Würmer, arm, warm, wärme, wärmen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wurm, Würmer, arm, warm, wärme, wärmen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223622553_2348" custom="readingOrder {index:12;}">
+            <Coords points="73,982 73,984 1454,984 1454,982"/>
+            <TextLine id="line_1585223622573_2351" custom="readingOrder {index:0;}">
+                <Coords points="64,987 1463,985 1463,930 1293,909 64,910"/>
+                <Baseline points="73,984 273,984 373,984 573,984 673,984 873,984 973,984 1173,984 1273,984 1454,984"/>
+                <TextEquiv>
+                    <Unicode>schirmen, lärmen; Dorn, Dörner, Kern, Kerne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>schirmen, lärmen; Dorn, Dörner, Kern, Kerne,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223627518_2354" custom="readingOrder {index:13;}">
+            <Coords points="82,1050 82,1053 1411,1053 1411,1050"/>
+            <TextLine id="line_1585223627553_2357" custom="readingOrder {index:0;}">
+                <Coords points="73,1050 1421,1052 1421,995 1272,974 73,990"/>
+                <Baseline points="82,1052 282,1052 382,1052 582,1052 682,1052 882,1052 982,1052 1182,1052 1282,1052 1411,1052"/>
+                <TextEquiv>
+                    <Unicode>Horn, Hörner, Garn, Zorn, zürnen, fern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Horn, Hörner, Garn, Zorn, zürnen, fern,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223639373_2360" custom="readingOrder {index:14;}">
+            <Coords points="78,1110 78,1113 1439,1113 1439,1110"/>
+            <TextLine id="line_1585223639403_2363" custom="readingOrder {index:0;}">
+                <Coords points="68,1125 1432,1132 1448,1051 68,1072"/>
+                <Baseline points="78,1113 278,1113 378,1113 578,1112 678,1112 878,1112 978,1112 1178,1112 1278,1112 1439,1112"/>
+                <TextEquiv>
+                    <Unicode>gern, wandern, hindern, mauern; Dorf, Wurf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gern, wandern, hindern, mauern; Dorf, Wurf,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223662343_2375" custom="readingOrder {index:15;}">
+            <Coords points="87,1185 1474,1185"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223845623_2528" custom="readingOrder {index:16;}">
+            <Coords points="91,1182 91,1187 1465,1187 1465,1182"/>
+            <TextLine id="line_1585223845733_2531" custom="readingOrder {index:0;}">
+                <Coords points="81,1178 1474,1197 1474,1146 1373,1119 81,1127"/>
+                <Baseline points="91,1186 291,1186 391,1186 591,1186 691,1186 891,1186 991,1186 1191,1186 1291,1186 1465,1186"/>
+                <TextEquiv>
+                    <Unicode>Dörfer, Würfe, scharf, wirf, werfen, schärfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dörfer, Würfe, scharf, wirf, werfen, schärfen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223835709_2518" custom="readingOrder {index:17;}">
+            <Coords points="93,1187 1467,1187"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223668713_2379" custom="readingOrder {index:18;}">
+            <Coords points="81,1254 1435,1254"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223841993_2522" custom="readingOrder {index:19;}">
+            <Coords points="86,1250 86,1257 1406,1257 1406,1250"/>
+            <TextLine id="line_1585223842099_2525" custom="readingOrder {index:0;}">
+                <Coords points="76,1250 1415,1254 1415,1209 1299,1190 843,1190 767,1227 579,1192 475,1231 385,1187 76,1190"/>
+                <Baseline points="86,1256 286,1256 386,1255 586,1255 686,1255 886,1255 986,1255 1186,1255 1286,1256 1406,1256"/>
+                <TextEquiv>
+                    <Unicode>dürfen; Vers, Verſe, Hirſe; Karl, Kerl;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dürfen; Vers, Verſe, Hirſe; Karl, Kerl;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223676023_2384" custom="readingOrder {index:20;}">
+            <Coords points="89,1341 89,1347 1464,1347 1464,1341"/>
+            <TextLine id="line_1585223676053_2387" custom="readingOrder {index:0;}">
+                <Coords points="80,1336 352,1369 537,1327 914,1367 1073,1325 1474,1334 1474,1277 1327,1252 990,1289 737,1245 524,1295 80,1252"/>
+                <Baseline points="89,1346 289,1346 389,1346 589,1346 689,1346 889,1346 989,1346 1189,1346 1289,1346 1464,1346"/>
+                <TextEquiv>
+                    <Unicode>Hirſch, Hirſche, Marſch, Burſche, morſch, forſchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hirſch, Hirſche, Marſch, Burſche, morſch, forſchen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223678683_2390" custom="readingOrder {index:21;}">
+            <Coords points="407,1431 407,1434 1149,1434 1149,1431"/>
+            <TextLine id="line_1585223678723_2393" custom="readingOrder {index:0;}">
+                <Coords points="398,1440 710,1443 793,1415 963,1465 1158,1434 1158,1383 1024,1350 547,1373 453,1344 398,1364"/>
+                <Baseline points="407,1432 507,1432 607,1432 707,1432 807,1433 907,1434 1007,1434 1107,1434 1149,1434"/>
+                <TextEquiv>
+                    <Unicode>61. Fl, Fr. Schl, Schr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>61. Fl, Fr. Schl, Schr.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223682093_2396" custom="readingOrder {index:22;}">
+            <Coords points="92,1500 92,1508 1432,1508 1432,1500"/>
+            <TextLine id="line_1585223682133_2399" custom="readingOrder {index:0;}">
+                <Coords points="84,1525 413,1529 478,1481 567,1527 1189,1505 1407,1550 1440,1465 1265,1422 1201,1465 1068,1433 700,1490 634,1440 83,1449"/>
+                <Baseline points="92,1505 292,1505 392,1506 592,1506 692,1506 892,1506 992,1506 1192,1505 1292,1505 1432,1505"/>
+                <TextEquiv>
+                    <Unicode>Flaum, Flor, Flur, Fluren, Fleiſch, Fleiſcher,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Flaum, Flor, Flur, Fluren, Fleiſch, Fleiſcher,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223685503_2402" custom="readingOrder {index:23;}">
+            <Coords points="84,1585 84,1588 1408,1588 1408,1585"/>
+            <TextLine id="line_1585223685543_2405" custom="readingOrder {index:0;}">
+                <Coords points="75,1596 1287,1577 1416,1613 1416,1553 1356,1524 904,1552 614,1511 525,1561 376,1515 75,1525"/>
+                <Baseline points="84,1588 284,1587 384,1587 584,1588 684,1588 884,1588 984,1588 1184,1588 1284,1588 1408,1588"/>
+                <TextEquiv>
+                    <Unicode>Flaſche; Froſch, Fröſche, Frau, Frauen, Freude,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Flaſche; Froſch, Fröſche, Frau, Frauen, Freude,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223688833_2408" custom="readingOrder {index:24;}">
+            <Coords points="87,1651 87,1654 1414,1654 1414,1651"/>
+            <TextLine id="line_1585223688873_2411" custom="readingOrder {index:0;}">
+                <Coords points="77,1665 260,1631 391,1672 1424,1655 1424,1596 1333,1586 563,1596 494,1635 389,1592 77,1596"/>
+                <Baseline points="87,1653 287,1653 387,1653 587,1653 687,1653 887,1654 987,1654 1187,1653 1287,1653 1414,1653"/>
+                <TextEquiv>
+                    <Unicode>frisch, frei, freuen, freuet, freute; Schlaf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>frisch, frei, freuen, freuet, freute; Schlaf,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223691793_2414" custom="readingOrder {index:25;}">
+            <Coords points="79,1723 79,1728 1477,1728 1477,1723"/>
+            <TextLine id="line_1585223691843_2417" custom="readingOrder {index:0;}">
+                <Coords points="70,1732 1485,1749 1485,1676 1415,1655 70,1670"/>
+                <Baseline points="79,1727 279,1727 379,1726 579,1726 679,1726 879,1726 979,1726 1179,1726 1279,1726 1477,1726"/>
+                <TextEquiv>
+                    <Unicode>Schlange, Schleim, Schleier, Schleuse, Schleifer, Schleuder,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schlange, Schleim, Schleier, Schleuse, Schleifer, Schleuder,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223694123_2420" custom="readingOrder {index:26;}">
+            <Coords points="71,1797 71,1802 1429,1802 1429,1797"/>
+            <TextLine id="line_1585223694173_2423" custom="readingOrder {index:0;}">
+                <Coords points="61,1791 1305,1818 1438,1786 1356,1726 577,1725 485,1771 361,1729 61,1736"/>
+                <Baseline points="71,1800 271,1800 371,1800 571,1801 671,1801 871,1801 971,1801 1171,1801 1271,1800 1429,1800"/>
+                <TextEquiv>
+                    <Unicode>Schläfer, ſchlau, ſchlingen, ſchlafen, ſchleifen; Schrot,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schläfer, ſchlau, ſchlingen, ſchlafen, ſchleifen; Schrot,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223696813_2426" custom="readingOrder {index:27;}">
+            <Coords points="84,1868 84,1874 1432,1874 1432,1868"/>
+            <TextLine id="line_1585223696863_2429" custom="readingOrder {index:0;}">
+                <Coords points="75,1877 346,1921 712,1863 819,1901 1440,1872 1440,1821 1231,1798 459,1797 277,1842 75,1807"/>
+                <Baseline points="84,1872 284,1872 384,1872 584,1872 684,1871 884,1871 984,1871 1184,1871 1284,1871 1432,1871"/>
+                <TextEquiv>
+                    <Unicode>Schrei, Schreiber, Schraube,ſchreien, ſchreiben, ſchreiten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schrei, Schreiber, Schraube,ſchreien, ſchreiben, ſchreiten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223699583_2432" custom="readingOrder {index:28;}">
+            <Coords points="396,1969 396,1974 1133,1974 1133,1969"/>
+            <TextLine id="line_1585223699638_2435" custom="readingOrder {index:0;}">
+                <Coords points="387,1983 513,1964 604,1992 720,1986 749,1961 873,1993 915,1972 995,1996 1071,1968 1142,1982 1142,1929 986,1887 901,1915 772,1899 749,1921 655,1898 488,1926 387,1905"/>
+                <Baseline points="396,1972 496,1972 596,1972 696,1972 796,1972 896,1972 996,1971 1096,1971 1133,1971"/>
+                <TextEquiv>
+                    <Unicode>62. Schm, Schn, Schw.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>62. Schm, Schn, Schw.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223703223_2438" custom="readingOrder {index:29;}">
+            <Coords points="76,2054 76,2056 1466,2056 1466,2054"/>
+            <TextLine id="line_1585223703283_2441" custom="readingOrder {index:0;}">
+                <Coords points="67,2069 1475,2064 1475,2012 1366,1982 893,2023 753,1966 572,2009 67,1993"/>
+                <Baseline points="76,2056 276,2056 376,2056 576,2056 676,2056 876,2056 976,2056 1176,2056 1276,2056 1466,2056"/>
+                <TextEquiv>
+                    <Unicode>Schmaus, ſchmausen, ſchmal, ſchmäler; Schnur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schmaus, ſchmausen, ſchmal, ſchmäler; Schnur,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223713253_2444" custom="readingOrder {index:30;}">
+            <Coords points="77,2122 77,2127 1493,2127 1493,2122"/>
+            <TextLine id="line_1585223713303_2447" custom="readingOrder {index:0;}">
+                <Coords points="69,2125 1502,2116 1255,2054 897,2097 680,2056 322,2097 69,2067"/>
+                <Baseline points="77,2126 277,2126 377,2126 577,2126 777,2125 877,2125 1077,2125 1277,2125 1377,2126 1493,2126"/>
+                <TextEquiv>
+                    <Unicode>Schnauze, Schnabel, Schneider, ſchneiden, ſchnüren;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schnauze, Schnabel, Schneider, ſchneiden, ſchnüren;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223716783_2450" custom="readingOrder {index:31;}">
+            <Coords points="92,2191 1443,2191"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223877393_2550" custom="readingOrder {index:32;}">
+            <Coords points="80,2194 80,2204 1435,2204 1435,2194"/>
+            <TextLine id="line_1585223877499_2553" custom="readingOrder {index:0;}">
+                <Coords points="71,2203 1444,2207 1444,2157 1366,2127 1180,2164 372,2126 314,2168 71,2129"/>
+                <Baseline points="80,2200 280,2200 380,2200 580,2200 680,2200 880,2200 980,2200 1180,2200 1280,2200 1435,2200"/>
+                <TextEquiv>
+                    <Unicode>Schwan, Schwäne, Schweif, Schweife, Schwur,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schwan, Schwäne, Schweif, Schweife, Schwur,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223726333_2454" custom="readingOrder {index:33;}">
+            <Coords points="86,2267 86,2273 1442,2273 1442,2267"/>
+            <TextLine id="line_1585223726393_2457" custom="readingOrder {index:0;}">
+                <Coords points="77,2276 1450,2259 1450,2208 1277,2197 664,2203 584,2242 403,2194 77,2200"/>
+                <Baseline points="86,2271 286,2271 386,2271 586,2271 686,2271 886,2271 986,2271 1186,2271 1286,2270 1442,2270"/>
+                <TextEquiv>
+                    <Unicode>Schwüre, Schwein, Schweine, Schwefel, ſchwer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schwüre, Schwein, Schweine, Schwefel, ſchwer,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223872323_2544" custom="readingOrder {index:34;}">
+            <Coords points="67,2340 67,2347 1448,2347 1448,2340"/>
+            <TextLine id="line_1585223872428_2547" custom="readingOrder {index:0;}">
+                <Coords points="58,2349 1457,2350 1457,2295 1356,2265 58,2287"/>
+                <Baseline points="67,2344 267,2343 367,2343 567,2343 667,2343 867,2342 967,2342 1167,2342 1267,2342 1448,2342"/>
+                <TextEquiv>
+                    <Unicode>ſchwül, ſchwüler, ſchwärmen, ſchwärmet, ſchlürfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ſchwül, ſchwüler, ſchwärmen, ſchwärmet, ſchlürfen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223729383_2460" custom="readingOrder {index:35;}">
+            <Coords points="77,2341 1458,2341"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1585223752873_2481" custom="readingOrder {index:36;}">
+            <Coords points="70,2416 1451,2416"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:37;}">
+            <Coords points="1210,2360 1210,2510 1248,2510 1248,2360"/>
+            <TextLine id="line_1585223739853_2467" custom="readingOrder {index:0;}">
+                <Coords points="75,2422 1464,2397 1464,2353 1351,2334 1201,2370 597,2327 75,2350"/>
+                <Baseline points="83,2415 283,2414 383,2414 583,2414 683,2414 883,2414 983,2414 1183,2414 1283,2414 1456,2414"/>
+                <TextEquiv>
+                    <Unicode>ſchlürfet, ſchmauset, ſchneidet, ſchnüret, ſchreibet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ſchlürfet, ſchmauset, ſchneidet, ſchnüret, ſchreibet.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

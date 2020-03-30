@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=ONB_Newseye_GT_M1+(htr_id=10810)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-03-24T10:24:57.151+01:00</Created>
+        <LastChange>2020-03-26T15:05:29.348+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="00000043.png" imageWidth="1524" imageHeight="2640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1585231529415" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="111,141 111,2476 1401,2476 1401,141"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="662,189 690,195 699,187 712,193 717,188 750,202 781,198 779,109 765,109 755,119 726,111 711,121 689,118 673,126 661,125"/>
+                <Baseline points="670,174 695,180 721,179 746,176 772,176"/>
+                <TextEquiv>
+                    <Unicode>39</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="556,324 589,337 645,320 683,333 765,331 814,308 862,324 907,321 905,260 880,251 818,265 781,247 752,258 721,240 666,274 631,272 607,254 554,266"/>
+                <Baseline points="564,317 589,317 615,317 641,317 667,316 692,316 718,316 744,315 770,314 795,313 821,312 847,311 873,310 899,307"/>
+                <TextEquiv>
+                    <Unicode>ch. Ch= k.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="158,394 1337,385 1364,309 157,335"/>
+                <Baseline points="165,389 224,388 284,387 343,387 403,386 463,385 522,384 582,383 641,382 701,381 761,380 820,380 880,378 939,378 999,377 1059,376 1118,375 1178,374 1237,373 1297,372 1357,372"/>
+                <TextEquiv>
+                    <Unicode>Der Chor, ein Choral, die Chriſten, Chriſtus. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="426,443 490,469 632,432 691,459 1363,445 1362,392 1309,377 425,398"/>
+                <Baseline points="433,445 479,444 525,443 571,442 617,441 663,440 709,439 755,439 801,438 847,437 894,437 940,436 986,435 1032,435 1078,434 1124,433 1170,433 1216,432 1262,431 1308,430 1355,429"/>
+                <TextEquiv>
+                    <Unicode>oft im Chor einen Choral. Christine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="103,452 200,467 269,435 294,460 342,450 366,470 391,469 413,450 430,457 430,406 333,413 304,394 237,413 210,395 198,404 138,386 102,400"/>
+                <Baseline points="111,449 137,447 163,447 189,446 215,446 241,446 267,446 293,446 319,446 345,446 371,446 397,445 423,443"/>
+                <TextEquiv>
+                    <Unicode>Kinder singen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="108,524 1362,502 1361,452 1257,437 922,432 752,484 665,442 107,472"/>
+                <Baseline points="116,507 177,506 239,505 301,504 363,504 425,503 487,502 548,501 610,501 672,500 734,499 796,499 858,498 920,497 981,497 1043,496 1105,495 1167,495 1229,494 1291,493 1353,492"/>
+                <TextEquiv>
+                    <Unicode>und Chriſtian sind Namen. Die Chriſten glauben an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="108,585 451,570 556,595 695,555 779,587 807,582 806,512 765,498 672,534 619,506 107,524"/>
+                <Baseline points="115,565 149,565 183,565 217,565 251,565 286,564 320,564 354,564 388,563 422,563 457,562 491,562 525,562 559,561 593,560 628,560 662,559 696,559 730,558 764,557 799,557"/>
+                <TextEquiv>
+                    <Unicode>Christus und folgen ihm nach.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="450,661 600,642 689,674 720,651 815,672 879,632 1010,649 1009,584 987,578 942,606 850,572 729,579 620,624 573,586 449,595"/>
+                <Baseline points="457,640 484,642 511,644 538,645 565,645 593,646 620,646 647,646 674,646 701,645 729,644 756,644 783,643 810,642 837,641 865,640 892,639 919,638 946,638 973,637 1001,637"/>
+                <TextEquiv>
+                    <Unicode>108. ph, Ph= f.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="163,724 1361,718 1347,634 718,682 163,659"/>
+                <Baseline points="171,716 230,716 289,716 348,716 407,715 466,715 525,714 584,713 643,712 702,711 762,709 821,708 880,707 939,706 998,705 1057,705 1116,704 1175,704 1234,704 1293,704 1353,704"/>
+                <TextEquiv>
+                    <Unicode>Der Epheu, ein Sopha, die Strophe, der Triumph.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="109,793 1366,767 1365,713 1312,710 108,716"/>
+                <Baseline points="117,779 179,778 241,777 303,775 365,774 427,773 489,772 551,771 613,770 675,769 737,768 799,767 861,766 923,765 985,765 1047,764 1109,763 1171,763 1233,762 1295,761 1358,761"/>
+                <TextEquiv>
+                    <Unicode>Joſeph, Adolph, Philipp, Rudolph, Stephan und Sophie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="115,850 1281,840 1362,834 1362,790 114,789"/>
+                <Baseline points="123,835 184,834 246,833 307,832 369,832 430,831 492,830 553,829 615,828 676,827 738,826 800,825 861,825 923,824 984,824 1046,823 1107,823 1169,822 1230,822 1292,822 1354,822"/>
+                <TextEquiv>
+                    <Unicode>ſind Namen. Der Epheu bleibt das ganze Jahr grün.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="121,900 1369,894 1368,841 1313,828 120,848"/>
+                <Baseline points="128,894 189,893 251,892 312,891 374,890 436,889 497,888 559,887 621,887 682,886 744,886 806,885 867,885 929,884 991,884 1052,883 1114,883 1176,882 1237,881 1299,880 1361,879"/>
+                <TextEquiv>
+                    <Unicode>Ein Choral besteht aus mehren Strophen. Das Alphabet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="122,975 156,960 193,973 271,964 290,981 404,959 511,977 603,963 602,924 514,894 483,912 340,897 325,910 193,900 163,914 121,899"/>
+                <Baseline points="129,955 154,954 180,954 206,954 232,953 258,953 284,952 310,952 336,952 362,951 387,951 413,950 439,949 465,949 491,949 517,948 543,948 569,947 595,947"/>
+                <TextEquiv>
+                    <Unicode>hat viele Buchſtaben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="634,1044 678,1034 702,1039 743,1014 785,1036 810,1033 829,1046 849,1045 850,960 826,949 807,966 724,987 655,958 635,961"/>
+                <Baseline points="642,1019 667,1018 692,1016 717,1016 742,1016 767,1016 792,1017 817,1019 842,1021"/>
+                <TextEquiv>
+                    <Unicode>ti = zi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="165,1116 1279,1103 1365,1094 1364,997 1160,999 1070,1046 418,1053 253,1017 164,1051"/>
+                <Baseline points="172,1095 231,1094 290,1093 349,1092 409,1091 468,1090 527,1089 587,1088 646,1087 705,1086 765,1085 824,1084 883,1083 942,1083 1002,1082 1061,1082 1120,1081 1180,1081 1239,1081 1298,1081 1358,1081"/>
+                <TextEquiv>
+                    <Unicode>Die Nation, eine Portion, der Patient, eine Station,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="121,1168 1378,1144 1321,1085 120,1099"/>
+                <Baseline points="128,1156 190,1155 252,1153 314,1151 376,1150 438,1149 500,1148 562,1147 624,1146 686,1145 749,1144 811,1143 873,1143 935,1142 997,1141 1059,1140 1121,1140 1183,1139 1245,1138 1307,1137 1370,1136"/>
+                <TextEquiv>
+                    <Unicode>Pontius, eine Lection, die Auction. Die Deutschen bil=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="112,1221 1377,1203 1337,1147 111,1165"/>
+                <Baseline points="119,1213 181,1212 243,1211 306,1209 368,1208 431,1207 493,1206 556,1205 618,1204 681,1203 743,1202 805,1202 868,1201 930,1200 993,1199 1055,1199 1118,1198 1180,1198 1243,1197 1305,1197 1368,1197"/>
+                <TextEquiv>
+                    <Unicode>den eine Nation. Den Kranken nennt man auch Patient.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="114,1284 1365,1292 1375,1202 113,1220"/>
+                <Baseline points="122,1274 184,1272 246,1271 308,1270 371,1269 433,1268 495,1267 558,1266 620,1265 682,1265 745,1264 807,1264 869,1263 931,1262 994,1262 1056,1261 1118,1261 1181,1260 1243,1259 1305,1259 1368,1258"/>
+                <TextEquiv>
+                    <Unicode>An der Eiſenbahn ſind Stationen; hier halten die Züge still.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="589,1433 610,1440 630,1429 678,1452 795,1452 823,1430 864,1435 891,1421 889,1365 862,1369 831,1342 786,1369 752,1356 724,1368 677,1359 654,1384 588,1404"/>
+                <Baseline points="597,1431 623,1433 649,1434 675,1434 701,1433 727,1431 753,1430 779,1428 805,1425 831,1424 857,1424 884,1426"/>
+                <TextEquiv>
+                    <Unicode>y, X.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:19;}">
+                <Coords points="616,1597 674,1594 716,1568 752,1580 783,1568 820,1591 929,1559 975,1588 1020,1587 1046,1567 1098,1568 1097,1521 946,1486 915,1512 851,1501 795,1545 750,1553 698,1550 663,1525 614,1534"/>
+                <Baseline points="623,1579 656,1577 1091,1568"/>
+                <TextEquiv>
+                    <Unicode>x. X = ks.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:20;}">
+                <Coords points="187,1664 1377,1648 1375,1582 1233,1555 1103,1600 1046,1569 827,1606 473,1573 186,1611"/>
+                <Baseline points="195,1659 253,1658 312,1657 371,1656 429,1654 488,1653 547,1652 605,1651 664,1650 723,1649 782,1648 840,1646 899,1645 958,1644 1016,1642 1075,1641 1134,1640 1192,1638 1251,1636 1310,1634 1369,1633"/>
+                <TextEquiv>
+                    <Unicode>Eine Axt, die Achſel, die Taxe, die Hexe, Xaverius,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:21;}">
+                <Coords points="116,1731 1384,1709 1382,1645 1335,1640 308,1688 114,1661"/>
+                <Baseline points="123,1720 185,1719 248,1717 310,1716 373,1714 436,1712 498,1711 561,1709 623,1708 686,1707 749,1705 811,1704 874,1702 936,1701 999,1699 1062,1698 1124,1696 1187,1695 1249,1694 1312,1692 1375,1691"/>
+                <TextEquiv>
+                    <Unicode>Xanten, die Eidechſe, Taxus. Der Holzhauer braucht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:22;}">
+                <Coords points="133,1791 1395,1759 1368,1703 1261,1698 132,1728"/>
+                <Baseline points="140,1779 202,1778 264,1776 326,1774 389,1772 451,1771 513,1769 576,1768 638,1766 700,1765 763,1763 825,1762 887,1760 949,1759 1012,1758 1074,1756 1136,1755 1199,1754 1261,1752 1323,1751 1386,1750"/>
+                <TextEquiv>
+                    <Unicode>die Axt. Der Taxus iſt ein Baum. Aus Flachs ſpinnt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;}">
+                <Coords points="128,1853 1389,1843 1387,1761 1338,1756 1115,1793 1007,1761 127,1789"/>
+                <Baseline points="136,1837 198,1836 260,1834 322,1833 384,1831 447,1830 509,1828 571,1827 633,1825 695,1824 758,1822 820,1821 882,1819 944,1818 1006,1816 1069,1815 1131,1813 1193,1812 1255,1811 1317,1810 1380,1809"/>
+                <TextEquiv>
+                    <Unicode>man Garn. Man muß die Taxe bezahlen. Lanten ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="130,1905 504,1925 775,1884 1013,1922 1282,1877 1248,1834 1115,1816 129,1853"/>
+                <Baseline points="137,1894 193,1895 250,1895 307,1895 364,1895 421,1894 478,1892 534,1890 591,1889 648,1887 705,1884 762,1883 819,1880 876,1879 932,1877 989,1875 1046,1874 1103,1873 1160,1873 1217,1873 1274,1874"/>
+                <TextEquiv>
+                    <Unicode>eine Stadt. Max, Felix und Xaver sind Namen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="621,2068 706,2071 735,2053 746,2062 770,2039 834,2065 857,2050 873,2063 931,2055 928,1964 910,1962 833,2041 790,2008 747,2007 723,1990 619,2016"/>
+                <Baseline points="629,2061 655,2063 682,2064 709,2064 735,2063 762,2062 789,2061 816,2060 842,2058 869,2056 896,2054 923,2053"/>
+                <TextEquiv>
+                    <Unicode>y, Y.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="673,2220 705,2227 801,2204 862,2221 927,2194 990,2212 1033,2200 1031,2148 1014,2141 952,2170 865,2137 786,2180 742,2164 730,2174 697,2147 671,2148"/>
+                <Baseline points="681,2208 707,2209 733,2208 760,2208 786,2207 813,2206 839,2205 866,2204 892,2202 919,2201 945,2200 972,2198 998,2198 1025,2197"/>
+                <TextEquiv>
+                    <Unicode>y, Y = i.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="189,2288 1105,2291 1383,2270 1382,2202 187,2222"/>
+                <Baseline points="196,2282 258,2281 320,2279 382,2278 444,2277 506,2276 568,2275 630,2273 692,2272 754,2271 816,2270 878,2268 940,2267 1002,2266 1064,2264 1126,2263 1188,2261 1250,2260 1312,2259 1375,2257"/>
+                <TextEquiv>
+                    <Unicode>Der Syrup, ein Tyrann, Tyrol, die Yſſel; Cyrus,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="140,2344 1391,2325 1390,2275 1229,2258 1105,2292 139,2278"/>
+                <Baseline points="148,2341 209,2340 271,2338 333,2337 395,2336 456,2335 518,2334 580,2333 642,2332 703,2331 765,2330 827,2328 889,2327 950,2326 1012,2324 1074,2322 1136,2321 1197,2319 1259,2317 1321,2315 1383,2312"/>
+                <TextEquiv>
+                    <Unicode>Carl, Christoph. Der Syrup ist süß. Die Yssel ist ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:29;}">
+                <Coords points="141,2410 915,2381 995,2417 1409,2386 1408,2339 139,2344"/>
+                <Baseline points="148,2399 210,2398 273,2398 335,2397 398,2396 461,2395 523,2394 586,2393 649,2392 711,2391 774,2389 837,2388 899,2387 962,2385 1025,2383 1087,2382 1150,2380 1213,2378 1275,2376 1338,2375 1401,2372"/>
+                <TextEquiv>
+                    <Unicode>Fluß. Ypsilon ist ein Buchſtabe. Cypern und Ceylon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:30;}">
+                <Coords points="146,2486 161,2492 183,2476 218,2486 250,2469 290,2487 363,2462 415,2473 413,2410 401,2406 385,2414 346,2406 333,2416 286,2404 235,2415 212,2406 144,2413"/>
+                <Baseline points="153,2459 178,2461 203,2462 229,2462 254,2462 280,2461 305,2460 330,2458 356,2457 381,2456 407,2455"/>
+                <TextEquiv>
+                    <Unicode>ſind Inſeln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>39&#xD;
+ch. Ch= k.&#xD;
+Der Chor, ein Choral, die Chriſten, Chriſtus. Die&#xD;
+oft im Chor einen Choral. Christine&#xD;
+Kinder singen&#xD;
+und Chriſtian sind Namen. Die Chriſten glauben an&#xD;
+Christus und folgen ihm nach.&#xD;
+108. ph, Ph= f.&#xD;
+Der Epheu, ein Sopha, die Strophe, der Triumph.&#xD;
+Joſeph, Adolph, Philipp, Rudolph, Stephan und Sophie&#xD;
+ſind Namen. Der Epheu bleibt das ganze Jahr grün.&#xD;
+Ein Choral besteht aus mehren Strophen. Das Alphabet&#xD;
+hat viele Buchſtaben.&#xD;
+ti = zi.&#xD;
+Die Nation, eine Portion, der Patient, eine Station,&#xD;
+Pontius, eine Lection, die Auction. Die Deutschen bil=&#xD;
+den eine Nation. Den Kranken nennt man auch Patient.&#xD;
+An der Eiſenbahn ſind Stationen; hier halten die Züge still.&#xD;
+y, X.&#xD;
+x. X = ks.&#xD;
+Eine Axt, die Achſel, die Taxe, die Hexe, Xaverius,&#xD;
+Xanten, die Eidechſe, Taxus. Der Holzhauer braucht&#xD;
+die Axt. Der Taxus iſt ein Baum. Aus Flachs ſpinnt&#xD;
+man Garn. Man muß die Taxe bezahlen. Lanten ist&#xD;
+eine Stadt. Max, Felix und Xaver sind Namen.&#xD;
+y, Y.&#xD;
+y, Y = i.&#xD;
+Der Syrup, ein Tyrann, Tyrol, die Yſſel; Cyrus,&#xD;
+Carl, Christoph. Der Syrup ist süß. Die Yssel ist ein&#xD;
+Fluß. Ypsilon ist ein Buchſtabe. Cypern und Ceylon&#xD;
+ſind Inſeln.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
