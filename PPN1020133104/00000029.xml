@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:14.182+02:00</Created>
+        <LastChange>2020-04-28T22:31:57.519+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576701" pageNr="29" tsid="28448504" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=TCTMVJMRPNKOGTAENYDDGWJR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CSZKLHYFGEGMTVSEQCBNYDLH" imageId="10530948"/>
+    </Metadata>
+    <Page imageFilename="00000029.tif" imageWidth="1820" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="56,0 1820,0 1820,3014 56,3014"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850317" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="21,133 1638,135 1648,2776 31,2774"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1459,171 1518,171 1518,215 1459,215"/>
+                <TextEquiv>
+                    <Unicode>25</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="634,297 967,297 967,371 634,371"/>
+                <TextEquiv>
+                    <Unicode>Wiegenlied.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="176,381 1519,381 1519,461 176,461"/>
+                <TextEquiv>
+                    <Unicode>Schlafe, Kindlein, hold und ſüß, wie im Engel=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="73,469 1521,469 1521,549 73,549"/>
+                <TextEquiv>
+                    <Unicode>paradies; ſchlaf in ſtiller, ſüßer Ruh', thu die kleinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="74,545 370,545 370,622 74,622"/>
+                <TextEquiv>
+                    <Unicode>Äuglein zu.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="176,643 1521,643 1521,724 176,724"/>
+                <TextEquiv>
+                    <Unicode>Draußen ſtehn die Lilien weiß, haben allerschönſten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="74,729 1517,729 1517,811 74,811"/>
+                <TextEquiv>
+                    <Unicode>Preis; droben in der lichten Höh' ſtehn die Englein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="70,816 518,816 518,885 70,885"/>
+                <TextEquiv>
+                    <Unicode>weiß wie Schnee.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="172,904 1520,904 1520,985 172,985"/>
+                <TextEquiv>
+                    <Unicode>Kommt, ihr Englein, weiß und fein! wiegt mir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="69,990 1516,990 1516,1073 69,1073"/>
+                <TextEquiv>
+                    <Unicode>ſchön mein Kindelein; wiegt ſein Herzchen fromm und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="70,1078 975,1078 975,1155 70,1155"/>
+                <TextEquiv>
+                    <Unicode>gut, wie der Wind der Lilie thut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="168,1166 1512,1166 1512,1248 168,1248"/>
+                <TextEquiv>
+                    <Unicode>Schlafe, Kindlein, ſchlafe nun! ſollſt in Gottes</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="72,1251 1515,1251 1515,1332 72,1332"/>
+                <TextEquiv>
+                    <Unicode>Frieden ruhn; denn die frommen Engelein wollen deine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="71,1338 398,1338 398,1405 71,1405"/>
+                <TextEquiv>
+                    <Unicode>Wächter ſein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="619,1512 952,1512 952,1572 619,1572"/>
+                <TextEquiv>
+                    <Unicode>Am Abend.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="265,1597 1261,1597 1261,1677 265,1677"/>
+                <TextEquiv>
+                    <Unicode>Kommt die Nacht mit ihren Sternen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="267,1684 1139,1684 1139,1762 267,1762"/>
+                <TextEquiv>
+                    <Unicode>hört das Kindlein auf zu lernen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="265,1770 1045,1770 1045,1845 265,1845"/>
+                <TextEquiv>
+                    <Unicode>legt ſich ſtill ins Bett hinein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="263,1859 1126,1859 1126,1933 263,1933"/>
+                <TextEquiv>
+                    <Unicode>betet fromm und ſchlummert ein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="264,1945 1044,1945 1044,2022 264,2022"/>
+                <TextEquiv>
+                    <Unicode>Und die Engel ſteigen nieder,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="263,2031 1047,2031 1047,2107 263,2107"/>
+                <TextEquiv>
+                    <Unicode>ſingen ihm viel ſchöne Lieder.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="262,2120 1099,2120 1099,2196 262,2196"/>
+                <TextEquiv>
+                    <Unicode>An dem Bettlein leis und ſacht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="262,2206 985,2206 985,2282 262,2282"/>
+                <TextEquiv>
+                    <Unicode>wachen ſie die ganze Nacht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="98,2410 1324,2410 1324,2510 98,2510"/>
+                <TextEquiv>
+                    <Unicode>Mit Gott fang an; mit Gott hör auf;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="95,2510 953,2510 953,2600 95,2600"/>
+                <TextEquiv>
+                    <Unicode>das iſt der beſte Lebenslauf.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25&#xD;
+Wiegenlied.&#xD;
+Schlafe, Kindlein, hold und ſüß, wie im Engel=&#xD;
+paradies; ſchlaf in ſtiller, ſüßer Ruh', thu die kleinen&#xD;
+Äuglein zu.&#xD;
+Draußen ſtehn die Lilien weiß, haben allerschönſten&#xD;
+Preis; droben in der lichten Höh' ſtehn die Englein,&#xD;
+weiß wie Schnee.&#xD;
+Kommt, ihr Englein, weiß und fein! wiegt mir&#xD;
+ſchön mein Kindelein; wiegt ſein Herzchen fromm und&#xD;
+gut, wie der Wind der Lilie thut.&#xD;
+Schlafe, Kindlein, ſchlafe nun! ſollſt in Gottes&#xD;
+Frieden ruhn; denn die frommen Engelein wollen deine&#xD;
+Wächter ſein.&#xD;
+Am Abend.&#xD;
+Kommt die Nacht mit ihren Sternen,&#xD;
+hört das Kindlein auf zu lernen,&#xD;
+legt ſich ſtill ins Bett hinein,&#xD;
+betet fromm und ſchlummert ein.&#xD;
+Und die Engel ſteigen nieder,&#xD;
+ſingen ihm viel ſchöne Lieder.&#xD;
+An dem Bettlein leis und ſacht&#xD;
+wachen ſie die ganze Nacht.&#xD;
+Mit Gott fang an; mit Gott hör auf;&#xD;
+das iſt der beſte Lebenslauf.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

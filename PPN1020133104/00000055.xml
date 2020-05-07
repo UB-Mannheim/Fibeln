@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:26.704+02:00</Created>
+        <LastChange>2020-05-05T23:09:14.113+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576783" pageNr="55" tsid="28844829" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=TVUEIGJKPIVSHVGNOYOHMJKT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUSYWESPOOKPBQSTYLUWYJWO" imageId="10531030"/>
+    </Metadata>
+    <Page imageFilename="00000055.tif" imageWidth="1797" imageHeight="3060">
+        <PrintSpace>
+            <Coords points="0,2 1796,2 1796,3060 0,3060"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850902" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="21,162 1568,160 1577,2829 30,2831"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="569,223 952,223 952,271 569,271"/>
+                <TextEquiv>
+                    <Unicode>Von Jeſus Chriſtus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1406,238 1452,238 1452,278 1406,278"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="74,356 1455,356 1455,430 74,430"/>
+                <TextEquiv>
+                    <Unicode>ſchen redlich und aufrichtig. Er that ihnen nie das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="75,444 1457,444 1457,518 75,518"/>
+                <TextEquiv>
+                    <Unicode>kleinſte Unrecht, ſondern er wies ihnen alles Liebe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="75,532 1456,532 1456,606 75,606"/>
+                <TextEquiv>
+                    <Unicode>und Gute. Man mußte ihn alle Tage lieber haben!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="211,638 1458,638 1458,711 211,711"/>
+                <TextEquiv>
+                    <Unicode>Der Knabe Jeſus war recht folgſam. Er that</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="75,725 1458,725 1458,798 75,798"/>
+                <TextEquiv>
+                    <Unicode>ſeiner Mutter alles zu lieb, was er ihr nur an den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="76,812 1454,812 1454,887 76,887"/>
+                <TextEquiv>
+                    <Unicode>Augen abſehen konnte. Er half ſeinem Pflegevater,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="77,899 1456,899 1456,972 77,972"/>
+                <TextEquiv>
+                    <Unicode>der ein Zimmermann war, treulich bei der Arbeit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="79,987 1456,987 1456,1063 79,1063"/>
+                <TextEquiv>
+                    <Unicode>Er war voll Liebe und Dank gegen ſeine El tern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="77,1074 1082,1074 1082,1145 77,1145"/>
+                <TextEquiv>
+                    <Unicode>und war ihnen in allem unterthan.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="212,1162 1458,1162 1458,1237 212,1237"/>
+                <TextEquiv>
+                    <Unicode>Liebſte Kinder! Dem Knaben Jeſus ſollt auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="83,1249 1461,1249 1461,1323 83,1323"/>
+                <TextEquiv>
+                    <Unicode>ihr in allem ähnlich werden. Habt ſein Bild im=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="81,1336 1460,1336 1460,1413 81,1413"/>
+                <TextEquiv>
+                    <Unicode>mer vor Augen. Fromm, fleißig, freundlich, folg=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="81,1424 1455,1424 1455,1501 81,1501"/>
+                <TextEquiv>
+                    <Unicode>ſam, war der kleine Jeſus. Fromm, fleißig, freundlich,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="80,1511 1460,1511 1460,1591 80,1591"/>
+                <TextEquiv>
+                    <Unicode>folgſam, ſollt auch ihr ſein. Diese vier F müßt ihr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="81,1598 1461,1598 1461,1674 81,1674"/>
+                <TextEquiv>
+                    <Unicode>euch recht merken. Dann kommt dazu noch von ſelbſt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="85,1683 1396,1683 1396,1763 85,1763"/>
+                <TextEquiv>
+                    <Unicode>das fünfte F. Ihr ſeid dann auch ſtets fröhlich.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="726,1914 822,1914 822,1962 726,1962"/>
+                <TextEquiv>
+                    <Unicode>III.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="83,2002 1464,2002 1464,2082 83,2082"/>
+                <TextEquiv>
+                    <Unicode>Jeſus Chriſtus, der beſte Lehrer der Kinder.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="217,2140 1463,2140 1463,2220 217,2220"/>
+                <TextEquiv>
+                    <Unicode>Als Jeſus dreißig Jahre alt war, fing er an,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="86,2226 1465,2226 1465,2305 86,2305"/>
+                <TextEquiv>
+                    <Unicode>die Menſchen zu lehren. Er hatte viele Jünger.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="87,2312 1465,2312 1465,2394 87,2394"/>
+                <TextEquiv>
+                    <Unicode>Einſt zeigte er ſich ſeinen drei liebſten Jüngern auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="86,2400 1465,2400 1465,2479 86,2479"/>
+                <TextEquiv>
+                    <Unicode>einem Berge in himmliſcher Klarheit und Schönheit.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="85,2486 1463,2486 1463,2566 85,2566"/>
+                <TextEquiv>
+                    <Unicode>Da kam eine Stimme vom Himmel, und ſprach:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="90,2574 1465,2574 1465,2654 90,2654"/>
+                <TextEquiv>
+                    <Unicode>„Dieſer iſt mein lieber Sohn, an dem ich Wohlge=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="87,2661 1137,2661 1137,2738 87,2738"/>
+                <TextEquiv>
+                    <Unicode>fallen habe. Dieſen ſollt ihr hören."</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von Jeſus Chriſtus.&#xD;
+15&#xD;
+ſchen redlich und aufrichtig. Er that ihnen nie das&#xD;
+kleinſte Unrecht, ſondern er wies ihnen alles Liebe&#xD;
+und Gute. Man mußte ihn alle Tage lieber haben!&#xD;
+Der Knabe Jeſus war recht folgſam. Er that&#xD;
+ſeiner Mutter alles zu lieb, was er ihr nur an den&#xD;
+Augen abſehen konnte. Er half ſeinem Pflegevater,&#xD;
+der ein Zimmermann war, treulich bei der Arbeit.&#xD;
+Er war voll Liebe und Dank gegen ſeine El tern,&#xD;
+und war ihnen in allem unterthan.&#xD;
+Liebſte Kinder! Dem Knaben Jeſus ſollt auch&#xD;
+ihr in allem ähnlich werden. Habt ſein Bild im=&#xD;
+mer vor Augen. Fromm, fleißig, freundlich, folg=&#xD;
+ſam, war der kleine Jeſus. Fromm, fleißig, freundlich,&#xD;
+folgſam, ſollt auch ihr ſein. Diese vier F müßt ihr&#xD;
+euch recht merken. Dann kommt dazu noch von ſelbſt&#xD;
+das fünfte F. Ihr ſeid dann auch ſtets fröhlich.&#xD;
+III.&#xD;
+Jeſus Chriſtus, der beſte Lehrer der Kinder.&#xD;
+Als Jeſus dreißig Jahre alt war, fing er an,&#xD;
+die Menſchen zu lehren. Er hatte viele Jünger.&#xD;
+Einſt zeigte er ſich ſeinen drei liebſten Jüngern auf&#xD;
+einem Berge in himmliſcher Klarheit und Schönheit.&#xD;
+Da kam eine Stimme vom Himmel, und ſprach:&#xD;
+„Dieſer iſt mein lieber Sohn, an dem ich Wohlge=&#xD;
+fallen habe. Dieſen ſollt ihr hören."</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

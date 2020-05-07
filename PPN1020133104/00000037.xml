@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:18.056+02:00</Created>
+        <LastChange>2020-05-01T22:17:31.698+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576726" pageNr="37" tsid="28674538" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=ALVHHOFRMRIEFMHFSPDCHSOE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HFMRNRIXXBQOJYMFBOQLWDCH" imageId="10530973"/>
+    </Metadata>
+    <Page imageFilename="00000037.tif" imageWidth="1805" imageHeight="3046">
+        <PrintSpace>
+            <Coords points="17,160 1771,160 1771,2814 17,2814"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850494" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="13,122 1601,121 1544,2868 -44,2869"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1433,185 1493,185 1493,229 1433,229"/>
+                <TextEquiv>
+                    <Unicode>33</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="44,304 1494,304 1494,383 44,383"/>
+                <TextEquiv>
+                    <Unicode>Jäger rief: Stärlein, wo biſt du? ſo ſchrie der Star</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="46,391 1494,391 1494,472 46,472"/>
+                <TextEquiv>
+                    <Unicode>allemal: Da bin ich! Des Nachbarn kleiner Karl hatte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="46,479 1493,479 1493,559 46,559"/>
+                <TextEquiv>
+                    <Unicode>eine ganz beſondere Freude an dem Vogel und beſuchte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="47,566 1493,566 1493,647 47,647"/>
+                <TextEquiv>
+                    <Unicode>den Jäger ſehr oft. Einmal kam Karl wieder; der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="45,653 1492,653 1492,734 45,734"/>
+                <TextEquiv>
+                    <Unicode>Jäger war aber nicht in der Stube. Schnell fing Karl</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="49,740 1492,740 1492,821 49,821"/>
+                <TextEquiv>
+                    <Unicode>den Vogel, ſteckte ihn in die Taſche und wollte damit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="47,828 1491,828 1491,908 47,908"/>
+                <TextEquiv>
+                    <Unicode>fortgehen. Da kam aber der Jäger gerade zur Thüre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="50,915 1492,915 1492,996 50,996"/>
+                <TextEquiv>
+                    <Unicode>herein. Er wollte dem Knaben eine Freude machen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="48,1002 1490,1002 1490,1082 48,1082"/>
+                <TextEquiv>
+                    <Unicode>und rief daher: Stärlein, wo biſt du? — und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="51,1089 1490,1089 1490,1170 51,1170"/>
+                <TextEquiv>
+                    <Unicode>Vogel in der Tasche des Knaben ſchrie ſo laut er konnte:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="48,1167 1490,1167 1490,1257 48,1257"/>
+                <TextEquiv>
+                    <Unicode>Da bin ich! Über und über rot vor Scham, gab Karl</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="52,1262 1487,1262 1487,1345 52,1345"/>
+                <TextEquiv>
+                    <Unicode>den Vogel heraus und durfte ſich nie mehr bei dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="50,1349 531,1349 531,1420 50,1420"/>
+                <TextEquiv>
+                    <Unicode>Jäger ſehen laſſen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="255,1572 1294,1572 1294,1663 255,1663"/>
+                <TextEquiv>
+                    <Unicode>15. Wie die Tiere ſich nähren.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="320,1698 1034,1698 1034,1771 320,1771"/>
+                <TextEquiv>
+                    <Unicode>Die Tauben freſſen Wicken,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:16;}">
+                <Coords points="318,1784 1111,1784 1111,1859 318,1859"/>
+                <TextEquiv>
+                    <Unicode>die Schwalben fangen Mücken,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="318,1872 944,1872 944,1944 318,1944"/>
+                <TextEquiv>
+                    <Unicode>die Schafe freſſen Gras,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="321,1959 918,1959 918,2031 321,2031"/>
+                <TextEquiv>
+                    <Unicode>die Raben ſpeiſen Aas,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:19;}">
+                <Coords points="319,2046 1116,2046 1116,2122 319,2122"/>
+                <TextEquiv>
+                    <Unicode>die Störche haſchen Schlangen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:20;}">
+                <Coords points="318,2133 1086,2133 1086,2209 318,2209"/>
+                <TextEquiv>
+                    <Unicode>die Katz' muß Mäuſe fangen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="319,2220 1118,2220 1118,2297 319,2297"/>
+                <TextEquiv>
+                    <Unicode>die Kuh mag Heu und Stroh,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="317,2308 1170,2308 1170,2387 317,2387"/>
+                <TextEquiv>
+                    <Unicode>ein Korn macht's Spätzlein froh,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:23;}">
+                <Coords points="317,2395 1006,2395 1006,2468 317,2468"/>
+                <TextEquiv>
+                    <Unicode>die Stare freſſen Spinnen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:24;}">
+                <Coords points="317,2482 1092,2482 1092,2557 317,2557"/>
+                <TextEquiv>
+                    <Unicode>die Ente ſchlürft ans Rinnen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="English" custom="readingOrder {index:25;}">
+                <Coords points="315,2570 1141,2570 1141,2646 315,2646"/>
+                <TextEquiv>
+                    <Unicode>das Schwein wühlt im Moraſt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="English" custom="readingOrder {index:26;}">
+                <Coords points="314,2658 1103,2658 1103,2735 314,2735"/>
+                <TextEquiv>
+                    <Unicode>Ich möcht nicht ſein ihr Gast.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="121,2756 819,2756 819,2799 121,2799"/>
+                <TextEquiv>
+                    <Unicode>Hoffmann, Fibel. II. Abtlg. Kl. Ausg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="English" custom="readingOrder {index:28;}">
+                <Coords points="1287,2772 1308,2772 1308,2806 1287,2806"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>33&#xD;
+Jäger rief: Stärlein, wo biſt du? ſo ſchrie der Star&#xD;
+allemal: Da bin ich! Des Nachbarn kleiner Karl hatte&#xD;
+eine ganz beſondere Freude an dem Vogel und beſuchte&#xD;
+den Jäger ſehr oft. Einmal kam Karl wieder; der&#xD;
+Jäger war aber nicht in der Stube. Schnell fing Karl&#xD;
+den Vogel, ſteckte ihn in die Taſche und wollte damit&#xD;
+fortgehen. Da kam aber der Jäger gerade zur Thüre&#xD;
+herein. Er wollte dem Knaben eine Freude machen&#xD;
+und rief daher: Stärlein, wo biſt du? — und der&#xD;
+Vogel in der Tasche des Knaben ſchrie ſo laut er konnte:&#xD;
+Da bin ich! Über und über rot vor Scham, gab Karl&#xD;
+den Vogel heraus und durfte ſich nie mehr bei dem&#xD;
+Jäger ſehen laſſen.&#xD;
+15. Wie die Tiere ſich nähren.&#xD;
+Die Tauben freſſen Wicken,&#xD;
+die Schwalben fangen Mücken,&#xD;
+die Schafe freſſen Gras,&#xD;
+die Raben ſpeiſen Aas,&#xD;
+die Störche haſchen Schlangen,&#xD;
+die Katz' muß Mäuſe fangen,&#xD;
+die Kuh mag Heu und Stroh,&#xD;
+ein Korn macht's Spätzlein froh,&#xD;
+die Stare freſſen Spinnen,&#xD;
+die Ente ſchlürft ans Rinnen,&#xD;
+das Schwein wühlt im Moraſt.&#xD;
+Ich möcht nicht ſein ihr Gast.&#xD;
+Hoffmann, Fibel. II. Abtlg. Kl. Ausg.&#xD;
+3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

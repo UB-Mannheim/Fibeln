@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:15.557+02:00</Created>
+        <LastChange>2020-05-01T12:54:10.751+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576710" pageNr="32" tsid="28648593" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=EVYJXCAQXVJWVGYSKMVJKZKL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IXASNYKLYOHWMZZNKKEZGDJO" imageId="10530957"/>
+    </Metadata>
+    <Page imageFilename="00000032.tif" imageWidth="1824" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="302,158 1762,158 1762,3043 302,3043"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850382" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="231,127 1794,125 1799,2759 236,2761"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="317,168 378,168 378,213 317,213"/>
+                <TextEquiv>
+                    <Unicode>28</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="314,282 1733,282 1733,364 314,364"/>
+                <TextEquiv>
+                    <Unicode>leſen aus Büchern und ſchreiben auf die Tafeln. Auch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="314,371 1733,371 1733,451 314,451"/>
+                <TextEquiv>
+                    <Unicode>rechnen und ſingen ſie. Die Kinder ſollen auf den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="315,457 1734,457 1734,539 315,539"/>
+                <TextEquiv>
+                    <Unicode>Lehrer hören. Sie dürfen nicht plaudern. Wer nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="317,544 1731,544 1731,627 317,627"/>
+                <TextEquiv>
+                    <Unicode>hört, lernt nichts. Das fleißige Kind lobt der Lehrer.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="319,632 1734,632 1734,709 319,709"/>
+                <TextEquiv>
+                    <Unicode>Mit dem Faulen iſt er unzufrieden. Ich will meinem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="317,718 1736,718 1736,800 317,800"/>
+                <TextEquiv>
+                    <Unicode>Lehrer Freude machen. Ich will ein fleißiges Kind ſein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="421,806 1736,806 1736,885 421,885"/>
+                <TextEquiv>
+                    <Unicode>Bin ich gleich noch jung und klein, fleißig kann ich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="319,906 717,906 717,974 319,974"/>
+                <TextEquiv>
+                    <Unicode>doch schon ſein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="423,1041 1618,1041 1618,1135 423,1135"/>
+                <TextEquiv>
+                    <Unicode>4. Was das Kind fleißig üben ſoll.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="672,1151 1476,1151 1476,1224 672,1224"/>
+                <TextEquiv>
+                    <Unicode>Wahrheit reden, Lügen fliehen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="602,1236 1565,1236 1565,1310 602,1310"/>
+                <TextEquiv>
+                    <Unicode>Blümlein pflanzen, Bäumchen ziehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="603,1327 1267,1327 1267,1399 603,1399"/>
+                <TextEquiv>
+                    <Unicode>Alte ehren, Blinde leiten,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="606,1412 1354,1412 1354,1482 606,1482"/>
+                <TextEquiv>
+                    <Unicode>Gutes denken, Böſes meiden,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="603,1498 1420,1498 1420,1573 603,1573"/>
+                <TextEquiv>
+                    <Unicode>Hände waſchen, Kleider ſchonen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="604,1585 1528,1585 1528,1658 604,1658"/>
+                <TextEquiv>
+                    <Unicode>Dienste leiſten, Freundſchaft lohnen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:16;}">
+                <Coords points="608,1671 1464,1671 1464,1746 608,1746"/>
+                <TextEquiv>
+                    <Unicode>Wohlthat merken, Leid vergeſſen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="608,1758 1493,1758 1493,1834 608,1834"/>
+                <TextEquiv>
+                    <Unicode>Waſſer trinken, Schwarzbrot eſſen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="608,1847 1322,1847 1322,1921 608,1921"/>
+                <TextEquiv>
+                    <Unicode>Bücher leſen, Lieder ſingen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:19;}">
+                <Coords points="608,1935 1395,1935 1395,2007 608,2007"/>
+                <TextEquiv>
+                    <Unicode>Arbeit ſuchen, Nutzen bringen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:20;}">
+                <Coords points="606,2023 1367,2023 1367,2095 606,2095"/>
+                <TextEquiv>
+                    <Unicode>Laſter haſſen, Tugend lieben,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="609,2109 1401,2109 1401,2179 609,2179"/>
+                <TextEquiv>
+                    <Unicode>dies nur will ich fleißig üben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="804,2248 1275,2248 1275,2332 804,2332"/>
+                <TextEquiv>
+                    <Unicode>5. Das Buch.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:23;}">
+                <Coords points="433,2350 1748,2350 1748,2429 433,2429"/>
+                <TextEquiv>
+                    <Unicode>Ich habe ein Buch. Dieſes Buch iſt mir lieb.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:24;}">
+                <Coords points="331,2437 1744,2437 1744,2514 331,2514"/>
+                <TextEquiv>
+                    <Unicode>Die Bilder darin freuen mich und ich betrachte ſie gerne.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="English" custom="readingOrder {index:25;}">
+                <Coords points="331,2524 1751,2524 1751,2603 331,2603"/>
+                <TextEquiv>
+                    <Unicode>Ich leſe fleißig in meinem Buche und ſchreibe die Wörter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="English" custom="readingOrder {index:26;}">
+                <Coords points="332,2611 1750,2611 1750,2690 332,2690"/>
+                <TextEquiv>
+                    <Unicode>aus demſelben ab. Das Buch hat viele Blätter. Dieſe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>28&#xD;
+leſen aus Büchern und ſchreiben auf die Tafeln. Auch&#xD;
+rechnen und ſingen ſie. Die Kinder ſollen auf den&#xD;
+Lehrer hören. Sie dürfen nicht plaudern. Wer nicht&#xD;
+hört, lernt nichts. Das fleißige Kind lobt der Lehrer.&#xD;
+Mit dem Faulen iſt er unzufrieden. Ich will meinem&#xD;
+Lehrer Freude machen. Ich will ein fleißiges Kind ſein.&#xD;
+Bin ich gleich noch jung und klein, fleißig kann ich&#xD;
+doch schon ſein.&#xD;
+4. Was das Kind fleißig üben ſoll.&#xD;
+Wahrheit reden, Lügen fliehen,&#xD;
+Blümlein pflanzen, Bäumchen ziehen,&#xD;
+Alte ehren, Blinde leiten,&#xD;
+Gutes denken, Böſes meiden,&#xD;
+Hände waſchen, Kleider ſchonen,&#xD;
+Dienste leiſten, Freundſchaft lohnen,&#xD;
+Wohlthat merken, Leid vergeſſen,&#xD;
+Waſſer trinken, Schwarzbrot eſſen,&#xD;
+Bücher leſen, Lieder ſingen,&#xD;
+Arbeit ſuchen, Nutzen bringen,&#xD;
+Laſter haſſen, Tugend lieben,&#xD;
+dies nur will ich fleißig üben.&#xD;
+5. Das Buch.&#xD;
+Ich habe ein Buch. Dieſes Buch iſt mir lieb.&#xD;
+Die Bilder darin freuen mich und ich betrachte ſie gerne.&#xD;
+Ich leſe fleißig in meinem Buche und ſchreibe die Wörter&#xD;
+aus demſelben ab. Das Buch hat viele Blätter. Dieſe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

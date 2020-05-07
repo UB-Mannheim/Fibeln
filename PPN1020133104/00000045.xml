@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:21.873+02:00</Created>
+        <LastChange>2020-05-03T18:07:12.636+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576751" pageNr="45" tsid="28700759" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=COVYNNIBMFMQZVKBBLTQEBYP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PYNPWXZSAPSAIVZHXWIGSDKA" imageId="10530998"/>
+    </Metadata>
+    <Page imageFilename="00000045.tif" imageWidth="1815" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="18,46 1815,46 1815,3052 18,3052"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850667" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="36,153 1596,153 1597,2886 37,2886"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="690,235 877,235 877,273 690,273"/>
+                <TextEquiv>
+                    <Unicode>Von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="line_1587565263646_2579" custom="readingOrder {index:1;}">
+                <Coords points="1436,239 1483,239 1483,300 1436,300"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="77,358 1470,358 1470,440 77,440"/>
+                <TextEquiv>
+                    <Unicode>Der Mond hängt frei in der Luft, weil er ihn hält.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="78,445 1472,445 1472,527 78,527"/>
+                <TextEquiv>
+                    <Unicode>Ein Hauch von ihm ſchuf das Heer der Stern'. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="77,533 1470,533 1470,616 77,616"/>
+                <TextEquiv>
+                    <Unicode>Wind weht, wann Gott es ihm heißt. Gott ruft dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="79,621 1473,621 1473,703 79,703"/>
+                <TextEquiv>
+                    <Unicode>Blitz, und der Blitz ſchlägt ein, wann und wo Gott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="79,708 1470,708 1470,791 79,791"/>
+                <TextEquiv>
+                    <Unicode>will. Gott ſpricht und das Eis ſchmilzt, das Feld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="80,799 1470,799 1470,878 80,878"/>
+                <TextEquiv>
+                    <Unicode>grünt, der Baum blüht, das Korn und das Obſt reift.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="78,884 1471,884 1471,966 78,966"/>
+                <TextEquiv>
+                    <Unicode>Gott winkt, und das Laub wird gelb und fällt ab; der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="80,974 1469,974 1469,1054 80,1054"/>
+                <TextEquiv>
+                    <Unicode>Bach wird Eis, und Schnee deckt das Land. Gott macht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="80,1061 1471,1061 1471,1140 80,1140"/>
+                <TextEquiv>
+                    <Unicode>daß der Menſch lebt. So bald Gott will, ſtirbt der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="81,1149 1471,1149 1471,1228 81,1228"/>
+                <TextEquiv>
+                    <Unicode>Menſch und ſinkt in das Grab. Ein Wort, ein Wink</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="80,1235 1209,1235 1209,1312 80,1312"/>
+                <TextEquiv>
+                    <Unicode>von Gott, und die Welt hört auf zu ſein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="750,1370 797,1370 797,1419 750,1419"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="213,1458 1470,1458 1470,1537 213,1537"/>
+                <TextEquiv>
+                    <Unicode>Gott iſt gut und hat dich lieb, mein Kind! Was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="77,1546 1470,1546 1470,1624 77,1624"/>
+                <TextEquiv>
+                    <Unicode>wahr und gut und ſchön iſt, das iſt von Gott. Auch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="79,1633 1469,1633 1469,1713 79,1713"/>
+                <TextEquiv>
+                    <Unicode>dir zu lieb malt er die Blüt' am Baum ſo ſchön weiß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="81,1720 1469,1720 1469,1798 81,1798"/>
+                <TextEquiv>
+                    <Unicode>und rot. Auch dir zu lieb färbt er das Gras und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="78,1808 1470,1808 1470,1887 78,1887"/>
+                <TextEquiv>
+                    <Unicode>Laub ſo ſchön grün. Auch dir zu lieb macht er, daß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="78,1896 1471,1896 1471,1975 78,1975"/>
+                <TextEquiv>
+                    <Unicode>der Tau ſo ſchön rot, gelb und blau ſtrahlt. Er gibt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="81,1983 1471,1983 1471,2062 81,2062"/>
+                <TextEquiv>
+                    <Unicode>uns das Korn, aus dem man Mehl macht und Brot</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="79,2070 1468,2070 1468,2149 79,2149"/>
+                <TextEquiv>
+                    <Unicode>backt. Er gibt uns die Milch, die ſo frisch und ſüß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="80,2158 1470,2158 1470,2237 80,2237"/>
+                <TextEquiv>
+                    <Unicode>iſt. Auch das Obst, das dir ſo wohl ſchmeckt, kommt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="80,2246 1470,2246 1470,2325 80,2325"/>
+                <TextEquiv>
+                    <Unicode>von ihm. Was du nur haſt, das haſt du von Gott. Dein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="81,2334 1470,2334 1470,2412 81,2412"/>
+                <TextEquiv>
+                    <Unicode>Kleid und dein Bett gab er dir. Auch den Schlaf, der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="80,2421 1467,2421 1467,2501 80,2501"/>
+                <TextEquiv>
+                    <Unicode>dich ſtärkt, ſchickt er dir. Er macht, daß du lebſt und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="78,2508 1469,2508 1469,2588 78,2588"/>
+                <TextEquiv>
+                    <Unicode>friſch und wohl biſt. Und Gott ſorgt nicht nur für</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="79,2597 1468,2597 1468,2677 79,2677"/>
+                <TextEquiv>
+                    <Unicode>dich; er nährt auch den Wurm im Staub; er tränkt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="75,2683 1468,2683 1468,2763 75,2763"/>
+                <TextEquiv>
+                    <Unicode>die Blum' im Gras. Doch iſt ihm nichts in der Welt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von Gott.&#xD;
+5&#xD;
+Der Mond hängt frei in der Luft, weil er ihn hält.&#xD;
+Ein Hauch von ihm ſchuf das Heer der Stern'. Der&#xD;
+Wind weht, wann Gott es ihm heißt. Gott ruft dem&#xD;
+Blitz, und der Blitz ſchlägt ein, wann und wo Gott&#xD;
+will. Gott ſpricht und das Eis ſchmilzt, das Feld&#xD;
+grünt, der Baum blüht, das Korn und das Obſt reift.&#xD;
+Gott winkt, und das Laub wird gelb und fällt ab; der&#xD;
+Bach wird Eis, und Schnee deckt das Land. Gott macht,&#xD;
+daß der Menſch lebt. So bald Gott will, ſtirbt der&#xD;
+Menſch und ſinkt in das Grab. Ein Wort, ein Wink&#xD;
+von Gott, und die Welt hört auf zu ſein.&#xD;
+4.&#xD;
+Gott iſt gut und hat dich lieb, mein Kind! Was&#xD;
+wahr und gut und ſchön iſt, das iſt von Gott. Auch&#xD;
+dir zu lieb malt er die Blüt' am Baum ſo ſchön weiß&#xD;
+und rot. Auch dir zu lieb färbt er das Gras und&#xD;
+Laub ſo ſchön grün. Auch dir zu lieb macht er, daß&#xD;
+der Tau ſo ſchön rot, gelb und blau ſtrahlt. Er gibt&#xD;
+uns das Korn, aus dem man Mehl macht und Brot&#xD;
+backt. Er gibt uns die Milch, die ſo frisch und ſüß&#xD;
+iſt. Auch das Obst, das dir ſo wohl ſchmeckt, kommt&#xD;
+von ihm. Was du nur haſt, das haſt du von Gott. Dein&#xD;
+Kleid und dein Bett gab er dir. Auch den Schlaf, der&#xD;
+dich ſtärkt, ſchickt er dir. Er macht, daß du lebſt und&#xD;
+friſch und wohl biſt. Und Gott ſorgt nicht nur für&#xD;
+dich; er nährt auch den Wurm im Staub; er tränkt&#xD;
+die Blum' im Gras. Doch iſt ihm nichts in der Welt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

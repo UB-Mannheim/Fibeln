@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:16.828+02:00</Created>
+        <LastChange>2020-05-01T15:11:56.350+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576720" pageNr="35" tsid="28651388" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=YZCFACPRKTWIPIIGVQMZJLUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LATWDPIVPFMJOSDSENAUTYVT" imageId="10530967"/>
+    </Metadata>
+    <Page imageFilename="00000035.tif" imageWidth="1821" imageHeight="3052">
+        <PrintSpace>
+            <Coords points="6,11 1827,11 1827,3058 6,3058"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850451" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="23,145 1581,131 1588,2795 30,2809"/>
+            <TextLine id="line_1588338416947_2613" custom="readingOrder {index:0;}">
+                <Coords points="1430,155 1513,155 1513,228 1430,228"/>
+                <TextEquiv>
+                    <Unicode>31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="332,300 1223,300 1223,356 332,356"/>
+                <TextEquiv>
+                    <Unicode>wenn die kleinen muntern Knaben</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="334,387 1060,387 1060,456 334,456"/>
+                <TextEquiv>
+                    <Unicode>ſollen in die Schule traben,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="338,474 1149,474 1149,544 338,544"/>
+                <TextEquiv>
+                    <Unicode>Spindeln, ſchöne Spinnerädchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="339,561 1200,561 1200,630 339,630"/>
+                <TextEquiv>
+                    <Unicode>für die lieben muntern Mädchen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="569,700 1013,700 1013,785 569,785"/>
+                <TextEquiv>
+                    <Unicode>10. Die Uhr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="270,817 1308,817 1308,887 270,887"/>
+                <TextEquiv>
+                    <Unicode>Die Uhr ſeht an! So lang' ſie kann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="204,903 1307,903 1307,975 204,975"/>
+                <TextEquiv>
+                    <Unicode>ſieht man ſie gehn, hört man ſie schlagen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="198,990 1178,990 1178,1061 198,1061"/>
+                <TextEquiv>
+                    <Unicode>nicht bleibt ſie ſtehn, ſich zu beklagen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="201,1079 1197,1079 1197,1151 201,1151"/>
+                <TextEquiv>
+                    <Unicode>der Arbeit wegen, wie Faule pflegen;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="201,1166 1175,1166 1175,1235 201,1235"/>
+                <TextEquiv>
+                    <Unicode>drum an die Uhr denkt, Faule, nur!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="492,1324 1088,1324 1088,1407 492,1407"/>
+                <TextEquiv>
+                    <Unicode>11. Sittenſprüche.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="69,1439 1511,1439 1511,1513 69,1513"/>
+                <TextEquiv>
+                    <Unicode>1. Kind, denke nie: ich bin allein; denn Gott wird</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="150,1526 659,1526 659,1591 150,1591"/>
+                <TextEquiv>
+                    <Unicode>immer bei dir ſein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="69,1638 1082,1638 1082,1706 69,1706"/>
+                <TextEquiv>
+                    <Unicode>2. Ein junger Lügner, ein alter Dieb.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="148,1724 1198,1724 1198,1794 148,1794"/>
+                <TextEquiv>
+                    <Unicode>Ihr Kinder, behaltet die Wahrheit lieb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="68,1833 1225,1833 1225,1906 68,1906"/>
+                <TextEquiv>
+                    <Unicode>3. Ein gut Gewiſſen ein ſanftes Ruhekiſſen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="67,1943 1199,1943 1199,2017 67,2017"/>
+                <TextEquiv>
+                    <Unicode>4. Was du nicht willſt, das man dir thu',</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="149,2029 866,2029 866,2101 149,2101"/>
+                <TextEquiv>
+                    <Unicode>das füge keinem andern zu.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="67,2140 1002,2140 1002,2213 67,2213"/>
+                <TextEquiv>
+                    <Unicode>5. Quäle nie ein Tier zum Scherz,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="150,2229 1081,2229 1081,2300 150,2300"/>
+                <TextEquiv>
+                    <Unicode>denn es fühlt wie du den Schmerz.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="0,2337 1506,2337 1506,2416 0,2416"/>
+                <TextEquiv>
+                    <Unicode>‘ 6. Was Hänschen nicht lernet, du merke die Lehr', das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="146,2425 1074,2425 1074,2499 146,2499"/>
+                <TextEquiv>
+                    <Unicode>lernet der Hans wohl nimmermehr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="65,2528 791,2528 791,2605 65,2605"/>
+                <TextEquiv>
+                    <Unicode>7. Übermut thut ſelten gut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="65,2647 936,2647 936,2716 65,2716"/>
+                <TextEquiv>
+                    <Unicode>8. Gutes Wort findet guten Ort.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>31&#xD;
+wenn die kleinen muntern Knaben&#xD;
+ſollen in die Schule traben,&#xD;
+Spindeln, ſchöne Spinnerädchen&#xD;
+für die lieben muntern Mädchen.&#xD;
+10. Die Uhr.&#xD;
+Die Uhr ſeht an! So lang' ſie kann,&#xD;
+ſieht man ſie gehn, hört man ſie schlagen,&#xD;
+nicht bleibt ſie ſtehn, ſich zu beklagen&#xD;
+der Arbeit wegen, wie Faule pflegen;&#xD;
+drum an die Uhr denkt, Faule, nur!&#xD;
+11. Sittenſprüche.&#xD;
+1. Kind, denke nie: ich bin allein; denn Gott wird&#xD;
+immer bei dir ſein.&#xD;
+2. Ein junger Lügner, ein alter Dieb.&#xD;
+Ihr Kinder, behaltet die Wahrheit lieb.&#xD;
+3. Ein gut Gewiſſen ein ſanftes Ruhekiſſen.&#xD;
+4. Was du nicht willſt, das man dir thu',&#xD;
+das füge keinem andern zu.&#xD;
+5. Quäle nie ein Tier zum Scherz,&#xD;
+denn es fühlt wie du den Schmerz.&#xD;
+‘ 6. Was Hänschen nicht lernet, du merke die Lehr', das&#xD;
+lernet der Hans wohl nimmermehr.&#xD;
+7. Übermut thut ſelten gut.&#xD;
+8. Gutes Wort findet guten Ort.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

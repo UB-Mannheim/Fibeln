@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:13.352+02:00</Created>
+        <LastChange>2020-04-27T17:08:48.120+02:00</LastChange>
+        <Comments>
+                 <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576695" pageNr="27" tsid="28340160" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=XWUADQDVNGPKGXNUOHLVTOKD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GUHTBZBZZHPHIRCNYXTLPQFN" imageId="10530942"/>
+    </Metadata>
+    <Page imageFilename="00000027.tif" imageWidth="1806" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="0,0 1806,0 1806,3048 0,3048"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850274" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1587554514710_1437"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1587554514710_1437" custom="readingOrder {index:0;}">
+            <Coords points="7,98 1661,98 1661,2857 7,2857"/>
+            <TextLine id="line_1587554523695_1440" custom="readingOrder {index:0;}">
+                <Coords points="1385,152 1490,152 1490,224 1385,224"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554527851_1443" custom="readingOrder {index:1;}">
+                <Coords points="282,278 1002,278 1002,372 282,372"/>
+                <TextEquiv>
+                    <Unicode>Schütze du ſie allerwegen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554533007_1446" custom="readingOrder {index:2;}">
+                <Coords points="290,370 1097,370 1097,459 290,459"/>
+                <TextEquiv>
+                    <Unicode>Segne ſie mit deinem Segen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554537351_1449" custom="readingOrder {index:3;}">
+                <Coords points="286,453 1058,453 1058,547 286,547"/>
+                <TextEquiv>
+                    <Unicode>laß, o Gott, in deiner Hut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554543632_1452" custom="readingOrder {index:4;}">
+                <Coords points="304,547 1204,547 1204,636 304,636"/>
+                <TextEquiv>
+                    <Unicode>uns auch werden fromm und gut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554548929_1455" custom="readingOrder {index:5;}">
+                <Coords points="613,696 910,696 910,790 613,790"/>
+                <TextEquiv>
+                    <Unicode>Frühling.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554554820_1458" custom="readingOrder {index:6;}">
+                <Coords points="228,786 1239,786 1239,883 228,883"/>
+                <TextEquiv>
+                    <Unicode>Die Wieſe grünt. Der Vogel baut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554566492_1461" custom="readingOrder {index:7;}">
+                <Coords points="230,875 1268,875 1268,962 230,962"/>
+                <TextEquiv>
+                    <Unicode>Der Kuckuck ruft. Der Morgen taut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554571585_1464" custom="readingOrder {index:8;}">
+                <Coords points="224,960 1287,960 1287,1050 224,1050"/>
+                <TextEquiv>
+                    <Unicode>Das Veilchen blüht. Die Lerche ſingt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554577882_1467" custom="readingOrder {index:9;}">
+                <Coords points="226,1052 1497,1052 1497,1141 226,1141"/>
+                <TextEquiv>
+                    <Unicode>Der Kirſchbaum prangt. Der Frühling winkt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554582976_1470" custom="readingOrder {index:10;}">
+                <Coords points="634,1207 906,1207 906,1293 634,1293"/>
+                <TextEquiv>
+                    <Unicode>Sommer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554590679_1473" custom="readingOrder {index:11;}">
+                <Coords points="230,1297 1206,1297 1206,1386 230,1386"/>
+                <TextEquiv>
+                    <Unicode>Die Sonne ſticht. Die Rose blüht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554597617_1476" custom="readingOrder {index:12;}">
+                <Coords points="232,1386 1363,1386 1363,1477 232,1477"/>
+                <TextEquiv>
+                    <Unicode>Die Bohne rankt. Das Würmchen glüht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554603710_1479" custom="readingOrder {index:13;}">
+                <Coords points="228,1472 1237,1472 1237,1561 228,1561"/>
+                <TextEquiv>
+                    <Unicode>Die Kirſche reift. Die Sense klingt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587554611382_1482" custom="readingOrder {index:14;}">
+                <Coords points="232,1561 1324,1561 1324,1648 232,1648"/>
+                <TextEquiv>
+                    <Unicode>Die Garbe rauſcht. Die Erdbeer winkt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998519356_14572" custom="readingOrder {index:15;}">
+                <Coords points="29,1730 1054,1730 1054,1843 29,1843"/>
+                <TextEquiv>
+                    <Unicode>41. ie (getrennt zu leſen).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998524156_14575" custom="readingOrder {index:16;}">
+                <Coords points="612,1890 922,1890 922,1974 612,1974"/>
+                <TextEquiv>
+                    <Unicode>Die Lilie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998529496_14578" custom="readingOrder {index:17;}">
+                <Coords points="308,1995 1155,1995 1155,2078 308,2078"/>
+                <TextEquiv>
+                    <Unicode>Di ſchöne Lilie auf dem Feld,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998535666_14581" custom="readingOrder {index:18;}">
+                <Coords points="306,2091 997,2091 997,2168 306,2168"/>
+                <TextEquiv>
+                    <Unicode>wer hat in ſolcher Pracht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998541986_14584" custom="readingOrder {index:19;}">
+                <Coords points="310,2171 1164,2171 1164,2260 310,2260"/>
+                <TextEquiv>
+                    <Unicode>dich vor die Augen mir gestellt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998551866_14587" custom="readingOrder {index:20;}">
+                <Coords points="312,2265 1029,2265 1029,2342 312,2342"/>
+                <TextEquiv>
+                    <Unicode>wer dich ſo ſchön gemacht?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998565216_14590" custom="readingOrder {index:21;}">
+                <Coords points="316,2373 1243,2373 1243,2457 316,2457"/>
+                <TextEquiv>
+                    <Unicode>Wie trägſt du ſo ein weißes Kleid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998574685_14593" custom="readingOrder {index:22;}">
+                <Coords points="316,2465 1014,2465 1014,2547 316,2547"/>
+                <TextEquiv>
+                    <Unicode>mit goldnem Staub beſät,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998581240_14596" custom="readingOrder {index:23;}">
+                <Coords points="314,2551 1056,2551 1056,2634 314,2634"/>
+                <TextEquiv>
+                    <Unicode>daß Salomonis Herrlichkeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587998589165_14599" custom="readingOrder {index:24;}">
+                <Coords points="316,2639 958,2639 958,2724 316,2724"/>
+                <TextEquiv>
+                    <Unicode>vor deiner nicht beſteht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>23&#xD;
+Schütze du ſie allerwegen,&#xD;
+Segne ſie mit deinem Segen;&#xD;
+laß, o Gott, in deiner Hut&#xD;
+uns auch werden fromm und gut.&#xD;
+Frühling.&#xD;
+Die Wieſe grünt. Der Vogel baut.&#xD;
+Der Kuckuck ruft. Der Morgen taut.&#xD;
+Das Veilchen blüht. Die Lerche ſingt.&#xD;
+Der Kirſchbaum prangt. Der Frühling winkt.&#xD;
+Sommer.&#xD;
+Die Sonne ſticht. Die Rose blüht.&#xD;
+Die Bohne rankt. Das Würmchen glüht.&#xD;
+Die Kirſche reift. Die Sense klingt.&#xD;
+Die Garbe rauſcht. Die Erdbeer winkt.&#xD;
+41. ie (getrennt zu leſen).&#xD;
+Die Lilie&#xD;
+Di ſchöne Lilie auf dem Feld,&#xD;
+wer hat in ſolcher Pracht&#xD;
+dich vor die Augen mir gestellt,&#xD;
+wer dich ſo ſchön gemacht?&#xD;
+Wie trägſt du ſo ein weißes Kleid&#xD;
+mit goldnem Staub beſät,&#xD;
+daß Salomonis Herrlichkeit&#xD;
+vor deiner nicht beſteht.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

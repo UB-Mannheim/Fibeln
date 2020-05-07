@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:11.298+02:00</Created>
+        <LastChange>2020-04-27T16:09:26.404+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576679" pageNr="22" tsid="28335098" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=OFQASUCQVLGMHOVVEZSCVHCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XDWVNBDZJUASTHZQAPXRTEPU" imageId="10530926"/>
+    </Metadata>
+    <Page imageFilename="00000022.tif" imageWidth="1855" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="52,0 1855,0 1855,2726 52,2726"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850162" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:0;}">
+            <Coords points="177,145 1855,147 1852,2865 174,2863"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="358,300 1733,300 1733,399 358,399"/>
+                <TextEquiv>
+                    <Unicode>C. Fremde Buchstaben. Andersſchreibung einiger Laute.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="336,391 1242,391 1242,492 336,492"/>
+                <TextEquiv>
+                    <Unicode>30. Vielſilbige Wörter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="line_1587551541749_992" custom="readingOrder {index:2;}">
+                <Coords points="1096,519 1717,519 1717,738 1096,738"/>
+                <TextEquiv>
+                    <Unicode>Quelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587551548139_995" custom="readingOrder {index:3;}">
+                <Coords points="1100,722 1833,722 1833,978 1100,978"/>
+                <TextEquiv>
+                    <Unicode>Qu qu =  kw</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1084,997 1855,997 1855,1124 1084,1124"/>
+                <TextEquiv>
+                    <Unicode>Quelle Qu qu = kw.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="20.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="581,1138 1524,1138 1524,1218 581,1218"/>
+                <TextEquiv>
+                    <Unicode>Die Quelle ſprudelt und rieſelt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="764,1235 1371,1235 1371,1307 764,1307"/>
+                <TextEquiv>
+                    <Unicode>Quelle, Quelle, Quelle,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="764,1319 1248,1319 1248,1389 764,1389"/>
+                <TextEquiv>
+                    <Unicode>liebe, kleine Welle,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="764,1400 1337,1400 1337,1472 764,1472"/>
+                <TextEquiv>
+                    <Unicode>biſt ſo klar und helle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="454,1487 1766,1487 1766,1570 454,1570"/>
+                <TextEquiv>
+                    <Unicode>Quint, Qualm, Quaſte, quer, bequem, quetſchen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="351,1566 1773,1566 1773,1653 351,1653"/>
+                <TextEquiv>
+                    <Unicode>Die Tiere darf man nicht quälen. Mit dem Quirl</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="353,1650 1757,1650 1757,1736 353,1736"/>
+                <TextEquiv>
+                    <Unicode>quirlt man. Die Fröſche quaken. Die Schweine quieken</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="line_1587551623874_1010" custom="readingOrder {index:12;}">
+                <Coords points="283,1749 402,1749 402,1852 283,1852"/>
+                <TextEquiv>
+                    <Unicode>31.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587551378874_962" custom="readingOrder {index:13;}">
+                <Coords points="946,1761 1799,1761 1799,2012 946,2012"/>
+                <TextEquiv>
+                    <Unicode>Axt x X ks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587551385374_965" custom="readingOrder {index:14;}">
+                <Coords points="1075,2023 1758,2023 1758,2159 1075,2159"/>
+                <TextEquiv>
+                    <Unicode>Axt x X = ks</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="469,2213 1778,2213 1778,2302 469,2302"/>
+                <TextEquiv>
+                    <Unicode>Die Axt iſt ein Werkzeug, das vom Zimmermann,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="362,2292 1785,2292 1785,2393 362,2393"/>
+                <TextEquiv>
+                    <Unicode>Holzhauer, Tiſchler gebraucht wird. Sie iſt aus Stahl</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="363,2379 1568,2379 1568,2471 363,2471"/>
+                <TextEquiv>
+                    <Unicode>und Eiſen gemacht. Der Stiel iſt von Holz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="476,2461 1786,2461 1786,2556 476,2556"/>
+                <TextEquiv>
+                    <Unicode>Max, Examen, Exempel, Xerxes, Kruzifix. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="368,2546 1786,2546 1786,2639 368,2639"/>
+                <TextEquiv>
+                    <Unicode>Soldaten exerzieren. Mein Bruder heißt Franz Xaver.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="368,2638 1359,2638 1359,2726 368,2726"/>
+                <TextEquiv>
+                    <Unicode>Axt, Art; Max, Maria; Hexe, Herz.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>C. Fremde Buchstaben. Andersſchreibung einiger Laute.&#xD;
+30. Vielſilbige Wörter&#xD;
+Quelle&#xD;
+Qu qu =  kw&#xD;
+Quelle Qu qu = kw.&#xD;
+Die Quelle ſprudelt und rieſelt.&#xD;
+Quelle, Quelle, Quelle,&#xD;
+liebe, kleine Welle,&#xD;
+biſt ſo klar und helle.&#xD;
+Quint, Qualm, Quaſte, quer, bequem, quetſchen.&#xD;
+Die Tiere darf man nicht quälen. Mit dem Quirl&#xD;
+quirlt man. Die Fröſche quaken. Die Schweine quieken&#xD;
+31.&#xD;
+Axt x X ks&#xD;
+Axt x X = ks&#xD;
+Die Axt iſt ein Werkzeug, das vom Zimmermann,&#xD;
+Holzhauer, Tiſchler gebraucht wird. Sie iſt aus Stahl&#xD;
+und Eiſen gemacht. Der Stiel iſt von Holz.&#xD;
+Max, Examen, Exempel, Xerxes, Kruzifix. Die&#xD;
+Soldaten exerzieren. Mein Bruder heißt Franz Xaver.&#xD;
+Axt, Art; Max, Maria; Hexe, Herz.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:07.15+02:00</Created>
+        <LastChange>2020-04-27T11:59:31.704+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576650" pageNr="13" tsid="28321425" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=PPEWMWWIZUGBXDFWQXYEFQMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXEGQDEUKAVBFEOCHWVRKBLN" imageId="10530897"/>
+    </Metadata>
+    <Page imageFilename="00000013.tif" imageWidth="1803" imageHeight="3050">
+        <PrintSpace>
+            <Coords points="39,5 1803,5 1803,3045 39,3045"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772849955" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="15,185 1557,179 1571,2856 29,2862"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1462,182 1488,182 1488,227 1462,227"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="47,324 1491,324 1491,417 47,417"/>
+                <TextEquiv>
+                    <Unicode>16. Schaf, Schaff; ſchief, Schiff; Heer, Herr;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="47,428 1493,428 1493,510 47,510"/>
+                <TextEquiv>
+                    <Unicode>Thür, dürr; Sohn, Sonne; Ton, Tonne; Beet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="50,521 1495,521 1495,604 50,604"/>
+                <TextEquiv>
+                    <Unicode>Bett; Lade, Latte; Rad, Ratte; Schaden,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="53,615 1495,615 1495,698 53,698"/>
+                <TextEquiv>
+                    <Unicode>Schatten; laben, Lappen; Roſe, Roſſe; Arme,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="56,707 1496,707 1496,791 56,791"/>
+                <TextEquiv>
+                    <Unicode>Armee; alle, Allee; wohl, Wolle; voll, viel;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="55,802 1497,802 1497,884 55,884"/>
+                <TextEquiv>
+                    <Unicode>füllen, fühlen; kam, Kamm; kämmen, schämen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="182,896 1498,896 1498,973 182,973"/>
+                <TextEquiv>
+                    <Unicode>Mein Schwager iſt ein schwacher Mann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="57,987 1500,987 1500,1068 57,1068"/>
+                <TextEquiv>
+                    <Unicode>Das Schiff geht oft schief auf dem Wasser.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="60,1082 1502,1082 1502,1163 60,1163"/>
+                <TextEquiv>
+                    <Unicode>Gehören die Puppen für die Buben? Ich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="60,1176 1016,1176 1016,1252 60,1252"/>
+                <TextEquiv>
+                    <Unicode>kann auf keinem Kahne fahren.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="330,1374 1240,1374 1240,1439 330,1439"/>
+                <TextEquiv>
+                    <Unicode>Ich lasse Licht und hellen Schein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="332,1456 1166,1456 1166,1507 332,1507"/>
+                <TextEquiv>
+                    <Unicode>in Stube und in Kämmerlein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="408,1711 1208,1711 1208,1788 408,1788"/>
+                <TextEquiv>
+                    <Unicode>B. Verstärckte Aus- und Anlaute.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="774,1814 812,1814 812,1870 774,1870"/>
+                <TextEquiv>
+                    <Unicode>I.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="73,1903 1515,1903 1515,1991 73,1991"/>
+                <TextEquiv>
+                    <Unicode>17. d, t, b, p als Auslaut und voraus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="387,2005 1211,2005 1211,2079 387,2079"/>
+                <TextEquiv>
+                    <Unicode>ein tönender Mitlaut.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="259,2135 1339,2135 1339,2215 259,2215"/>
+                <TextEquiv>
+                    <Unicode>Der Mond ſcheint in der Nacht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="182,2246 1519,2246 1519,2313 182,2313"/>
+                <TextEquiv>
+                    <Unicode>Hund, rund; Kind, Hemd; weint, ſchäumt, ſchämt;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="80,2332 1517,2332 1517,2399 80,2399"/>
+                <TextEquiv>
+                    <Unicode>Ast, Nest, mißt, müßt, meßt, wißt; alt, kalt, heilt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="83,2419 1519,2419 1519,2488 83,2488"/>
+                <TextEquiv>
+                    <Unicode>heult; mild, wild, Bild; oft, Saft, Gift, ſchafft, rafft;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="84,2507 1521,2507 1521,2576 84,2576"/>
+                <TextEquiv>
+                    <Unicode>wiſcht, wäſcht; Hirt, Wort; Licht, dicht, ſacht, recht;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="86,2595 1524,2595 1524,2663 86,2663"/>
+                <TextEquiv>
+                    <Unicode>ſagt, regt, ſingt, ringt; äzt, schätzt, schützt, netzt, wetzt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:23;}">
+                <Coords points="188,2682 1010,2682 1010,2749 188,2749"/>
+                <TextEquiv>
+                    <Unicode>Kalb, gelb; herb, mürb; pump.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9&#xD;
+16. Schaf, Schaff; ſchief, Schiff; Heer, Herr;&#xD;
+Thür, dürr; Sohn, Sonne; Ton, Tonne; Beet,&#xD;
+Bett; Lade, Latte; Rad, Ratte; Schaden,&#xD;
+Schatten; laben, Lappen; Roſe, Roſſe; Arme,&#xD;
+Armee; alle, Allee; wohl, Wolle; voll, viel;&#xD;
+füllen, fühlen; kam, Kamm; kämmen, schämen.&#xD;
+Mein Schwager iſt ein schwacher Mann.&#xD;
+Das Schiff geht oft schief auf dem Wasser.&#xD;
+Gehören die Puppen für die Buben? Ich&#xD;
+kann auf keinem Kahne fahren.&#xD;
+Ich lasse Licht und hellen Schein&#xD;
+in Stube und in Kämmerlein.&#xD;
+B. Verstärckte Aus- und Anlaute.&#xD;
+I.&#xD;
+17. d, t, b, p als Auslaut und voraus&#xD;
+ein tönender Mitlaut.&#xD;
+Der Mond ſcheint in der Nacht.&#xD;
+Hund, rund; Kind, Hemd; weint, ſchäumt, ſchämt;&#xD;
+Ast, Nest, mißt, müßt, meßt, wißt; alt, kalt, heilt,&#xD;
+heult; mild, wild, Bild; oft, Saft, Gift, ſchafft, rafft;&#xD;
+wiſcht, wäſcht; Hirt, Wort; Licht, dicht, ſacht, recht;&#xD;
+ſagt, regt, ſingt, ringt; äzt, schätzt, schützt, netzt, wetzt;&#xD;
+Kalb, gelb; herb, mürb; pump.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

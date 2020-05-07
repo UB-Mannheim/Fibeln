@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:20.938+02:00</Created>
+        <LastChange>2020-05-01T22:56:05.480+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576745" pageNr="43" tsid="28677001" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=NUXPFYMSBXNCTUMOESONEDCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SVIFTQVIDYLTPDHEEUUKOIEI" imageId="10530992"/>
+    </Metadata>
+    <Page imageFilename="00000043.tif" imageWidth="1843" imageHeight="3052">
+        <PrintSpace>
+            <Coords points="-3,1 1835,1 1835,3047 -3,3047"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850625" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:0;}">
+            <Coords points="29,1769 1665,1776 1673,2811 37,2804"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="590,1812 983,1812 983,1893 590,1893"/>
+                <TextEquiv>
+                    <Unicode>Von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="20.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="772,2052 814,2052 814,2102 772,2102"/>
+                <TextEquiv>
+                    <Unicode>1.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="230,2123 1481,2123 1481,2225 230,2225"/>
+                <TextEquiv>
+                    <Unicode>Mein Kind! Was dein Aug' nur ſieht, das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="99,2235 1480,2235 1480,2313 99,2313"/>
+                <TextEquiv>
+                    <Unicode>iſt von Gott. Gott macht, daß die Sonn' ſo hell und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="96,2324 1481,2324 1481,2400 96,2400"/>
+                <TextEquiv>
+                    <Unicode>warm ſcheint. Gott macht, daß der Mond ſo ſchön</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="96,2411 1475,2411 1475,2488 96,2488"/>
+                <TextEquiv>
+                    <Unicode>glänzt. Es iſt kein Stern, dem nicht er das Licht gibt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="94,2498 1478,2498 1478,2576 94,2576"/>
+                <TextEquiv>
+                    <Unicode>Gott macht die Lust ſo ſchön blau. Er macht Feld und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="93,2588 1475,2588 1475,2664 93,2664"/>
+                <TextEquiv>
+                    <Unicode>Wald ſo ſchön grün. Berg und Thal sind von Gott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="94,2676 1475,2676 1475,2753 94,2753"/>
+                <TextEquiv>
+                    <Unicode>Er deckt den Berg mit Buſch und Wald. Er macht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von Gott.&#xD;
+1.&#xD;
+Mein Kind! Was dein Aug' nur ſieht, das&#xD;
+iſt von Gott. Gott macht, daß die Sonn' ſo hell und&#xD;
+warm ſcheint. Gott macht, daß der Mond ſo ſchön&#xD;
+glänzt. Es iſt kein Stern, dem nicht er das Licht gibt.&#xD;
+Gott macht die Lust ſo ſchön blau. Er macht Feld und&#xD;
+Wald ſo ſchön grün. Berg und Thal sind von Gott.&#xD;
+Er deckt den Berg mit Buſch und Wald. Er macht,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

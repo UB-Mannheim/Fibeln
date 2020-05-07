@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:03.954+02:00</Created>
+        <LastChange>2020-04-21T15:20:00.411+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576638" pageNr="6" tsid="28073435" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=OGWXHSHLPHBEKOUYHSUBTZJY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULFJNBIAZTTLNXDDOKSFFQBO" imageId="10530885"/>
+    </Metadata>
+    <Page imageFilename="00000006.tif" imageWidth="1812" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="0,0 1812,0 1812,3056 0,3056"/>
+        </PrintSpace>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1812,0 1812,3056 0,3056"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:1;}">
+            <Coords points="1462,2973 1638,2973 1638,2977 1462,2977"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:2;}">
+            <Coords points="0,0 1812,0 1812,70 0,70"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_6" custom="readingOrder {index:3;}">
+            <Coords points="82,1024 112,1024 112,1472 82,1472"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:4;}">
+            <Coords points="83,345 108,345 108,748 83,748"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:5;}">
+            <Coords points="92,2188 105,2188 105,2634 92,2634"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:6;}">
+            <Coords points="89,2436 92,2436 92,2496 89,2496"/>
+        </SeparatorRegion>
+        <GraphicRegion id="r_10" custom="readingOrder {index:7;}">
+            <Coords points="5,76 90,76 90,345 5,345"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

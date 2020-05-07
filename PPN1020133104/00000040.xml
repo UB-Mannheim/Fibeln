@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:19.443+02:00</Created>
+        <LastChange>2020-05-01T22:42:48.540+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576735" pageNr="40" tsid="28676813" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=GUSMBYQOSTZRZVWREGSYYLEI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NOJJKLUARLYHFOVXEYGVXMNC" imageId="10530982"/>
+    </Metadata>
+    <Page imageFilename="00000040.tif" imageWidth="1887" imageHeight="3040">
+        <PrintSpace>
+            <Coords points="75,58 1833,58 1833,2782 75,2782"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850559" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="381,154 443,154 443,201 381,201"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="382,155 442,155 442,200 382,200"/>
+                <TextEquiv>
+                    <Unicode>36</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="371,289 1824,289 1824,374 371,374"/>
+                <TextEquiv>
+                    <Unicode>dem Holze Tiſche, Stühle, Schränke und Bänke; der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="370,371 1825,371 1825,455 370,455"/>
+                <TextEquiv>
+                    <Unicode>Zimntermamt baut Brücken und Häuſer, der Drechſler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="368,453 1823,453 1823,534 368,534"/>
+                <TextEquiv>
+                    <Unicode>macht Kegel und Kugeln und der Büttner Fäſſer. Im</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="368,535 1820,535 1820,618 368,618"/>
+                <TextEquiv>
+                    <Unicode>Winter heizen wir den Ofen mit Holz. In der Küche</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="367,616 1322,616 1322,691 367,691"/>
+                <TextEquiv>
+                    <Unicode>brauchen wir das Holz ztim Kochen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="498,721 1680,721 1680,817 498,817"/>
+                <TextEquiv>
+                    <Unicode>20. Wie Gustav vom Baume fällt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="466,816 1817,816 1817,897 466,897"/>
+                <TextEquiv>
+                    <Unicode>Hoch auf dem Wipfel eines Baumes, der nahe am</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="363,894 1816,894 1816,975 363,975"/>
+                <TextEquiv>
+                    <Unicode>Wasser ſteht, hat ein Vogel ſein Neſt gebaut. Aus dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="365,977 1808,977 1808,1058 365,1058"/>
+                <TextEquiv>
+                    <Unicode>Neſte aber ſehen ſechs kleine Vögelein heraus, rufen: piep,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="364,1058 1814,1058 1814,1139 364,1139"/>
+                <TextEquiv>
+                    <Unicode>piep; und freuen ſich, wenn die Alten ein Würmchen bringen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="465,1140 1811,1140 1811,1221 465,1221"/>
+                <TextEquiv>
+                    <Unicode>Da kam einſt Gustav in den Wald und wollte ſich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="364,1220 1815,1220 1815,1302 364,1302"/>
+                <TextEquiv>
+                    <Unicode>ein Sträußchen Blumen holen. Kaum hatte er das Neſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="364,1301 1811,1301 1811,1381 364,1381"/>
+                <TextEquiv>
+                    <Unicode>erblickt, ſo ſagte er für ſich: Die jungen Vögelchen mußt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="363,1383 1810,1383 1810,1465 363,1465"/>
+                <TextEquiv>
+                    <Unicode>du einmal beſehen. Schnell klettert er den Baum hinan;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="363,1464 1812,1464 1812,1544 363,1544"/>
+                <TextEquiv>
+                    <Unicode>er ſteigt von Aſt zu Aſt und iſt nun schon dem Wipfel nahe.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:16;}">
+                <Coords points="467,1547 1809,1547 1809,1625 467,1625"/>
+                <TextEquiv>
+                    <Unicode>Jetzt hat er ihn erreicht! Er sieht die kleinen Tierchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="362,1626 1808,1626 1808,1706 362,1706"/>
+                <TextEquiv>
+                    <Unicode>und nimmt eins in die Hand. Krach! krach! da bricht der Aſt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="466,1709 1804,1709 1804,1786 466,1786"/>
+                <TextEquiv>
+                    <Unicode>Gustav fällt vom Baume herab und in den Fluß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:19;}">
+                <Coords points="363,1789 1806,1789 1806,1866 363,1866"/>
+                <TextEquiv>
+                    <Unicode>Der Fluß war zwar nicht tief; doch war viel Schlamm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:20;}">
+                <Coords points="364,1868 1805,1868 1805,1949 364,1949"/>
+                <TextEquiv>
+                    <Unicode>darin. Da hätte ich den Guſtav ſehen mögen, als er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="361,1951 1029,1951 1029,2023 361,2023"/>
+                <TextEquiv>
+                    <Unicode>aus dem Schlamme kroch.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="792,2058 1381,2058 1381,2143 792,2143"/>
+                <TextEquiv>
+                    <Unicode>21. Gottes Auge.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:23;}">
+                <Coords points="638,2151 1367,2151 1367,2223 638,2223"/>
+                <TextEquiv>
+                    <Unicode>Vöglein ſpielen in der Luft,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:24;}">
+                <Coords points="571,2221 1300,2221 1300,2292 571,2292"/>
+                <TextEquiv>
+                    <Unicode>Blümlein geben ſüßen Duft,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="English" custom="readingOrder {index:25;}">
+                <Coords points="571,2291 1380,2291 1380,2365 571,2365"/>
+                <TextEquiv>
+                    <Unicode>Schmetterling ſchwebt leiſe fort,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="English" custom="readingOrder {index:26;}">
+                <Coords points="569,2361 1408,2361 1408,2434 569,2434"/>
+                <TextEquiv>
+                    <Unicode>Kuh und Schäflein weiden dort.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="English" custom="readingOrder {index:27;}">
+                <Coords points="570,2430 1585,2430 1585,2505 570,2505"/>
+                <TextEquiv>
+                    <Unicode>In dem Wald' ſteht Baum und Strauch,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="English" custom="readingOrder {index:28;}">
+                <Coords points="570,2501 1448,2501 1448,2575 570,2575"/>
+                <TextEquiv>
+                    <Unicode>ſpringen Hirſch und Rehlein auch.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="English" custom="readingOrder {index:29;}">
+                <Coords points="571,2571 1246,2571 1246,2643 571,2643"/>
+                <TextEquiv>
+                    <Unicode>Gottes Auge ſieht auf ſie,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="English" custom="readingOrder {index:30;}">
+                <Coords points="570,2640 1487,2640 1487,2719 570,2719"/>
+                <TextEquiv>
+                    <Unicode>ſchützt und nährt ſie ſpät und früh.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>36&#xD;
+dem Holze Tiſche, Stühle, Schränke und Bänke; der&#xD;
+Zimntermamt baut Brücken und Häuſer, der Drechſler&#xD;
+macht Kegel und Kugeln und der Büttner Fäſſer. Im&#xD;
+Winter heizen wir den Ofen mit Holz. In der Küche&#xD;
+brauchen wir das Holz ztim Kochen.&#xD;
+20. Wie Gustav vom Baume fällt.&#xD;
+Hoch auf dem Wipfel eines Baumes, der nahe am&#xD;
+Wasser ſteht, hat ein Vogel ſein Neſt gebaut. Aus dem&#xD;
+Neſte aber ſehen ſechs kleine Vögelein heraus, rufen: piep,&#xD;
+piep; und freuen ſich, wenn die Alten ein Würmchen bringen.&#xD;
+Da kam einſt Gustav in den Wald und wollte ſich&#xD;
+ein Sträußchen Blumen holen. Kaum hatte er das Neſt&#xD;
+erblickt, ſo ſagte er für ſich: Die jungen Vögelchen mußt&#xD;
+du einmal beſehen. Schnell klettert er den Baum hinan;&#xD;
+er ſteigt von Aſt zu Aſt und iſt nun schon dem Wipfel nahe.&#xD;
+Jetzt hat er ihn erreicht! Er sieht die kleinen Tierchen&#xD;
+und nimmt eins in die Hand. Krach! krach! da bricht der Aſt.&#xD;
+Gustav fällt vom Baume herab und in den Fluß.&#xD;
+Der Fluß war zwar nicht tief; doch war viel Schlamm&#xD;
+darin. Da hätte ich den Guſtav ſehen mögen, als er&#xD;
+aus dem Schlamme kroch.&#xD;
+21. Gottes Auge.&#xD;
+Vöglein ſpielen in der Luft,&#xD;
+Blümlein geben ſüßen Duft,&#xD;
+Schmetterling ſchwebt leiſe fort,&#xD;
+Kuh und Schäflein weiden dort.&#xD;
+In dem Wald' ſteht Baum und Strauch,&#xD;
+ſpringen Hirſch und Rehlein auch.&#xD;
+Gottes Auge ſieht auf ſie,&#xD;
+ſchützt und nährt ſie ſpät und früh.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

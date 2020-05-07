@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:23.085+02:00</Created>
+        <LastChange>2020-05-03T18:04:54.106+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576758" pageNr="47" tsid="28700746" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=KYFBFEAYSLTSQAFOVWNPCMVO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CORNPCPNNVLDCZISNHSWZAHZ" imageId="10531005"/>
+    </Metadata>
+    <Page imageFilename="00000047.tif" imageWidth="1801" imageHeight="3058">
+        <PrintSpace>
+            <Coords points="0,1 1801,1 1801,3058 0,3058"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850713" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="33,157 1582,154 1580,2845 31,2848"/>
+            <TextLine id="line_1588521889142_4292" custom="readingOrder {index:0;}">
+                <Coords points="1429,204 1477,204 1477,263 1429,263"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="682,213 868,213 868,249 682,249"/>
+                <TextEquiv>
+                    <Unicode>Von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="83,336 1469,336 1469,408 83,408"/>
+                <TextEquiv>
+                    <Unicode>will recht fromm und gut und brav ſein; denn ſonſt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="84,425 936,425 936,494 84,494"/>
+                <TextEquiv>
+                    <Unicode>macht dir ja doch nichts Freud'!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="753,531 796,531 800,587 757,587"/>
+                <TextEquiv>
+                    <Unicode>7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="219,618 1468,618 1468,687 219,687"/>
+                <TextEquiv>
+                    <Unicode>Denk recht oft und recht gern an Gott, mein Kind!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="87,705 1469,705 1469,774 87,774"/>
+                <TextEquiv>
+                    <Unicode>Red oft mit Gott! Er hört ja, was du zu ihm ſagſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="87,792 1471,792 1471,861 87,861"/>
+                <TextEquiv>
+                    <Unicode>Kommt dich hart und ſchwer an, was man dich thun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="88,879 1471,879 1471,949 88,949"/>
+                <TextEquiv>
+                    <Unicode>heißt, ſo denk: Ich will es doch thun, weil es Gott ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="88,966 1472,966 1472,1036 88,1036"/>
+                <TextEquiv>
+                    <Unicode>will, und wie es Gott will; ich will es thun, ſo gut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="87,1054 1473,1054 1473,1122 87,1122"/>
+                <TextEquiv>
+                    <Unicode>ich kann. — Wenn du krank biſt, ſo denk: was du</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="90,1141 1474,1141 1474,1211 90,1211"/>
+                <TextEquiv>
+                    <Unicode>willſt, o Gott! iſt gut, wenn es auch hart ſcheint. Ich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="91,1230 1477,1230 1477,1298 91,1298"/>
+                <TextEquiv>
+                    <Unicode>leid' es gern, ſo ſchwer es ist. — Hast du Luſt zur</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="93,1316 1476,1316 1476,1386 93,1386"/>
+                <TextEquiv>
+                    <Unicode>Sünd', ſo denk: Gott ſieht mich, Gott ſtraft mich; ich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="93,1403 1479,1403 1479,1474 93,1474"/>
+                <TextEquiv>
+                    <Unicode>will es nicht thun. — Denk recht oft: o Gott, du ſiehſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="92,1491 1479,1491 1479,1561 92,1561"/>
+                <TextEquiv>
+                    <Unicode>mich, wo ich bin, bei Tag und bei Nacht, zu Haus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="93,1579 1480,1579 1480,1649 93,1649"/>
+                <TextEquiv>
+                    <Unicode>und auf dem Feld; wo ich nur bin, will ich thun, was</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="98,1667 1481,1667 1481,1736 98,1736"/>
+                <TextEquiv>
+                    <Unicode>du willſt, und nichts thun, was du nicht willſt. — Ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="95,1754 1478,1754 1478,1823 95,1823"/>
+                <TextEquiv>
+                    <Unicode>Kind, das oft an Gott denkt, bleibt fromm und gut,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="97,1843 1096,1843 1096,1911 97,1911"/>
+                <TextEquiv>
+                    <Unicode>und ihm iſt recht wohl um das Herz.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="line_1587566140162_2696" custom="readingOrder {index:20;}">
+                <Coords points="757,1946 820,1946 820,2010 757,2010"/>
+                <TextEquiv>
+                    <Unicode>8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="235,2041 1486,2041 1486,2112 235,2112"/>
+                <TextEquiv>
+                    <Unicode>Mein Kind, denk recht oft dran, wie viel Gut's</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="103,2132 1488,2132 1488,2201 103,2201"/>
+                <TextEquiv>
+                    <Unicode>dir Gott gibt, und dank ihm für das, was er dir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="105,2217 1490,2217 1490,2290 105,2290"/>
+                <TextEquiv>
+                    <Unicode>gibt. Stehſt du auf, ſo bet: o Gott, ich dank' dir für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="102,2305 1489,2305 1489,2377 102,2377"/>
+                <TextEquiv>
+                    <Unicode>den Schlaf, der mich ſtärkt und friſch und froh macht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="104,2393 1491,2393 1491,2464 104,2464"/>
+                <TextEquiv>
+                    <Unicode>Vor und nach Tiſch bet: o Gott, Speis und Trank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="104,2480 1491,2480 1491,2553 104,2553"/>
+                <TextEquiv>
+                    <Unicode>ſind doch recht gut; ich dank' dir, daß du ſie mir gibſt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="105,2568 1488,2568 1488,2637 105,2637"/>
+                <TextEquiv>
+                    <Unicode>Wenn du in das Bett gehſt, so bet mit Herz und Mund:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="108,2655 1486,2655 1486,2725 108,2725"/>
+                <TextEquiv>
+                    <Unicode>o Gott, wie gut biſt du! Ich dank' dir für den Tag</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>7&#xD;
+Von Gott.&#xD;
+will recht fromm und gut und brav ſein; denn ſonſt&#xD;
+macht dir ja doch nichts Freud'!&#xD;
+7.&#xD;
+Denk recht oft und recht gern an Gott, mein Kind!&#xD;
+Red oft mit Gott! Er hört ja, was du zu ihm ſagſt.&#xD;
+Kommt dich hart und ſchwer an, was man dich thun&#xD;
+heißt, ſo denk: Ich will es doch thun, weil es Gott ſo&#xD;
+will, und wie es Gott will; ich will es thun, ſo gut&#xD;
+ich kann. — Wenn du krank biſt, ſo denk: was du&#xD;
+willſt, o Gott! iſt gut, wenn es auch hart ſcheint. Ich&#xD;
+leid' es gern, ſo ſchwer es ist. — Hast du Luſt zur&#xD;
+Sünd', ſo denk: Gott ſieht mich, Gott ſtraft mich; ich&#xD;
+will es nicht thun. — Denk recht oft: o Gott, du ſiehſt&#xD;
+mich, wo ich bin, bei Tag und bei Nacht, zu Haus&#xD;
+und auf dem Feld; wo ich nur bin, will ich thun, was&#xD;
+du willſt, und nichts thun, was du nicht willſt. — Ein&#xD;
+Kind, das oft an Gott denkt, bleibt fromm und gut,&#xD;
+und ihm iſt recht wohl um das Herz.&#xD;
+8.&#xD;
+Mein Kind, denk recht oft dran, wie viel Gut's&#xD;
+dir Gott gibt, und dank ihm für das, was er dir&#xD;
+gibt. Stehſt du auf, ſo bet: o Gott, ich dank' dir für&#xD;
+den Schlaf, der mich ſtärkt und friſch und froh macht.&#xD;
+Vor und nach Tiſch bet: o Gott, Speis und Trank&#xD;
+ſind doch recht gut; ich dank' dir, daß du ſie mir gibſt.&#xD;
+Wenn du in das Bett gehſt, so bet mit Herz und Mund:&#xD;
+o Gott, wie gut biſt du! Ich dank' dir für den Tag</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

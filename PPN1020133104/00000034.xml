@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:16.431+02:00</Created>
+        <LastChange>2020-05-01T15:05:58.533+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576717" pageNr="34" tsid="28651221" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=TARJCOWAGUJZMDLPXLRTIODL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TEMZPEUUKFHJPTFQPWOPICYW" imageId="10530964"/>
+    </Metadata>
+    <Page imageFilename="00000034.tif" imageWidth="1837" imageHeight="3044">
+        <PrintSpace>
+            <Coords points="53,0 1831,0 1831,3040 53,3040"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850428" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="190,139 1792,137 1795,2831 193,2833"/>
+            <TextLine id="line_1588338223323_2576" custom="readingOrder {index:0;}">
+                <Coords points="314,175 406,175 406,240 314,240"/>
+                <TextEquiv>
+                    <Unicode>30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587557401115_1795" custom="readingOrder {index:1;}">
+                <Coords points="668,316 1492,316 1492,404 668,404"/>
+                <TextEquiv>
+                    <Unicode>Denn wär' das Dach nicht da,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="606,407 1411,407 1411,476 606,476"/>
+                <TextEquiv>
+                    <Unicode>und wär's nicht feſt und dicht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="606,488 1279,488 1279,557 606,557"/>
+                <TextEquiv>
+                    <Unicode>ſo fiel uns ja der Schnee</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="605,570 1216,570 1216,638 605,638"/>
+                <TextEquiv>
+                    <Unicode>und Regen ins Geſicht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="776,743 1331,743 1331,828 776,828"/>
+                <TextEquiv>
+                    <Unicode>9. Gerätſchaften.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="671,866 1506,866 1506,938 671,938"/>
+                <TextEquiv>
+                    <Unicode>Tiſche, Stühle, Schemel, Bänke,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="599,954 1488,954 1488,1025 599,1025"/>
+                <TextEquiv>
+                    <Unicode>Betten, Spiegel, Kaſten, Schränke,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="598,1042 1491,1042 1491,1113 598,1113"/>
+                <TextEquiv>
+                    <Unicode>Schtüſſeln, Teller, Gabeln, Meſſer,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="596,1129 1388,1129 1388,1199 596,1199"/>
+                <TextEquiv>
+                    <Unicode>Löffel, Gläſer, Quirle, Fäſſer,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="597,1217 1488,1217 1488,1288 597,1288"/>
+                <TextEquiv>
+                    <Unicode>Eimer, Flaſchen, Stöpſel, Kannen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="593,1304 1469,1304 1469,1375 593,1375"/>
+                <TextEquiv>
+                    <Unicode>Keſſel, Tiegel, Stürzen, Pfannen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="593,1392 1496,1392 1496,1462 593,1462"/>
+                <TextEquiv>
+                    <Unicode>Tonnen, Schachteln, Krüge, Näpfe,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="593,1480 1547,1480 1547,1550 593,1550"/>
+                <TextEquiv>
+                    <Unicode>Mörſer, Trichter, Durchſchlag, Töpfe,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="589,1560 1389,1560 1389,1636 589,1636"/>
+                <TextEquiv>
+                    <Unicode>Hammer, Bohrer, Äxte, Beile,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="589,1655 1457,1655 1457,1725 589,1725"/>
+                <TextEquiv>
+                    <Unicode>Hacken, Sägen, Schaufeln, Seile,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="588,1742 1462,1742 1462,1812 588,1812"/>
+                <TextEquiv>
+                    <Unicode>Leitern, Wannen, Körbe, Tragen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="587,1828 1414,1828 1414,1898 587,1898"/>
+                <TextEquiv>
+                    <Unicode>Karren, Pflüge, Eggen, Wagen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="584,1914 1547,1914 1547,1988 584,1988"/>
+                <TextEquiv>
+                    <Unicode>Krippen, Raufen, Striegeln, Schellen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="582,2001 1363,2001 1363,2073 582,2073"/>
+                <TextEquiv>
+                    <Unicode>und Geſchirre in den Ställen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="582,2090 1354,2090 1354,2160 582,2160"/>
+                <TextEquiv>
+                    <Unicode>Flegel, Siebe, Viertel, Säcke,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="581,2178 1299,2178 1299,2249 581,2249"/>
+                <TextEquiv>
+                    <Unicode>Senſen, Sicheln, Sägeböcke,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="580,2265 1273,2265 1273,2336 580,2336"/>
+                <TextEquiv>
+                    <Unicode>Feuerſpritzen, Nagelzangen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="577,2352 1484,2352 1484,2426 577,2426"/>
+                <TextEquiv>
+                    <Unicode>Leuchter, Lampen, Beſen, Stangen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="576,2440 1411,2440 1411,2512 576,2512"/>
+                <TextEquiv>
+                    <Unicode>Büchſen, Kleiderbürſten, Kämme,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="575,2527 1599,2527 1599,2603 575,2603"/>
+                <TextEquiv>
+                    <Unicode>Tuch und Leinwand, Seife, Schwämme,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="574,2614 1419,2614 1419,2689 574,2689"/>
+                <TextEquiv>
+                    <Unicode>Scheren, Zwirn und Nadelkiſſen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="572,2701 1376,2701 1376,2774 572,2774"/>
+                <TextEquiv>
+                    <Unicode>Uhren, um die Zeit zu wiſſen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>30&#xD;
+Denn wär' das Dach nicht da,&#xD;
+und wär's nicht feſt und dicht,&#xD;
+ſo fiel uns ja der Schnee&#xD;
+und Regen ins Geſicht.&#xD;
+9. Gerätſchaften.&#xD;
+Tiſche, Stühle, Schemel, Bänke,&#xD;
+Betten, Spiegel, Kaſten, Schränke,&#xD;
+Schtüſſeln, Teller, Gabeln, Meſſer,&#xD;
+Löffel, Gläſer, Quirle, Fäſſer,&#xD;
+Eimer, Flaſchen, Stöpſel, Kannen,&#xD;
+Keſſel, Tiegel, Stürzen, Pfannen,&#xD;
+Tonnen, Schachteln, Krüge, Näpfe,&#xD;
+Mörſer, Trichter, Durchſchlag, Töpfe,&#xD;
+Hammer, Bohrer, Äxte, Beile,&#xD;
+Hacken, Sägen, Schaufeln, Seile,&#xD;
+Leitern, Wannen, Körbe, Tragen,&#xD;
+Karren, Pflüge, Eggen, Wagen,&#xD;
+Krippen, Raufen, Striegeln, Schellen&#xD;
+und Geſchirre in den Ställen,&#xD;
+Flegel, Siebe, Viertel, Säcke,&#xD;
+Senſen, Sicheln, Sägeböcke,&#xD;
+Feuerſpritzen, Nagelzangen,&#xD;
+Leuchter, Lampen, Beſen, Stangen,&#xD;
+Büchſen, Kleiderbürſten, Kämme,&#xD;
+Tuch und Leinwand, Seife, Schwämme,&#xD;
+Scheren, Zwirn und Nadelkiſſen,&#xD;
+Uhren, um die Zeit zu wiſſen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

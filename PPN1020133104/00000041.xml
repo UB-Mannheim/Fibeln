@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:19.967+02:00</Created>
+        <LastChange>2020-05-01T22:46:46.097+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576739" pageNr="41" tsid="28676857" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=OOGTAJEBKHSTJGMDBJEQEXBN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWATONALPZLKEARFNRPITHKY" imageId="10530986"/>
+    </Metadata>
+    <Page imageFilename="00000041.tif" imageWidth="1770" imageHeight="3046">
+        <PrintSpace>
+            <Coords points="1,0 1770,0 1770,3046 1,3046"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="11,331 1603,327 1615,2768 23,2772"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="567,390 868,390 868,471 567,471"/>
+                <TextEquiv>
+                    <Unicode>Erster</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="28,582 1415,582 1415,746 28,746"/>
+                <TextEquiv>
+                    <Unicode>Unterricht von Gott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="695,852 747,852 747,894 695,894"/>
+                <TextEquiv>
+                    <Unicode>für</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="361,999 1071,999 1071,1072 361,1072"/>
+                <TextEquiv>
+                    <Unicode>die lieben Kleinen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="18.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="51,1370 1392,1370 1392,1466 51,1466"/>
+                <TextEquiv>
+                    <Unicode>Erstes Lehr- und Leſebüchlein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="18.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="687,1526 740,1526 740,1570 687,1570"/>
+                <TextEquiv>
+                    <Unicode>für</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="340,1637 1103,1637 1103,1714 340,1714"/>
+                <TextEquiv>
+                    <Unicode>die deutschen Schulen in Bayern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="116,1809 1318,1809 1318,1880 116,1880"/>
+                <TextEquiv>
+                    <Unicode>Separat=Ausgabe als Anhang zur Fibel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1588365979398_4212" custom="readingOrder {index:8;}">
+                <Coords points="317,2007 1129,2007 1129,2078 317,2078"/>
+                <TextEquiv>
+                    <Unicode>Ministeriell genehmigt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="608,2442 831,2442 831,2498 608,2498"/>
+                <TextEquiv>
+                    <Unicode>München.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="360,2523 1069,2523 1069,2575 360,2575"/>
+                <TextEquiv>
+                    <Unicode>Verlag von R. Oldenbourg,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="509,2583 926,2583 926,2620 509,2620"/>
+                <TextEquiv>
+                    <Unicode>Abteilung für Schulbücher.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="6.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="563,2679 870,2679 870,2713 563,2713"/>
+                <TextEquiv>
+                    <Unicode>Preis: ungeb. 6 Pf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erster&#xD;
+Unterricht von Gott&#xD;
+für&#xD;
+die lieben Kleinen.&#xD;
+Erstes Lehr- und Leſebüchlein&#xD;
+für&#xD;
+die deutschen Schulen in Bayern.&#xD;
+Separat=Ausgabe als Anhang zur Fibel.&#xD;
+Ministeriell genehmigt&#xD;
+München.&#xD;
+Verlag von R. Oldenbourg,&#xD;
+Abteilung für Schulbücher.&#xD;
+Preis: ungeb. 6 Pf.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:20.408+02:00</Created>
+        <LastChange>2020-05-01T22:49:47.416+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576742" pageNr="42" tsid="28676883" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=KXOYCYKSWOZUIPAXAEOYVWNN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NINAOAWDQHDOYHQENJCXLTAK" imageId="10530989"/>
+    </Metadata>
+    <Page imageFilename="00000042.tif" imageWidth="1787" imageHeight="3038">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850603" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1588366148176_4229"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1588366148176_4229" custom="readingOrder {index:0;}">
+            <Coords points="691,2549 1406,2549 1406,2676 691,2676"/>
+            <TextLine id="line_1588366167515_4245" custom="readingOrder {index:0;}">
+                <Coords points="742,2598 1362,2598 1362,2639 742,2639"/>
+                <TextEquiv>
+                    <Unicode>Druck von R. Oldenbourg in München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Druck von R. Oldenbourg in München</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

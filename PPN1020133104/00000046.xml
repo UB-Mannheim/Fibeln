@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:22.495+02:00</Created>
+        <LastChange>2020-05-03T18:04:26.423+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576754" pageNr="46" tsid="28700741" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=IUFTLFRYNFKXCFZVUWXFVEWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UETDHWLJGWUNHECHYJYZPNSM" imageId="10531001"/>
+    </Metadata>
+    <Page imageFilename="00000046.tif" imageWidth="1846" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="0,0 1845,0 1845,3048 0,3048"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850689" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="271,146 1817,144 1810,2845 264,2847"/>
+            <TextLine id="line_1588521825008_4283" custom="readingOrder {index:0;}">
+                <Coords points="378,176 427,176 427,235 378,235"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="980,184 1187,184 1183,234 976,234"/>
+                <TextEquiv>
+                    <Unicode>Von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="389,315 1782,315 1782,393 389,393"/>
+                <TextEquiv>
+                    <Unicode>ſo lieb, als der Menſch. Dich, und was nur Menſch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="388,402 1386,402 1386,474 388,474"/>
+                <TextEquiv>
+                    <Unicode>heißt, hat er lieb, wie du dein Aug'.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="1055,552 1102,552 1102,595 1055,595"/>
+                <TextEquiv>
+                    <Unicode>5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="493,645 1776,645 1776,724 493,724"/>
+                <TextEquiv>
+                    <Unicode>Mein Kind! Gott iſt ganz gut, und in ihm iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="387,733 1775,733 1775,813 387,813"/>
+                <TextEquiv>
+                    <Unicode>nichts, das bös iſt. Gott liebt und thut nur, was recht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="386,818 1774,818 1774,897 386,897"/>
+                <TextEquiv>
+                    <Unicode>und gut iſt. Gott haßt die Sünd', das heißt, was bös</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="384,907 1774,907 1774,984 384,984"/>
+                <TextEquiv>
+                    <Unicode>iſt. Gott will, auch du sollſt gut und nicht bös</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="383,994 1769,994 1769,1072 383,1072"/>
+                <TextEquiv>
+                    <Unicode>ſein. Gott liebt das Kind, wenn es gut und fromm</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="383,1082 1769,1082 1769,1162 383,1162"/>
+                <TextEquiv>
+                    <Unicode>iſt. Er gibt dem Kind, wenn es fromm und gut iſt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="380,1168 1771,1168 1771,1244 380,1244"/>
+                <TextEquiv>
+                    <Unicode>Heil und Glück. Wenn ein Kind bös iſt, ſo kann es</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="379,1257 1767,1257 1767,1333 379,1333"/>
+                <TextEquiv>
+                    <Unicode>ihm nicht wohl gehn. Ein Kind, das thut, was Gott</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="379,1344 1767,1344 1767,1417 379,1417"/>
+                <TextEquiv>
+                    <Unicode>will, wächſt auf, grünt und blüht, wie der Baum im</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="379,1431 1359,1431 1359,1502 379,1502"/>
+                <TextEquiv>
+                    <Unicode>Wald, wie die Blum' auf dem Feld.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="1044,1571 1091,1571 1091,1620 1044,1620"/>
+                <TextEquiv>
+                    <Unicode>6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="516,1670 1765,1670 1765,1744 516,1744"/>
+                <TextEquiv>
+                    <Unicode>Mein Kind! du weißt jetzt ſchon viel von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="374,1756 1762,1756 1762,1834 374,1834"/>
+                <TextEquiv>
+                    <Unicode>Hab Gott recht lieb, ſo lieb, als du nur kannſt. Nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="373,1843 1762,1843 1762,1921 373,1921"/>
+                <TextEquiv>
+                    <Unicode>in der Welt ſoll dir ſo lieb sein, als Gott. Freu dich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="371,1930 1762,1930 1762,2007 371,2007"/>
+                <TextEquiv>
+                    <Unicode>recht ſehr, daß ein Gott iſt, und daß er so gut iſt. Sei</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="373,2017 1761,2017 1761,2094 373,2094"/>
+                <TextEquiv>
+                    <Unicode>recht froh, daß Gott so gut iſt, und es ſo wohl mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="372,2103 1756,2103 1756,2181 372,2181"/>
+                <TextEquiv>
+                    <Unicode>dir meint. Denk oft: o Gott, das, was du uns gibſt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="371,2192 1762,2192 1762,2269 371,2269"/>
+                <TextEquiv>
+                    <Unicode>ist ſchon ſo gut; wie gut mußt du erſt selbſt ſein! —</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="370,2277 1760,2277 1760,2359 370,2359"/>
+                <TextEquiv>
+                    <Unicode>Ja, mein Kind, freu dich, daß ein Gott iſt, und mach</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="369,2367 1760,2367 1760,2443 369,2443"/>
+                <TextEquiv>
+                    <Unicode>ihm auch recht viel Freud'. Sieh, ihn freut kein Geld</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="369,2454 1757,2454 1757,2531 369,2531"/>
+                <TextEquiv>
+                    <Unicode>und kein Gold; nur das freut ihn, wenn er ſieht, daß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="370,2541 1755,2541 1755,2618 370,2618"/>
+                <TextEquiv>
+                    <Unicode>du recht fromm und recht brav biſt. Drum denk oft:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="370,2628 1755,2628 1755,2709 370,2709"/>
+                <TextEquiv>
+                    <Unicode>o Gott, du machſt mir so viel Luſt und Freud'! Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>6&#xD;
+Von Gott.&#xD;
+ſo lieb, als der Menſch. Dich, und was nur Menſch&#xD;
+heißt, hat er lieb, wie du dein Aug'.&#xD;
+5.&#xD;
+Mein Kind! Gott iſt ganz gut, und in ihm iſt&#xD;
+nichts, das bös iſt. Gott liebt und thut nur, was recht&#xD;
+und gut iſt. Gott haßt die Sünd', das heißt, was bös&#xD;
+iſt. Gott will, auch du sollſt gut und nicht bös&#xD;
+ſein. Gott liebt das Kind, wenn es gut und fromm&#xD;
+iſt. Er gibt dem Kind, wenn es fromm und gut iſt,&#xD;
+Heil und Glück. Wenn ein Kind bös iſt, ſo kann es&#xD;
+ihm nicht wohl gehn. Ein Kind, das thut, was Gott&#xD;
+will, wächſt auf, grünt und blüht, wie der Baum im&#xD;
+Wald, wie die Blum' auf dem Feld.&#xD;
+6.&#xD;
+Mein Kind! du weißt jetzt ſchon viel von Gott.&#xD;
+Hab Gott recht lieb, ſo lieb, als du nur kannſt. Nichts&#xD;
+in der Welt ſoll dir ſo lieb sein, als Gott. Freu dich&#xD;
+recht ſehr, daß ein Gott iſt, und daß er so gut iſt. Sei&#xD;
+recht froh, daß Gott so gut iſt, und es ſo wohl mit&#xD;
+dir meint. Denk oft: o Gott, das, was du uns gibſt,&#xD;
+ist ſchon ſo gut; wie gut mußt du erſt selbſt ſein! —&#xD;
+Ja, mein Kind, freu dich, daß ein Gott iſt, und mach&#xD;
+ihm auch recht viel Freud'. Sieh, ihn freut kein Geld&#xD;
+und kein Gold; nur das freut ihn, wenn er ſieht, daß&#xD;
+du recht fromm und recht brav biſt. Drum denk oft:&#xD;
+o Gott, du machſt mir so viel Luſt und Freud'! Ich</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:06.682+02:00</Created>
+        <LastChange>2020-04-27T12:01:03.920+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576647" pageNr="12" tsid="28321537" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=FDQKONDIVSHVMFHDRYHSKZJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VMMPLXECBZKFKDGSGMLWEDQZ" imageId="10530894"/>
+    </Metadata>
+    <Page imageFilename="00000012.tif" imageWidth="1818" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="0,0 1818,0 1818,2752 0,2752"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772849932" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="256,161 1780,155 1762,2869 238,2859"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="291,188 320,188 320,232 291,232"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="297,322 1043,322 1043,395 297,395"/>
+                <TextEquiv>
+                    <Unicode>13. ck</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="410,430 1736,430 1736,504 410,504"/>
+                <TextEquiv>
+                    <Unicode>Iſt der Rock neu? Iſt der Sack leer?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="291,530 1737,530 1737,608 291,608"/>
+                <TextEquiv>
+                    <Unicode>Packen wir heute ein? Backen die Bäcker?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="292,624 938,624 938,702 292,702"/>
+                <TextEquiv>
+                    <Unicode>Iſt die Hacke ſcharf?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="614,727 1426,727 1426,793 614,793"/>
+                <TextEquiv>
+                    <Unicode>Welcher Bock hat keine Haut?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="408,832 1736,832 1736,910 408,910"/>
+                <TextEquiv>
+                    <Unicode>Ich bin ſatt. Du biſt matt. Er iſt toll.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="291,924 1735,924 1735,1001 291,1001"/>
+                <TextEquiv>
+                    <Unicode>Es iſt voll. Wir können und gönnen. Wir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="290,1018 1734,1018 1734,1096 290,1096"/>
+                <TextEquiv>
+                    <Unicode>haſſen und laſſen. Wir raffen und ſchaffen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="291,1112 1735,1112 1735,1188 291,1188"/>
+                <TextEquiv>
+                    <Unicode>Es hallet und ſchallet. Es rollet und tollet.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="298,1239 1383,1239 1383,1330 298,1330"/>
+                <TextEquiv>
+                    <Unicode>14. Kätzchen und Mäuschen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="499,1350 1434,1350 1434,1414 499,1414"/>
+                <TextEquiv>
+                    <Unicode>Ein Manschen ſaß in ſeinem Loch,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="498,1420 1119,1420 1119,1484 498,1484"/>
+                <TextEquiv>
+                    <Unicode>das Kätzchen ſaß davor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="497,1489 1593,1489 1593,1554 497,1554"/>
+                <TextEquiv>
+                    <Unicode>Lieb Mäuschen komm, komm näher doch!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="497,1560 1319,1560 1319,1624 497,1624"/>
+                <TextEquiv>
+                    <Unicode>Lieb Mäuschen, komm hervor!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="497,1628 1422,1628 1422,1694 497,1694"/>
+                <TextEquiv>
+                    <Unicode>Ich geb dir Zucker, weiß und ſüß,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="499,1685 1207,1685 1207,1764 499,1764"/>
+                <TextEquiv>
+                    <Unicode>viel Nüßchen auch vollauf.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="498,1768 1415,1768 1415,1833 498,1833"/>
+                <TextEquiv>
+                    <Unicode>Das Mäuschen ſich bethören ließ.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="501,1840 1199,1840 1199,1903 501,1903"/>
+                <TextEquiv>
+                    <Unicode>Das Kätzchen fraß es auf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="300,1942 1296,1942 1296,2034 300,2034"/>
+                <TextEquiv>
+                    <Unicode>15. Petz und Bienchen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="427,2049 1361,2049 1361,2113 427,2113"/>
+                <TextEquiv>
+                    <Unicode>Einmal ſtach Bienchen einen Bär.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="424,2119 1286,2119 1286,2184 424,2184"/>
+                <TextEquiv>
+                    <Unicode>Dies ärgerte den Petz gar sehr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="423,2189 1337,2189 1337,2252 423,2252"/>
+                <TextEquiv>
+                    <Unicode>Rasch lief er an das Bienenhaus.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="422,2259 1289,2259 1289,2322 422,2322"/>
+                <TextEquiv>
+                    <Unicode>Da kam die Bienenſchar heraus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="421,2329 1359,2329 1359,2392 421,2392"/>
+                <TextEquiv>
+                    <Unicode>und auf ihn zu, ihm auf die Haut</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="421,2398 1517,2398 1517,2463 421,2463"/>
+                <TextEquiv>
+                    <Unicode>und ſtach. Das Petzchen schrie gar laut.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="422,2466 1549,2466 1549,2532 422,2532"/>
+                <TextEquiv>
+                    <Unicode>Weh thut ſein Aug. Es kann kaum sehn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="English" custom="readingOrder {index:27;}">
+                <Coords points="425,2538 1510,2538 1510,2602 425,2602"/>
+                <TextEquiv>
+                    <Unicode>Dick ist ſein Fuß. Es kann kaum gehn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="428,2607 1520,2607 1520,2673 428,2673"/>
+                <TextEquiv>
+                    <Unicode>Bär heult. Da ließ ihn Bienchen ruhn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="427,2677 1381,2677 1381,2744 427,2744"/>
+                <TextEquiv>
+                    <Unicode>So was will Petz nie wieder thun.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>8&#xD;
+13. ck&#xD;
+Iſt der Rock neu? Iſt der Sack leer?&#xD;
+Packen wir heute ein? Backen die Bäcker?&#xD;
+Iſt die Hacke ſcharf?&#xD;
+Welcher Bock hat keine Haut?&#xD;
+Ich bin ſatt. Du biſt matt. Er iſt toll.&#xD;
+Es iſt voll. Wir können und gönnen. Wir&#xD;
+haſſen und laſſen. Wir raffen und ſchaffen.&#xD;
+Es hallet und ſchallet. Es rollet und tollet.&#xD;
+14. Kätzchen und Mäuschen.&#xD;
+Ein Manschen ſaß in ſeinem Loch,&#xD;
+das Kätzchen ſaß davor.&#xD;
+Lieb Mäuschen komm, komm näher doch!&#xD;
+Lieb Mäuschen, komm hervor!&#xD;
+Ich geb dir Zucker, weiß und ſüß,&#xD;
+viel Nüßchen auch vollauf.&#xD;
+Das Mäuschen ſich bethören ließ.&#xD;
+Das Kätzchen fraß es auf.&#xD;
+15. Petz und Bienchen.&#xD;
+Einmal ſtach Bienchen einen Bär.&#xD;
+Dies ärgerte den Petz gar sehr.&#xD;
+Rasch lief er an das Bienenhaus.&#xD;
+Da kam die Bienenſchar heraus&#xD;
+und auf ihn zu, ihm auf die Haut&#xD;
+und ſtach. Das Petzchen schrie gar laut.&#xD;
+Weh thut ſein Aug. Es kann kaum sehn.&#xD;
+Dick ist ſein Fuß. Es kann kaum gehn.&#xD;
+Bär heult. Da ließ ihn Bienchen ruhn.&#xD;
+So was will Petz nie wieder thun.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

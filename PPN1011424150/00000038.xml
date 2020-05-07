@@ -8,7 +8,7 @@ Transkribus</Creator>
         <Created>2020-03-24T10:24:56.345+01:00</Created>
         <LastChange>2020-03-26T14:33:35.745+01:00</LastChange>
     </Metadata>
-    <Page imageFilename="00000038.png" imageWidth="1590" imageHeight="2630">
+    <Page imageFilename="00000038.tif" imageWidth="1590" imageHeight="2630">
         <ReadingOrder>
             <OrderedGroup id="ro_1585229615812" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>

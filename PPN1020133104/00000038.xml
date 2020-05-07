@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:18.494+02:00</Created>
+        <LastChange>2020-05-01T22:25:10.897+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576729" pageNr="38" tsid="28675060" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=CEAQGFSOZKCVIUZOCCIEEWMO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QCNIMFJVIWJSRSRJARKXQIVO" imageId="10530976"/>
+    </Metadata>
+    <Page imageFilename="00000038.tif" imageWidth="1860" imageHeight="3054">
+        <PrintSpace>
+            <Coords points="-1,2 1858,2 1858,3051 -1,3051"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850515" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="269,142 1832,137 1840,2784 277,2789"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="361,175 423,175 423,220 361,220"/>
+                <TextEquiv>
+                    <Unicode>34</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="593,299 1587,299 1587,385 593,385"/>
+                <TextEquiv>
+                    <Unicode>16. Das geſchorene Schäfchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="466,393 1811,393 1811,466 466,466"/>
+                <TextEquiv>
+                    <Unicode>Ein Schäfchen wurde zum erſten Male geſchoren,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="364,474 1807,474 1807,546 364,546"/>
+                <TextEquiv>
+                    <Unicode>und es hielt geduldig ſtill. Als dies aber vorüber war,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="363,557 1811,557 1811,628 363,628"/>
+                <TextEquiv>
+                    <Unicode>wurde es traurig; denn es fror ſehr, so daß das arme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="363,638 1813,638 1813,713 363,713"/>
+                <TextEquiv>
+                    <Unicode>Tierlein am ganzen Leibe zitterte. Und das ſah der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="362,719 1813,719 1813,791 362,791"/>
+                <TextEquiv>
+                    <Unicode>liebe Gott im Himmel, und er ſchickte ein warmes Lüft=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="362,801 1813,801 1813,873 362,873"/>
+                <TextEquiv>
+                    <Unicode>chen und ſchönen Sonnenſchein. Da wurde das gute</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="362,886 1278,886 1278,954 362,954"/>
+                <TextEquiv>
+                    <Unicode>Schäfchen wieder munter und froh.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="466,965 1812,965 1812,1036 466,1036"/>
+                <TextEquiv>
+                    <Unicode>Das Schäflein hatte einer Bäuerin gehört, und die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="364,1046 1814,1046 1814,1118 364,1118"/>
+                <TextEquiv>
+                    <Unicode>Bäuerin hatte ein kleines, luſtiges Büblein. Es ist</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="365,1128 1815,1128 1815,1200 365,1200"/>
+                <TextEquiv>
+                    <Unicode>aber Winter geworden; da war das Büblein nicht mehr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="365,1209 1816,1209 1816,1281 365,1281"/>
+                <TextEquiv>
+                    <Unicode>lustig; denn es war ſo kalt und das Büblein zitterte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="367,1291 1815,1291 1815,1363 367,1363"/>
+                <TextEquiv>
+                    <Unicode>oft vor Froſt. Die Mutter aber ſtrickte ihm aus der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="366,1372 1815,1372 1815,1442 366,1442"/>
+                <TextEquiv>
+                    <Unicode>Wolle des Schäfleins ein warmes Röckchen und ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="367,1444 1812,1444 1812,1526 367,1526"/>
+                <TextEquiv>
+                    <Unicode>Paar warme Strümpfe und zog dies alles dem Büblein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="368,1535 1813,1535 1813,1605 368,1605"/>
+                <TextEquiv>
+                    <Unicode>an. Da wurde es wieder luſtig und munter, und es</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="368,1616 1812,1616 1812,1689 368,1689"/>
+                <TextEquiv>
+                    <Unicode>freute ſich, daß der liebe Gott ihm das Schäfchen ge=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="369,1700 1696,1700 1696,1771 369,1771"/>
+                <TextEquiv>
+                    <Unicode>geben, das ſo warme Wolle für die Menſchen hat.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="837,1828 1359,1828 1359,1908 837,1908"/>
+                <TextEquiv>
+                    <Unicode>17. Das Pferd.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="474,1918 1817,1918 1817,1993 474,1993"/>
+                <TextEquiv>
+                    <Unicode>Das Pferd iſt ein großes und ſchönes Tier. Es</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="372,2002 1814,2002 1814,2076 372,2076"/>
+                <TextEquiv>
+                    <Unicode>frißt am liebſten Hafer, Klee und Heu. Wenn das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="373,2082 1816,2082 1816,2159 373,2159"/>
+                <TextEquiv>
+                    <Unicode>Pferd gut gefüttert und geputzt wird, ſo iſt ſein Haar</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="374,2163 1815,2163 1815,2240 374,2240"/>
+                <TextEquiv>
+                    <Unicode>glatt und glänzend, ſein Schweif lang und ſeine Mähne</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="374,2246 1816,2246 1816,2321 374,2321"/>
+                <TextEquiv>
+                    <Unicode>ſchwach gekräuſelt. Die Füße des Pferdes werden mit</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="376,2328 1815,2328 1815,2402 376,2402"/>
+                <TextEquiv>
+                    <Unicode>Eiſen beſchlagen, damit es auf ſteinigen Wegen und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="375,2409 1813,2409 1813,2483 375,2483"/>
+                <TextEquiv>
+                    <Unicode>im Winter auf glatt gefrorenen Straßen gut gehen kann.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="483,2491 1816,2491 1816,2566 483,2566"/>
+                <TextEquiv>
+                    <Unicode>Das Pferd zieht den Wagen, den Karren, den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="378,2572 1817,2572 1817,2649 378,2649"/>
+                <TextEquiv>
+                    <Unicode>Pflug und die Egge. Verſtändige Leute laden einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="380,2653 1817,2653 1817,2731 380,2731"/>
+                <TextEquiv>
+                    <Unicode>Pferde nicht mehr auf, als es ziehen kann, und miß=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>34&#xD;
+16. Das geſchorene Schäfchen.&#xD;
+Ein Schäfchen wurde zum erſten Male geſchoren,&#xD;
+und es hielt geduldig ſtill. Als dies aber vorüber war,&#xD;
+wurde es traurig; denn es fror ſehr, so daß das arme&#xD;
+Tierlein am ganzen Leibe zitterte. Und das ſah der&#xD;
+liebe Gott im Himmel, und er ſchickte ein warmes Lüft=&#xD;
+chen und ſchönen Sonnenſchein. Da wurde das gute&#xD;
+Schäfchen wieder munter und froh.&#xD;
+Das Schäflein hatte einer Bäuerin gehört, und die&#xD;
+Bäuerin hatte ein kleines, luſtiges Büblein. Es ist&#xD;
+aber Winter geworden; da war das Büblein nicht mehr&#xD;
+lustig; denn es war ſo kalt und das Büblein zitterte&#xD;
+oft vor Froſt. Die Mutter aber ſtrickte ihm aus der&#xD;
+Wolle des Schäfleins ein warmes Röckchen und ein&#xD;
+Paar warme Strümpfe und zog dies alles dem Büblein&#xD;
+an. Da wurde es wieder luſtig und munter, und es&#xD;
+freute ſich, daß der liebe Gott ihm das Schäfchen ge=&#xD;
+geben, das ſo warme Wolle für die Menſchen hat.&#xD;
+17. Das Pferd.&#xD;
+Das Pferd iſt ein großes und ſchönes Tier. Es&#xD;
+frißt am liebſten Hafer, Klee und Heu. Wenn das&#xD;
+Pferd gut gefüttert und geputzt wird, ſo iſt ſein Haar&#xD;
+glatt und glänzend, ſein Schweif lang und ſeine Mähne&#xD;
+ſchwach gekräuſelt. Die Füße des Pferdes werden mit&#xD;
+Eiſen beſchlagen, damit es auf ſteinigen Wegen und&#xD;
+im Winter auf glatt gefrorenen Straßen gut gehen kann.&#xD;
+Das Pferd zieht den Wagen, den Karren, den&#xD;
+Pflug und die Egge. Verſtändige Leute laden einem&#xD;
+Pferde nicht mehr auf, als es ziehen kann, und miß=</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

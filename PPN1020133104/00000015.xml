@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:08.156+02:00</Created>
+        <LastChange>2020-05-06T12:04:48.866+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576657" pageNr="15" tsid="28854483" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=YGEYZKNJEMJPATXDOXNDQRLJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=INVREUTCOCWIVOTOZUVMKMTG" imageId="10530904"/>
+    </Metadata>
+    <Page imageFilename="00000015.tif" imageWidth="1805" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="5,2 1800,2 1800,3043 5,3043"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772849999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="31,139 1590,145 1582,2833 23,2827"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1432,172 1489,172 1489,217 1432,217"/>
+                <TextEquiv>
+                    <Unicode>11</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="54,289 1505,287 1505,367 54,369"/>
+                <TextEquiv>
+                    <Unicode>Tiere. Wie geht's? Wer hat's? Red doch hübſch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="57,378 229,378 229,444 57,444"/>
+                <TextEquiv>
+                    <Unicode>deutſch!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="327,531 1088,531 1088,606 327,606"/>
+                <TextEquiv>
+                    <Unicode>Die Gulden und die Heller,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="329,620 1138,620 1138,693 329,693"/>
+                <TextEquiv>
+                    <Unicode>Die Schüſſeln und die Teller,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="328,707 1053,707 1053,780 328,780"/>
+                <TextEquiv>
+                    <Unicode>Die Rollen und die Ringe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="328,796 1042,796 1042,866 328,866"/>
+                <TextEquiv>
+                    <Unicode>Sind lauter runde Dinge.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="257,959 1314,959 1314,1033 257,1033"/>
+                <TextEquiv>
+                    <Unicode>Wenn's Sommer iſt, dann bin ich kalt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="256,1046 1212,1046 1212,1121 256,1121"/>
+                <TextEquiv>
+                    <Unicode>Im Winter werd' ich heiß alsbald.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="326,1210 1239,1210 1239,1284 326,1284"/>
+                <TextEquiv>
+                    <Unicode>Bin fertig wohl ſchon lange Zeit,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="326,1298 1224,1298 1224,1371 326,1371"/>
+                <TextEquiv>
+                    <Unicode>doch wurde ich gemacht erſt heut.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="323,1461 1199,1461 1199,1535 323,1535"/>
+                <TextEquiv>
+                    <Unicode>Lang und rund und innen hohl;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="323,1547 1226,1547 1226,1622 323,1622"/>
+                <TextEquiv>
+                    <Unicode>in den Kellern ſieht man's wohl.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="59,1715 1498,1715 1498,1794 59,1794"/>
+                <TextEquiv>
+                    <Unicode>Ein Männlein ſteht im Walde ganz ſtill und ſtumm.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="59,1803 1299,1803 1299,1878 59,1878"/>
+                <TextEquiv>
+                    <Unicode>Es hat von lauter Purpur ein Mäntlein um.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="59,1891 1001,1891 1001,1963 59,1963"/>
+                <TextEquiv>
+                    <Unicode>Sagt, wer mag das Männlein ſein,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="59,1976 1498,1976 1498,2055 59,2055"/>
+                <TextEquiv>
+                    <Unicode>das da ſteht im Wald allein mit dem purpurroten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="996,2074 1296,2074 1296,2128 996,2128"/>
+                <TextEquiv>
+                    <Unicode>Mäntelein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="58,2192 1498,2192 1498,2293 58,2293"/>
+                <TextEquiv>
+                    <Unicode>20. Im Walde ſtehn die Bäume dicht beiſammen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="59,2303 1498,2303 1498,2381 59,2381"/>
+                <TextEquiv>
+                    <Unicode>Da iſt es im Sommer kühl und ſchön. Es gibt ſüße</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="59,2390 1498,2390 1498,2468 59,2468"/>
+                <TextEquiv>
+                    <Unicode>Nüſſe und ſaftige Beeren. Im Wald lebt auch das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="59,2472 1499,2472 1499,2556 59,2556"/>
+                <TextEquiv>
+                    <Unicode>Wild: der Haſe, das Reh, der Hirſch. Dieſe Tiere</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="60,2565 1496,2565 1496,2643 60,2643"/>
+                <TextEquiv>
+                    <Unicode>ſind ſcheu. Sie wiſſen, daß der Jäger ihr Feind iſt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="60,2651 1497,2651 1497,2729 60,2729"/>
+                <TextEquiv>
+                    <Unicode>Darum laufen ſie eilig davon, ſobald ein Mensch kommt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>11&#xD;
+Tiere. Wie geht's? Wer hat's? Red doch hübſch&#xD;
+deutſch!&#xD;
+Die Gulden und die Heller,&#xD;
+Die Schüſſeln und die Teller,&#xD;
+Die Rollen und die Ringe&#xD;
+Sind lauter runde Dinge.&#xD;
+Wenn's Sommer iſt, dann bin ich kalt.&#xD;
+Im Winter werd' ich heiß alsbald.&#xD;
+Bin fertig wohl ſchon lange Zeit,&#xD;
+doch wurde ich gemacht erſt heut.&#xD;
+Lang und rund und innen hohl;&#xD;
+in den Kellern ſieht man's wohl.&#xD;
+Ein Männlein ſteht im Walde ganz ſtill und ſtumm.&#xD;
+Es hat von lauter Purpur ein Mäntlein um.&#xD;
+Sagt, wer mag das Männlein ſein,&#xD;
+das da ſteht im Wald allein mit dem purpurroten&#xD;
+Mäntelein.&#xD;
+20. Im Walde ſtehn die Bäume dicht beiſammen.&#xD;
+Da iſt es im Sommer kühl und ſchön. Es gibt ſüße&#xD;
+Nüſſe und ſaftige Beeren. Im Wald lebt auch das&#xD;
+Wild: der Haſe, das Reh, der Hirſch. Dieſe Tiere&#xD;
+ſind ſcheu. Sie wiſſen, daß der Jäger ihr Feind iſt.&#xD;
+Darum laufen ſie eilig davon, ſobald ein Mensch kommt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

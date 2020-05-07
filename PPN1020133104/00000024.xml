@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:12.117+02:00</Created>
+        <LastChange>2020-05-01T12:43:15.366+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576685" pageNr="24" tsid="28648441" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=SSAWGQUWUMRYEJYQBJYIQESW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TUZAVZQHLDPVDVOHNSCVQSIB" imageId="10530932"/>
+    </Metadata>
+    <Page imageFilename="00000024.tif" imageWidth="1838" imageHeight="3044">
+        <PrintSpace>
+            <Coords points="0,189 1838,189 1838,3044 0,3044"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850207" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="280,155 1816,147 1832,2815 296,2823"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="344,198 407,198 407,240 344,240"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="343,321 1760,321 1760,398 343,398"/>
+                <TextEquiv>
+                    <Unicode>Cypreſſe iſt ein Baum. Die Hyacinthe iſt eine Blume.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="343,409 1759,409 1759,484 343,484"/>
+                <TextEquiv>
+                    <Unicode>Die Hyäne iſt ein wildes Tier. In dem Cirkus ſind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="345,496 1763,496 1763,571 345,571"/>
+                <TextEquiv>
+                    <Unicode>gute Reiter. Cäcilia und Cöleſtine sind Namen für</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="345,592 579,592 579,658 345,658"/>
+                <TextEquiv>
+                    <Unicode>Mädchen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="345,713 1231,713 1231,796 345,796"/>
+                <TextEquiv>
+                    <Unicode>34. C c = k</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="18.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="449,862 1767,862 1767,938 449,938"/>
+                <TextEquiv>
+                    <Unicode>Der Herr geht in das Cafe. Die Kinder ſingen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="346,959 653,959 653,1011 346,1011"/>
+                <TextEquiv>
+                    <Unicode>den Accord.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="873,1067 1266,1067 1266,1162 873,1162"/>
+                <TextEquiv>
+                    <Unicode>Ch ch = k</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="18.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="456,1218 1766,1218 1766,1293 456,1293"/>
+                <TextEquiv>
+                    <Unicode>Chor, Choral, Cholera, Chriſt, Chriſten, Chriſtus,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="349,1311 1113,1311 1113,1382 349,1382"/>
+                <TextEquiv>
+                    <Unicode>chriſtlich, Chriſtian, Chriſtine.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="457,1397 1768,1397 1768,1474 457,1474"/>
+                <TextEquiv>
+                    <Unicode>Chriſtus ſtarb am Kreuze. Die Kinder freuen ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="352,1484 1771,1484 1771,1563 352,1563"/>
+                <TextEquiv>
+                    <Unicode>auf das Chriſtfeſt. Ein Choral iſt ein Kirchengeſang.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="353,1655 1314,1655 1314,1748 353,1748"/>
+                <TextEquiv>
+                    <Unicode>35. Der Chriſtbaum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="496,1799 1643,1799 1643,1878 496,1878"/>
+                <TextEquiv>
+                    <Unicode>Ich kenne ein Bäumchen gar fein und zart.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="500,1886 1550,1886 1550,1963 500,1963"/>
+                <TextEquiv>
+                    <Unicode>Es trägt auch Früchte von ſeltener Art.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="499,1973 1580,1973 1580,2052 499,2052"/>
+                <TextEquiv>
+                    <Unicode>Es blitzet und leuchtet mit hellem Schein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="498,2063 1387,2063 1387,2137 498,2137"/>
+                <TextEquiv>
+                    <Unicode>tief in des Winters Nacht hinein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="498,2147 1610,2147 1610,2226 498,2226"/>
+                <TextEquiv>
+                    <Unicode>Das ſehen die Kinder und freuen ſich ſehr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="500,2233 1774,2233 1774,2311 500,2311"/>
+                <TextEquiv>
+                    <Unicode>und pflücken vom Bäumchen und pflücken es leer.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="333,2420 1560,2417 1563,2508 330,2503"/>
+                <TextEquiv>
+                    <Unicode>36. Qu, O; C, F; c, e; y</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="18.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="466,2558 1776,2558 1776,2642 466,2642"/>
+                <TextEquiv>
+                    <Unicode>Quelle, Oheim, Epheu, Cider, Eiter, Eiſen, Quarz,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="line_1587553627320_1267" custom="readingOrder {index:22;}">
+                <Coords points="353,2659 500,2659 500,2733 353,2733"/>
+                <TextEquiv>
+                    <Unicode>Obſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>20&#xD;
+Cypreſſe iſt ein Baum. Die Hyacinthe iſt eine Blume.&#xD;
+Die Hyäne iſt ein wildes Tier. In dem Cirkus ſind&#xD;
+gute Reiter. Cäcilia und Cöleſtine sind Namen für&#xD;
+Mädchen.&#xD;
+34. C c = k&#xD;
+Der Herr geht in das Cafe. Die Kinder ſingen&#xD;
+den Accord.&#xD;
+Ch ch = k&#xD;
+Chor, Choral, Cholera, Chriſt, Chriſten, Chriſtus,&#xD;
+chriſtlich, Chriſtian, Chriſtine.&#xD;
+Chriſtus ſtarb am Kreuze. Die Kinder freuen ſich&#xD;
+auf das Chriſtfeſt. Ein Choral iſt ein Kirchengeſang.&#xD;
+35. Der Chriſtbaum.&#xD;
+Ich kenne ein Bäumchen gar fein und zart.&#xD;
+Es trägt auch Früchte von ſeltener Art.&#xD;
+Es blitzet und leuchtet mit hellem Schein&#xD;
+tief in des Winters Nacht hinein.&#xD;
+Das ſehen die Kinder und freuen ſich ſehr&#xD;
+und pflücken vom Bäumchen und pflücken es leer.&#xD;
+36. Qu, O; C, F; c, e; y&#xD;
+Quelle, Oheim, Epheu, Cider, Eiter, Eiſen, Quarz,&#xD;
+Obſt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

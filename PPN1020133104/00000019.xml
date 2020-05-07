@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:09.972+02:00</Created>
+        <LastChange>2020-04-27T14:36:30.660+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576669" pageNr="19" tsid="28330475" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=KQWELUJLDTFFEMLPHTZZEXUA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOIXXKHOSZLWBJGVXEGGZIKD" imageId="10530916"/>
+    </Metadata>
+    <Page imageFilename="00000019.tif" imageWidth="1793" imageHeight="3050">
+        <PrintSpace>
+            <Coords points="6,5 1793,5 1793,2960 6,2960"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850091" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="13,156 1565,161 1565,2796 13,2791"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1411,178 1470,178 1470,222 1411,222"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="33,306 1479,306 1479,376 33,376"/>
+                <TextEquiv>
+                    <Unicode>her. Das Büblein gefällt ihm nicht. Das Büblein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="34,393 1479,393 1479,463 34,463"/>
+                <TextEquiv>
+                    <Unicode>ſchreit und läuft davon. Das Bächlein hats beim Beine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="35,481 1479,481 1479,551 35,551"/>
+                <TextEquiv>
+                    <Unicode>ſchon. Es zieht das Büblein ganz herein und fegt und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="36,569 732,569 732,636 36,636"/>
+                <TextEquiv>
+                    <Unicode>wäſcht es ſauber und rein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="651,709 864,709 864,779 651,779"/>
+                <TextEquiv>
+                    <Unicode>Fragen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="240,792 1352,792 1352,858 240,858"/>
+                <TextEquiv>
+                    <Unicode>Was iſt von Horn? Was iſt von Korn?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="241,879 1362,879 1362,947 241,947"/>
+                <TextEquiv>
+                    <Unicode>Was iſt von Blei? Wovon iſt der Brei?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="238,966 1377,966 1377,1034 238,1034"/>
+                <TextEquiv>
+                    <Unicode>Was iſt von Stein, ſei's groß, ſei's klein?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="239,1054 1248,1054 1248,1122 239,1122"/>
+                <TextEquiv>
+                    <Unicode>Was iſt von Gold, ſo ſchön, ſo hold?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="239,1142 1326,1142 1326,1210 239,1210"/>
+                <TextEquiv>
+                    <Unicode>Wovon iſt der Schuh, der Stiefel dazu?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="239,1229 1285,1229 1285,1298 239,1298"/>
+                <TextEquiv>
+                    <Unicode>Nun, liebes Kind, ſag mir's geſchwind!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="37,1356 895,1356 895,1448 37,1448"/>
+                <TextEquiv>
+                    <Unicode>25. pfl, pfr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="19.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="38,1472 1483,1472 1483,1558 38,1558"/>
+                <TextEquiv>
+                    <Unicode>Das Pferd zieht den Wagen und den Pflug</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="400,1567 1118,1567 1118,1649 400,1649"/>
+                <TextEquiv>
+                    <Unicode>und trägt den Reiter.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="144,1671 1483,1671 1483,1742 144,1742"/>
+                <TextEquiv>
+                    <Unicode>Pflock, Pflaume, Pflanze, Pflaster, pflanzen, pflegen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="41,1759 800,1759 800,1826 41,1826"/>
+                <TextEquiv>
+                    <Unicode>pflücken; Pfriemen, Pfropfen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="140,1845 1484,1845 1484,1916 140,1916"/>
+                <TextEquiv>
+                    <Unicode>Der Gärtner pflanzt und pfropft. Der Rabe krächzt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="40,1933 1482,1933 1482,2004 40,2004"/>
+                <TextEquiv>
+                    <Unicode>Das Eis ſchmilzt. Die Wunde ſchmerzt. Der Sklave</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="43,2019 233,2019 233,2073 43,2073"/>
+                <TextEquiv>
+                    <Unicode>arbeitet.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="310,2091 1099,2091 1099,2159 310,2159"/>
+                <TextEquiv>
+                    <Unicode>Was für ein Pferd iſt grün?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="311,2173 876,2173 876,2240 311,2240"/>
+                <TextEquiv>
+                    <Unicode>Welche Stöcke blühn?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="311,2254 1073,2254 1073,2323 311,2323"/>
+                <TextEquiv>
+                    <Unicode>Was für eine Kuh iſt klein?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="311,2336 1215,2336 1215,2404 311,2404"/>
+                <TextEquiv>
+                    <Unicode>Welche Naſe iſt wohl von Stein?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="313,2417 1215,2417 1215,2487 313,2487"/>
+                <TextEquiv>
+                    <Unicode>Welche Bruſt iſt wohl von Holz?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="310,2498 1173,2498 1173,2568 310,2568"/>
+                <TextEquiv>
+                    <Unicode>Welches Pferd iſt nimmer ſtolz?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="310,2579 1134,2579 1134,2647 310,2647"/>
+                <TextEquiv>
+                    <Unicode>Welcher Herd iſt Goldes wert?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="312,2661 1215,2661 1215,2731 312,2731"/>
+                <TextEquiv>
+                    <Unicode>Welchen Wagen zieht kein Pferd?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15&#xD;
+her. Das Büblein gefällt ihm nicht. Das Büblein&#xD;
+ſchreit und läuft davon. Das Bächlein hats beim Beine&#xD;
+ſchon. Es zieht das Büblein ganz herein und fegt und&#xD;
+wäſcht es ſauber und rein.&#xD;
+Fragen.&#xD;
+Was iſt von Horn? Was iſt von Korn?&#xD;
+Was iſt von Blei? Wovon iſt der Brei?&#xD;
+Was iſt von Stein, ſei's groß, ſei's klein?&#xD;
+Was iſt von Gold, ſo ſchön, ſo hold?&#xD;
+Wovon iſt der Schuh, der Stiefel dazu?&#xD;
+Nun, liebes Kind, ſag mir's geſchwind!&#xD;
+25. pfl, pfr.&#xD;
+Das Pferd zieht den Wagen und den Pflug&#xD;
+und trägt den Reiter.&#xD;
+Pflock, Pflaume, Pflanze, Pflaster, pflanzen, pflegen,&#xD;
+pflücken; Pfriemen, Pfropfen.&#xD;
+Der Gärtner pflanzt und pfropft. Der Rabe krächzt.&#xD;
+Das Eis ſchmilzt. Die Wunde ſchmerzt. Der Sklave&#xD;
+arbeitet.&#xD;
+Was für ein Pferd iſt grün?&#xD;
+Welche Stöcke blühn?&#xD;
+Was für eine Kuh iſt klein?&#xD;
+Welche Naſe iſt wohl von Stein?&#xD;
+Welche Bruſt iſt wohl von Holz?&#xD;
+Welches Pferd iſt nimmer ſtolz?&#xD;
+Welcher Herd iſt Goldes wert?&#xD;
+Welchen Wagen zieht kein Pferd?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

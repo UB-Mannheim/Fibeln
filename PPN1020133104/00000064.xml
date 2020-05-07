@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:30.997+02:00</Created>
+        <LastChange>2020-05-04T23:37:12.749+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576813" pageNr="64" tsid="28783628" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=JTLMMUMGZBGRWZMSYSDEHUSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DETVNRCLFRRBLFJBNHCHMXSZ" imageId="10531060"/>
+    </Metadata>
+    <Page imageFilename="00000064.tif" imageWidth="1866" imageHeight="3042">
+        <PrintSpace>
+            <Coords points="0,49 1805,49 1805,1631 0,1631"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772851118" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="263,144 1830,140 1832,1276 265,1280"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="392,231 453,231 453,278 392,278"/>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="858,216 1338,216 1338,267 858,267"/>
+                <TextEquiv>
+                    <Unicode>Von dem heiligen Geiſte.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="400,341 1785,341 1785,423 400,423"/>
+                <TextEquiv>
+                    <Unicode>Geiſte, der mit dem Vater und Sohne eines iſt. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="402,427 1787,427 1787,508 402,508"/>
+                <TextEquiv>
+                    <Unicode>Ein unendlich weiſer, gütiger, mächtiger Gott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="401,516 1790,516 1790,600 401,600"/>
+                <TextEquiv>
+                    <Unicode>Schon zu Hauſe hat man euch gelehrt, daß ihr alles</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="403,603 1789,603 1789,686 403,686"/>
+                <TextEquiv>
+                    <Unicode>thun ſollt im Namen des Vaters, des Sohnes und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="403,690 1790,690 1790,773 403,773"/>
+                <TextEquiv>
+                    <Unicode>des heiligen Geiſtes. Ihr werdet dieſe Worte nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="403,778 1791,778 1791,860 403,860"/>
+                <TextEquiv>
+                    <Unicode>beſſer verſtehen, als früher. Thut nun aber auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="405,865 1793,865 1793,945 405,945"/>
+                <TextEquiv>
+                    <Unicode>darnach um ſo bereitwilliger und eifriger. Seid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="404,951 1795,951 1795,1035 404,1035"/>
+                <TextEquiv>
+                    <Unicode>ſtets gute Kinder des Vaters im Himmel, folgſame</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="404,1038 1792,1038 1792,1121 404,1121"/>
+                <TextEquiv>
+                    <Unicode>Jünger Jeſu, unſers Herrn, und euer Herz ſei ſtets</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="405,1125 1795,1125 1795,1209 405,1209"/>
+                <TextEquiv>
+                    <Unicode>rein und heilig — ein Tempel des heiligen Geiſtes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24&#xD;
+Von dem heiligen Geiſte.&#xD;
+Geiſte, der mit dem Vater und Sohne eines iſt. —&#xD;
+Ein unendlich weiſer, gütiger, mächtiger Gott.&#xD;
+Schon zu Hauſe hat man euch gelehrt, daß ihr alles&#xD;
+thun ſollt im Namen des Vaters, des Sohnes und&#xD;
+des heiligen Geiſtes. Ihr werdet dieſe Worte nun&#xD;
+beſſer verſtehen, als früher. Thut nun aber auch&#xD;
+darnach um ſo bereitwilliger und eifriger. Seid&#xD;
+ſtets gute Kinder des Vaters im Himmel, folgſame&#xD;
+Jünger Jeſu, unſers Herrn, und euer Herz ſei ſtets&#xD;
+rein und heilig — ein Tempel des heiligen Geiſtes.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

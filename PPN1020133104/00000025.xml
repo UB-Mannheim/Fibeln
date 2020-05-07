@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:12.523+02:00</Created>
+        <LastChange>2020-04-27T16:33:14.841+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576688" pageNr="25" tsid="28337193" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=MGZBPCCQWIWQYTQFETPAPEJR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TCRLWJSZYVAWACVPAGCOSIWJ" imageId="10530935"/>
+    </Metadata>
+    <Page imageFilename="00000025.tif" imageWidth="1808" imageHeight="3052">
+        <PrintSpace>
+            <Coords points="0,5 1808,5 1808,3052 0,3052"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850230" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="11,135 1594,140 1594,2790 11,2785"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1423,157 1485,157 1485,204 1423,204"/>
+                <TextEquiv>
+                    <Unicode>21</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="74,303 1068,303 1068,403 74,403"/>
+                <TextEquiv>
+                    <Unicode>37. chs = x (ks)</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="19.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="177,417 1489,417 1489,496 177,496"/>
+                <TextEquiv>
+                    <Unicode>Axt, Achſe, Achſel, Ochs, Luchs, Fuchs, Dachs,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="77,505 1491,505 1491,585 77,585"/>
+                <TextEquiv>
+                    <Unicode>Lachs, Wachs, Wichſe, wichſen, wachſen, wechſeln, drech=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="78,599 1104,599 1104,673 78,673"/>
+                <TextEquiv>
+                    <Unicode>ſeln; Büchſe, Büſche; wachſen, waſchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="695,740 883,740 883,809 695,809"/>
+                <TextEquiv>
+                    <Unicode>Rätſel.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="423,843 1080,843 1080,914 423,914"/>
+                <TextEquiv>
+                    <Unicode>Ich wachſe aus der Erde</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="423,933 979,933 979,999 423,999"/>
+                <TextEquiv>
+                    <Unicode>und kleide jedermann,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="428,1018 1118,1018 1118,1088 428,1088"/>
+                <TextEquiv>
+                    <Unicode>den Kaiſer und den König</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="428,1107 1116,1107 1116,1175 428,1175"/>
+                <TextEquiv>
+                    <Unicode>und auch den Bettelmann.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="641,1246 954,1246 954,1319 641,1319"/>
+                <TextEquiv>
+                    <Unicode>Der Fuchs.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="189,1347 1504,1347 1504,1424 189,1424"/>
+                <TextEquiv>
+                    <Unicode>Fuchs, du haſt die Gans geſtohlen, gib ſie wieder</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="90,1436 1501,1436 1501,1511 90,1511"/>
+                <TextEquiv>
+                    <Unicode>her, ſonſt wird dich der Jäger holen mit dem Schieß=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="92,1535 269,1535 269,1600 92,1600"/>
+                <TextEquiv>
+                    <Unicode>gewehr.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="192,1610 1507,1610 1507,1685 192,1685"/>
+                <TextEquiv>
+                    <Unicode>Sieh, er ladet ſchon die Flinte und dich trifft ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="97,1697 1507,1697 1507,1772 97,1772"/>
+                <TextEquiv>
+                    <Unicode>Schrot, daß dich färbt die rote Tinte, und dann biſt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="96,1797 264,1797 264,1850 96,1850"/>
+                <TextEquiv>
+                    <Unicode>du tot.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="194,1871 1511,1871 1511,1947 194,1947"/>
+                <TextEquiv>
+                    <Unicode>Liebes Füchslein, laß dir raten, ſei doch nur kein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="98,1958 1510,1958 1510,2035 98,2035"/>
+                <TextEquiv>
+                    <Unicode>Dieb; nimm, du brauchſt nicht Gänſebraten, mit der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="98,2057 464,2057 464,2110 98,2110"/>
+                <TextEquiv>
+                    <Unicode>Maus vorlieb.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="100,2154 965,2154 965,2252 100,2252"/>
+                <TextEquiv>
+                    <Unicode>38. ti wie zi</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="19.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="200,2274 1509,2274 1509,2351 200,2351"/>
+                <TextEquiv>
+                    <Unicode>Portion, Ration, Nation, Station, Patient,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="101,2369 688,2369 688,2437 101,2437"/>
+                <TextEquiv>
+                    <Unicode>Pontius, Conſtantia.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="200,2448 1513,2448 1513,2526 200,2526"/>
+                <TextEquiv>
+                    <Unicode>Der Arzt beſucht ſeine Patienten. Wir eſſen eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="104,2535 1512,2535 1512,2612 104,2612"/>
+                <TextEquiv>
+                    <Unicode>Portion Fleiſch. Das Pferd erhält eine Ration Heu.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="105,2623 1341,2623 1341,2700 105,2700"/>
+                <TextEquiv>
+                    <Unicode>Ein ganzes Volk nennt man auch eine Nation.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>21&#xD;
+37. chs = x (ks)&#xD;
+Axt, Achſe, Achſel, Ochs, Luchs, Fuchs, Dachs,&#xD;
+Lachs, Wachs, Wichſe, wichſen, wachſen, wechſeln, drech=&#xD;
+ſeln; Büchſe, Büſche; wachſen, waſchen.&#xD;
+Rätſel.&#xD;
+Ich wachſe aus der Erde&#xD;
+und kleide jedermann,&#xD;
+den Kaiſer und den König&#xD;
+und auch den Bettelmann.&#xD;
+Der Fuchs.&#xD;
+Fuchs, du haſt die Gans geſtohlen, gib ſie wieder&#xD;
+her, ſonſt wird dich der Jäger holen mit dem Schieß=&#xD;
+gewehr.&#xD;
+Sieh, er ladet ſchon die Flinte und dich trifft ihr&#xD;
+Schrot, daß dich färbt die rote Tinte, und dann biſt&#xD;
+du tot.&#xD;
+Liebes Füchslein, laß dir raten, ſei doch nur kein&#xD;
+Dieb; nimm, du brauchſt nicht Gänſebraten, mit der&#xD;
+Maus vorlieb.&#xD;
+38. ti wie zi&#xD;
+Portion, Ration, Nation, Station, Patient,&#xD;
+Pontius, Conſtantia.&#xD;
+Der Arzt beſucht ſeine Patienten. Wir eſſen eine&#xD;
+Portion Fleiſch. Das Pferd erhält eine Ration Heu.&#xD;
+Ein ganzes Volk nennt man auch eine Nation.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
