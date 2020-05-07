@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:27.833+02:00</Created>
+        <LastChange>2020-05-05T23:14:05.528+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576790" pageNr="57" tsid="28844913" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=XXGLSIAVTCDLYQLOLJBMSJAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BOIZTILEEUZKJMHSRKKFEIZF" imageId="10531037"/>
+    </Metadata>
+    <Page imageFilename="00000057.tif" imageWidth="1801" imageHeight="3060">
+        <PrintSpace>
+            <Coords points="49,32 1801,32 1801,3030 49,3030"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850958" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="29,124 1618,122 1633,2806 44,2808"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="557,227 967,225 967,277 557,279"/>
+                <TextEquiv>
+                    <Unicode>Von Jeſus Chriſtus. </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="6.0" bold="true"/>
+            </TextLine>
+            <TextLine id="line_1588624379990_3099" custom="readingOrder {index:1;}">
+                <Coords points="1392,236 1462,236 1462,289 1392,289"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="67,358 1450,358 1450,436 67,436"/>
+                <TextEquiv>
+                    <Unicode>ſtocke bleibt. Man nimmt ſie und wirft ſie ins Feuer,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="68,445 583,445 583,512 68,512"/>
+                <TextEquiv>
+                    <Unicode>und verbrennt ſie."</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="207,589 1452,589 1452,664 207,664"/>
+                <TextEquiv>
+                    <Unicode>„Wie mein Vater mich liebt, ſo liebe ich euch.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="69,675 1451,675 1451,751 69,751"/>
+                <TextEquiv>
+                    <Unicode>Niemand hat je eine größere Liebe als dieſe, daß</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="70,762 1452,762 1452,837 70,837"/>
+                <TextEquiv>
+                    <Unicode>er ſein Leben für ſeine Freunde gebe. Das iſt nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="69,849 1452,849 1452,926 69,926"/>
+                <TextEquiv>
+                    <Unicode>mein Gebot, daß ihr einander liebet, wie ich euch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="69,938 1455,938 1455,1013 69,1013"/>
+                <TextEquiv>
+                    <Unicode>liebe. Daran wird jedermann erkennen, daß ihr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="69,1026 1335,1026 1335,1097 69,1097"/>
+                <TextEquiv>
+                    <Unicode>meine Jünger ſeid, wenn ihr einander liebt."</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="206,1168 1459,1168 1459,1239 206,1239"/>
+                <TextEquiv>
+                    <Unicode>„Wenn ihr mich lieb habt, ſo haltet meine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="71,1252 1459,1252 1459,1328 71,1328"/>
+                <TextEquiv>
+                    <Unicode>Gebote. Wer meine Gebote hat, und ſie hält, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="71,1340 1458,1340 1458,1415 71,1415"/>
+                <TextEquiv>
+                    <Unicode>iſt's, der mich liebt. Wer mich nicht liebt, der hält</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="72,1427 1456,1427 1456,1502 72,1502"/>
+                <TextEquiv>
+                    <Unicode>auch meine Gebote nicht. Wer mich aber liebt, den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="71,1516 1456,1516 1456,1588 71,1588"/>
+                <TextEquiv>
+                    <Unicode>liebt auch mein Vater, und ich liebe ihn. Um was</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="70,1603 1458,1603 1458,1674 70,1674"/>
+                <TextEquiv>
+                    <Unicode>er den Vater bitten wird in meinem Namen, das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="72,1691 846,1691 846,1760 72,1760"/>
+                <TextEquiv>
+                    <Unicode>wird ihm der Vater geben."</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="208,1831 1460,1831 1460,1904 208,1904"/>
+                <TextEquiv>
+                    <Unicode>„In dem Hause meines Vaters ſind viele</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="72,1918 1459,1918 1459,1991 72,1991"/>
+                <TextEquiv>
+                    <Unicode>Wohnungen. Auch für euch bereite ich da eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="73,2005 1457,2005 1457,2079 73,2079"/>
+                <TextEquiv>
+                    <Unicode>Stätte. Ich werde einſt wiederkommen, und euch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="74,2092 1457,2092 1457,2167 74,2167"/>
+                <TextEquiv>
+                    <Unicode>zu mir nehmen, damit ihr ſeid, wo ich bin. Ihr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="70,2181 1454,2181 1454,2253 70,2253"/>
+                <TextEquiv>
+                    <Unicode>werdet mich ſehen, und euer Herz wird ſich freuen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="75,2267 1383,2267 1383,2338 75,2338"/>
+                <TextEquiv>
+                    <Unicode>und niemand ſoll eure Freude von euch nehmen."</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="213,2415 1459,2415 1459,2490 213,2490"/>
+                <TextEquiv>
+                    <Unicode>„Dies habe ich zu euch geredet, damit meine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="74,2501 1459,2501 1459,2575 74,2575"/>
+                <TextEquiv>
+                    <Unicode>Freude in euch bleibe, und eure Freude vollkommen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="76,2588 1458,2588 1458,2661 76,2661"/>
+                <TextEquiv>
+                    <Unicode>werde. Da ihr dieſes wiſſet, ſelig ſeid ihr, wenn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="76,2677 552,2677 552,2745 76,2745"/>
+                <TextEquiv>
+                    <Unicode>ihr es auch thut."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von Jeſus Chriſtus. &#xD;
+17&#xD;
+ſtocke bleibt. Man nimmt ſie und wirft ſie ins Feuer,&#xD;
+und verbrennt ſie."&#xD;
+„Wie mein Vater mich liebt, ſo liebe ich euch.&#xD;
+Niemand hat je eine größere Liebe als dieſe, daß&#xD;
+er ſein Leben für ſeine Freunde gebe. Das iſt nun&#xD;
+mein Gebot, daß ihr einander liebet, wie ich euch&#xD;
+liebe. Daran wird jedermann erkennen, daß ihr&#xD;
+meine Jünger ſeid, wenn ihr einander liebt."&#xD;
+„Wenn ihr mich lieb habt, ſo haltet meine&#xD;
+Gebote. Wer meine Gebote hat, und ſie hält, der&#xD;
+iſt's, der mich liebt. Wer mich nicht liebt, der hält&#xD;
+auch meine Gebote nicht. Wer mich aber liebt, den&#xD;
+liebt auch mein Vater, und ich liebe ihn. Um was&#xD;
+er den Vater bitten wird in meinem Namen, das&#xD;
+wird ihm der Vater geben."&#xD;
+„In dem Hause meines Vaters ſind viele&#xD;
+Wohnungen. Auch für euch bereite ich da eine&#xD;
+Stätte. Ich werde einſt wiederkommen, und euch&#xD;
+zu mir nehmen, damit ihr ſeid, wo ich bin. Ihr&#xD;
+werdet mich ſehen, und euer Herz wird ſich freuen,&#xD;
+und niemand ſoll eure Freude von euch nehmen."&#xD;
+„Dies habe ich zu euch geredet, damit meine&#xD;
+Freude in euch bleibe, und eure Freude vollkommen&#xD;
+werde. Da ihr dieſes wiſſet, ſelig ſeid ihr, wenn&#xD;
+ihr es auch thut."</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

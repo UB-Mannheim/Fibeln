@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:04.313+02:00</Created>
+        <LastChange>2020-04-27T10:25:21.497+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576639" pageNr="7" tsid="28315993" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=EDVLZHEWDDNSCOIZWZHTDXCA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNLADEBMJFNAVGBPQSDWBVTX" imageId="10530886"/>
+    </Metadata>
+    <Page imageFilename="00000007.tif" imageWidth="1822" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="5,3 1822,3 1822,3042 5,3042"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772849808" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="48,226 1669,230 1657,2904 36,2900"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="481,337 1168,337 1168,460 481,460"/>
+                <TextEquiv>
+                    <Unicode>Zweite Stufe.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="27.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="418,514 1242,514 1242,601 418,601"/>
+                <TextEquiv>
+                    <Unicode>A. Dehnung und Schärfung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="800,634 839,634 839,686 800,686"/>
+                <TextEquiv>
+                    <Unicode>I.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="100,764 1003,764 1003,861 100,861"/>
+                <TextEquiv>
+                    <Unicode>1. aa, oo, ee.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="100,894 1537,894 1537,990 100,990"/>
+                <TextEquiv>
+                    <Unicode>Der Aal iſt ein Fisch. Der Aar iſt ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="718,997 922,997 922,1076 718,1076"/>
+                <TextEquiv>
+                    <Unicode>Vogel.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="212,1106 1165,1106 1165,1194 212,1194"/>
+                <TextEquiv>
+                    <Unicode>Haar, Saat, Aas, Saal, Paar;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="214,1206 822,1206 822,1292 214,1292"/>
+                <TextEquiv>
+                    <Unicode>Boot, Moor, Moos;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="215,1304 1534,1304 1534,1398 215,1398"/>
+                <TextEquiv>
+                    <Unicode>Meer, See, Seele, Heer, Beere, Armee,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="93,1400 785,1400 785,1488 93,1488"/>
+                <TextEquiv>
+                    <Unicode>Teer, Beet, leer, ſcheel.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="210,1503 1531,1503 1531,1594 210,1594"/>
+                <TextEquiv>
+                    <Unicode>Das Haar iſt fein. Das Aas iſt faul.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="91,1600 1531,1600 1531,1693 91,1693"/>
+                <TextEquiv>
+                    <Unicode>Der Saal iſt hoch. Das Moor iſt öde. Das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="93,1699 905,1699 905,1787 93,1787"/>
+                <TextEquiv>
+                    <Unicode>Meer oder die See iſt tief.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="92,1848 853,1848 853,1936 92,1936"/>
+                <TextEquiv>
+                    <Unicode>2. ie.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="19.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="364,1973 1256,1973 1256,2059 364,2059"/>
+                <TextEquiv>
+                    <Unicode>Die Ziege hat vier Beine.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="205,2084 1524,2084 1524,2179 205,2179"/>
+                <TextEquiv>
+                    <Unicode>Wiege, Wieſe, Rieſe, Bier, hier, vier, viel,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:16;}">
+                <Coords points="89,2185 1525,2185 1525,2278 89,2278"/>
+                <TextEquiv>
+                    <Unicode>wie, ſie, die, nie, tief, ſchief, liegen, lieben,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="86,2283 587,2283 587,2367 86,2367"/>
+                <TextEquiv>
+                    <Unicode>ſchieben, ſchielen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="200,2382 1521,2382 1521,2480 200,2480"/>
+                <TextEquiv>
+                    <Unicode>Wieſe, Weiſe; Rieſe, Reiſe; ſie, ſei; leis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:19;}">
+                <Coords points="84,2482 649,2482 649,2563 84,2563"/>
+                <TextEquiv>
+                    <Unicode>lies; lieben, leiden.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="197,2584 1520,2584 1520,2679 197,2679"/>
+                <TextEquiv>
+                    <Unicode>Ziege, Züge; Ziegel, Zügel; Dinge, dünge;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="82,2680 1459,2680 1459,2771 82,2771"/>
+                <TextEquiv>
+                    <Unicode>vier, für; liegen, lügen. Wir rieben Rüben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="1262,2797 1312,2797 1312,2830 1262,2830"/>
+                <TextEquiv>
+                    <Unicode>1*</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zweite Stufe.&#xD;
+A. Dehnung und Schärfung.&#xD;
+I.&#xD;
+1. aa, oo, ee.&#xD;
+Der Aal iſt ein Fisch. Der Aar iſt ein&#xD;
+Vogel.&#xD;
+Haar, Saat, Aas, Saal, Paar;&#xD;
+Boot, Moor, Moos;&#xD;
+Meer, See, Seele, Heer, Beere, Armee,&#xD;
+Teer, Beet, leer, ſcheel.&#xD;
+Das Haar iſt fein. Das Aas iſt faul.&#xD;
+Der Saal iſt hoch. Das Moor iſt öde. Das&#xD;
+Meer oder die See iſt tief.&#xD;
+2. ie.&#xD;
+Die Ziege hat vier Beine.&#xD;
+Wiege, Wieſe, Rieſe, Bier, hier, vier, viel,&#xD;
+wie, ſie, die, nie, tief, ſchief, liegen, lieben,&#xD;
+ſchieben, ſchielen.&#xD;
+Wieſe, Weiſe; Rieſe, Reiſe; ſie, ſei; leis,&#xD;
+lies; lieben, leiden.&#xD;
+Ziege, Züge; Ziegel, Zügel; Dinge, dünge;&#xD;
+vier, für; liegen, lügen. Wir rieben Rüben.&#xD;
+1*</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

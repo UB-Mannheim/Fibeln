@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:03.582+02:00</Created>
+        <LastChange>2020-05-06T15:36:23.142+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+				</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576637" pageNr="5" tsid="28865009" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=YUAPPEBIOESXDYFPZRMXVCRJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUPTVSJQAWVUDCHWXUPGTWDD" imageId="10530884"/>
+    </Metadata>
+    <Page imageFilename="00000005.tif" imageWidth="1831" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="-6,48 1825,48 1825,3096 -6,3096"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772849757" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1587474781986_2876"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1587474781986_2876" custom="readingOrder {index:0;}">
+            <Coords points="63,246 1689,246 1689,2850 63,2850"/>
+            <TextLine id="line_1587474798799_2879" custom="readingOrder {index:0;}">
+                <Coords points="238,361 1412,361 1412,559 238,559"/>
+                <TextEquiv>
+                    <Unicode>Hoffmann'ſche Fibel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474801736_2882" custom="readingOrder {index:1;}">
+                <Coords points="733,671 913,671 913,758 733,758"/>
+                <TextEquiv>
+                    <Unicode>für den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474806158_2885" custom="readingOrder {index:2;}">
+                <Coords points="83,841 1574,841 1574,978 83,978"/>
+                <TextEquiv>
+                    <Unicode>vereinigten Anſchauungs=, Sprech=, Schreib=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474809861_2888" custom="readingOrder {index:3;}">
+                <Coords points="458,1015 1188,1015 1188,1112 458,1112"/>
+                <TextEquiv>
+                    <Unicode>und Leſeunterricht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474866236_2919" custom="readingOrder {index:4;}">
+                <Coords points="429,1392 1217,1392 1217,1493 429,1493"/>
+                <TextEquiv>
+                    <Unicode>Zweite Abteilung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474870705_2922" custom="readingOrder {index:5;}">
+                <Coords points="336,1515 1300,1515 1300,1602 336,1602"/>
+                <TextEquiv>
+                    <Unicode>kleine Ausgabe, bisher unter dem Titel:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474874924_2925" custom="readingOrder {index:6;}">
+                <Coords points="625,1598 1015,1598 1015,1670 625,1670"/>
+                <TextEquiv>
+                    <Unicode>Anfangsunterricht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474878424_2928" custom="readingOrder {index:7;}">
+                <Coords points="415,1667 1231,1667 1231,1750 415,1750"/>
+                <TextEquiv>
+                    <Unicode>bearbeitet von mehreren öffentlichen Lehrern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474881095_2931" custom="readingOrder {index:8;}">
+                <Coords points="448,1923 1210,1923 1210,1988 448,1988"/>
+                <TextEquiv>
+                    <Unicode>Stereotypdruck der genehmigten 107. Auflage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474884377_2934" custom="readingOrder {index:9;}">
+                <Coords points="523,2126 1134,2126 1134,2216 523,2216"/>
+                <TextEquiv>
+                    <Unicode>Hundertvierundzwanzigste Auflage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474895236_2937" custom="readingOrder {index:10;}">
+                <Coords points="697,2430 965,2430 965,2505 697,2505"/>
+                <TextEquiv>
+                    <Unicode>München</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474900705_2940" custom="readingOrder {index:11;}">
+                <Coords points="455,2509 1203,2509 1203,2588 455,2588"/>
+                <TextEquiv>
+                    <Unicode>Verlag von R. Oldenbourg,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474905783_2943" custom="readingOrder {index:12;}">
+                <Coords points="600,2581 1044,2581 1044,2646 600,2646"/>
+                <TextEquiv>
+                    <Unicode>Abteilung für Schulbücher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587474909471_2946" custom="readingOrder {index:13;}">
+                <Coords points="632,2690 1011,2690 1011,2751 632,2751"/>
+                <TextEquiv>
+                    <Unicode>Preis: ungeb. 15 Pfg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hoffmann'ſche Fibel&#xD;
+für den&#xD;
+vereinigten Anſchauungs=, Sprech=, Schreib=&#xD;
+und Leſeunterricht.&#xD;
+Zweite Abteilung.&#xD;
+kleine Ausgabe, bisher unter dem Titel:&#xD;
+Anfangsunterricht,&#xD;
+bearbeitet von mehreren öffentlichen Lehrern.&#xD;
+Stereotypdruck der genehmigten 107. Auflage.&#xD;
+Hundertvierundzwanzigste Auflage.&#xD;
+München&#xD;
+Verlag von R. Oldenbourg,&#xD;
+Abteilung für Schulbücher.&#xD;
+Preis: ungeb. 15 Pfg.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

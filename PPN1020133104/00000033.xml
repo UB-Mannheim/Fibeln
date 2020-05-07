@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:15.994+02:00</Created>
+        <LastChange>2020-05-01T14:54:09.761+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576713" pageNr="33" tsid="28650561" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=OGTJROLVJIBZBULQOPXRWBGV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQFWZQUFDAZEYWPCAQFFQYBE" imageId="10530960"/>
+    </Metadata>
+    <Page imageFilename="00000033.tif" imageWidth="1821" imageHeight="3046">
+        <PrintSpace>
+            <Coords points="99,56 1817,56 1817,3041 99,3041"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850404" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="41,151 1612,149 1693,2807 122,2809"/>
+            <TextLine id="line_1588337435389_1998" custom="readingOrder {index:0;}">
+                <Coords points="1447,182 1528,182 1528,251 1447,251"/>
+                <TextEquiv>
+                    <Unicode>29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="109,330 1523,330 1523,412 109,412"/>
+                <TextEquiv>
+                    <Unicode>ſind von Papier. Der Buchbinder hat das Buch ein=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="109,417 1523,417 1523,498 109,498"/>
+                <TextEquiv>
+                    <Unicode>gebunden. Die Decke iſt bunt, die Blätter aber ſind</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="108,511 1060,511 1060,585 108,585"/>
+                <TextEquiv>
+                    <Unicode>weiß. Die Buchſtaben ſind ſchwarz.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="400,624 1243,624 1243,712 400,712"/>
+                <TextEquiv>
+                    <Unicode>6. Die gefällige Auguſte.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="215,724 1527,724 1527,805 215,805"/>
+                <TextEquiv>
+                    <Unicode>Auguſte ging auch in die Schule. Da lernte ſie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="115,807 1527,807 1527,889 115,889"/>
+                <TextEquiv>
+                    <Unicode>leſen und ſchreiben. Bald konnte ſie in ihrem Schul=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="118,887 1528,887 1528,970 118,970"/>
+                <TextEquiv>
+                    <Unicode>buche leſen und Buchſtaben ſchreiben. Da freute ſie ſich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="116,970 1532,970 1532,1049 116,1049"/>
+                <TextEquiv>
+                    <Unicode>und Vater und Mutter freuten ſich auch. Neben Auguſte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="116,1050 1533,1050 1533,1133 116,1133"/>
+                <TextEquiv>
+                    <Unicode>ſaß aber ein armes Mädchen, das hieß Anna. Auguſte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="119,1133 1533,1133 1533,1215 119,1215"/>
+                <TextEquiv>
+                    <Unicode>hatte zwei Schieferſtifte, aber die arme Anna hatte</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="121,1213 1534,1213 1534,1293 121,1293"/>
+                <TextEquiv>
+                    <Unicode>keinen. Liebe Auguſte, ſprach die Anna, bitte, leihe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="119,1294 1535,1294 1535,1377 119,1377"/>
+                <TextEquiv>
+                    <Unicode>mir doch einen Griffel. Auguſte nahm auch gleich den</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="120,1376 1534,1376 1534,1459 120,1459"/>
+                <TextEquiv>
+                    <Unicode>beſten und ſagte: Da, Anna, haſt du einen. Das ſah</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="122,1458 1535,1458 1535,1542 122,1542"/>
+                <TextEquiv>
+                    <Unicode>der Lehrer, und ſprach: So iſt es recht, Auguſte, ſo</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="121,1547 987,1547 987,1624 121,1624"/>
+                <TextEquiv>
+                    <Unicode>machen es gute, gefällige Kinder!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="598,1658 1063,1658 1063,1741 598,1741"/>
+                <TextEquiv>
+                    <Unicode>7. Das Haus.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="224,1759 1539,1759 1539,1842 224,1842"/>
+                <TextEquiv>
+                    <Unicode>Das Haus iſt ein Gebäude, worin man Schutz</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="125,1840 1540,1840 1540,1926 125,1926"/>
+                <TextEquiv>
+                    <Unicode>gegen Hitze und Kälte, Sturm und Regen findet. Es</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="127,1922 1539,1922 1539,2007 127,2007"/>
+                <TextEquiv>
+                    <Unicode>hat vier Wände und ein Dach darüber, Thüren und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="128,2003 1545,2003 1545,2087 128,2087"/>
+                <TextEquiv>
+                    <Unicode>Fenſter. Im Hauſe hat man Zimmer, Kammern, Küchen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="127,2084 1546,2084 1546,2166 127,2166"/>
+                <TextEquiv>
+                    <Unicode>und Keller. Auf Treppen ſteigt man in den Keller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="130,2165 1548,2165 1548,2248 130,2248"/>
+                <TextEquiv>
+                    <Unicode>und auf den Boden. Große Häuſer haben drei, vier</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="132,2266 402,2266 402,2320 132,2320"/>
+                <TextEquiv>
+                    <Unicode>Stockwerke.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="613,2320 1060,2320 1060,2405 613,2405"/>
+                <TextEquiv>
+                    <Unicode>8. Das Dach.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="479,2413 1230,2413 1230,2486 479,2486"/>
+                <TextEquiv>
+                    <Unicode>Ein Dach ſchützt unſer Haus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="405,2495 1275,2495 1275,2569 405,2569"/>
+                <TextEquiv>
+                    <Unicode>vor Regen, Schnee und Wind, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="406,2576 1181,2576 1181,2651 406,2651"/>
+                <TextEquiv>
+                    <Unicode>weil ſich's nicht wohnen läßt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="402,2660 964,2660 964,2730 402,2730"/>
+                <TextEquiv>
+                    <Unicode>wo keine Dächer ſind.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>29&#xD;
+ſind von Papier. Der Buchbinder hat das Buch ein=&#xD;
+gebunden. Die Decke iſt bunt, die Blätter aber ſind&#xD;
+weiß. Die Buchſtaben ſind ſchwarz.&#xD;
+6. Die gefällige Auguſte.&#xD;
+Auguſte ging auch in die Schule. Da lernte ſie&#xD;
+leſen und ſchreiben. Bald konnte ſie in ihrem Schul=&#xD;
+buche leſen und Buchſtaben ſchreiben. Da freute ſie ſich&#xD;
+und Vater und Mutter freuten ſich auch. Neben Auguſte&#xD;
+ſaß aber ein armes Mädchen, das hieß Anna. Auguſte&#xD;
+hatte zwei Schieferſtifte, aber die arme Anna hatte&#xD;
+keinen. Liebe Auguſte, ſprach die Anna, bitte, leihe&#xD;
+mir doch einen Griffel. Auguſte nahm auch gleich den&#xD;
+beſten und ſagte: Da, Anna, haſt du einen. Das ſah&#xD;
+der Lehrer, und ſprach: So iſt es recht, Auguſte, ſo&#xD;
+machen es gute, gefällige Kinder!&#xD;
+7. Das Haus.&#xD;
+Das Haus iſt ein Gebäude, worin man Schutz&#xD;
+gegen Hitze und Kälte, Sturm und Regen findet. Es&#xD;
+hat vier Wände und ein Dach darüber, Thüren und&#xD;
+Fenſter. Im Hauſe hat man Zimmer, Kammern, Küchen&#xD;
+und Keller. Auf Treppen ſteigt man in den Keller&#xD;
+und auf den Boden. Große Häuſer haben drei, vier&#xD;
+Stockwerke.&#xD;
+8. Das Dach.&#xD;
+Ein Dach ſchützt unſer Haus&#xD;
+vor Regen, Schnee und Wind, &#xD;
+weil ſich's nicht wohnen läßt,&#xD;
+wo keine Dächer ſind.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

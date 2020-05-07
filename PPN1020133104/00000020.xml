@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:10.392+02:00</Created>
+        <LastChange>2020-04-27T15:13:40.562+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576673" pageNr="20" tsid="28331619" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=NDDRWPMSBZCPTDUQALHZJXBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FIGZEDDVWROLHUWMTGHZAFJQ" imageId="10530920"/>
+    </Metadata>
+    <Page imageFilename="00000020.tif" imageWidth="1934" imageHeight="3014">
+        <PrintSpace>
+            <Coords points="0,0 1934,0 1934,2960 0,2960"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850114" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_6_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:0;}">
+            <Coords points="377,165 1911,173 1925,2816 391,2808"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="464,169 527,169 527,213 464,213"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="739,288 1623,288 1623,360 739,360"/>
+                <TextEquiv>
+                    <Unicode>Wer iſt ſo klug, wer iſt ſo ſchlau,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="740,369 1691,369 1691,440 740,440"/>
+                <TextEquiv>
+                    <Unicode>Dem ſchüttl' ich was vom Bäumchen!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="740,448 1559,448 1559,521 740,521"/>
+                <TextEquiv>
+                    <Unicode>Iſt innen gelb und außen blau,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="742,531 1528,531 1528,602 742,602"/>
+                <TextEquiv>
+                    <Unicode>hat mitten drin ein Steinchen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="970,681 1387,681 1387,738 970,738"/>
+                <TextEquiv>
+                    <Unicode>Kletterbüblein.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="746,760 1676,760 1676,832 746,832"/>
+                <TextEquiv>
+                    <Unicode>Steigt das Büblein auf den Baum,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="748,842 1518,842 1518,914 748,914"/>
+                <TextEquiv>
+                    <Unicode>o ſo hoch, man ſieht es kaum,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="748,915 1452,915 1452,995 748,995"/>
+                <TextEquiv>
+                    <Unicode>ſchlüpft von Aſt zu Äſtchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="749,1006 1376,1006 1376,1076 749,1076"/>
+                <TextEquiv>
+                    <Unicode>hüpft zum Vogelneſtchen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="748,1090 1160,1090 1160,1156 748,1156"/>
+                <TextEquiv>
+                    <Unicode>Ui! da lacht es,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="750,1170 1209,1170 1209,1237 750,1237"/>
+                <TextEquiv>
+                    <Unicode>hui! da kracht es.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="751,1248 1506,1248 1506,1318 751,1318"/>
+                <TextEquiv>
+                    <Unicode>Plumps, da liegt es drunten.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="470,1386 1523,1386 1523,1486 470,1486"/>
+                <TextEquiv>
+                    <Unicode>26. ſt. ſtr. ſp. ſpr, ſpl.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="20.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="579,1500 1903,1500 1903,1581 579,1581"/>
+                <TextEquiv>
+                    <Unicode>Stuhl, Stock, Stein, Stadt, Stube, Stunde, Stahl,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="472,1586 1902,1586 1902,1667 472,1667"/>
+                <TextEquiv>
+                    <Unicode>Stall, Star, ſtarr, Stiel, ſtill, ſtumm, ſtumpf, ſtehlen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="470,1672 1904,1672 1904,1753 470,1753"/>
+                <TextEquiv>
+                    <Unicode>ſtellen, ſticken, ſtücken, ſtehen, ſtechen, ſticken, ſtricken,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="472,1757 1902,1757 1902,1840 472,1840"/>
+                <TextEquiv>
+                    <Unicode>Stroh, Strom, Strich, Streich, Strauch, Strauß, Straße,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="472,1844 1902,1844 1902,1926 472,1926"/>
+                <TextEquiv>
+                    <Unicode>Strafe, Strumpf; Span, Speck, Spatz, Sperling, ſpucken,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="471,1928 1902,1928 1902,2011 471,2011"/>
+                <TextEquiv>
+                    <Unicode>ſpeiſen, ſpielen, ſpülen, Spiegel, Speichel, Spreu, Spruch,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="472,2020 1648,2020 1648,2098 472,2098"/>
+                <TextEquiv>
+                    <Unicode>Sprung, ſpringen, ſprechen, Splint, Splitter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="474,2161 1906,2161 1906,2260 474,2260"/>
+                <TextEquiv>
+                    <Unicode>27. Gas, Gans, Rad, Rand, hat, halt, heut, heult,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="476,2261 1906,2261 1906,2349 476,2349"/>
+                <TextEquiv>
+                    <Unicode>heb, herb, Gut, Gurt, Weg, Werg, Wust, Wurst, Gabe,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="476,2346 1906,2346 1906,2434 476,2434"/>
+                <TextEquiv>
+                    <Unicode>Garbe, ſteigen, ſteigern, Oſt, Obſt, lag, lang, ſag, ſang,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="English" custom="readingOrder {index:24;}">
+                <Coords points="476,2433 1908,2433 1908,2522 476,2522"/>
+                <TextEquiv>
+                    <Unicode>Gas, Glas, Fuß, Fluß, Schuß, Schluß, Guß, Gruß,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="English" custom="readingOrder {index:25;}">
+                <Coords points="477,2521 1908,2521 1908,2606 477,2606"/>
+                <TextEquiv>
+                    <Unicode>Band, Brand, Buch, Bruch, Bauer, Brauer, Taube,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="477,2607 1913,2607 1913,2692 477,2692"/>
+                <TextEquiv>
+                    <Unicode>Traube, dingen, dringen, ſingen, ſpringen, Thon, Thron,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>16&#xD;
+Wer iſt ſo klug, wer iſt ſo ſchlau,&#xD;
+Dem ſchüttl' ich was vom Bäumchen!&#xD;
+Iſt innen gelb und außen blau,&#xD;
+hat mitten drin ein Steinchen.&#xD;
+Kletterbüblein.&#xD;
+Steigt das Büblein auf den Baum,&#xD;
+o ſo hoch, man ſieht es kaum,&#xD;
+ſchlüpft von Aſt zu Äſtchen,&#xD;
+hüpft zum Vogelneſtchen.&#xD;
+Ui! da lacht es,&#xD;
+hui! da kracht es.&#xD;
+Plumps, da liegt es drunten.&#xD;
+26. ſt. ſtr. ſp. ſpr, ſpl.&#xD;
+Stuhl, Stock, Stein, Stadt, Stube, Stunde, Stahl,&#xD;
+Stall, Star, ſtarr, Stiel, ſtill, ſtumm, ſtumpf, ſtehlen,&#xD;
+ſtellen, ſticken, ſtücken, ſtehen, ſtechen, ſticken, ſtricken,&#xD;
+Stroh, Strom, Strich, Streich, Strauch, Strauß, Straße,&#xD;
+Strafe, Strumpf; Span, Speck, Spatz, Sperling, ſpucken,&#xD;
+ſpeiſen, ſpielen, ſpülen, Spiegel, Speichel, Spreu, Spruch,&#xD;
+Sprung, ſpringen, ſprechen, Splint, Splitter.&#xD;
+27. Gas, Gans, Rad, Rand, hat, halt, heut, heult,&#xD;
+heb, herb, Gut, Gurt, Weg, Werg, Wust, Wurst, Gabe,&#xD;
+Garbe, ſteigen, ſteigern, Oſt, Obſt, lag, lang, ſag, ſang,&#xD;
+Gas, Glas, Fuß, Fluß, Schuß, Schluß, Guß, Gruß,&#xD;
+Band, Brand, Buch, Bruch, Bauer, Brauer, Taube,&#xD;
+Traube, dingen, dringen, ſingen, ſpringen, Thon, Thron,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

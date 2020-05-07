@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:07.613+02:00</Created>
+        <LastChange>2020-04-27T12:11:08.817+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576653" pageNr="14" tsid="28321831" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=HYXKDBYSULLGFJGHBFONBHNU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KJALANGDSRONOOHUGSJPQXEM" imageId="10530900"/>
+    </Metadata>
+    <Page imageFilename="00000014.tif" imageWidth="1850" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="0,0 1850,0 1850,3056 0,3056"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772849977" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="237,153 1809,152 1814,2885 242,2886"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="318,180 377,180 377,223 318,223"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="311,353 1765,353 1765,451 311,451"/>
+                <TextEquiv>
+                    <Unicode>18. f, g, ch, f, m, n, l, s, sch, z als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="311,461 1763,461 1763,541 311,541"/>
+                <TextEquiv>
+                    <Unicode>Auslaut mit tönendem Mitlaut voraus.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="411,591 1760,591 1760,661 411,661"/>
+                <TextEquiv>
+                    <Unicode>Dorf, Torf, fünf, künftig; Berg, Burg; durch,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="311,679 1764,679 1764,750 311,750"/>
+                <TextEquiv>
+                    <Unicode>horch; Milch, Dolch, welch; welk; Balg, Talg; Schalk;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="311,767 1760,767 1760,836 311,836"/>
+                <TextEquiv>
+                    <Unicode>arg; Mark; Wurm, Turm, Schirm; Hirn, Horn, Korn,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="308,855 1764,855 1764,924 308,924"/>
+                <TextEquiv>
+                    <Unicode>Kern, gern; Karl, Kerl; wandeln, fädeln, ſäuſeln;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="311,942 1760,942 1760,1011 311,1011"/>
+                <TextEquiv>
+                    <Unicode>Gans, Hans; rings, längs; Hirsch, falsch; Menſch,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="311,1030 1761,1030 1761,1099 311,1099"/>
+                <TextEquiv>
+                    <Unicode>Punſch, wünſch; Herz, Harz; als; Falz; Hals, Holz,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="310,1117 1304,1117 1304,1184 310,1184"/>
+                <TextEquiv>
+                    <Unicode>Gans, ganz, Puls, Salz, Filz, Fels.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="411,1206 1766,1206 1766,1273 411,1273"/>
+                <TextEquiv>
+                    <Unicode>Der Hund bellt und beißt. Das Kind fällt. Der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="311,1291 1765,1291 1765,1359 311,1359"/>
+                <TextEquiv>
+                    <Unicode>Schüler fehlt. Der Wolf heult. Die Wunde heilt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="310,1380 1762,1380 1762,1446 310,1446"/>
+                <TextEquiv>
+                    <Unicode>Die Magd wäſcht, wiſcht, heizt, holt, kocht. Die Maus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="310,1468 1723,1468 1723,1536 310,1536"/>
+                <TextEquiv>
+                    <Unicode>nagt in der Nacht. Das Licht liegt auf dem Tiſche.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="311,1747 1765,1747 1765,1839 311,1839"/>
+                <TextEquiv>
+                    <Unicode>19. f, s, t, sch und voraus ein nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="709,1853 1371,1853 1371,1929 709,1929"/>
+                <TextEquiv>
+                    <Unicode>tönender Mitlaut.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="413,1983 1763,1983 1763,2053 413,2053"/>
+                <TextEquiv>
+                    <Unicode>Topf, Kopf, Zopf, Schopf, Napf, zupf, hüpf, hüpfe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="313,2070 1760,2070 1760,2136 313,2136"/>
+                <TextEquiv>
+                    <Unicode>hüpfen, ſchöpf, ſchöpfe, ſchöpfen, Apfel, Wipfel, Gipfel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="311,2158 941,2158 941,2224 311,2224"/>
+                <TextEquiv>
+                    <Unicode>Hopfen, Zapfen, rupfen;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="414,2244 1761,2244 1761,2313 414,2313"/>
+                <TextEquiv>
+                    <Unicode>Mops, Schöps, Gips, rips, raps; hübſch; Abt, übt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="313,2333 1761,2333 1761,2401 313,2401"/>
+                <TextEquiv>
+                    <Unicode>hebt, liebt, foppt, ſchoppt, nippt, pappt, ſchabt, ſchiebt;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="313,2420 1761,2420 1761,2488 313,2488"/>
+                <TextEquiv>
+                    <Unicode>Peitſche, deutſch, hätſchle, tätſchle; bereits, gehts; packt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="313,2509 1106,2509 1106,2573 313,2573"/>
+                <TextEquiv>
+                    <Unicode>bäckt, weckt, reckt, ſchickt, zuckt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="411,2596 1764,2596 1764,2662 411,2662"/>
+                <TextEquiv>
+                    <Unicode>Der Topf, der Kopf, der Napf, der Apfel und der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="311,2681 1763,2681 1763,2750 311,2750"/>
+                <TextEquiv>
+                    <Unicode>Zapfen ſind rund. Der Mops und der Schöps ſind</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>10&#xD;
+18. f, g, ch, f, m, n, l, s, sch, z als&#xD;
+Auslaut mit tönendem Mitlaut voraus.&#xD;
+Dorf, Torf, fünf, künftig; Berg, Burg; durch,&#xD;
+horch; Milch, Dolch, welch; welk; Balg, Talg; Schalk;&#xD;
+arg; Mark; Wurm, Turm, Schirm; Hirn, Horn, Korn,&#xD;
+Kern, gern; Karl, Kerl; wandeln, fädeln, ſäuſeln;&#xD;
+Gans, Hans; rings, längs; Hirsch, falsch; Menſch,&#xD;
+Punſch, wünſch; Herz, Harz; als; Falz; Hals, Holz,&#xD;
+Gans, ganz, Puls, Salz, Filz, Fels.&#xD;
+Der Hund bellt und beißt. Das Kind fällt. Der&#xD;
+Schüler fehlt. Der Wolf heult. Die Wunde heilt.&#xD;
+Die Magd wäſcht, wiſcht, heizt, holt, kocht. Die Maus&#xD;
+nagt in der Nacht. Das Licht liegt auf dem Tiſche.&#xD;
+19. f, s, t, ſch und voraus ein nicht&#xD;
+tönender Mitlaut.&#xD;
+Topf, Kopf, Zopf, Schopf, Napf, zupf, hüpf, hüpfe,&#xD;
+hüpfen, ſchöpf, ſchöpfe, ſchöpfen, Apfel, Wipfel, Gipfel,&#xD;
+Hopfen, Zapfen, rupfen;&#xD;
+Mops, Schöps, Gips, rips, raps; hübſch; Abt, übt,&#xD;
+hebt, liebt, foppt, ſchoppt, nippt, pappt, ſchabt, ſchiebt;&#xD;
+Peitſche, deutſch, hätſchle, tätſchle; bereits, gehts; packt,&#xD;
+bäckt, weckt, reckt, ſchickt, zuckt.&#xD;
+Der Topf, der Kopf, der Napf, der Apfel und der&#xD;
+Zapfen ſind rund. Der Mops und der Schöps ſind</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:17.25+02:00</Created>
+        <LastChange>2020-05-01T15:19:59.308+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576723" pageNr="36" tsid="28651514" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=YJGFLEKQMFHJZMKEMBHNJUCM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OTIZDKSYKMLFEFDPNHFPIKMN" imageId="10530970"/>
+    </Metadata>
+    <Page imageFilename="00000036.tif" imageWidth="1862" imageHeight="3040">
+        <PrintSpace>
+            <Coords points="0,0 1857,0 1857,3035 0,3035"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850472" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_5_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:0;}">
+            <Coords points="277,130 1853,123 1840,2833 264,2840"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="388,187 450,187 450,229 388,229"/>
+                <TextEquiv>
+                    <Unicode>32</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="744,311 1470,311 1470,395 744,395"/>
+                <TextEquiv>
+                    <Unicode>12. Die guten Kinder.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="492,415 1810,415 1810,485 492,485"/>
+                <TextEquiv>
+                    <Unicode>Drei kleine Geschwiſter ſaßen beiſammen und redeten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="385,503 1808,503 1808,575 385,575"/>
+                <TextEquiv>
+                    <Unicode>von Vater und Mutter. Der ältere Bruder ſagte:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="385,589 1808,589 1808,661 385,661"/>
+                <TextEquiv>
+                    <Unicode>Geſtern hat mir der Vater ein neues Buch gegeben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="385,677 1811,677 1811,749 385,749"/>
+                <TextEquiv>
+                    <Unicode>Die Schweſter ſprach: Am Sonntage habe ich von der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="386,764 1810,764 1810,835 386,835"/>
+                <TextEquiv>
+                    <Unicode>Mutter eine ſchöne Schürze bekommen. Und das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="387,851 1813,851 1813,922 387,922"/>
+                <TextEquiv>
+                    <Unicode>Brüderlein rief: Heute Abend gibt uns die Mutter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="387,937 1810,937 1810,1009 387,1009"/>
+                <TextEquiv>
+                    <Unicode>Kuchen und Milch. Darauf ſagten ſie zu einander:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="389,1025 1812,1025 1812,1096 389,1096"/>
+                <TextEquiv>
+                    <Unicode>Wie gut ſind doch Vater und Mutter! Der Bruder</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="391,1111 1812,1111 1812,1184 391,1184"/>
+                <TextEquiv>
+                    <Unicode>aber erzählte von einem Töchterlein, dem Vater und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="391,1198 1815,1198 1815,1271 391,1271"/>
+                <TextEquiv>
+                    <Unicode>Mutter geſtorben waren. Da ſahen die Kinder einander</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="390,1286 1816,1286 1816,1359 390,1359"/>
+                <TextEquiv>
+                    <Unicode>ſtille an und das Brüderlein ſprach: Unſre gute Mutter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="392,1372 1814,1372 1814,1445 392,1445"/>
+                <TextEquiv>
+                    <Unicode>darf nicht ſterben. Sie gingen bald hinein ins Haus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="392,1458 1816,1458 1816,1533 392,1533"/>
+                <TextEquiv>
+                    <Unicode>und ſchmiegten sich an Vater und Mutter, und ſie waren</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="392,1548 1388,1548 1388,1619 392,1619"/>
+                <TextEquiv>
+                    <Unicode>nirgends ſo gern, als bei den Eltern.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="809,1683 1412,1683 1412,1767 809,1767"/>
+                <TextEquiv>
+                    <Unicode>13. Verträglichkeit.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="499,1787 1818,1787 1818,1858 499,1858"/>
+                <TextEquiv>
+                    <Unicode>Du liebes Schweſterlein, wir wollen immer recht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="396,1873 1818,1873 1818,1950 396,1950"/>
+                <TextEquiv>
+                    <Unicode>artig ſein: Haben dann Vater und Mutter beide an</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="395,1961 1820,1961 1820,2036 395,2036"/>
+                <TextEquiv>
+                    <Unicode>uns Kindern ihre Freude! Sieht's auch droben im</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="395,2048 1821,2048 1821,2124 395,2124"/>
+                <TextEquiv>
+                    <Unicode>Himmel fern Gott der Vater und hat es gern, ſpricht:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="396,2133 1820,2133 1820,2211 396,2211"/>
+                <TextEquiv>
+                    <Unicode>So mag ich die Kinder ſehen, denen ſoll nie ein Leid</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="397,2221 1822,2221 1822,2298 397,2298"/>
+                <TextEquiv>
+                    <Unicode>geſchehen; und alle die Engelein umher, die hören es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="399,2314 1076,2314 1076,2385 399,2385"/>
+                <TextEquiv>
+                    <Unicode>auch und freuen ſich ſehr!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="886,2452 1360,2452 1360,2520 886,2520"/>
+                <TextEquiv>
+                    <Unicode>14. Der Star.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="506,2552 1827,2552 1827,2625 506,2625"/>
+                <TextEquiv>
+                    <Unicode>Der alte Jäger Moriz hatte in ſeiner Stube einen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="English" custom="readingOrder {index:26;}">
+                <Coords points="402,2639 1827,2639 1827,2715 402,2715"/>
+                <TextEquiv>
+                    <Unicode>Star, der einige Worte ſprechen konnte. Wenn der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>32&#xD;
+12. Die guten Kinder.&#xD;
+Drei kleine Geschwiſter ſaßen beiſammen und redeten&#xD;
+von Vater und Mutter. Der ältere Bruder ſagte:&#xD;
+Geſtern hat mir der Vater ein neues Buch gegeben.&#xD;
+Die Schweſter ſprach: Am Sonntage habe ich von der&#xD;
+Mutter eine ſchöne Schürze bekommen. Und das&#xD;
+Brüderlein rief: Heute Abend gibt uns die Mutter&#xD;
+Kuchen und Milch. Darauf ſagten ſie zu einander:&#xD;
+Wie gut ſind doch Vater und Mutter! Der Bruder&#xD;
+aber erzählte von einem Töchterlein, dem Vater und&#xD;
+Mutter geſtorben waren. Da ſahen die Kinder einander&#xD;
+ſtille an und das Brüderlein ſprach: Unſre gute Mutter&#xD;
+darf nicht ſterben. Sie gingen bald hinein ins Haus&#xD;
+und ſchmiegten sich an Vater und Mutter, und ſie waren&#xD;
+nirgends ſo gern, als bei den Eltern.&#xD;
+13. Verträglichkeit.&#xD;
+Du liebes Schweſterlein, wir wollen immer recht&#xD;
+artig ſein: Haben dann Vater und Mutter beide an&#xD;
+uns Kindern ihre Freude! Sieht's auch droben im&#xD;
+Himmel fern Gott der Vater und hat es gern, ſpricht:&#xD;
+So mag ich die Kinder ſehen, denen ſoll nie ein Leid&#xD;
+geſchehen; und alle die Engelein umher, die hören es&#xD;
+auch und freuen ſich ſehr!&#xD;
+14. Der Star.&#xD;
+Der alte Jäger Moriz hatte in ſeiner Stube einen&#xD;
+Star, der einige Worte ſprechen konnte. Wenn der</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

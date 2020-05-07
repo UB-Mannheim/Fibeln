@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:12.938+02:00</Created>
+        <LastChange>2020-04-27T16:40:06.970+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576691" pageNr="26" tsid="28338074" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=KPMPFVLUFXQOIYHADWBIATIZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XHTZZFJBKRYMUUNJACHEALRY" imageId="10530938"/>
+    </Metadata>
+    <Page imageFilename="00000026.tif" imageWidth="1846" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="53,0 1784,0 1784,3003 53,3003"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850252" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:0;}">
+            <Coords points="261,111 1824,109 1837,2849 274,2851"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="319,149 380,149 380,192 319,192"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="311,279 1226,279 1226,380 311,380"/>
+                <TextEquiv>
+                    <Unicode>39. nk, kn, gn.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="19.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="412,417 1764,417 1764,497 412,497"/>
+                <TextEquiv>
+                    <Unicode>Die Bank, die Bänke; der Dank, ich danke, du</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="310,497 1763,497 1763,579 310,579"/>
+                <TextEquiv>
+                    <Unicode>dankſt, er dankt; der Wink, ich winke, du winkſt, er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="310,585 1763,585 1763,666 310,666"/>
+                <TextEquiv>
+                    <Unicode>winkt; der Zank, du zankſt; ich denke, du denkſt, er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="310,672 1761,672 1761,753 310,753"/>
+                <TextEquiv>
+                    <Unicode>denkt; der Trank, ich tränke, ich trinke; der Punkt, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="311,760 1138,760 1138,831 311,831"/>
+                <TextEquiv>
+                    <Unicode>Punkte; hinken, blinken, blicken.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="408,871 1755,871 1755,951 408,951"/>
+                <TextEquiv>
+                    <Unicode>Knaul, Knauf, Knall, knallen, Knopf, knöpfen, Knabe,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="308,956 1751,956 1751,1037 308,1037"/>
+                <TextEquiv>
+                    <Unicode>Knittel, Knie, knicken, knacken, Nußknacker, Gnade,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="308,1044 483,1044 483,1108 308,1108"/>
+                <TextEquiv>
+                    <Unicode>gnädig.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="407,1157 1753,1157 1753,1235 407,1235"/>
+                <TextEquiv>
+                    <Unicode>Das Feuer knistert und knattert. Der Krebs kneipt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="306,1241 1749,1241 1749,1322 306,1322"/>
+                <TextEquiv>
+                    <Unicode>Gott ist gnädig. Der Mensch denkt; Gott lenkt. Iß,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="305,1331 1750,1331 1750,1409 305,1409"/>
+                <TextEquiv>
+                    <Unicode>was gar iſt; trink, was klar iſt; ſprich, was wahr iſt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="405,1441 1745,1441 1745,1519 405,1519"/>
+                <TextEquiv>
+                    <Unicode>Schlange, ſchlank; Zange, zank; bang, Bank; Fink,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="302,1525 1746,1525 1746,1608 302,1608"/>
+                <TextEquiv>
+                    <Unicode>fing; ſingen, ſinken; drängen, tränken; dringen, trinken;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="304,1614 1747,1614 1747,1693 304,1693"/>
+                <TextEquiv>
+                    <Unicode>wanken, Wange; du ſingst, du ſinkst; du drängſt, du</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="302,1701 1021,1701 1021,1773 302,1773"/>
+                <TextEquiv>
+                    <Unicode>tränkſt; er dringt, er trinkt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="299,1909 1192,1909 1192,1991 299,1991"/>
+                <TextEquiv>
+                    <Unicode>40. Die Eltern.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="575,2024 1399,2024 1399,2097 575,2097"/>
+                <TextEquiv>
+                    <Unicode>Wie die kleinen Vöglein ſingen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="575,2111 1414,2111 1414,2186 575,2186"/>
+                <TextEquiv>
+                    <Unicode>Gott ihr Helles Loblied bringen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="571,2199 1419,2199 1419,2272 571,2272"/>
+                <TextEquiv>
+                    <Unicode>fröhlich, wenn die Sonn' erſteht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="570,2286 1316,2286 1316,2358 570,2358"/>
+                <TextEquiv>
+                    <Unicode>fröhlich, wenn ſie niedergeht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="571,2374 1209,2374 1209,2444 571,2444"/>
+                <TextEquiv>
+                    <Unicode>Alſo danken jede Stunde</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="569,2461 1366,2461 1366,2534 569,2534"/>
+                <TextEquiv>
+                    <Unicode>Wir ans frohem Kindermunde,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="567,2548 1246,2548 1246,2606 567,2606"/>
+                <TextEquiv>
+                    <Unicode>und vor allem danken wir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="565,2636 1250,2636 1250,2706 565,2706"/>
+                <TextEquiv>
+                    <Unicode>für die guten Eltern hier.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22&#xD;
+39. nk, kn, gn.&#xD;
+Die Bank, die Bänke; der Dank, ich danke, du&#xD;
+dankſt, er dankt; der Wink, ich winke, du winkſt, er&#xD;
+winkt; der Zank, du zankſt; ich denke, du denkſt, er&#xD;
+denkt; der Trank, ich tränke, ich trinke; der Punkt, die&#xD;
+Punkte; hinken, blinken, blicken.&#xD;
+Knaul, Knauf, Knall, knallen, Knopf, knöpfen, Knabe,&#xD;
+Knittel, Knie, knicken, knacken, Nußknacker, Gnade,&#xD;
+gnädig.&#xD;
+Das Feuer knistert und knattert. Der Krebs kneipt.&#xD;
+Gott ist gnädig. Der Mensch denkt; Gott lenkt. Iß,&#xD;
+was gar iſt; trink, was klar iſt; ſprich, was wahr iſt.&#xD;
+Schlange, ſchlank; Zange, zank; bang, Bank; Fink,&#xD;
+fing; ſingen, ſinken; drängen, tränken; dringen, trinken;&#xD;
+wanken, Wange; du ſingst, du ſinkst; du drängſt, du&#xD;
+tränkſt; er dringt, er trinkt.&#xD;
+40. Die Eltern.&#xD;
+Wie die kleinen Vöglein ſingen,&#xD;
+Gott ihr Helles Loblied bringen,&#xD;
+fröhlich, wenn die Sonn' erſteht,&#xD;
+fröhlich, wenn ſie niedergeht.&#xD;
+Alſo danken jede Stunde&#xD;
+Wir ans frohem Kindermunde,&#xD;
+und vor allem danken wir&#xD;
+für die guten Eltern hier.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:09.545+02:00</Created>
+        <LastChange>2020-04-27T14:03:03.495+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576666" pageNr="18" tsid="28328994" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=ETWIOYIRRAEZIVGOZLZMDQCC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TQKXZGOLGPUHNPGWRLDHNOJG" imageId="10530913"/>
+    </Metadata>
+    <Page imageFilename="00000018.tif" imageWidth="1859" imageHeight="3046">
+        <PrintSpace>
+            <Coords points="114,78 1859,78 1859,3046 114,3046"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850069" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="248,136 1825,151 1805,2800 228,2785"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="355,168 412,168 412,210 355,210"/>
+                <TextEquiv>
+                    <Unicode>14</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="628,304 1501,304 1501,371 628,371"/>
+                <TextEquiv>
+                    <Unicode>Wie viel Stücke ſind ein Schock?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="625,391 1466,391 1466,461 625,461"/>
+                <TextEquiv>
+                    <Unicode>Wie viel Hörner hat der Bock?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="621,479 1725,479 1725,550 621,550"/>
+                <TextEquiv>
+                    <Unicode>Zum Dutzend braucht man, ſag wie viel?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="621,566 1449,566 1449,635 621,635"/>
+                <TextEquiv>
+                    <Unicode>Wie viel Kegel zu dem Spiel?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="619,654 1472,654 1472,723 619,723"/>
+                <TextEquiv>
+                    <Unicode>Wie viel Finger hat die Hand?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="618,742 1351,742 1351,808 618,808"/>
+                <TextEquiv>
+                    <Unicode>Iſt dir alles dies bekannt?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="1014,953 1113,953 1113,1005 1014,1005"/>
+                <TextEquiv>
+                    <Unicode>III.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="335,1047 1789,1047 1789,1149 335,1149"/>
+                <TextEquiv>
+                    <Unicode>23. Mehrfache An= und Auslaute zugleich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="408,1178 1709,1178 1709,1266 408,1266"/>
+                <TextEquiv>
+                    <Unicode>Der Krebs zwickt dich, daß es ſchmerzt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="435,1284 1784,1284 1784,1356 435,1356"/>
+                <TextEquiv>
+                    <Unicode>Schmalz, Schmerz, ſchwarz, Schwarm, ſchwimmt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="332,1369 1780,1369 1780,1443 332,1443"/>
+                <TextEquiv>
+                    <Unicode>Schwanz, Schwert, ſchwitzt, ſchwatzt; zwitschert, blind,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="332,1457 1781,1457 1781,1530 332,1530"/>
+                <TextEquiv>
+                    <Unicode>blond, plump, blitzt, Schlacht, ſchlecht, Schlucht, ſchlugt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="332,1543 1780,1543 1780,1618 332,1618"/>
+                <TextEquiv>
+                    <Unicode>Fracht, fragt, Tracht, tragt, klagt, bricht, treibt, bleibt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="332,1631 1779,1631 1779,1706 332,1706"/>
+                <TextEquiv>
+                    <Unicode>drückt, blickt, brennt, Brand, Bruſt, Brunſt, preßt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="332,1718 1776,1718 1776,1792 332,1792"/>
+                <TextEquiv>
+                    <Unicode>schnappt, gräbt, Arzt, Ernſt, Kunſt, Gunſt, Furcht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="329,1806 1775,1806 1775,1879 329,1879"/>
+                <TextEquiv>
+                    <Unicode>Fürſt, wirſt, Wurſt, Obſt, Herbſt, erbt, gerbt, färbt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="328,1893 1773,1893 1773,1967 328,1967"/>
+                <TextEquiv>
+                    <Unicode>Sumpf, Rumpf, Dampf, Kampf, Markt, merkt, wirkt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="325,1980 1773,1980 1773,2055 325,2055"/>
+                <TextEquiv>
+                    <Unicode>Angſt, hängſt, längſt, wärmſt, merkſt, wirkſt, kämpfſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="325,2067 1350,2067 1350,2139 325,2139"/>
+                <TextEquiv>
+                    <Unicode>ächzt, seufzt, abends, nirgends, eilends.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="423,2156 1773,2156 1773,2228 423,2228"/>
+                <TextEquiv>
+                    <Unicode>Der Arzt impft das Kind. Der Färber färbt das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="321,2240 1772,2240 1772,2316 321,2316"/>
+                <TextEquiv>
+                    <Unicode>Tuch. Der Gerber gerbt das Fell. Der Herbſt bringt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="322,2328 591,2322 591,2391 322,2397"/>
+                <TextEquiv>
+                    <Unicode>uns Obſt. </Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="320,2466 1455,2466 1455,2546 320,2546"/>
+                <TextEquiv>
+                    <Unicode>24. Das Büblein und der Bach.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="420,2562 1769,2562 1769,2639 420,2639"/>
+                <TextEquiv>
+                    <Unicode>Das Büblein fürchtet das Wasser ſehr und hat ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="319,2647 1767,2647 1767,2726 319,2726"/>
+                <TextEquiv>
+                    <Unicode>ſchmutzig Geſicht. Das Bächlein ſiehts und läuft hinter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14&#xD;
+Wie viel Stücke ſind ein Schock?&#xD;
+Wie viel Hörner hat der Bock?&#xD;
+Zum Dutzend braucht man, ſag wie viel?&#xD;
+Wie viel Kegel zu dem Spiel?&#xD;
+Wie viel Finger hat die Hand?&#xD;
+Iſt dir alles dies bekannt?&#xD;
+III.&#xD;
+23. Mehrfache An= und Auslaute zugleich.&#xD;
+Der Krebs zwickt dich, daß es ſchmerzt.&#xD;
+Schmalz, Schmerz, ſchwarz, Schwarm, ſchwimmt,&#xD;
+Schwanz, Schwert, ſchwitzt, ſchwatzt; zwitschert, blind,&#xD;
+blond, plump, blitzt, Schlacht, ſchlecht, Schlucht, ſchlugt,&#xD;
+Fracht, fragt, Tracht, tragt, klagt, bricht, treibt, bleibt,&#xD;
+drückt, blickt, brennt, Brand, Bruſt, Brunſt, preßt,&#xD;
+schnappt, gräbt, Arzt, Ernſt, Kunſt, Gunſt, Furcht,&#xD;
+Fürſt, wirſt, Wurſt, Obſt, Herbſt, erbt, gerbt, färbt,&#xD;
+Sumpf, Rumpf, Dampf, Kampf, Markt, merkt, wirkt,&#xD;
+Angſt, hängſt, längſt, wärmſt, merkſt, wirkſt, kämpfſt,&#xD;
+ächzt, seufzt, abends, nirgends, eilends.&#xD;
+Der Arzt impft das Kind. Der Färber färbt das&#xD;
+Tuch. Der Gerber gerbt das Fell. Der Herbſt bringt&#xD;
+uns Obſt. &#xD;
+24. Das Büblein und der Bach.&#xD;
+Das Büblein fürchtet das Wasser ſehr und hat ein&#xD;
+ſchmutzig Geſicht. Das Bächlein ſiehts und läuft hinter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

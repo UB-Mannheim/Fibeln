@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:15.205+02:00</Created>
+        <LastChange>2020-05-01T12:47:31.410+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576707" pageNr="31" tsid="28648472" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=CNMYNGMTIBKVRBFEYGHHNYGC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SKAGYLWBUVAIYPTUFHSAXYAV" imageId="10530954"/>
+    </Metadata>
+    <Page imageFilename="00000031.tif" imageWidth="1826" imageHeight="3050">
+        <PrintSpace>
+            <Coords points="0,0 1826,0 1826,3050 0,3050"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850361" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1587556240490_1615"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1826,0 1826,3050 0,3050"/>
+        </GraphicRegion>
+        <TextRegion id="region_1587556240490_1615" custom="readingOrder {index:1;}">
+            <Coords points="7,183 1690,183 1690,2895 7,2895"/>
+            <TextLine id="line_1587556253584_1618" custom="readingOrder {index:0;}">
+                <Coords points="429,361 1102,361 1102,502 429,502"/>
+                <TextEquiv>
+                    <Unicode>Dritte Stufe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556258631_1621" custom="readingOrder {index:1;}">
+                <Coords points="361,550 1154,550 1154,656 361,656"/>
+                <TextEquiv>
+                    <Unicode>1. Der kleine Schüler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556264131_1624" custom="readingOrder {index:2;}">
+                <Coords points="134,654 1502,654 1502,746 134,746"/>
+                <TextEquiv>
+                    <Unicode>Sonſt war ich klein, jetzt bin ich groß, lern leſen, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556272881_1627" custom="readingOrder {index:3;}">
+                <Coords points="32,746 1504,746 1504,831 32,831"/>
+                <TextEquiv>
+                    <Unicode>rechnen, ſchreiben, ſitz' nicht auf der Mutter Schoß,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556280459_1630" custom="readingOrder {index:4;}">
+                <Coords points="34,829 1508,829 1508,919 34,919"/>
+                <TextEquiv>
+                    <Unicode>die Zeit mir zu vertreiben. Will aber auch recht fleißig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556290990_1633" custom="readingOrder {index:5;}">
+                <Coords points="32,916 1508,916 1508,1008 32,1008"/>
+                <TextEquiv>
+                    <Unicode>ſein! Wie werden ſich die Eltern freun, wenn mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556296412_1636" custom="readingOrder {index:6;}">
+                <Coords points="32,1006 515,1006 515,1089 32,1089"/>
+                <TextEquiv>
+                    <Unicode>die Lehrer loben!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556307037_1639" custom="readingOrder {index:7;}">
+                <Coords points="121,1136 1418,1136 1418,1244 121,1244"/>
+                <TextEquiv>
+                    <Unicode>2. Das Büblein auf dem Schulwege.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556312272_1642" custom="readingOrder {index:8;}">
+                <Coords points="377,1248 1199,1248 1199,1340 377,1340"/>
+                <TextEquiv>
+                    <Unicode>Das Hündchen bellt hau, hau,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556318803_1645" custom="readingOrder {index:9;}">
+                <Coords points="306,1334 987,1334 987,1423 306,1423"/>
+                <TextEquiv>
+                    <Unicode>das Kätzlein schreit miau,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556325303_1648" custom="readingOrder {index:10;}">
+                <Coords points="304,1423 1189,1423 1189,1513 304,1513"/>
+                <TextEquiv>
+                    <Unicode>das Kühlein brummt muh, muh,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556331334_1651" custom="readingOrder {index:11;}">
+                <Coords points="304,1513 1135,1513 1135,1600 304,1600"/>
+                <TextEquiv>
+                    <Unicode>das Täublein macht ruh, ruh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556338709_1654" custom="readingOrder {index:12;}">
+                <Coords points="300,1596 1128,1596 1128,1688 300,1688"/>
+                <TextEquiv>
+                    <Unicode>Wie ſchreit das Büblein denn,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556344506_1657" custom="readingOrder {index:13;}">
+                <Coords points="304,1686 1120,1686 1120,1771 304,1771"/>
+                <TextEquiv>
+                    <Unicode>wenn's ſoll zur Schule gehn?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556349678_1660" custom="readingOrder {index:14;}">
+                <Coords points="306,1771 1137,1771 1137,1865 306,1865"/>
+                <TextEquiv>
+                    <Unicode>Das Büblein ſoll nicht ſchrein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556355787_1663" custom="readingOrder {index:15;}">
+                <Coords points="302,1860 941,1860 941,1946 302,1946"/>
+                <TextEquiv>
+                    <Unicode>es geht ja gern hinein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556371475_1666" custom="readingOrder {index:16;}">
+                <Coords points="510,2004 1037,2004 1037,2104 510,2104"/>
+                <TextEquiv>
+                    <Unicode>3. Die Schule.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556380240_1669" custom="readingOrder {index:17;}">
+                <Coords points="131,2112 1505,2112 1505,2197 131,2197"/>
+                <TextEquiv>
+                    <Unicode>Das Schulhaus iſt ein großes Haus mit vielen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556386912_1672" custom="readingOrder {index:18;}">
+                <Coords points="37,2195 1503,2195 1503,2287 37,2287"/>
+                <TextEquiv>
+                    <Unicode>Zimmern. Unſer Schulzimmer hat vier Wände, einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556394928_1675" custom="readingOrder {index:19;}">
+                <Coords points="35,2285 1501,2285 1501,2372 35,2372"/>
+                <TextEquiv>
+                    <Unicode>Fußboden und eine Decke. Durch die Thüre kann man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556402397_1678" custom="readingOrder {index:20;}">
+                <Coords points="35,2370 1497,2370 1497,2458 35,2458"/>
+                <TextEquiv>
+                    <Unicode>in das Zimmer gehen, durch die Fenster ſcheint das</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556408693_1681" custom="readingOrder {index:21;}">
+                <Coords points="37,2458 1497,2458 1497,2549 37,2549"/>
+                <TextEquiv>
+                    <Unicode>Licht herein, der Ofen heizt im Winter das Zimmer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556418990_1684" custom="readingOrder {index:22;}">
+                <Coords points="37,2545 1499,2545 1499,2634 37,2634"/>
+                <TextEquiv>
+                    <Unicode>Die Thüre iſt von Holz, der Ofen von Eiſen, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587556430850_1687" custom="readingOrder {index:23;}">
+                <Coords points="37,2634 1493,2634 1493,2724 37,2724"/>
+                <TextEquiv>
+                    <Unicode>Fenster ſind von Glas. Die Kinder ſitzen auf Bänken,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Dritte Stufe.&#xD;
+1. Der kleine Schüler.&#xD;
+Sonſt war ich klein, jetzt bin ich groß, lern leſen, &#xD;
+rechnen, ſchreiben, ſitz' nicht auf der Mutter Schoß,&#xD;
+die Zeit mir zu vertreiben. Will aber auch recht fleißig&#xD;
+ſein! Wie werden ſich die Eltern freun, wenn mich&#xD;
+die Lehrer loben!&#xD;
+2. Das Büblein auf dem Schulwege.&#xD;
+Das Hündchen bellt hau, hau,&#xD;
+das Kätzlein schreit miau,&#xD;
+das Kühlein brummt muh, muh,&#xD;
+das Täublein macht ruh, ruh.&#xD;
+Wie ſchreit das Büblein denn,&#xD;
+wenn's ſoll zur Schule gehn?&#xD;
+Das Büblein ſoll nicht ſchrein,&#xD;
+es geht ja gern hinein.&#xD;
+3. Die Schule.&#xD;
+Das Schulhaus iſt ein großes Haus mit vielen&#xD;
+Zimmern. Unſer Schulzimmer hat vier Wände, einen&#xD;
+Fußboden und eine Decke. Durch die Thüre kann man&#xD;
+in das Zimmer gehen, durch die Fenster ſcheint das&#xD;
+Licht herein, der Ofen heizt im Winter das Zimmer.&#xD;
+Die Thüre iſt von Holz, der Ofen von Eiſen, die&#xD;
+Fenster ſind von Glas. Die Kinder ſitzen auf Bänken,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_2" custom="readingOrder {index:2;}">
+            <Coords points="1,2986 1783,2986 1783,3050 1,3050"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_3" custom="readingOrder {index:3;}">
+            <Coords points="1,0 1825,0 1825,72 1,72"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_4" custom="readingOrder {index:4;}">
+            <Coords points="1776,1 1826,1 1826,3050 1776,3050"/>
+        </SeparatorRegion>
+        <GraphicRegion id="r_5" custom="readingOrder {index:5;}">
+            <Coords points="897,5 985,5 985,65 897,65"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

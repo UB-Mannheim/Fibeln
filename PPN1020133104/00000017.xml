@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:09.12+02:00</Created>
+        <LastChange>2020-04-27T12:53:59.200+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576663" pageNr="17" tsid="28324476" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=WFYFEYZWTCLJBSQXVWGKAWOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LQWMFECRVBOCCSPTYJXRRKDZ" imageId="10530910"/>
+    </Metadata>
+    <Page imageFilename="00000017.tif" imageWidth="1799" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="0,5 1799,5 1799,3048 0,3048"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850047" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="13,136 1612,133 1626,2899 27,2902"/>
+            <TextLine id="line_1587984323619_7145" custom="readingOrder {index:0;}">
+                <Coords points="1397,163 1483,163 1483,230 1397,230"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="303,315 938,315 938,384 303,384"/>
+                <TextEquiv>
+                    <Unicode>Schlaf, Kindlein, ſchlaf!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="304,399 1056,399 1056,470 304,470"/>
+                <TextEquiv>
+                    <Unicode>Der Vater hütet die Schaf.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="309,485 1334,485 1334,557 309,557"/>
+                <TextEquiv>
+                    <Unicode>Die Mutter ſchüttelt das Bäumelein;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="313,574 1155,574 1155,645 313,645"/>
+                <TextEquiv>
+                    <Unicode>da fällt herab ein Träumelein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="314,663 940,663 940,732 314,732"/>
+                <TextEquiv>
+                    <Unicode>Schlaf, Kindlein, ſchlaf!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="47,798 1489,798 1489,901 47,901"/>
+                <TextEquiv>
+                    <Unicode>22. Einer der Anlaute iſt nicht tönend.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="15.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="146,903 1483,903 1483,978 146,978"/>
+                <TextEquiv>
+                    <Unicode>Blei, blau, Blut, Blatt, Blitz, blüht, Platz, plagen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="47,990 1484,990 1484,1069 47,1069"/>
+                <TextEquiv>
+                    <Unicode>Plage, Platte; brav, breit; Pfau, Pfeil, Pfahl, Pfanne,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="50,1077 1485,1077 1485,1157 50,1157"/>
+                <TextEquiv>
+                    <Unicode>Pfennig, Pfarrer; Brot, Brett, Brief, Preis, Probe,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="49,1165 1486,1165 1486,1245 49,1245"/>
+                <TextEquiv>
+                    <Unicode>praſſen; drei, dreiſt, Draht, Drache, dreſchen, drücken,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="53,1252 1488,1252 1488,1329 53,1329"/>
+                <TextEquiv>
+                    <Unicode>treu, Traum, träg, tragen, trocken, trotzen, Thron,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="52,1339 1488,1339 1488,1418 52,1418"/>
+                <TextEquiv>
+                    <Unicode>Thran, dran, Thräne, Thränen, trennen; klein, Kleid,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="53,1426 1487,1426 1487,1506 53,1506"/>
+                <TextEquiv>
+                    <Unicode>Klee, Kloß, klar, klug, glatt, Glied, gleich, Glocke,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="55,1515 1489,1515 1489,1594 55,1594"/>
+                <TextEquiv>
+                    <Unicode>glücklich, glimmen; Kreuz, Kreuzer, Kreis, Kreide,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="55,1601 1493,1601 1493,1682 55,1682"/>
+                <TextEquiv>
+                    <Unicode>Krug, krumm, grau, grün, Greis, Gras, Graf, greifen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:16;}">
+                <Coords points="156,1689 1496,1689 1496,1766 156,1766"/>
+                <TextEquiv>
+                    <Unicode>Der Baum blüht. Das Blatt fällt. Der Blitz</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="60,1775 1496,1775 1496,1854 60,1854"/>
+                <TextEquiv>
+                    <Unicode>zuckt. Die Glocke ſchallt. Der Hahn kräht. Der Greis</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="61,1877 216,1877 216,1942 61,1942"/>
+                <TextEquiv>
+                    <Unicode>zittert.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:19;}">
+                <Coords points="260,1936 1303,1936 1303,2008 260,2008"/>
+                <TextEquiv>
+                    <Unicode>Jung iſt nicht alt; warm iſt nicht kalt;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:20;}">
+                <Coords points="263,2022 1312,2022 1312,2096 263,2096"/>
+                <TextEquiv>
+                    <Unicode>groß iſt nicht klein; grob iſt nicht fein;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="264,2109 1314,2109 1314,2182 264,2182"/>
+                <TextEquiv>
+                    <Unicode>arm iſt nicht reich; hart iſt nicht weich.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="164,2249 1364,2249 1364,2325 164,2325"/>
+                <TextEquiv>
+                    <Unicode>Ich binde und winde; ich ſchalte und walte.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:23;}">
+                <Coords points="169,2335 1439,2335 1439,2411 169,2411"/>
+                <TextEquiv>
+                    <Unicode>Du wetteſt und wageſt; du zitterſt und zageſt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:24;}">
+                <Coords points="349,2474 1229,2474 1229,2562 349,2562"/>
+                <TextEquiv>
+                    <Unicode>Was ein Kind wiſſen ſoll.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:25;}">
+                <Coords points="342,2573 1208,2573 1208,2646 342,2646"/>
+                <TextEquiv>
+                    <Unicode>Wie viel Stücke ſind ein Paar?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="English" custom="readingOrder {index:26;}">
+                <Coords points="340,2660 1248,2660 1248,2733 340,2733"/>
+                <TextEquiv>
+                    <Unicode>Wie viel Monden hat das Jahr?</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13&#xD;
+Schlaf, Kindlein, ſchlaf!&#xD;
+Der Vater hütet die Schaf.&#xD;
+Die Mutter ſchüttelt das Bäumelein;&#xD;
+da fällt herab ein Träumelein.&#xD;
+Schlaf, Kindlein, ſchlaf!&#xD;
+22. Einer der Anlaute iſt nicht tönend.&#xD;
+Blei, blau, Blut, Blatt, Blitz, blüht, Platz, plagen,&#xD;
+Plage, Platte; brav, breit; Pfau, Pfeil, Pfahl, Pfanne,&#xD;
+Pfennig, Pfarrer; Brot, Brett, Brief, Preis, Probe,&#xD;
+praſſen; drei, dreiſt, Draht, Drache, dreſchen, drücken,&#xD;
+treu, Traum, träg, tragen, trocken, trotzen, Thron,&#xD;
+Thran, dran, Thräne, Thränen, trennen; klein, Kleid,&#xD;
+Klee, Kloß, klar, klug, glatt, Glied, gleich, Glocke,&#xD;
+glücklich, glimmen; Kreuz, Kreuzer, Kreis, Kreide,&#xD;
+Krug, krumm, grau, grün, Greis, Gras, Graf, greifen.&#xD;
+Der Baum blüht. Das Blatt fällt. Der Blitz&#xD;
+zuckt. Die Glocke ſchallt. Der Hahn kräht. Der Greis&#xD;
+zittert.&#xD;
+Jung iſt nicht alt; warm iſt nicht kalt;&#xD;
+groß iſt nicht klein; grob iſt nicht fein;&#xD;
+arm iſt nicht reich; hart iſt nicht weich.&#xD;
+Ich binde und winde; ich ſchalte und walte.&#xD;
+Du wetteſt und wageſt; du zitterſt und zageſt.&#xD;
+Was ein Kind wiſſen ſoll.&#xD;
+Wie viel Stücke ſind ein Paar?&#xD;
+Wie viel Monden hat das Jahr?</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

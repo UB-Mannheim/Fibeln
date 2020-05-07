@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:02.864+02:00</Created>
+        <LastChange>2020-04-22T09:35:33.127+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+				</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576635" pageNr="3" tsid="28104979" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=AQNSQRTFRXMYWUBYWQPKWMJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JSPEBOIDYZNQCYAKBGWODFTV" imageId="10530882"/>
+    </Metadata>
+    <Page imageFilename="00000003.tif" imageWidth="1831" imageHeight="3044">
+        <PrintSpace>
+            <Coords points="0,0 1831,0 1831,3044 0,3044"/>
+        </PrintSpace>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 1831,0 1831,3044 0,3044"/>
+        </GraphicRegion>
+        <SeparatorRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="1738,886 1756,886 1756,1265 1738,1265"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:28.282+02:00</Created>
+        <LastChange>2020-05-06T13:55:10.761+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576793" pageNr="58" tsid="28860083" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=SQSIFHRJGCELEFQUGBJFUJRD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZHOOKPEDFMONTKQDCTPWJEJ" imageId="10531040"/>
+    </Metadata>
+    <Page imageFilename="00000058.tif" imageWidth="1845" imageHeight="3046">
+        <PrintSpace>
+            <Coords points="5,203 1845,203 1845,3041 5,3041"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850985" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="225,149 1822,146 1814,1384 217,1387"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="385,228 433,228 433,268 385,268"/>
+                <TextEquiv>
+                    <Unicode>18</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="882,211 1288,211 1288,262 882,262"/>
+                <TextEquiv>
+                    <Unicode>Von Jeſus Chriſtus.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="1031,357 1124,357 1124,404 1031,404"/>
+                <TextEquiv>
+                    <Unicode>IV.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="417,449 1748,449 1748,540 417,540"/>
+                <TextEquiv>
+                    <Unicode>Jeſus Chriſtus, der größte Kinderfreund.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="528,608 1787,608 1787,690 528,690"/>
+                <TextEquiv>
+                    <Unicode>Jeſus ist der beſte Freund aller Menſchen. Er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="390,697 1785,697 1785,784 390,784"/>
+                <TextEquiv>
+                    <Unicode>ging umher, und half allen, die in Not und Elend</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="390,785 1784,785 1784,867 390,867"/>
+                <TextEquiv>
+                    <Unicode>waren. Er machte Blinde ſehend, Taube hörend,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="391,873 1788,873 1788,956 391,956"/>
+                <TextEquiv>
+                    <Unicode>Stumme redend, Lahme gehend, Kranke geſund, ja</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="393,960 1789,960 1789,1046 393,1046"/>
+                <TextEquiv>
+                    <Unicode>ſogar Tote wieder lebendig. Auch Kindern bewies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="397,1059 963,1059 963,1130 397,1130"/>
+                <TextEquiv>
+                    <Unicode>er ſeine große Liebe.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="545,1168 1794,1168 1794,1251 545,1251"/>
+                <TextEquiv>
+                    <Unicode>Eines Tages brachten fromme Mütter ihre</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="402,1256 1794,1256 1794,1341 402,1341"/>
+                <TextEquiv>
+                    <Unicode>Kinder zu Jeſus, damit er ſie ſegne. Seine Jün=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>18&#xD;
+Von Jeſus Chriſtus.&#xD;
+IV.&#xD;
+Jeſus Chriſtus, der größte Kinderfreund.&#xD;
+Jeſus ist der beſte Freund aller Menſchen. Er&#xD;
+ging umher, und half allen, die in Not und Elend&#xD;
+waren. Er machte Blinde ſehend, Taube hörend,&#xD;
+Stumme redend, Lahme gehend, Kranke geſund, ja&#xD;
+ſogar Tote wieder lebendig. Auch Kindern bewies&#xD;
+er ſeine große Liebe.&#xD;
+Eines Tages brachten fromme Mütter ihre&#xD;
+Kinder zu Jeſus, damit er ſie ſegne. Seine Jün=</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

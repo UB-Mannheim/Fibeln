@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:11.709+02:00</Created>
+        <LastChange>2020-04-27T16:16:35.036+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576682" pageNr="23" tsid="28336152" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=KKOIXQUVTPKJSYOLPQNUJJEZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWQCOTLQFDISDXRTWCOOICCO" imageId="10530929"/>
+    </Metadata>
+    <Page imageFilename="00000023.tif" imageWidth="1837" imageHeight="3044">
+        <PrintSpace>
+            <Coords points="4,178 1790,178 1774,2877 -12,2877"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850184" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_4_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:0;}">
+            <Coords points="-1,189 1634,160 1636,2858 1,2887"/>
+            <TextLine id="line_1587551916311_1077" custom="readingOrder {index:0;}">
+                <Coords points="1457,199 1531,199 1531,260 1457,260"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587996839638_12436" custom="readingOrder {index:1;}">
+                <Coords points="6,315 121,315 121,413 6,413"/>
+                <TextEquiv>
+                    <Unicode>32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587551924405_1080" custom="readingOrder {index:2;}">
+                <Coords points="973,326 1504,326 1504,611 973,611"/>
+                <TextEquiv>
+                    <Unicode>Epheu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587551934983_1083" custom="readingOrder {index:3;}">
+                <Coords points="800,591 1560,591 1560,868 800,868"/>
+                <TextEquiv>
+                    <Unicode>Ph ph = f</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="791,889 1564,889 1564,1010 791,1010"/>
+                <TextEquiv>
+                    <Unicode>Epheu PH ph = f</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="25.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="211,1089 1525,1089 1525,1162 211,1162"/>
+                <TextEquiv>
+                    <Unicode>Der Epheu iſt eine Pflanze. Er hat ſchöne, immer=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="110,1168 1527,1168 1527,1242 110,1242"/>
+                <TextEquiv>
+                    <Unicode>grüne Blätter. Er wächſt ſehr ſchnell. Seine Stengel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="112,1247 1526,1247 1526,1321 112,1321"/>
+                <TextEquiv>
+                    <Unicode>werden ſehr lang. An denſelben befinden ſich feine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="110,1323 1526,1323 1526,1398 110,1398"/>
+                <TextEquiv>
+                    <Unicode>Wurzelfaſern. Mit dieſen kriecht er am Boden fort</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="109,1403 1526,1403 1526,1478 109,1478"/>
+                <TextEquiv>
+                    <Unicode>oder klettert an Felſen, Wänden, Bäumen ⁊c. empor</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="109,1481 1525,1481 1525,1558 109,1558"/>
+                <TextEquiv>
+                    <Unicode>und überzieht ſie ganz. Er wird auch in Töpfen ge=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="106,1559 1139,1559 1139,1630 106,1630"/>
+                <TextEquiv>
+                    <Unicode>zogen und iſt eine Zierde der Zimmer.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="210,1642 1521,1642 1521,1720 210,1720"/>
+                <TextEquiv>
+                    <Unicode>Sophie, Prophet, Joſeph, Stephan, Alphabet,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="107,1718 1524,1718 1524,1799 107,1799"/>
+                <TextEquiv>
+                    <Unicode>Philipp, Pharao, Phariſäer, Phosphor, Photographie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587552342015_1154" custom="readingOrder {index:14;}">
+                <Coords points="809,1811 922,1811 922,1906 809,1906"/>
+                <TextEquiv>
+                    <Unicode>33.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587552351905_1157" custom="readingOrder {index:15;}">
+                <Coords points="941,1815 1564,1815 1564,2106 941,2106"/>
+                <TextEquiv>
+                    <Unicode>Cylinder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587552367593_1160" custom="readingOrder {index:16;}">
+                <Coords points="845,2052 1535,2052 1535,2349 845,2349"/>
+                <TextEquiv>
+                    <Unicode>c C y Y</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587552380593_1163" custom="readingOrder {index:17;}">
+                <Coords points="824,2368 1575,2368 1575,2521 824,2521"/>
+                <TextEquiv>
+                    <Unicode>cC = z Y y = i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="107,2522 1522,2522 1522,2614 107,2614"/>
+                <TextEquiv>
+                    <Unicode>Der Cylinder auf der Lampe iſt von Glas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="206,2618 1523,2618 1523,2693 206,2693"/>
+                <TextEquiv>
+                    <Unicode>Die Myrte blüht ſchön weiß. Der Yſop iſt eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="107,2683 1522,2683 1522,2764 107,2764"/>
+                <TextEquiv>
+                    <Unicode>wohlriechende Pflanze. Ägypten iſt ein Land. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="1250,2789 1300,2789 1300,2824 1250,2824"/>
+                <TextEquiv>
+                    <Unicode>2*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>19&#xD;
+32.&#xD;
+Epheu&#xD;
+Ph ph = f&#xD;
+Epheu PH ph = f&#xD;
+Der Epheu iſt eine Pflanze. Er hat ſchöne, immer=&#xD;
+grüne Blätter. Er wächſt ſehr ſchnell. Seine Stengel&#xD;
+werden ſehr lang. An denſelben befinden ſich feine&#xD;
+Wurzelfaſern. Mit dieſen kriecht er am Boden fort&#xD;
+oder klettert an Felſen, Wänden, Bäumen ⁊c. empor&#xD;
+und überzieht ſie ganz. Er wird auch in Töpfen ge=&#xD;
+zogen und iſt eine Zierde der Zimmer.&#xD;
+Sophie, Prophet, Joſeph, Stephan, Alphabet,&#xD;
+Philipp, Pharao, Phariſäer, Phosphor, Photographie.&#xD;
+33.&#xD;
+Cylinder&#xD;
+c C y Y&#xD;
+cC = z Y y = i&#xD;
+Der Cylinder auf der Lampe iſt von Glas.&#xD;
+Die Myrte blüht ſchön weiß. Der Yſop iſt eine&#xD;
+wohlriechende Pflanze. Ägypten iſt ein Land. Die&#xD;
+2*</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

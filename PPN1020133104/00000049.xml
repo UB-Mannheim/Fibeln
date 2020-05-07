@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:24.06+02:00</Created>
+        <LastChange>2020-05-03T19:26:27.027+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576764" pageNr="49" tsid="28703686" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=ARJVXLFUNDNVZJHALZPNROUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VJTHLDKZRTANNBVWEATVCVEE" imageId="10531011"/>
+    </Metadata>
+    <Page imageFilename="00000049.tif" imageWidth="1803" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="67,48 1803,48 1803,2728 67,2728"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850759" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="53,129 1578,131 1571,2774 46,2772"/>
+            <TextLine id="line_1588522205489_4342" custom="readingOrder {index:0;}">
+                <Coords points="1449,204 1486,204 1486,274 1449,274"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="686,208 883,214 883,251 686,245"/>
+                <TextEquiv>
+                    <Unicode>Von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="102,333 1482,333 1482,412 102,412"/>
+                <TextEquiv>
+                    <Unicode>und halt dein Wort. Man ſagt: ein Mann, ein Wort.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="102,420 1481,420 1481,501 102,501"/>
+                <TextEquiv>
+                    <Unicode>Wie ſchön iſt es, wenn ſchon ein Kind ſein Wort hält!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="101,506 1478,506 1478,589 101,589"/>
+                <TextEquiv>
+                    <Unicode>Gott gibt uns ſo gern. Gib auch du gern von dem,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="101,597 1483,597 1483,676 101,676"/>
+                <TextEquiv>
+                    <Unicode>was du haſt. Gib dem Kind, das arm iſt, gern von</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="103,684 1481,684 1481,764 103,764"/>
+                <TextEquiv>
+                    <Unicode>dem Brot, das Gott dir gab. Es freut Gott, uns</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="101,772 1481,772 1481,851 101,851"/>
+                <TextEquiv>
+                    <Unicode>recht viel Gutes zu thun. Er hat nicht Luſt dran, uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="100,860 1482,860 1482,937 100,937"/>
+                <TextEquiv>
+                    <Unicode>weh zu thun. Es iſt kein Tier ſo klein, für das er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="101,946 1481,946 1481,1023 101,1023"/>
+                <TextEquiv>
+                    <Unicode>nicht ſorgt. Drum iſt es Sünd, wenn man ein Tier</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="101,1035 1481,1035 1481,1113 101,1113"/>
+                <TextEquiv>
+                    <Unicode>quält. Plag du auch den Wurm im Gras nicht; thu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="101,1123 1305,1123 1305,1198 101,1198"/>
+                <TextEquiv>
+                    <Unicode>auch der Blum' auf dem Feld nichts zu leid.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="758,1255 834,1255 834,1303 758,1303"/>
+                <TextEquiv>
+                    <Unicode>10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="235,1333 1482,1333 1482,1408 235,1408"/>
+                <TextEquiv>
+                    <Unicode>O mein Kind! Du weißt nun ſchon: was Gott</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="99,1419 1477,1419 1477,1498 99,1498"/>
+                <TextEquiv>
+                    <Unicode>will, iſt gut und recht; was Gott nicht will, iſt Sünd',</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="100,1507 1476,1507 1476,1583 100,1583"/>
+                <TextEquiv>
+                    <Unicode>iſt bös und ſchlecht. Drum thu ſtets, was Gott will,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="99,1594 1479,1594 1479,1674 99,1674"/>
+                <TextEquiv>
+                    <Unicode>und thu nie, was Gott nicht will. — In der Kirch'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="99,1682 1478,1682 1478,1762 99,1762"/>
+                <TextEquiv>
+                    <Unicode>ſei fromm, ſchau nicht um, ſchwätz nicht, lach nicht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="98,1767 1477,1767 1477,1848 98,1848"/>
+                <TextEquiv>
+                    <Unicode>denk an Gott und bet. — In der Schul' ſei ſtill,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="98,1857 1475,1857 1475,1936 98,1936"/>
+                <TextEquiv>
+                    <Unicode>merk recht auf und lern brav. — Zu Haus folg; thu',</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="99,1943 1479,1943 1479,2020 99,2020"/>
+                <TextEquiv>
+                    <Unicode>was man dir ſagt, und komm gleich, wenn man dir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="98,2030 1475,2030 1475,2111 98,2111"/>
+                <TextEquiv>
+                    <Unicode>ruft. Sag nicht: ich mag nicht, wenn du thun ſollſt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="97,2118 1479,2118 1479,2198 97,2198"/>
+                <TextEquiv>
+                    <Unicode>was du nicht willſt. Wein nicht, wenn man dir nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="100,2206 1479,2206 1479,2283 100,2283"/>
+                <TextEquiv>
+                    <Unicode>gleich gibt, was du willſt. Murr nicht, wenn man dir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="97,2294 1477,2294 1477,2374 97,2374"/>
+                <TextEquiv>
+                    <Unicode>wehrt und wenn man dich ſtraft. — Lüg nicht; denn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="96,2379 1477,2379 1477,2459 96,2459"/>
+                <TextEquiv>
+                    <Unicode>das iſt ſehr bös und ſehr ſchlecht. Wer falſch iſt, gleicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="95,2467 1475,2467 1475,2546 95,2546"/>
+                <TextEquiv>
+                    <Unicode>der Katz, der man nicht traut. — Sei nicht faul und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="94,2556 1475,2556 1475,2634 94,2634"/>
+                <TextEquiv>
+                    <Unicode>träg, das zu thun, was dir Müh' macht. Kein Ochs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="97,2643 1474,2643 1474,2722 97,2722"/>
+                <TextEquiv>
+                    <Unicode>iſt wohl ſo ſaul und träg, daß er erſt geht, wenn man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>9&#xD;
+Von Gott.&#xD;
+und halt dein Wort. Man ſagt: ein Mann, ein Wort.&#xD;
+Wie ſchön iſt es, wenn ſchon ein Kind ſein Wort hält!&#xD;
+Gott gibt uns ſo gern. Gib auch du gern von dem,&#xD;
+was du haſt. Gib dem Kind, das arm iſt, gern von&#xD;
+dem Brot, das Gott dir gab. Es freut Gott, uns&#xD;
+recht viel Gutes zu thun. Er hat nicht Luſt dran, uns&#xD;
+weh zu thun. Es iſt kein Tier ſo klein, für das er&#xD;
+nicht ſorgt. Drum iſt es Sünd, wenn man ein Tier&#xD;
+quält. Plag du auch den Wurm im Gras nicht; thu&#xD;
+auch der Blum' auf dem Feld nichts zu leid.&#xD;
+10.&#xD;
+O mein Kind! Du weißt nun ſchon: was Gott&#xD;
+will, iſt gut und recht; was Gott nicht will, iſt Sünd',&#xD;
+iſt bös und ſchlecht. Drum thu ſtets, was Gott will,&#xD;
+und thu nie, was Gott nicht will. — In der Kirch'&#xD;
+ſei fromm, ſchau nicht um, ſchwätz nicht, lach nicht,&#xD;
+denk an Gott und bet. — In der Schul' ſei ſtill,&#xD;
+merk recht auf und lern brav. — Zu Haus folg; thu',&#xD;
+was man dir ſagt, und komm gleich, wenn man dir&#xD;
+ruft. Sag nicht: ich mag nicht, wenn du thun ſollſt,&#xD;
+was du nicht willſt. Wein nicht, wenn man dir nicht&#xD;
+gleich gibt, was du willſt. Murr nicht, wenn man dir&#xD;
+wehrt und wenn man dich ſtraft. — Lüg nicht; denn&#xD;
+das iſt ſehr bös und ſehr ſchlecht. Wer falſch iſt, gleicht&#xD;
+der Katz, der man nicht traut. — Sei nicht faul und&#xD;
+träg, das zu thun, was dir Müh' macht. Kein Ochs&#xD;
+iſt wohl ſo ſaul und träg, daß er erſt geht, wenn man</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:18.974+02:00</Created>
+        <LastChange>2020-05-01T22:35:13.210+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576732" pageNr="39" tsid="28676720" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=PSDJFWITJPBRGGBJATSPTPUA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BXRHXIOBQBFMAMINCATYEQHP" imageId="10530979"/>
+    </Metadata>
+    <Page imageFilename="00000039.tif" imageWidth="1806" imageHeight="3046">
+        <PrintSpace>
+            <Coords points="2,0 1806,0 1806,2803 2,2803"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850537" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="1454,177 1517,177 1517,223 1454,223"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1455,178 1516,178 1516,222 1455,222"/>
+                <TextEquiv>
+                    <Unicode>35</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="83,303 1525,303 1525,376 83,376"/>
+                <TextEquiv>
+                    <Unicode>handeln es nie mit der Peitſche. Ein Tier fühlt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="86,385 1524,385 1524,457 86,457"/>
+                <TextEquiv>
+                    <Unicode>den Schmerz ſo gut, wie der Menſch. — Das Pferd</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="84,468 969,468 969,535 84,535"/>
+                <TextEquiv>
+                    <Unicode>wird auch zum Reiten gebraucht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="266,582 1340,582 1340,653 266,653"/>
+                <TextEquiv>
+                    <Unicode>18. Was die Tiere alles lernen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="17.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="87,676 1524,676 1524,749 87,749"/>
+                <TextEquiv>
+                    <Unicode>Die Enten lernen ſchnattern, die Fledermäuſe flattern;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="89,746 1422,746 1422,818 89,818"/>
+                <TextEquiv>
+                    <Unicode>die Hähne lernen krähen; die Schafe lernen bähen;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="87,816 1444,816 1444,887 87,887"/>
+                <TextEquiv>
+                    <Unicode>die Tauben lernen fliegen, und meckern alle Ziegen;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="89,886 1523,886 1523,958 89,958"/>
+                <TextEquiv>
+                    <Unicode>die Stare lernen plappern, die jungen Störche klappern,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="91,956 1257,956 1257,1027 91,1027"/>
+                <TextEquiv>
+                    <Unicode>das Mauſen und Haſchen lernt das Kätzchen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="89,1026 1370,1026 1370,1098 89,1098"/>
+                <TextEquiv>
+                    <Unicode>das Schmauſen und Naſchen lernt das Spätzchen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="361,1098 1040,1098 1040,1166 361,1166"/>
+                <TextEquiv>
+                    <Unicode>Die Bienen lernen ſparen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="359,1168 980,1168 980,1235 359,1235"/>
+                <TextEquiv>
+                    <Unicode>arbeiten und verwahren,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="362,1239 1014,1239 1014,1305 362,1305"/>
+                <TextEquiv>
+                    <Unicode>die Spinne lernet weben,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="364,1309 1229,1309 1229,1378 364,1378"/>
+                <TextEquiv>
+                    <Unicode>der Schmetterling lernt ſchweben;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="360,1378 1171,1378 1171,1446 360,1446"/>
+                <TextEquiv>
+                    <Unicode>die Fiſchlein lernen ſchwimmen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="362,1449 1109,1449 1109,1516 362,1516"/>
+                <TextEquiv>
+                    <Unicode>Eichhörnchen lernen klimmen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="360,1518 1224,1518 1224,1587 360,1587"/>
+                <TextEquiv>
+                    <Unicode>Das Brüllen lernt das Kälbchen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="358,1588 1259,1588 1259,1658 358,1658"/>
+                <TextEquiv>
+                    <Unicode>und bauen lernt das Schwälbchen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="361,1659 1308,1659 1308,1728 361,1728"/>
+                <TextEquiv>
+                    <Unicode>und Fink' und Lerch' und Nachtigall,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="367,1729 1243,1729 1243,1798 367,1798"/>
+                <TextEquiv>
+                    <Unicode>der Stieglitz und die Vöglein all,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="361,1797 1167,1797 1167,1867 361,1867"/>
+                <TextEquiv>
+                    <Unicode>die lernen ſüßer Lieder Schall.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="536,1915 1094,1915 1094,1984 536,1984"/>
+                <TextEquiv>
+                    <Unicode>19. Die Bäume.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="190,2005 1535,2005 1535,2076 190,2076"/>
+                <TextEquiv>
+                    <Unicode>Im Walde und im Garten ſind viele Bäume. Die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="92,2087 1532,2087 1532,2162 92,2162"/>
+                <TextEquiv>
+                    <Unicode>Bäume ſind Pflanzen. Der Baum hat eine Wurzel,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="94,2161 1536,2161 1536,2242 94,2242"/>
+                <TextEquiv>
+                    <Unicode>einen Stamm und viele Äſte. Die Wurzel, der Stamm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="93,2241 1536,2241 1536,2323 93,2323"/>
+                <TextEquiv>
+                    <Unicode>und die Äſte beſtehen aus Holz. Das Holz iſt von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="93,2331 1534,2331 1534,2406 93,2406"/>
+                <TextEquiv>
+                    <Unicode>Rinde bedeckt. Im Winter iſt der Baum ohne Blätter.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="93,2412 1535,2412 1535,2485 93,2485"/>
+                <TextEquiv>
+                    <Unicode>Im Frühlinge aber bekommt er Blätter und Blüten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:29;}">
+                <Coords points="93,2493 1536,2493 1536,2570 93,2570"/>
+                <TextEquiv>
+                    <Unicode>Welcher Baum iſt auch im Winter grün? Das Holz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_31" primaryLanguage="German" custom="readingOrder {index:30;}">
+                <Coords points="94,2575 1537,2575 1537,2650 94,2650"/>
+                <TextEquiv>
+                    <Unicode>der Bäume braucht der Tiſchler, der Zimmermann, der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_32" primaryLanguage="German" custom="readingOrder {index:31;}">
+                <Coords points="94,2657 1536,2657 1536,2734 94,2734"/>
+                <TextEquiv>
+                    <Unicode>Drechſler und der Büttner. Der Tiſchler macht aus</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_33" primaryLanguage="German" custom="readingOrder {index:32;}">
+                <Coords points="1264,2757 1311,2757 1311,2793 1264,2793"/>
+                <TextEquiv>
+                    <Unicode>3*</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>35&#xD;
+handeln es nie mit der Peitſche. Ein Tier fühlt&#xD;
+den Schmerz ſo gut, wie der Menſch. — Das Pferd&#xD;
+wird auch zum Reiten gebraucht.&#xD;
+18. Was die Tiere alles lernen.&#xD;
+Die Enten lernen ſchnattern, die Fledermäuſe flattern;&#xD;
+die Hähne lernen krähen; die Schafe lernen bähen;&#xD;
+die Tauben lernen fliegen, und meckern alle Ziegen;&#xD;
+die Stare lernen plappern, die jungen Störche klappern,&#xD;
+das Mauſen und Haſchen lernt das Kätzchen,&#xD;
+das Schmauſen und Naſchen lernt das Spätzchen.&#xD;
+Die Bienen lernen ſparen,&#xD;
+arbeiten und verwahren,&#xD;
+die Spinne lernet weben,&#xD;
+der Schmetterling lernt ſchweben;&#xD;
+die Fiſchlein lernen ſchwimmen,&#xD;
+Eichhörnchen lernen klimmen.&#xD;
+Das Brüllen lernt das Kälbchen,&#xD;
+und bauen lernt das Schwälbchen,&#xD;
+und Fink' und Lerch' und Nachtigall,&#xD;
+der Stieglitz und die Vöglein all,&#xD;
+die lernen ſüßer Lieder Schall.&#xD;
+19. Die Bäume.&#xD;
+Im Walde und im Garten ſind viele Bäume. Die&#xD;
+Bäume ſind Pflanzen. Der Baum hat eine Wurzel,&#xD;
+einen Stamm und viele Äſte. Die Wurzel, der Stamm&#xD;
+und die Äſte beſtehen aus Holz. Das Holz iſt von der&#xD;
+Rinde bedeckt. Im Winter iſt der Baum ohne Blätter.&#xD;
+Im Frühlinge aber bekommt er Blätter und Blüten.&#xD;
+Welcher Baum iſt auch im Winter grün? Das Holz&#xD;
+der Bäume braucht der Tiſchler, der Zimmermann, der&#xD;
+Drechſler und der Büttner. Der Tiſchler macht aus&#xD;
+3*</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

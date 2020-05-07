@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:14.637+02:00</Created>
+        <LastChange>2020-05-01T12:47:06.567+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576704" pageNr="30" tsid="28648469" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=GVBAHIBEJTXEMFBADHEEKBYD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PJCQRWPFRRNTEYYVYZETNPSI" imageId="10530951"/>
+    </Metadata>
+    <Page imageFilename="00000030.tif" imageWidth="1806" imageHeight="3042">
+        <PrintSpace>
+            <Coords points="0,0 1806,0 1806,3041 0,3041"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850338" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="200,238 1736,238 1750,2529 214,2529"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="472,364 1516,364 1516,513 472,513"/>
+                <TextEquiv>
+                    <Unicode>Das Abc (Alphabet).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="266,659 1717,659 1717,790 266,790"/>
+                <TextEquiv>
+                    <Unicode>ABCDEFGH</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="26.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="263,895 1712,895 1712,1026 263,1026"/>
+                <TextEquiv>
+                    <Unicode>a b c d e f g h</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="28.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="264,1125 1717,1125 1717,1254 264,1254"/>
+                <TextEquiv>
+                    <Unicode>I K L M N O P</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="26.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="265,1357 1710,1357 1710,1486 265,1486"/>
+                <TextEquiv>
+                    <Unicode>i k l m n o p</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="28.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="312,1589 1653,1589 1653,1702 312,1702"/>
+                <TextEquiv>
+                    <Unicode>O R S T U V W</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="26.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="325,1826 1640,1826 1640,1948 325,1948"/>
+                <TextEquiv>
+                    <Unicode>q r ſ t u v w</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="751,2057 1231,2057 1231,2178 751,2178"/>
+                <TextEquiv>
+                    <Unicode>X Y Z.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="21.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="752,2304 1220,2304 1220,2412 752,2412"/>
+                <TextEquiv>
+                    <Unicode>x y z.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="38.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Abc (Alphabet).&#xD;
+ABCDEFGH&#xD;
+a b c d e f g h&#xD;
+I K L M N O P&#xD;
+i k l m n o p&#xD;
+O R S T U V W&#xD;
+q r ſ t u v w&#xD;
+X Y Z.&#xD;
+x y z.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

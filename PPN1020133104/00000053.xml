@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:25.77+02:00</Created>
+        <LastChange>2020-05-03T22:45:05.059+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576778" pageNr="53" tsid="28708192" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=AZXAIEDAJDRERNYCOFMJGOFJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QYREFQRHQKMZSNSIHDNORXGW" imageId="10531025"/>
+    </Metadata>
+    <Page imageFilename="00000053.tif" imageWidth="1783" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="0,1 1783,1 1783,3056 0,3056"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850850" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:0;}">
+            <Coords points="19,154 1569,158 1562,2795 12,2791"/>
+            <TextLine id="line_1588538577282_8509" custom="readingOrder {index:0;}">
+                <Coords points="1372,201 1441,201 1441,264 1372,264"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="545,211 929,211 929,257 545,257"/>
+                <TextEquiv>
+                    <Unicode>Von Jeſus Chriſtus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="178,342 1432,342 1432,410 178,410"/>
+                <TextEquiv>
+                    <Unicode>Liebe Kinder! Freuet euch mit den Engeln</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="51,428 1432,428 1432,499 51,499"/>
+                <TextEquiv>
+                    <Unicode>und Hirten, und lobet und preiſet Gott mit ihnen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:4;}">
+                <Coords points="49,516 1431,516 1431,586 49,586"/>
+                <TextEquiv>
+                    <Unicode>Denn der Sohn Gottes kam vom Himmel auf die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:5;}">
+                <Coords points="50,603 1430,603 1430,673 50,673"/>
+                <TextEquiv>
+                    <Unicode>Erde, damit wir einſt zu ihm in den Himmel kom=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:6;}">
+                <Coords points="53,691 1431,691 1431,759 53,759"/>
+                <TextEquiv>
+                    <Unicode>men. Er wurde aus Liebe zu uns arm, um uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:7;}">
+                <Coords points="54,780 973,780 973,848 54,848"/>
+                <TextEquiv>
+                    <Unicode>reich zu machen an allem Guten.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:8;}">
+                <Coords points="188,866 1433,866 1433,934 188,934"/>
+                <TextEquiv>
+                    <Unicode>4. Ein ſchöner heller Stern er schien am Him=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:9;}">
+                <Coords points="54,952 1432,952 1432,1022 54,1022"/>
+                <TextEquiv>
+                    <Unicode>mel, und führte die heiligen drei Könige herbei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="53,1033 1436,1033 1436,1106 53,1106"/>
+                <TextEquiv>
+                    <Unicode>Über dem Ort, wo das Kind war, ſtand der Stern</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:11;}">
+                <Coords points="56,1127 1436,1127 1436,1195 56,1195"/>
+                <TextEquiv>
+                    <Unicode>ſtill. Sie gingen voll Freude hinein und knieten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="57,1213 1433,1213 1433,1283 57,1283"/>
+                <TextEquiv>
+                    <Unicode>vor dem Kinde nieder, und schenkten ihm Gold,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="59,1303 756,1303 756,1372 59,1372"/>
+                <TextEquiv>
+                    <Unicode>Weihrauch und Myrrhen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:14;}">
+                <Coords points="192,1387 1441,1387 1441,1457 192,1457"/>
+                <TextEquiv>
+                    <Unicode>Liebſte Kinder! Gott ehrte seinen lieben Sohn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="60,1474 1440,1474 1440,1547 60,1547"/>
+                <TextEquiv>
+                    <Unicode>durch einen Stern am Himmel. Menſchen brachten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:16;}">
+                <Coords points="59,1562 1439,1562 1439,1635 59,1635"/>
+                <TextEquiv>
+                    <Unicode>ihm Gold und Opfer dar, und was man ſonſt noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="63,1648 1437,1648 1437,1719 63,1719"/>
+                <TextEquiv>
+                    <Unicode>auf Erden koſtbar hält. Habt doch auch ihr ihn</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="64,1736 1442,1736 1442,1808 64,1808"/>
+                <TextEquiv>
+                    <Unicode>von Herzen lieb, und ſchenkt ihm euer ganzes Herz.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:19;}">
+                <Coords points="62,1821 1443,1821 1443,1896 62,1896"/>
+                <TextEquiv>
+                    <Unicode>Ein Herz, das rein und lauter iſt, wie Gold, iſt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:20;}">
+                <Coords points="64,1911 1171,1911 1171,1982 64,1982"/>
+                <TextEquiv>
+                    <Unicode>Jeſu lieber als alles Gold in der Welt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="line_1588538670950_8536" custom="readingOrder {index:21;}">
+                <Coords points="701,2059 795,2059 795,2133 701,2133"/>
+                <TextEquiv>
+                    <Unicode>II.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="63,2172 1441,2172 1441,2247 63,2247"/>
+                <TextEquiv>
+                    <Unicode>Der Knabe Jeſus, das ſchönſte Beiſpiel für</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="line_1587568242819_3004" custom="readingOrder {index:23;}">
+                <Coords points="646,2256 874,2256 874,2322 646,2322"/>
+                <TextEquiv>
+                    <Unicode>Kinder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:24;}">
+                <Coords points="204,2381 1446,2381 1446,2448 204,2448"/>
+                <TextEquiv>
+                    <Unicode>Der kleine Jeſus war der frommſte Knabe in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:25;}">
+                <Coords points="71,2469 1445,2469 1445,2538 71,2538"/>
+                <TextEquiv>
+                    <Unicode>der Welt. Als er zwölf Jahre alt war, nahmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:26;}">
+                <Coords points="71,2554 1447,2554 1447,2633 71,2633"/>
+                <TextEquiv>
+                    <Unicode>ihn ſeine Eltern mit in den Tempel. Es war ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:27;}">
+                <Coords points="73,2642 1452,2642 1452,2713 73,2713"/>
+                <TextEquiv>
+                    <Unicode>weiter Weg dahin. Dennoch ging er voll Freuden</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13&#xD;
+Von Jeſus Chriſtus.&#xD;
+Liebe Kinder! Freuet euch mit den Engeln&#xD;
+und Hirten, und lobet und preiſet Gott mit ihnen.&#xD;
+Denn der Sohn Gottes kam vom Himmel auf die&#xD;
+Erde, damit wir einſt zu ihm in den Himmel kom=&#xD;
+men. Er wurde aus Liebe zu uns arm, um uns&#xD;
+reich zu machen an allem Guten.&#xD;
+4. Ein ſchöner heller Stern er schien am Him=&#xD;
+mel, und führte die heiligen drei Könige herbei.&#xD;
+Über dem Ort, wo das Kind war, ſtand der Stern&#xD;
+ſtill. Sie gingen voll Freude hinein und knieten&#xD;
+vor dem Kinde nieder, und schenkten ihm Gold,&#xD;
+Weihrauch und Myrrhen.&#xD;
+Liebſte Kinder! Gott ehrte seinen lieben Sohn&#xD;
+durch einen Stern am Himmel. Menſchen brachten&#xD;
+ihm Gold und Opfer dar, und was man ſonſt noch&#xD;
+auf Erden koſtbar hält. Habt doch auch ihr ihn&#xD;
+von Herzen lieb, und ſchenkt ihm euer ganzes Herz.&#xD;
+Ein Herz, das rein und lauter iſt, wie Gold, iſt&#xD;
+Jeſu lieber als alles Gold in der Welt.&#xD;
+II.&#xD;
+Der Knabe Jeſus, das ſchönſte Beiſpiel für&#xD;
+Kinder.&#xD;
+Der kleine Jeſus war der frommſte Knabe in&#xD;
+der Welt. Als er zwölf Jahre alt war, nahmen&#xD;
+ihn ſeine Eltern mit in den Tempel. Es war ein&#xD;
+weiter Weg dahin. Dennoch ging er voll Freuden</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

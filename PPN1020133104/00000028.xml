@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:13.708+02:00</Created>
+        <LastChange>2020-04-28T22:05:57.191+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576698" pageNr="28" tsid="28446080" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=KJLLURCLYZUHXIXIZNDWABPH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EVBEAHDSRAEGEZGMFSTAXIDP" imageId="10530945"/>
+    </Metadata>
+    <Page imageFilename="00000028.tif" imageWidth="1834" imageHeight="3044">
+        <PrintSpace>
+            <Coords points="5,4 1829,4 1829,3039 5,3039"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850295" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="231,134 1801,134 1799,2624 229,2624"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="317,156 382,156 382,200 317,200"/>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0" italic="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="598,289 1402,289 1402,355 598,355"/>
+                <TextEquiv>
+                    <Unicode>Du ſchöne Lilie auf dem Feld</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="598,377 1183,377 1183,442 598,442"/>
+                <TextEquiv>
+                    <Unicode>in aller deiner Pracht,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="596,462 1461,462 1461,529 596,529"/>
+                <TextEquiv>
+                    <Unicode>du biſt zum Vorbild mir beſtellt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="595,552 1250,552 1250,617 595,617"/>
+                <TextEquiv>
+                    <Unicode>zum Lehrer mir gemacht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="416,677 1735,677 1735,747 416,747"/>
+                <TextEquiv>
+                    <Unicode>Ottilie, Daniel, Ezechiel, Indien, Arabien,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="314,764 1735,764 1735,834 314,834"/>
+                <TextEquiv>
+                    <Unicode>Kastanien, Antiochien, Peterſilie, Meſopotamien,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="315,857 615,857 615,922 315,922"/>
+                <TextEquiv>
+                    <Unicode>Amphibien.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="311,1058 1733,1058 1733,1154 311,1154"/>
+                <TextEquiv>
+                    <Unicode>42. Richtiges Leſen (Ablöſen) der Vorſilben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="413,1176 1730,1176 1730,1246 413,1246"/>
+                <TextEquiv>
+                    <Unicode>Ahorn, Uhu, gehorchen; entäußern, enteilen, ein=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:10;}">
+                <Coords points="312,1264 1728,1264 1728,1335 312,1335"/>
+                <TextEquiv>
+                    <Unicode>teilen; ereilen, erobern, erreichen, erretten, erringen;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="312,1351 1734,1351 1734,1420 312,1420"/>
+                <TextEquiv>
+                    <Unicode>vorab, voran, voraus; angenehm, angeben, ankommen;,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:12;}">
+                <Coords points="312,1438 1733,1438 1733,1509 312,1509"/>
+                <TextEquiv>
+                    <Unicode>abbeißen, abeiſen, abbinden, abbitten, Abfall, Apfel;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:13;}">
+                <Coords points="312,1525 1725,1525 1725,1595 312,1595"/>
+                <TextEquiv>
+                    <Unicode>einnehmen, Einnahmen, einſteigen, hinneigen; herein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="313,1612 1735,1612 1735,1684 313,1684"/>
+                <TextEquiv>
+                    <Unicode>hinaus, ausſehen, auffinden, auffangen, weggehen;,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:15;}">
+                <Coords points="311,1699 1724,1699 1724,1769 311,1769"/>
+                <TextEquiv>
+                    <Unicode>geübt, geeignet, geirrt, geimpft, eingeengt; Nachteule,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:16;}">
+                <Coords points="309,1786 1724,1786 1724,1856 309,1856"/>
+                <TextEquiv>
+                    <Unicode>Nachteile; Nachtraben, nachtraben; Mühſeligkeit,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
+                <Coords points="311,1878 667,1878 667,1943 311,1943"/>
+                <TextEquiv>
+                    <Unicode>Mißhelligkeit.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="410,1965 1732,1965 1732,2033 410,2033"/>
+                <TextEquiv>
+                    <Unicode>Das Kind wird geimpft. Das Feld wird geeggt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:19;}">
+                <Coords points="308,2052 1725,2052 1725,2122 308,2122"/>
+                <TextEquiv>
+                    <Unicode>Der Weg wird geebnet. Du haſt dich geirrt. Ein</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:20;}">
+                <Coords points="308,2138 1725,2138 1725,2210 308,2210"/>
+                <TextEquiv>
+                    <Unicode>gutes Kind gehorcht geſchwind. Unrecht muß man ab=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="308,2225 1733,2225 1733,2293 308,2293"/>
+                <TextEquiv>
+                    <Unicode>bitten. Kannſt du den Ball auffangen? Kannst du</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="307,2312 1721,2312 1721,2382 307,2382"/>
+                <TextEquiv>
+                    <Unicode>den Apfel erreichen? Des Armen ſoll man ſich an=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:23;}">
+                <Coords points="306,2398 1729,2398 1729,2470 306,2470"/>
+                <TextEquiv>
+                    <Unicode>nehmen. Kannſt du den Faden abbeißen? Die Treppe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:24;}">
+                <Coords points="305,2491 778,2491 778,2556 305,2556"/>
+                <TextEquiv>
+                    <Unicode>muß man abeiſen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24&#xD;
+Du ſchöne Lilie auf dem Feld&#xD;
+in aller deiner Pracht,&#xD;
+du biſt zum Vorbild mir beſtellt,&#xD;
+zum Lehrer mir gemacht.&#xD;
+Ottilie, Daniel, Ezechiel, Indien, Arabien,&#xD;
+Kastanien, Antiochien, Peterſilie, Meſopotamien,&#xD;
+Amphibien.&#xD;
+42. Richtiges Leſen (Ablöſen) der Vorſilben.&#xD;
+Ahorn, Uhu, gehorchen; entäußern, enteilen, ein=&#xD;
+teilen; ereilen, erobern, erreichen, erretten, erringen;&#xD;
+vorab, voran, voraus; angenehm, angeben, ankommen;,&#xD;
+abbeißen, abeiſen, abbinden, abbitten, Abfall, Apfel;&#xD;
+einnehmen, Einnahmen, einſteigen, hinneigen; herein,&#xD;
+hinaus, ausſehen, auffinden, auffangen, weggehen;,&#xD;
+geübt, geeignet, geirrt, geimpft, eingeengt; Nachteule,&#xD;
+Nachteile; Nachtraben, nachtraben; Mühſeligkeit,&#xD;
+Mißhelligkeit.&#xD;
+Das Kind wird geimpft. Das Feld wird geeggt.&#xD;
+Der Weg wird geebnet. Du haſt dich geirrt. Ein&#xD;
+gutes Kind gehorcht geſchwind. Unrecht muß man ab=&#xD;
+bitten. Kannſt du den Ball auffangen? Kannst du&#xD;
+den Apfel erreichen? Des Armen ſoll man ſich an=&#xD;
+nehmen. Kannſt du den Faden abbeißen? Die Treppe&#xD;
+muß man abeiſen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

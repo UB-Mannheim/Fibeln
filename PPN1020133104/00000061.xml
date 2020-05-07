@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:29.58+02:00</Created>
+        <LastChange>2020-05-05T23:22:16.502+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576803" pageNr="61" tsid="28845225" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=BEGGBLKTHZIIYMUGKTFUAFWE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UWOTKVELXHIZRKOWXPGHSOTO" imageId="10531050"/>
+    </Metadata>
+    <Page imageFilename="00000061.tif" imageWidth="1801" imageHeight="3056">
+        <PrintSpace>
+            <Coords points="56,49 1489,49 1489,2749 56,2749"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772851052" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="526,226 1003,226 1003,278 526,278"/>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="527,227 1002,227 1002,277 527,277"/>
+                <TextEquiv>
+                    <Unicode>Von dem heiligen Geiſte.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="7.5"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1401,229 1452,229 1452,268 1401,268"/>
+                <TextEquiv>
+                    <Unicode>21</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="10.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="316,494 1217,494 1217,593 316,593"/>
+                <TextEquiv>
+                    <Unicode>Von dem heiligen Geiſte.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="20.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="209,735 1464,735 1464,826 209,826"/>
+                <TextEquiv>
+                    <Unicode>Liebe Kinder! Jeſus Chriſtus ſtarb, wie ihr</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="76,841 1462,841 1462,912 76,912"/>
+                <TextEquiv>
+                    <Unicode>gehört habt, aus Liebe zu uns am Kreuze. Er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="76,929 1460,929 1460,998 76,998"/>
+                <TextEquiv>
+                    <Unicode>wurde begraben. Seine Jünger trauerten und</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="76,1016 1461,1016 1461,1086 76,1086"/>
+                <TextEquiv>
+                    <Unicode>weinten um ihn. Allein, bevor drei Ta ge ver=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="78,1102 1465,1102 1465,1173 78,1173"/>
+                <TextEquiv>
+                    <Unicode>gingen, kam er wieder lebendig aus dem Grabe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="77,1191 1462,1191 1462,1260 77,1260"/>
+                <TextEquiv>
+                    <Unicode>hervor. Voll göttlicher Herrlichkeit ſtand er plötz=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="79,1278 1463,1278 1463,1347 79,1347"/>
+                <TextEquiv>
+                    <Unicode>lich in der Mitte ſeiner Jünger, und ihre Ver=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="81,1365 1340,1365 1340,1434 81,1434"/>
+                <TextEquiv>
+                    <Unicode>wunderung und Freude war unausſprechlich.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="211,1453 1465,1453 1465,1522 211,1522"/>
+                <TextEquiv>
+                    <Unicode>Jeſus blieb hier auf noch vierzig Tage bei</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="80,1539 1465,1539 1465,1611 80,1611"/>
+                <TextEquiv>
+                    <Unicode>ihnen. Dann führte er ſie hinaus auf einen Berg.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="81,1626 1464,1626 1464,1696 81,1696"/>
+                <TextEquiv>
+                    <Unicode>Hier nahm er Abſchied von ihnen. Schon vor ſeinem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="84,1713 1466,1713 1466,1784 84,1784"/>
+                <TextEquiv>
+                    <Unicode>Tode hatte er ihnen geſagt, ſie ſollten nicht traurig</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="82,1800 1468,1800 1468,1871 82,1871"/>
+                <TextEquiv>
+                    <Unicode>darüber ſein, daß er ſie verlaſſe; er werde an ſtatt</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="83,1887 1468,1887 1468,1959 83,1959"/>
+                <TextEquiv>
+                    <Unicode>ſeiner ihnen den heiligen Geiſt ſenden. Dieſer werde</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="84,1975 1468,1975 1468,2046 84,2046"/>
+                <TextEquiv>
+                    <Unicode>ſie lehren, ſtärken, tröſten und immer bei ihnen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="83,2061 1468,2061 1468,2131 83,2131"/>
+                <TextEquiv>
+                    <Unicode>bleiben. Dieſes Verſprechen wie der holte er ihnen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="84,2149 1468,2149 1468,2220 84,2220"/>
+                <TextEquiv>
+                    <Unicode>hier auf dem Berge nochmals. Darauf erhob er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="85,2236 1468,2236 1468,2308 85,2308"/>
+                <TextEquiv>
+                    <Unicode>ſich zum Himmel. Er ſchwebte vor ihren Augen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="87,2322 1469,2322 1469,2395 87,2395"/>
+                <TextEquiv>
+                    <Unicode>die Höhe, immer höher und höher hinauf bis eine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:22;}">
+                <Coords points="86,2409 1469,2409 1469,2481 86,2481"/>
+                <TextEquiv>
+                    <Unicode>Wolke ihn vor ihren Augen verbarg. So ſahen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="86,2499 922,2499 922,2570 86,2570"/>
+                <TextEquiv>
+                    <Unicode>ſie ihn in den Himmel fahren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="219,2583 1466,2583 1466,2653 219,2653"/>
+                <TextEquiv>
+                    <Unicode>Die Jünger blieben beiſammen, beteten ein=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="88,2669 1465,2669 1465,2743 88,2743"/>
+                <TextEquiv>
+                    <Unicode>mütig, und warteten auf den heiligen Geiſt. Am</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von dem heiligen Geiſte.&#xD;
+21&#xD;
+Von dem heiligen Geiſte.&#xD;
+Liebe Kinder! Jeſus Chriſtus ſtarb, wie ihr&#xD;
+gehört habt, aus Liebe zu uns am Kreuze. Er&#xD;
+wurde begraben. Seine Jünger trauerten und&#xD;
+weinten um ihn. Allein, bevor drei Ta ge ver=&#xD;
+gingen, kam er wieder lebendig aus dem Grabe&#xD;
+hervor. Voll göttlicher Herrlichkeit ſtand er plötz=&#xD;
+lich in der Mitte ſeiner Jünger, und ihre Ver=&#xD;
+wunderung und Freude war unausſprechlich.&#xD;
+Jeſus blieb hier auf noch vierzig Tage bei&#xD;
+ihnen. Dann führte er ſie hinaus auf einen Berg.&#xD;
+Hier nahm er Abſchied von ihnen. Schon vor ſeinem&#xD;
+Tode hatte er ihnen geſagt, ſie ſollten nicht traurig&#xD;
+darüber ſein, daß er ſie verlaſſe; er werde an ſtatt&#xD;
+ſeiner ihnen den heiligen Geiſt ſenden. Dieſer werde&#xD;
+ſie lehren, ſtärken, tröſten und immer bei ihnen&#xD;
+bleiben. Dieſes Verſprechen wie der holte er ihnen&#xD;
+hier auf dem Berge nochmals. Darauf erhob er&#xD;
+ſich zum Himmel. Er ſchwebte vor ihren Augen in&#xD;
+die Höhe, immer höher und höher hinauf bis eine&#xD;
+Wolke ihn vor ihren Augen verbarg. So ſahen&#xD;
+ſie ihn in den Himmel fahren.&#xD;
+Die Jünger blieben beiſammen, beteten ein=&#xD;
+mütig, und warteten auf den heiligen Geiſt. Am</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:30.53+02:00</Created>
+        <LastChange>2020-05-05T23:36:16.395+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576809" pageNr="63" tsid="28845492" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=XUGLNQULAXLDGWQKQISAURQS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GFZEFNGHTBEVEKCMTVJPCJWN" imageId="10531056"/>
+    </Metadata>
+    <Page imageFilename="00000063.tif" imageWidth="1806" imageHeight="3052">
+        <PrintSpace>
+            <Coords points="46,5 1806,5 1806,2989 46,2989"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772851097" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="527,235 1007,235 1007,288 527,288"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="528,236 1006,236 1006,287 528,287"/>
+                <TextEquiv>
+                    <Unicode>Von dem heiligen Geiſte.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="6.5"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1401,248 1456,248 1456,288 1401,288"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="6.5"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="74,362 1458,362 1458,441 74,441"/>
+                <TextEquiv>
+                    <Unicode>und froh, und hüpft und ſpringt vor Freude. So</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="73,450 1463,450 1463,530 73,530"/>
+                <TextEquiv>
+                    <Unicode>erwärmt der heilige Geiſt auch euer und unser aller</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="72,538 1460,538 1460,617 72,617"/>
+                <TextEquiv>
+                    <Unicode>Herz, erfüllt es mit Freude, und gibt allem Guten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="73,625 1461,625 1461,704 73,704"/>
+                <TextEquiv>
+                    <Unicode>dar in Wachstum und Gedeihen. Die Luftbelebt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="72,712 1461,712 1461,793 72,793"/>
+                <TextEquiv>
+                    <Unicode>Ohne daß wir ſie ſehen, atmen wir ſie jeden Au=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="74,801 1461,801 1461,879 74,879"/>
+                <TextEquiv>
+                    <Unicode>gen blick ein. Ohne Luft könnten wir gar nicht leben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="74,887 1459,887 1459,966 74,966"/>
+                <TextEquiv>
+                    <Unicode>So können wir ohne den heiligen Geiſt, ob wir ihn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="73,975 1293,975 1293,1052 73,1052"/>
+                <TextEquiv>
+                    <Unicode>gleich nicht ſehen, nicht gut und weiſe leben.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="208,1063 1457,1063 1457,1141 208,1141"/>
+                <TextEquiv>
+                    <Unicode>Noch deutlicher ſehet ihr an den Jüngern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="72,1149 1459,1149 1459,1228 72,1228"/>
+                <TextEquiv>
+                    <Unicode>wozu dem Menſchen der Beiſtand des heiligen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="73,1235 698,1235 698,1306 73,1306"/>
+                <TextEquiv>
+                    <Unicode>Geiſtes notwendig ſei.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="208,1323 1460,1323 1460,1402 208,1402"/>
+                <TextEquiv>
+                    <Unicode>Bevor er kam, waren die Jünger öfters un=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="73,1409 1461,1409 1461,1491 73,1491"/>
+                <TextEquiv>
+                    <Unicode>verſtändig, klein mütig und nicht ohne Mangel.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="71,1497 1459,1497 1459,1578 71,1578"/>
+                <TextEquiv>
+                    <Unicode>Nachdem er gekommen war, ſahen ſie alles hell und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="71,1584 1461,1584 1461,1666 71,1666"/>
+                <TextEquiv>
+                    <Unicode>klar ein, was Jeſus ihnen geſagt hatte. Sie fühlten</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="72,1671 1460,1671 1460,1748 72,1748"/>
+                <TextEquiv>
+                    <Unicode>neue Luſt und Kraft zum Guten. Sie waren voll</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="71,1757 1459,1757 1459,1835 71,1835"/>
+                <TextEquiv>
+                    <Unicode>Freudigkeit, voll Mutes und Troſtes in allen Lei=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="71,1843 1458,1843 1458,1928 71,1928"/>
+                <TextEquiv>
+                    <Unicode>den. Ebenſo, wie die Jünger, könnt auch ihr erſt durch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="70,1930 1458,1930 1458,2014 70,2014"/>
+                <TextEquiv>
+                    <Unicode>den heiligen Geiſt recht verſtändige, gute, zufrie=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
+                <Coords points="70,2016 1457,2016 1457,2099 70,2099"/>
+                <TextEquiv>
+                    <Unicode>dene Menſchen werden. Wenn euch daher das Lernen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="66,2105 1453,2105 1453,2186 66,2186"/>
+                <TextEquiv>
+                    <Unicode>ſchwer wird, wenn euch das Gute hart ankommt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="67,2192 1452,2192 1452,2276 67,2276"/>
+                <TextEquiv>
+                    <Unicode>wenn ihr traurig ſeid, so bittet nur recht herzlich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="67,2279 1402,2279 1402,2362 67,2362"/>
+                <TextEquiv>
+                    <Unicode>um den Beiſtand dieſes guten heiligen Geiſtes.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="195,2488 1450,2488 1450,2574 195,2574"/>
+                <TextEquiv>
+                    <Unicode>Liebe Kinder! Nun habt ihr mehreres gehört</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="63,2574 1445,2574 1445,2661 63,2661"/>
+                <TextEquiv>
+                    <Unicode>von unſerm lieben Gott: von dem Vater im Himmel,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="62,2661 1444,2661 1444,2748 62,2748"/>
+                <TextEquiv>
+                    <Unicode>von ſeinem lieben Sohne und von dem heiligen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von dem heiligen Geiſte.&#xD;
+23&#xD;
+und froh, und hüpft und ſpringt vor Freude. So&#xD;
+erwärmt der heilige Geiſt auch euer und unser aller&#xD;
+Herz, erfüllt es mit Freude, und gibt allem Guten&#xD;
+dar in Wachstum und Gedeihen. Die Luftbelebt.&#xD;
+Ohne daß wir ſie ſehen, atmen wir ſie jeden Au=&#xD;
+gen blick ein. Ohne Luft könnten wir gar nicht leben.&#xD;
+So können wir ohne den heiligen Geiſt, ob wir ihn&#xD;
+gleich nicht ſehen, nicht gut und weiſe leben.&#xD;
+Noch deutlicher ſehet ihr an den Jüngern,&#xD;
+wozu dem Menſchen der Beiſtand des heiligen&#xD;
+Geiſtes notwendig ſei.&#xD;
+Bevor er kam, waren die Jünger öfters un=&#xD;
+verſtändig, klein mütig und nicht ohne Mangel.&#xD;
+Nachdem er gekommen war, ſahen ſie alles hell und&#xD;
+klar ein, was Jeſus ihnen geſagt hatte. Sie fühlten&#xD;
+neue Luſt und Kraft zum Guten. Sie waren voll&#xD;
+Freudigkeit, voll Mutes und Troſtes in allen Lei=&#xD;
+den. Ebenſo, wie die Jünger, könnt auch ihr erſt durch&#xD;
+den heiligen Geiſt recht verſtändige, gute, zufrie=&#xD;
+dene Menſchen werden. Wenn euch daher das Lernen&#xD;
+ſchwer wird, wenn euch das Gute hart ankommt,&#xD;
+wenn ihr traurig ſeid, so bittet nur recht herzlich&#xD;
+um den Beiſtand dieſes guten heiligen Geiſtes.&#xD;
+Liebe Kinder! Nun habt ihr mehreres gehört&#xD;
+von unſerm lieben Gott: von dem Vater im Himmel,&#xD;
+von ſeinem lieben Sohne und von dem heiligen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

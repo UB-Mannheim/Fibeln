@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:27.21+02:00</Created>
+        <LastChange>2020-05-05T23:11:36.869+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576787" pageNr="56" tsid="28844874" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=DIBWXTRTFGLUXKDRSYQZVNIZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZEJSXXZZNBRYCQPJNNVBSJGU" imageId="10531034"/>
+    </Metadata>
+    <Page imageFilename="00000056.tif" imageWidth="1840" imageHeight="3042">
+        <PrintSpace>
+            <Coords points="1,0 1840,0 1840,3037 1,3037"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850936" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="271,154 1814,151 1812,2787 269,2790"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="370,225 422,225 422,265 370,265"/>
+                <TextEquiv>
+                    <Unicode>16</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="876,224 1281,224 1281,268 876,268"/>
+                <TextEquiv>
+                    <Unicode>Von Jeſus Chriſtus.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="516,351 1773,351 1773,419 516,419"/>
+                <TextEquiv>
+                    <Unicode>Jeſus, der Lehrer aller Menſchen, iſt auch euer</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="368,438 1771,438 1771,507 368,507"/>
+                <TextEquiv>
+                    <Unicode>Lehrer, meine lieben Kinder. Was er lehrte, iſt ſo</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="374,525 1770,525 1770,594 374,594"/>
+                <TextEquiv>
+                    <Unicode>klar, daß es auch ſchon Kinder verſtehen können. Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="371,611 1770,611 1770,682 371,682"/>
+                <TextEquiv>
+                    <Unicode>iſt ſo ſchön, daß auch ſchon Kinder Freude daran</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="372,698 1771,698 1771,769 372,769"/>
+                <TextEquiv>
+                    <Unicode>haben müſſen. O meine liebſten Kinder! Denkt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="372,786 1772,786 1772,856 372,856"/>
+                <TextEquiv>
+                    <Unicode>euch, Jeſus ſei in eurer Mitte und ihr ſehet ſein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="372,872 1771,872 1771,943 372,943"/>
+                <TextEquiv>
+                    <Unicode>freundliches Angeſicht. Laßt euch ſein, als verneh=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="372,959 1771,959 1771,1031 372,1031"/>
+                <TextEquiv>
+                    <Unicode>met ihr jedes ſeiner Worte, die jetzt folgen, aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="373,1051 815,1051 815,1116 373,1116"/>
+                <TextEquiv>
+                    <Unicode>ſeinem Munde:</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="515,1185 1775,1185 1775,1256 515,1256"/>
+                <TextEquiv>
+                    <Unicode>„So ſehr hat Gott die Welt geliebt, daß er</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="375,1273 1769,1273 1769,1343 375,1343"/>
+                <TextEquiv>
+                    <Unicode>ſeinen ein gebornen Sohn dahin gab, damit alle,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="375,1359 1774,1359 1774,1429 375,1429"/>
+                <TextEquiv>
+                    <Unicode>die an ihn glauben, nicht verloren gehen, ſondern</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="374,1448 1102,1448 1102,1516 374,1516"/>
+                <TextEquiv>
+                    <Unicode>das ewige Leben haben."</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="520,1579 1774,1579 1774,1649 520,1649"/>
+                <TextEquiv>
+                    <Unicode>„Ich bin der gute Hirt. Ich kenne meine</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="377,1666 1774,1666 1774,1736 377,1736"/>
+                <TextEquiv>
+                    <Unicode>Schafe, und ſie kennen mich. Meine Schafe hören</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="376,1753 1776,1753 1776,1822 376,1822"/>
+                <TextEquiv>
+                    <Unicode>meine Stimme, und folgen mir nach. Ein guter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="374,1839 1777,1839 1777,1910 374,1910"/>
+                <TextEquiv>
+                    <Unicode>Hirt läßt ſein Leben für ſeine Schafe. Ich gebe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="376,1926 1777,1926 1777,1998 376,1998"/>
+                <TextEquiv>
+                    <Unicode>ihnen das ewige Leben. Sie werden ewig nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="377,2012 1778,2012 1778,2084 377,2084"/>
+                <TextEquiv>
+                    <Unicode>verloren gehen. Niemand wird ſie aus meiner</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="375,2105 752,2105 752,2171 375,2171"/>
+                <TextEquiv>
+                    <Unicode>Hand reißen."</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="523,2221 1779,2221 1779,2292 523,2292"/>
+                <TextEquiv>
+                    <Unicode>„Ich bin der wahre Weinſtock: ihr ſeid die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="378,2308 1779,2308 1779,2377 378,2377"/>
+                <TextEquiv>
+                    <Unicode>Reben. Die Rebe kann keine Frucht bringen von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="380,2395 1779,2395 1779,2465 380,2465"/>
+                <TextEquiv>
+                    <Unicode>ihr ſelbst, ſie bleibe denn am Weinſtock. Wer in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="377,2481 1781,2481 1781,2552 377,2552"/>
+                <TextEquiv>
+                    <Unicode>mir bleibt, und ich in ihm, der bringt viele Frucht.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="379,2569 1774,2569 1774,2639 379,2639"/>
+                <TextEquiv>
+                    <Unicode>Wer nicht in mir bleibt, der wird hinausgeworfen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
+                <Coords points="378,2656 1776,2656 1776,2723 378,2723"/>
+                <TextEquiv>
+                    <Unicode>und verdorrt, wie eine Rebe, die nicht am Wein=</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>16&#xD;
+Von Jeſus Chriſtus.&#xD;
+Jeſus, der Lehrer aller Menſchen, iſt auch euer&#xD;
+Lehrer, meine lieben Kinder. Was er lehrte, iſt ſo&#xD;
+klar, daß es auch ſchon Kinder verſtehen können. Es&#xD;
+iſt ſo ſchön, daß auch ſchon Kinder Freude daran&#xD;
+haben müſſen. O meine liebſten Kinder! Denkt&#xD;
+euch, Jeſus ſei in eurer Mitte und ihr ſehet ſein&#xD;
+freundliches Angeſicht. Laßt euch ſein, als verneh=&#xD;
+met ihr jedes ſeiner Worte, die jetzt folgen, aus&#xD;
+ſeinem Munde:&#xD;
+„So ſehr hat Gott die Welt geliebt, daß er&#xD;
+ſeinen ein gebornen Sohn dahin gab, damit alle,&#xD;
+die an ihn glauben, nicht verloren gehen, ſondern&#xD;
+das ewige Leben haben."&#xD;
+„Ich bin der gute Hirt. Ich kenne meine&#xD;
+Schafe, und ſie kennen mich. Meine Schafe hören&#xD;
+meine Stimme, und folgen mir nach. Ein guter&#xD;
+Hirt läßt ſein Leben für ſeine Schafe. Ich gebe&#xD;
+ihnen das ewige Leben. Sie werden ewig nicht&#xD;
+verloren gehen. Niemand wird ſie aus meiner&#xD;
+Hand reißen."&#xD;
+„Ich bin der wahre Weinſtock: ihr ſeid die&#xD;
+Reben. Die Rebe kann keine Frucht bringen von&#xD;
+ihr ſelbst, ſie bleibe denn am Weinſtock. Wer in&#xD;
+mir bleibt, und ich in ihm, der bringt viele Frucht.&#xD;
+Wer nicht in mir bleibt, der wird hinausgeworfen,&#xD;
+und verdorrt, wie eine Rebe, die nicht am Wein=</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

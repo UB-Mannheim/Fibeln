@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:10.823+02:00</Created>
+        <LastChange>2020-04-27T15:22:34.698+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576676" pageNr="21" tsid="28331997" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=GWZPCYDLYVTYTJYYRMLYHGFK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PGTDKXCHAVTFACHGVIYBMYPP" imageId="10530923"/>
+    </Metadata>
+    <Page imageFilename="00000021.tif" imageWidth="1755" imageHeight="3054">
+        <PrintSpace>
+            <Coords points="0,1 1755,1 1755,3054 0,3054"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850137" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="-5,159 1510,167 1532,2886 17,2878"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1387,189 1443,189 1443,234 1387,234"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="25,309 1441,309 1441,388 25,388"/>
+                <TextEquiv>
+                    <Unicode>Schrein, Schwein, Schnur, Schwur, ſehen, ſtehen, Stand,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="29,397 1442,397 1442,475 29,475"/>
+                <TextEquiv>
+                    <Unicode>Strand, ſticken, ſtricken, Poſten, Pfoſten, ſterben, ſtreben,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="26,485 1443,485 1443,564 26,564"/>
+                <TextEquiv>
+                    <Unicode>Furcht, Frucht, Georg, Gregor, Forſt, Froſt, Korn,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="23,572 1441,572 1441,651 23,651"/>
+                <TextEquiv>
+                    <Unicode>Krone, Garben, Graben, Brot, Borte, Bart, Braten,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="26,659 1443,659 1443,739 26,739"/>
+                <TextEquiv>
+                    <Unicode>Garn, Gran, Gräten, Gärten, falſche, Flaſche, geifern,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="26,748 1442,748 1442,828 26,828"/>
+                <TextEquiv>
+                    <Unicode>greifen, Brut, Blut, blühen, brühen, Dunſt, Durſt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="24,835 1215,835 1215,912 24,912"/>
+                <TextEquiv>
+                    <Unicode>Wald, Wand, Rauch, Rauſch, Fleiß, Fleiſch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="22,1021 1325,1021 1325,1123 22,1123"/>
+                <TextEquiv>
+                    <Unicode>28. Die fleißigen Mädchen drehen das Rädchen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="160,1134 1155,1134 1155,1206 160,1206"/>
+                <TextEquiv>
+                    <Unicode>nähen und flicken, ſticken und ſtricken,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="156,1222 1164,1222 1164,1295 156,1295"/>
+                <TextEquiv>
+                    <Unicode>nädeln und putzen, fädeln und ſtutzen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="160,1308 1244,1308 1244,1384 160,1384"/>
+                <TextEquiv>
+                    <Unicode>ſingen und ſpringen, kochen und bringen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="18,1481 992,1481 992,1562 18,1562"/>
+                <TextEquiv>
+                    <Unicode>29. Das Steckenpferd.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="127,1576 1446,1576 1446,1653 127,1653"/>
+                <TextEquiv>
+                    <Unicode>1. Hopp, hopp, hopp! Pferdchen, lauf Galopp über</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="24,1664 1442,1664 1442,1739 24,1739"/>
+                <TextEquiv>
+                    <Unicode>Stock und über Steine, rühre nur recht flink die Beine!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="18,1749 1402,1749 1402,1829 18,1829"/>
+                <TextEquiv>
+                    <Unicode>Immer im Galopp, hopp, hopp, hopp, hopp, hopp!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="124,1857 1445,1857 1445,1935 124,1935"/>
+                <TextEquiv>
+                    <Unicode>2. Tipp, tipp, tapp, wirf mich ja nicht ab! Zähme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="19,1942 1443,1942 1443,2021 19,2021"/>
+                <TextEquiv>
+                    <Unicode>deine wilden Triebe, Pferdchen, thu' mir das zu Liebe:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:18;}">
+                <Coords points="17,2021 1207,2021 1207,2105 17,2105"/>
+                <TextEquiv>
+                    <Unicode>wirf mich ja nicht ab! Tippti, tippti, tapp!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="123,2123 1442,2123 1442,2202 123,2202"/>
+                <TextEquiv>
+                    <Unicode>3. Pitſchi, pitſchi, patſch! Klatſche, Peitſche, klatſch!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="24,2209 1440,2209 1440,2288 24,2288"/>
+                <TextEquiv>
+                    <Unicode>Mußt recht um die Ohren knallen! Ha, das kann</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="22,2296 1437,2296 1437,2377 22,2377"/>
+                <TextEquiv>
+                    <Unicode>mir recht gefallen! Klatſche, Peitſche, klatſch! Pitſchi,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="19,2383 379,2383 379,2451 19,2451"/>
+                <TextEquiv>
+                    <Unicode>pitſchi, patſch!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="121,2478 1442,2478 1442,2557 121,2557"/>
+                <TextEquiv>
+                    <Unicode>4. Br, br, he! Pferdchen, ſteh jetzt, ſteh! Sollſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
+                <Coords points="18,2563 1441,2563 1441,2643 18,2643"/>
+                <TextEquiv>
+                    <Unicode>ſchon heute weiter ſpringen; muß dir nur erſt Futter</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
+                <Coords points="15,2650 1438,2650 1438,2731 15,2731"/>
+                <TextEquiv>
+                    <Unicode>bringen. Steh doch, Pferdchen, ſteh! Br, br, br, br, he!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="104,2766 1298,2766 1298,2817 104,2817"/>
+                <TextEquiv>
+                    <Unicode>Hoffmann, Fibel. II Abtla. Kl. Ausg. 2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>17&#xD;
+Schrein, Schwein, Schnur, Schwur, ſehen, ſtehen, Stand,&#xD;
+Strand, ſticken, ſtricken, Poſten, Pfoſten, ſterben, ſtreben,&#xD;
+Furcht, Frucht, Georg, Gregor, Forſt, Froſt, Korn,&#xD;
+Krone, Garben, Graben, Brot, Borte, Bart, Braten,&#xD;
+Garn, Gran, Gräten, Gärten, falſche, Flaſche, geifern,&#xD;
+greifen, Brut, Blut, blühen, brühen, Dunſt, Durſt,&#xD;
+Wald, Wand, Rauch, Rauſch, Fleiß, Fleiſch.&#xD;
+28. Die fleißigen Mädchen drehen das Rädchen,&#xD;
+nähen und flicken, ſticken und ſtricken,&#xD;
+nädeln und putzen, fädeln und ſtutzen,&#xD;
+ſingen und ſpringen, kochen und bringen.&#xD;
+29. Das Steckenpferd.&#xD;
+1. Hopp, hopp, hopp! Pferdchen, lauf Galopp über&#xD;
+Stock und über Steine, rühre nur recht flink die Beine!&#xD;
+Immer im Galopp, hopp, hopp, hopp, hopp, hopp!&#xD;
+2. Tipp, tipp, tapp, wirf mich ja nicht ab! Zähme&#xD;
+deine wilden Triebe, Pferdchen, thu' mir das zu Liebe:&#xD;
+wirf mich ja nicht ab! Tippti, tippti, tapp!&#xD;
+3. Pitſchi, pitſchi, patſch! Klatſche, Peitſche, klatſch!&#xD;
+Mußt recht um die Ohren knallen! Ha, das kann&#xD;
+mir recht gefallen! Klatſche, Peitſche, klatſch! Pitſchi,&#xD;
+pitſchi, patſch!&#xD;
+4. Br, br, he! Pferdchen, ſteh jetzt, ſteh! Sollſt&#xD;
+ſchon heute weiter ſpringen; muß dir nur erſt Futter&#xD;
+bringen. Steh doch, Pferdchen, ſteh! Br, br, br, br, he!&#xD;
+Hoffmann, Fibel. II Abtla. Kl. Ausg. 2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

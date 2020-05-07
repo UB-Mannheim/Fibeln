@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:24.509+02:00</Created>
+        <LastChange>2020-05-03T19:32:47.012+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576768" pageNr="50" tsid="28703766" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=ZCFXOIQHFENVFMJYLRHXDSPZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMGITWBOASKIAFXBJADEHCVQ" imageId="10531015"/>
+    </Metadata>
+    <Page imageFilename="00000050.tif" imageWidth="1853" imageHeight="3038">
+        <PrintSpace>
+            <Coords points="0,1 1853,1 1853,3038 0,3038"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850782" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="256,129 1817,133 1815,1936 254,1932"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="373,197 428,197 428,237 373,237"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="971,199 1168,199 1168,236 971,236"/>
+                <TextEquiv>
+                    <Unicode>Von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="371,323 1760,323 1760,399 371,399"/>
+                <TextEquiv>
+                    <Unicode>ihn schlägt. Iß nicht zu viel; denn das ſteht dem</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="370,410 1756,410 1756,485 370,485"/>
+                <TextEquiv>
+                    <Unicode>Kind nicht wohl an, und macht träg, dumm und krank. —</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="371,496 1764,496 1764,573 371,573"/>
+                <TextEquiv>
+                    <Unicode>Naſch nicht, und nimm auch dann nichts, wenn man</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="370,584 1764,584 1764,660 370,660"/>
+                <TextEquiv>
+                    <Unicode>dich nicht ſieht. Die Maus ſtiehlt den Speck, und der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="373,672 1763,672 1763,747 373,747"/>
+                <TextEquiv>
+                    <Unicode>Speck bringt ihr den Tod. — Meid den Zorn; zank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="373,758 1762,758 1762,835 373,835"/>
+                <TextEquiv>
+                    <Unicode>und ſtreit nicht; rauf und ſchlag nicht, auch nicht im</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="374,844 1760,844 1760,924 374,924"/>
+                <TextEquiv>
+                    <Unicode>Scherz. Auf der Gaß ſpott die Leut' nicht aus; plag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="372,932 1758,932 1758,1009 372,1009"/>
+                <TextEquiv>
+                    <Unicode>kein Kind, wirf nicht mit Stein und Kot um dich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="372,1020 1757,1020 1757,1097 372,1097"/>
+                <TextEquiv>
+                    <Unicode>Auf dem Feld tritt nicht in das Korn, und wat nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="374,1106 1757,1106 1757,1185 374,1185"/>
+                <TextEquiv>
+                    <Unicode>durch das Gras. Reiß das Obſt nicht ab, das noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="370,1194 1758,1194 1758,1271 370,1271"/>
+                <TextEquiv>
+                    <Unicode>nicht reif iſt, und ſtiehl keins, wenn es auch reif iſt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="370,1280 1756,1280 1756,1356 370,1356"/>
+                <TextEquiv>
+                    <Unicode>Wo du nur biſt, thu und treib nichts, vor dem du</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="371,1367 1483,1367 1483,1439 371,1439"/>
+                <TextEquiv>
+                    <Unicode>dich schämſt, wenn es an den Tag kommt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="513,1456 1755,1456 1755,1530 513,1530"/>
+                <TextEquiv>
+                    <Unicode>Nun, mein Kind, weißt du, was Gott von dir</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="370,1541 1753,1541 1753,1621 370,1621"/>
+                <TextEquiv>
+                    <Unicode>will, und was du zu thun haſt. So thu es auch!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="369,1628 1755,1628 1755,1707 369,1707"/>
+                <TextEquiv>
+                    <Unicode>Du weißt ja, wie es dem Baum geht, der nicht</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="368,1714 736,1714 736,1783 368,1783"/>
+                <TextEquiv>
+                    <Unicode>Frucht bringt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>10&#xD;
+Von Gott.&#xD;
+ihn schlägt. Iß nicht zu viel; denn das ſteht dem&#xD;
+Kind nicht wohl an, und macht träg, dumm und krank. —&#xD;
+Naſch nicht, und nimm auch dann nichts, wenn man&#xD;
+dich nicht ſieht. Die Maus ſtiehlt den Speck, und der&#xD;
+Speck bringt ihr den Tod. — Meid den Zorn; zank&#xD;
+und ſtreit nicht; rauf und ſchlag nicht, auch nicht im&#xD;
+Scherz. Auf der Gaß ſpott die Leut' nicht aus; plag&#xD;
+kein Kind, wirf nicht mit Stein und Kot um dich.&#xD;
+Auf dem Feld tritt nicht in das Korn, und wat nicht&#xD;
+durch das Gras. Reiß das Obſt nicht ab, das noch&#xD;
+nicht reif iſt, und ſtiehl keins, wenn es auch reif iſt.&#xD;
+Wo du nur biſt, thu und treib nichts, vor dem du&#xD;
+dich schämſt, wenn es an den Tag kommt.&#xD;
+Nun, mein Kind, weißt du, was Gott von dir&#xD;
+will, und was du zu thun haſt. So thu es auch!&#xD;
+Du weißt ja, wie es dem Baum geht, der nicht&#xD;
+Frucht bringt.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

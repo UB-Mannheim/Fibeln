@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:04.75+02:00</Created>
+        <LastChange>2020-04-27T12:03:36.341+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576640" pageNr="8" tsid="28321676" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=BNLRKXERVIBRJJWUXQRCUDSY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TAYHPXAZGZTZLKXYLPOGOLJX" imageId="10530887"/>
+    </Metadata>
+    <Page imageFilename="00000008.tif" imageWidth="1840" imageHeight="3044">
+        <PrintSpace>
+            <Coords points="46,0 1840,0 1840,3044 46,3044"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772849834" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="172,187 1795,202 1816,2852 193,2837"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="299,223 329,223 329,263 299,263"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.5"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="296,322 1149,322 1149,438 296,438"/>
+                <TextEquiv>
+                    <Unicode>3. uh, üh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="447,439 1598,439 1598,542 447,542"/>
+                <TextEquiv>
+                    <Unicode>Die Uhr geht. Die Uhren gehen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="301,534 1755,534 1755,644 301,644"/>
+                <TextEquiv>
+                    <Unicode>Die Kuh iſt auf der Weide. Die Kühe</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="701,643 1372,643 1372,736 701,736"/>
+                <TextEquiv>
+                    <Unicode>ſind auf der Weide.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="12.0"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="422,751 1760,751 1760,861 422,861"/>
+                <TextEquiv>
+                    <Unicode>Uhr, Ruhr, Schuh, Schuhe, Huhn, Hüh-</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="307,849 1762,849 1762,960 307,960"/>
+                <TextEquiv>
+                    <Unicode>ner, ruhen, ruhig, Ruhe, Mühle, Mühlen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="309,965 1142,965 1142,1060 309,1060"/>
+                <TextEquiv>
+                    <Unicode>fühlen, wühlen, kühl, kühn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="429,1051 1619,1051 1619,1155 429,1155"/>
+                <TextEquiv>
+                    <Unicode>Bühne, Biene; Kiel, kühl; Kien, kühn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="313,1199 1167,1199 1167,1304 313,1304"/>
+                <TextEquiv>
+                    <Unicode>4. ah, äh.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="19.0"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="433,1306 1766,1306 1766,1412 433,1412"/>
+                <TextEquiv>
+                    <Unicode>Kahn, Hahn, Bahn, Zahn, zahm, Zahl,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="316,1404 1773,1404 1773,1512 316,1512"/>
+                <TextEquiv>
+                    <Unicode>kahl, Jahr, wahr, Wahrheit; Kähne, Hähne,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="318,1495 1774,1495 1774,1610 318,1610"/>
+                <TextEquiv>
+                    <Unicode>Zähne, Mähne, Ähre, nähren, währen, zählen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="320,1620 1083,1620 1083,1709 320,1709"/>
+                <TextEquiv>
+                    <Unicode>wählen, wähnen, gähnen.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="441,1702 1778,1702 1778,1806 441,1806"/>
+                <TextEquiv>
+                    <Unicode>Das Schaf ist zahm. Die Mäher mähen</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="324,1803 1585,1803 1585,1902 324,1902"/>
+                <TextEquiv>
+                    <Unicode>eine Wieſe ab. Rede nur die Wahrheit!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="327,1961 1178,1961 1178,2068 327,2068"/>
+                <TextEquiv>
+                    <Unicode>5. oh, öh.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="19.0"/>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="446,2066 1785,2066 1785,2171 446,2171"/>
+                <TextEquiv>
+                    <Unicode>Ohr, Rohr, Sohn, Mohn, Bohne, Kohl,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="331,2167 1781,2167 1781,2272 331,2272"/>
+                <TextEquiv>
+                    <Unicode>hohl, wohl, Sohle, Kohle, bohren, lohnen, woh=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="334,2257 1788,2257 1788,2370 334,2370"/>
+                <TextEquiv>
+                    <Unicode>nen; Ohr, Öhr, Rohr, Röhre, Sohn, Söhne,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:20;}">
+                <Coords points="333,2372 1445,2372 1445,2470 333,2470"/>
+                <TextEquiv>
+                    <Unicode>Höhle, Höhe, gewöhnen, verſöhnen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="456,2463 1792,2463 1792,2566 456,2566"/>
+                <TextEquiv>
+                    <Unicode>Mit dem Ohre hören wir. Die Nadel hat</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="340,2553 1794,2553 1794,2667 340,2667"/>
+                <TextEquiv>
+                    <Unicode>ein Öhr. Das Rohr iſt hohl. Versöhne dich</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="346,2680 937,2680 937,2763 346,2763"/>
+                <TextEquiv>
+                    <Unicode>mit deinem Feinde!</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="11.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4&#xD;
+3. uh, üh.&#xD;
+Die Uhr geht. Die Uhren gehen.&#xD;
+Die Kuh iſt auf der Weide. Die Kühe&#xD;
+ſind auf der Weide.&#xD;
+Uhr, Ruhr, Schuh, Schuhe, Huhn, Hüh-&#xD;
+ner, ruhen, ruhig, Ruhe, Mühle, Mühlen,&#xD;
+fühlen, wühlen, kühl, kühn.&#xD;
+Bühne, Biene; Kiel, kühl; Kien, kühn.&#xD;
+4. ah, äh.&#xD;
+Kahn, Hahn, Bahn, Zahn, zahm, Zahl,&#xD;
+kahl, Jahr, wahr, Wahrheit; Kähne, Hähne,&#xD;
+Zähne, Mähne, Ähre, nähren, währen, zählen,&#xD;
+wählen, wähnen, gähnen.&#xD;
+Das Schaf ist zahm. Die Mäher mähen&#xD;
+eine Wieſe ab. Rede nur die Wahrheit!&#xD;
+5. oh, öh.&#xD;
+Ohr, Rohr, Sohn, Mohn, Bohne, Kohl,&#xD;
+hohl, wohl, Sohle, Kohle, bohren, lohnen, woh=&#xD;
+nen; Ohr, Öhr, Rohr, Röhre, Sohn, Söhne,&#xD;
+Höhle, Höhe, gewöhnen, verſöhnen.&#xD;
+Mit dem Ohre hören wir. Die Nadel hat&#xD;
+ein Öhr. Das Rohr iſt hohl. Versöhne dich&#xD;
+mit deinem Feinde!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

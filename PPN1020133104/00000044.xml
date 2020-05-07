@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:21.369+02:00</Created>
+        <LastChange>2020-05-03T16:58:50.136+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576748" pageNr="44" tsid="28699982" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=QXBUJIDCLWHTLXKEIDAPGIGS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGKPNEHEJLSKGITFNGAXJZGJ" imageId="10530995"/>
+    </Metadata>
+    <Page imageFilename="00000044.tif" imageWidth="1847" imageHeight="3048">
+        <PrintSpace>
+            <Coords points="-4,-43 1843,-43 1843,3005 -4,3005"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850645" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="r_3_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <GraphicRegion id="r_1" custom="readingOrder {index:0;}">
+            <Coords points="0,0 102,0 102,2056 0,2056"/>
+        </GraphicRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:1;}">
+            <Coords points="267,166 1821,159 1814,2765 260,2772"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="384,209 413,209 413,246 384,246"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="9.0"/>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="983,203 1186,203 1186,241 983,241"/>
+                <TextEquiv>
+                    <Unicode>Von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="386,332 1782,332 1782,400 386,400"/>
+                <TextEquiv>
+                    <Unicode>daß der Bach ſo frisch und klar durch das Thal rinnt.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="386,417 1775,417 1775,487 386,487"/>
+                <TextEquiv>
+                    <Unicode>Gott macht den Tag und die Nacht. Du, mein Kind,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="387,506 1783,506 1783,575 387,575"/>
+                <TextEquiv>
+                    <Unicode>machſt es nicht, daß die Sonn' ſcheint. Dein Arm</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="387,594 1784,594 1784,661 387,661"/>
+                <TextEquiv>
+                    <Unicode>reicht nicht bis an den Mond und an die Stern'.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="388,680 1778,680 1778,748 388,748"/>
+                <TextEquiv>
+                    <Unicode>Sonn' und Mond, Berg und Thal, Feld und Wald,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="388,768 1783,768 1783,836 388,836"/>
+                <TextEquiv>
+                    <Unicode>Tag und Nacht ſind nicht dein Werk. Kein Menſch</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="387,856 1781,856 1781,923 387,923"/>
+                <TextEquiv>
+                    <Unicode>bringt auch nur ein Blatt am Baum zu ſtand. Die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="386,941 1780,941 1780,1010 386,1010"/>
+                <TextEquiv>
+                    <Unicode>Welt, ſo groß und weit und ſchön ſie iſt, iſt ganz</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="386,1032 924,1032 924,1086 386,1086"/>
+                <TextEquiv>
+                    <Unicode>das Werk von Gott.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="line_1587565194084_2554" custom="readingOrder {index:11;}">
+                <Coords points="1054,1137 1126,1137 1126,1194 1054,1194"/>
+                <TextEquiv>
+                    <Unicode>2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:12;}">
+                <Coords points="525,1223 1781,1223 1781,1292 525,1292"/>
+                <TextEquiv>
+                    <Unicode>Kind! Nichts iſt, das Gott nicht weiß. Er, der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:13;}">
+                <Coords points="385,1315 1780,1315 1780,1383 385,1383"/>
+                <TextEquiv>
+                    <Unicode>dein Aug' ſchuf, ſieht auch. Er, der dir dein Ohr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:14;}">
+                <Coords points="385,1401 1777,1401 1777,1471 385,1471"/>
+                <TextEquiv>
+                    <Unicode>gab, hört auch. Was du nur thuſt, das ſieht Gott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:15;}">
+                <Coords points="384,1489 1776,1489 1776,1558 384,1558"/>
+                <TextEquiv>
+                    <Unicode>Was du nur red'ſt, das hört Gott. Es iſt kein Ort,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:16;}">
+                <Coords points="385,1576 1775,1576 1775,1645 385,1645"/>
+                <TextEquiv>
+                    <Unicode>an dem dich dein Gott nicht ſieht und nicht hört.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:17;}">
+                <Coords points="384,1664 1777,1664 1777,1733 384,1733"/>
+                <TextEquiv>
+                    <Unicode>Gott weiß ſelbſt, was du denkſt; er ſieht dir in das</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:18;}">
+                <Coords points="382,1750 1774,1750 1774,1820 382,1820"/>
+                <TextEquiv>
+                    <Unicode>Herz. Vor Gott iſt die Nacht ſo hell, als der Tag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:19;}">
+                <Coords points="384,1837 1775,1837 1775,1906 384,1906"/>
+                <TextEquiv>
+                    <Unicode>Die Sonn' ſcheint dir nicht ſo hell ins Aug', wie vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:20;}">
+                <Coords points="380,1925 1776,1925 1776,1995 380,1995"/>
+                <TextEquiv>
+                    <Unicode>ihm die Nacht iſt. Gott weiß, wie viel Tau auf dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:21;}">
+                <Coords points="383,2012 1777,2012 1777,2081 383,2081"/>
+                <TextEquiv>
+                    <Unicode>Feld, wie viel Sand am Bach, wie viel Laub im</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:22;}">
+                <Coords points="371,2099 1774,2098 1774,2164 371,2165"/>
+                <TextEquiv>
+                    <Unicode>Wald iſt. Nur Gott weiß wie viel Stern' es gibt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:23;}">
+                <Coords points="375,2184 1772,2186 1772,2254 375,2252"/>
+                <TextEquiv>
+                    <Unicode>Kein Blatt fällt vom Baum, kein Haar vom Haupt,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="line_1587564752834_2441" custom="readingOrder {index:24;}">
+                <Coords points="374,2272 918,2272 918,2349 374,2349"/>
+                <TextEquiv>
+                    <Unicode>daß er's nicht weiß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1587565001771_2499" custom="readingOrder {index:25;}">
+                <Coords points="1044,2386 1113,2386 1113,2441 1044,2441"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:26;}">
+                <Coords points="512,2472 1775,2474 1775,2539 512,2537"/>
+                <TextEquiv>
+                    <Unicode>Kind! Gott kann, was er nur will. Er iſt der</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:27;}">
+                <Coords points="370,2559 1772,2561 1772,2629 370,2627"/>
+                <TextEquiv>
+                    <Unicode>Herr der Welt. Was er will, das iſt; er ſpricht, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:28;}">
+                <Coords points="368,2647 1773,2649 1773,2715 368,2713"/>
+                <TextEquiv>
+                    <Unicode>es ſteht da. Die Sonn' geht auf, wenn er es will.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4&#xD;
+Von Gott.&#xD;
+daß der Bach ſo frisch und klar durch das Thal rinnt.&#xD;
+Gott macht den Tag und die Nacht. Du, mein Kind,&#xD;
+machſt es nicht, daß die Sonn' ſcheint. Dein Arm&#xD;
+reicht nicht bis an den Mond und an die Stern'.&#xD;
+Sonn' und Mond, Berg und Thal, Feld und Wald,&#xD;
+Tag und Nacht ſind nicht dein Werk. Kein Menſch&#xD;
+bringt auch nur ein Blatt am Baum zu ſtand. Die&#xD;
+Welt, ſo groß und weit und ſchön ſie iſt, iſt ganz&#xD;
+das Werk von Gott.&#xD;
+2.&#xD;
+Kind! Nichts iſt, das Gott nicht weiß. Er, der&#xD;
+dein Aug' ſchuf, ſieht auch. Er, der dir dein Ohr&#xD;
+gab, hört auch. Was du nur thuſt, das ſieht Gott.&#xD;
+Was du nur red'ſt, das hört Gott. Es iſt kein Ort,&#xD;
+an dem dich dein Gott nicht ſieht und nicht hört.&#xD;
+Gott weiß ſelbſt, was du denkſt; er ſieht dir in das&#xD;
+Herz. Vor Gott iſt die Nacht ſo hell, als der Tag.&#xD;
+Die Sonn' ſcheint dir nicht ſo hell ins Aug', wie vor&#xD;
+ihm die Nacht iſt. Gott weiß, wie viel Tau auf dem&#xD;
+Feld, wie viel Sand am Bach, wie viel Laub im&#xD;
+Wald iſt. Nur Gott weiß wie viel Stern' es gibt,&#xD;
+Kein Blatt fällt vom Baum, kein Haar vom Haupt,&#xD;
+daß er's nicht weiß.&#xD;
+3.&#xD;
+Kind! Gott kann, was er nur will. Er iſt der&#xD;
+Herr der Welt. Was er will, das iſt; er ſpricht, und&#xD;
+es ſteht da. Die Sonn' geht auf, wenn er es will.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

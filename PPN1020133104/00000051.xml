@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2020-04-21T13:13:24.92+02:00</Created>
+        <LastChange>2020-05-03T19:36:13.127+02:00</LastChange>
+        <Comments>
+                <fileDesc>
+			<TitleStatement> Hoffmann'sche Fibel </TitleStatement>
+			<Publisher> Oldenburg </Publisher>
+			<PlaceOfPublication> München </PlaceOfPublication>
+			<YearOfPublication> 1898 </YearOfPublication>
+		</fileDesc>
+
+		<encodingDesc>
+			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
+			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Software> Transkribus <Software>
+		</encodingDesc>
+
+		<profileDesc>
+			<Text>
+				<Language> German </Language>
+				<Font> Fraktur </Font>
+			</Text>
+			<DigitalRepresentation>
+				<Origin> Georg-Eckert-Institut Braunschweig </Origin>
+				<Format> TIFF </Format>
+				<Resolution> 400dpi </Resolution>
+				<NumberOfFiles> 68 </NumberOfFiles>
+			</DigitalRepresentation>
+		</profileDesc>	
+            </Comments>
+        <TranskribusMetadata docId="372281" pageId="14576771" pageNr="51" tsid="28703812" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=JTMDKWVNKEAQHYQUOZCQXJJW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MQAIYOCTYSETTYLHKXECAXZZ" imageId="10531018"/>
+    </Metadata>
+    <Page imageFilename="00000051.tif" imageWidth="1801" imageHeight="3054">
+        <PrintSpace>
+            <Coords points="0,6 1800,6 1800,3054 0,3054"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1588772850805" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_2_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:0;}">
+            <Coords points="12,121 1602,123 1602,1899 12,1897"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="581,218 971,218 971,264 581,264"/>
+                <TextEquiv>
+                    <Unicode>Von Jeſus Chriſtus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="1414,225 1463,225 1463,266 1414,266"/>
+                <TextEquiv>
+                    <Unicode>11</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.5" bold="true"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
+                <Coords points="401,554 1155,554 1155,653 401,653"/>
+                <TextEquiv>
+                    <Unicode>Von Jeſus Chriſtus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
+                <Coords points="219,1012 1470,1012 1470,1108 219,1108"/>
+                <TextEquiv>
+                    <Unicode>Liebe Kinder! Ihr habt gehört, wie gut Gott</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
+                <Coords points="86,1121 1467,1121 1467,1195 86,1195"/>
+                <TextEquiv>
+                    <Unicode>iſt, Er unſer lieber Vater im Himmel ſchuf die Men=</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
+                <Coords points="86,1209 1467,1209 1467,1283 86,1283"/>
+                <TextEquiv>
+                    <Unicode>ſchen auch gut. Sie wurden aber bös, und thaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
+                <Coords points="88,1298 1468,1298 1468,1367 88,1367"/>
+                <TextEquiv>
+                    <Unicode>Böſes. So kamen Sünde, Elend und Tod in die</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
+                <Coords points="89,1385 1465,1385 1465,1458 89,1458"/>
+                <TextEquiv>
+                    <Unicode>Welt. Aber Gott hatte Mitleid mit den Menſchen,</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
+                <Coords points="86,1473 1468,1473 1468,1545 86,1545"/>
+                <TextEquiv>
+                    <Unicode>und ſchickte ſeinen lieben Sohn in die Welt, ihnen zu</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
+                <Coords points="87,1561 1469,1561 1469,1631 87,1631"/>
+                <TextEquiv>
+                    <Unicode>helfen. Von dieſem ſeinem Sohne, unſerm lieben</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
+                <Coords points="88,1649 1470,1649 1470,1721 88,1721"/>
+                <TextEquiv>
+                    <Unicode>Herrn und Heiland, Jeſus Chriſtus, ſollt ihr jetzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
+                <Coords points="90,1737 252,1737 252,1799 90,1799"/>
+                <TextEquiv>
+                    <Unicode>hören.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="10.5"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Von Jeſus Chriſtus.&#xD;
+11&#xD;
+Von Jeſus Chriſtus.&#xD;
+Liebe Kinder! Ihr habt gehört, wie gut Gott&#xD;
+iſt, Er unſer lieber Vater im Himmel ſchuf die Men=&#xD;
+ſchen auch gut. Sie wurden aber bös, und thaten&#xD;
+Böſes. So kamen Sünde, Elend und Tod in die&#xD;
+Welt. Aber Gott hatte Mitleid mit den Menſchen,&#xD;
+und ſchickte ſeinen lieben Sohn in die Welt, ihnen zu&#xD;
+helfen. Von dieſem ſeinem Sohne, unſerm lieben&#xD;
+Herrn und Heiland, Jeſus Chriſtus, ſollt ihr jetzt&#xD;
+hören.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
