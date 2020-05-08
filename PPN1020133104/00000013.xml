@@ -98,7 +98,7 @@
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="57,987 1500,987 1500,1068 57,1068"/>
                 <TextEquiv>
-                    <Unicode>Das Schiff geht oft schief auf dem Wasser.</Unicode>
+                    <Unicode>Das Schiff geht oft ſchief auf dem Wasser.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="15.0"/>
             </TextLine>
@@ -210,7 +210,7 @@ Schatten; laben, Lappen; Roſe, Roſſe; Arme,&#xD;
 Armee; alle, Allee; wohl, Wolle; voll, viel;&#xD;
 füllen, fühlen; kam, Kamm; kämmen, schämen.&#xD;
 Mein Schwager iſt ein schwacher Mann.&#xD;
-Das Schiff geht oft schief auf dem Wasser.&#xD;
+Das Schiff geht oft ſchief auf dem Wasser.&#xD;
 Gehören die Puppen für die Buben? Ich&#xD;
 kann auf keinem Kahne fahren.&#xD;
 Ich lasse Licht und hellen Schein&#xD;

@@ -141,7 +141,7 @@
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="298,1593 1742,1593 1742,1683 298,1683"/>
                 <TextEquiv>
-                    <Unicode>girren, scharren; voll, toll, hell, Heller, Teller,</Unicode>
+                    <Unicode>girren, ſcharren; voll, toll, hell, Heller, Teller,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:15;}">
@@ -175,7 +175,7 @@
             <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="298,2062 1744,2062 1744,2142 298,2142"/>
                 <TextEquiv>
-                    <Unicode>Wir sollen nur das wollen und thun, was</Unicode>
+                    <Unicode>Wir ſollen nur das wollen und thun, was</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:20;}">
@@ -227,12 +227,12 @@ Mann, Kanne, Tanne, dünn, nennen, ren=&#xD;
 nen, Henne.&#xD;
 9. rr, ll, ff.&#xD;
 Herr, Narr, dürr, Geſchirr, irren, kirren,&#xD;
-girren, scharren; voll, toll, hell, Heller, Teller,&#xD;
+girren, ſcharren; voll, toll, hell, Heller, Teller,&#xD;
 Welle, Wolle, Rolle, Fell, fallen, wallen;&#xD;
 Schiff, Schaff, Schiffer, Schäffler, Affe, Waffe,&#xD;
 Löffel, offen, hoffen.&#xD;
 Die Hunde murren. Die Tauben girren.&#xD;
-Wir sollen nur das wollen und thun, was&#xD;
+Wir ſollen nur das wollen und thun, was&#xD;
 Gott will.&#xD;
 10. pp, tt.&#xD;
 Die Buben haben alle Kappen.&#xD;

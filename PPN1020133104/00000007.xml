@@ -73,7 +73,7 @@
             <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
                 <Coords points="100,894 1537,894 1537,990 100,990"/>
                 <TextEquiv>
-                    <Unicode>Der Aal iſt ein Fisch. Der Aar iſt ein</Unicode>
+                    <Unicode>Der Aal iſt ein Fiſch. Der Aar iſt ein</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -206,7 +206,7 @@
 A. Dehnung und Schärfung.&#xD;
 I.&#xD;
 1. aa, oo, ee.&#xD;
-Der Aal iſt ein Fisch. Der Aar iſt ein&#xD;
+Der Aal iſt ein Fiſch. Der Aar iſt ein&#xD;
 Vogel.&#xD;
 Haar, Saat, Aas, Saal, Paar;&#xD;
 Boot, Moor, Moos;&#xD;

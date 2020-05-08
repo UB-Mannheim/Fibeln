@@ -175,7 +175,7 @@
             <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="105,2169 1555,2169 1555,2253 105,2253"/>
                 <TextEquiv>
-                    <Unicode>wetzen, putzen; süß, heiß, weiß, gießen, schießen,</Unicode>
+                    <Unicode>wetzen, putzen; ſüß, heiß, weiß, gießen, ſchießen,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -208,7 +208,7 @@
             <TextLine id="line_1587978506572_2951" custom="readingOrder {index:24;}">
                 <Coords points="373,2643 1200,2643 1200,2724 373,2724"/>
                 <TextEquiv>
-                    <Unicode></Unicode>
+                    <Unicode>wel cher Schü tze kein Ge wehr?</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -231,11 +231,12 @@ Welches Faß hat keinen Reif?&#xD;
 Die Katze hat vier Füße. Dieſe heißen&#xD;
 auch Tatzen.&#xD;
 Sitz, Satz, Netz, Hitze, Mütze, ſitzen, netzen,&#xD;
-wetzen, putzen; süß, heiß, weiß, gießen, schießen,&#xD;
+wetzen, putzen; ſüß, heiß, weiß, gießen, ſchießen,&#xD;
 büßen, fleißig.&#xD;
 Welche Katze hat kein Maul?&#xD;
 Welches Futter mag kein Gaul?&#xD;
 Welcher Mann hat kein Gehör,&#xD;
+wel cher Schü tze kein Ge wehr?
 </Unicode>
             </TextEquiv>
         </TextRegion>
