@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -181,14 +181,14 @@
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="79,2070 1468,2070 1468,2149 79,2149"/>
                 <TextEquiv>
-                    <Unicode>backt. Er gibt uns die Milch, die ſo frisch und ſüß</Unicode>
+                    <Unicode>backt. Er gibt uns die Milch, die ſo friſch und ſüß</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="80,2158 1470,2158 1470,2237 80,2237"/>
                 <TextEquiv>
-                    <Unicode>iſt. Auch das Obst, das dir ſo wohl ſchmeckt, kommt</Unicode>
+                    <Unicode>iſt. Auch das Obſt, das dir ſo wohl ſchmeckt, kommt</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -255,8 +255,8 @@ und rot. Auch dir zu lieb färbt er das Gras und&#xD;
 Laub ſo ſchön grün. Auch dir zu lieb macht er, daß&#xD;
 der Tau ſo ſchön rot, gelb und blau ſtrahlt. Er gibt&#xD;
 uns das Korn, aus dem man Mehl macht und Brot&#xD;
-backt. Er gibt uns die Milch, die ſo frisch und ſüß&#xD;
-iſt. Auch das Obst, das dir ſo wohl ſchmeckt, kommt&#xD;
+backt. Er gibt uns die Milch, die ſo friſch und ſüß&#xD;
+iſt. Auch das Obſt, das dir ſo wohl ſchmeckt, kommt&#xD;
 von ihm. Was du nur haſt, das haſt du von Gott. Dein&#xD;
 Kleid und dein Bett gab er dir. Auch den Schlaf, der&#xD;
 dich ſtärkt, ſchickt er dir. Er macht, daß du lebſt und&#xD;

@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -87,7 +87,7 @@
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="94,2498 1478,2498 1478,2576 94,2576"/>
                 <TextEquiv>
-                    <Unicode>Gott macht die Lust ſo ſchön blau. Er macht Feld und</Unicode>
+                    <Unicode>Gott macht die Luft ſo ſchön blau. Er macht Feld und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
@@ -110,7 +110,7 @@ Mein Kind! Was dein Aug' nur ſieht, das&#xD;
 iſt von Gott. Gott macht, daß die Sonn' ſo hell und&#xD;
 warm ſcheint. Gott macht, daß der Mond ſo ſchön&#xD;
 glänzt. Es iſt kein Stern, dem nicht er das Licht gibt.&#xD;
-Gott macht die Lust ſo ſchön blau. Er macht Feld und&#xD;
+Gott macht die Luft ſo ſchön blau. Er macht Feld und&#xD;
 Wald ſo ſchön grün. Berg und Thal sind von Gott.&#xD;
 Er deckt den Berg mit Buſch und Wald. Er macht,</Unicode>
             </TextEquiv>

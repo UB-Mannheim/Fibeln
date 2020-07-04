@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -124,7 +124,7 @@
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="91,1230 1477,1230 1477,1298 91,1298"/>
                 <TextEquiv>
-                    <Unicode>leid' es gern, ſo ſchwer es ist. — Hast du Luſt zur</Unicode>
+                    <Unicode>leid' es gern, ſo ſchwer es iſt. — Haſt du Luſt zur</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -246,7 +246,7 @@ heißt, ſo denk: Ich will es doch thun, weil es Gott ſo&#xD;
 will, und wie es Gott will; ich will es thun, ſo gut&#xD;
 ich kann. — Wenn du krank biſt, ſo denk: was du&#xD;
 willſt, o Gott! iſt gut, wenn es auch hart ſcheint. Ich&#xD;
-leid' es gern, ſo ſchwer es ist. — Hast du Luſt zur&#xD;
+leid' es gern, ſo ſchwer es iſt. — Haſt du Luſt zur&#xD;
 Sünd', ſo denk: Gott ſieht mich, Gott ſtraft mich; ich&#xD;
 will es nicht thun. — Denk recht oft: o Gott, du ſiehſt&#xD;
 mich, wo ich bin, bei Tag und bei Nacht, zu Haus&#xD;

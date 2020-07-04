@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -66,61 +66,61 @@
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="219,1012 1470,1012 1470,1108 219,1108"/>
                 <TextEquiv>
-                    <Unicode>Liebe Kinder! Ihr habt gehört, wie gut Gott</Unicode>
+                    <Unicode>Lie be Kin der! Ihr habt ge hört, wie gut Gott</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="86,1121 1467,1121 1467,1195 86,1195"/>
                 <TextEquiv>
-                    <Unicode>iſt, Er unſer lieber Vater im Himmel ſchuf die Men=</Unicode>
+                    <Unicode>iſt, Er un ſer lie ber Va ter im Him mel ſchuf die Men⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="86,1209 1467,1209 1467,1283 86,1283"/>
                 <TextEquiv>
-                    <Unicode>ſchen auch gut. Sie wurden aber bös, und thaten</Unicode>
+                    <Unicode>ſchen auch gut. Sie wur den aber bös, und tha ten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="88,1298 1468,1298 1468,1367 88,1367"/>
                 <TextEquiv>
-                    <Unicode>Böſes. So kamen Sünde, Elend und Tod in die</Unicode>
+                    <Unicode>Bö ſes. So ka men Sün de, E lend und Tod in die</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="89,1385 1465,1385 1465,1458 89,1458"/>
                 <TextEquiv>
-                    <Unicode>Welt. Aber Gott hatte Mitleid mit den Menſchen,</Unicode>
+                    <Unicode>Welt. A ber Gott hat te Mit leid mit den Men ſchen,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="86,1473 1468,1473 1468,1545 86,1545"/>
                 <TextEquiv>
-                    <Unicode>und ſchickte ſeinen lieben Sohn in die Welt, ihnen zu</Unicode>
+                    <Unicode>und ſchick te ſei nen lie ben Sohn in die Welt, ih nen zu</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="87,1561 1469,1561 1469,1631 87,1631"/>
                 <TextEquiv>
-                    <Unicode>helfen. Von dieſem ſeinem Sohne, unſerm lieben</Unicode>
+                    <Unicode>hel fen. Von die ſem ſei nem Soh ne, un ſerm lie ben</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="88,1649 1470,1649 1470,1721 88,1721"/>
                 <TextEquiv>
-                    <Unicode>Herrn und Heiland, Jeſus Chriſtus, ſollt ihr jetzt</Unicode>
+                    <Unicode>Herrn und Hei land, Je ſus Chri ſtus, ſollt ihr jetzt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="90,1737 252,1737 252,1799 90,1799"/>
                 <TextEquiv>
-                    <Unicode>hören.</Unicode>
+                    <Unicode>hö ren.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -128,15 +128,15 @@
                 <Unicode>Von Jeſus Chriſtus.&#xD;
 11&#xD;
 Von Jeſus Chriſtus.&#xD;
-Liebe Kinder! Ihr habt gehört, wie gut Gott&#xD;
-iſt, Er unſer lieber Vater im Himmel ſchuf die Men=&#xD;
-ſchen auch gut. Sie wurden aber bös, und thaten&#xD;
-Böſes. So kamen Sünde, Elend und Tod in die&#xD;
-Welt. Aber Gott hatte Mitleid mit den Menſchen,&#xD;
-und ſchickte ſeinen lieben Sohn in die Welt, ihnen zu&#xD;
-helfen. Von dieſem ſeinem Sohne, unſerm lieben&#xD;
-Herrn und Heiland, Jeſus Chriſtus, ſollt ihr jetzt&#xD;
-hören.</Unicode>
+Lie be Kin der! Ihr habt ge hört, wie gut Gott&#xD;
+iſt, Er un ſer lie ber Va ter im Him mel ſchuf die Men⸗&#xD;
+ſchen auch gut. Sie wur den aber bös, und tha ten&#xD;
+Bö ſes. So ka men Sün de, E lend und Tod in die&#xD;
+Welt. A ber Gott hat te Mit leid mit den Men ſchen,&#xD;
+und ſchick te ſei nen lie ben Sohn in die Welt, ih nen zu&#xD;
+hel fen. Von die ſem ſei nem Soh ne, un ſerm lie ben&#xD;
+Herrn und Hei land, Je ſus Chri ſtus, ſollt ihr jetzt&#xD;
+hö ren.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -60,66 +60,66 @@
             <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:2;}">
                 <Coords points="363,335 1754,335 1754,409 363,409"/>
                 <TextEquiv>
-                    <Unicode>mit. Ihr könnet euch denken, daß er auf dem Wege</Unicode>
+                    <Unicode>mit. Ihr kön net euch den ken, daß er auf dem We ge</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:3;}">
                 <Coords points="364,422 1749,422 1749,494 364,494"/>
                 <TextEquiv>
-                    <Unicode>ſo ſtill und ſittſam und in dem Tempel ſo voll An=</Unicode>
+                    <Unicode>ſo ſtill und ſitt ſam und in dem Tem pel ſo voll An⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
                 <Coords points="365,510 1751,510 1751,583 365,583"/>
                 <TextEquiv>
-                    <Unicode>dacht war, daß alle frommen, guten Menschen Freude</Unicode>
+                    <Unicode>dacht war, daß al le from men, gu ten Men ſchen Freu de</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
                 <Coords points="365,598 1750,598 1750,669 365,669"/>
                 <TextEquiv>
-                    <Unicode>daran hatten. Auf dem Heimwege aber bemerkten</Unicode>
+                    <Unicode>dar an hat ten. Auf dem Heim wege a ber be merk ten</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:6;}">
                 <Coords points="365,685 1750,685 1750,758 365,758"/>
                 <TextEquiv>
-                    <Unicode>ſeine Eltern auf einmal, daß er nicht mehr bei</Unicode>
+                    <Unicode>ſei ne El tern auf ein mal, daß er nicht mehr bei</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:7;}">
                 <Coords points="367,772 1751,772 1751,845 367,845"/>
                 <TextEquiv>
-                    <Unicode>ihnen war. Sie suchten ihn drei Tage lang. End=</Unicode>
+                    <Unicode>ih nen war. Sie ſuch ten ihn drei Ta ge lang. End⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:8;}">
                 <Coords points="368,857 1753,857 1753,930 368,930"/>
                 <TextEquiv>
-                    <Unicode>lich fanden ſie ihn in dem Tempel. Seine Mutter</Unicode>
+                    <Unicode>lich fan den ſie ihn in dem Tem pel. Sei ne Mut ter</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:9;}">
                 <Coords points="368,947 1753,947 1753,1019 368,1019"/>
                 <TextEquiv>
-                    <Unicode>ſagte: „Sohn, warum haſt du uns das gethan?</Unicode>
+                    <Unicode>ſag te: „Sohn, war um haſt du uns das ge than?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:10;}">
                 <Coords points="369,1033 1751,1033 1751,1106 369,1106"/>
                 <TextEquiv>
-                    <Unicode>Sieh dein Vater und ich, wir haben dich mit</Unicode>
+                    <Unicode>Sieh dein Va ter und ich, wir ha ben dich mit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:11;}">
                 <Coords points="370,1120 1752,1120 1752,1192 370,1192"/>
                 <TextEquiv>
-                    <Unicode>Schmerzen geſucht." Er aber ſagte freundlich:</Unicode>
+                    <Unicode>Schmer zen ge ſucht." Er a ber ſag te freund lich:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:12;}">
@@ -132,132 +132,132 @@
             <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:13;}">
                 <Coords points="369,1294 1753,1294 1753,1364 369,1364"/>
                 <TextEquiv>
-                    <Unicode>was meines Vaters iſt?" So gern war er in dem</Unicode>
+                    <Unicode>was mei nes Vaters iſt?“ So gern war er in dem</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:14;}">
                 <Coords points="368,1381 1754,1381 1754,1457 368,1457"/>
                 <TextEquiv>
-                    <Unicode>Hauſe seines Vaters; seine größte Freude war, den</Unicode>
+                    <Unicode>Hau ſe ſei nes Va ters; ſeine größ te Freu de war, den</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:15;}">
                 <Coords points="370,1469 1753,1469 1753,1541 370,1541"/>
                 <TextEquiv>
-                    <Unicode>Willen Gottes zu thun. Er nahm zu, wie an Alter,</Unicode>
+                    <Unicode>Wil len Got tes zu thun. Er nahm zu, wie an Al ter,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:16;}">
                 <Coords points="371,1555 1753,1555 1753,1631 371,1631"/>
                 <TextEquiv>
-                    <Unicode>ſo an Weisheit und Gnade bei Gott und den Menſchen.</Unicode>
+                    <Unicode>ſo an Weis heit und Gna de bei Gott und den Men ſchen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
                 <Coords points="512,1661 1757,1661 1757,1730 512,1730"/>
                 <TextEquiv>
-                    <Unicode>Der Knabe Jeſus war fleißig, und eifrig in</Unicode>
+                    <Unicode>Der Kna be Je ſus war flei ßig, und ei frig in</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:18;}">
                 <Coords points="371,1748 1755,1748 1755,1820 371,1820"/>
                 <TextEquiv>
-                    <Unicode>allem Guten. Er hatte ſeine größte Freude an</Unicode>
+                    <Unicode>al lem Gu ten. Er hat te ſei ne größ te Freu de an</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:19;}">
                 <Coords points="371,1835 1757,1835 1757,1905 371,1905"/>
                 <TextEquiv>
-                    <Unicode>dem Worte Gottes. In dem Tempel war er mitten</Unicode>
+                    <Unicode>dem Wor te Got tes. In dem Tem pel war er mit ten</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:20;}">
                 <Coords points="371,1923 1759,1923 1759,1995 371,1995"/>
                 <TextEquiv>
-                    <Unicode>unter den Lehrern. Er hörte ihnen auf merkſam</Unicode>
+                    <Unicode>un ter den Leh rern. Er hör te ih nen auf merk ſam</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
                 <Coords points="373,2009 1760,2009 1760,2082 373,2082"/>
                 <TextEquiv>
-                    <Unicode>zu; er fragte ſie, und gab auf jede ihrer Fragen</Unicode>
+                    <Unicode>zu; er frag te ſie, und gab auf je de ih rer Fra gen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:22;}">
                 <Coords points="373,2096 1757,2096 1757,2169 373,2169"/>
                 <TextEquiv>
-                    <Unicode>die beſte Antwort. Die Lehrer und das Volk waren</Unicode>
+                    <Unicode>die be ſte Ant wort. Die Leh rer und das Volk wa ren</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:23;}">
                 <Coords points="374,2188 1195,2188 1195,2255 374,2255"/>
                 <TextEquiv>
-                    <Unicode>erſtaunt über ſeine Weisheit.</Unicode>
+                    <Unicode>er ſtaunt ü ber ſei ne Weis heit.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:24;}">
                 <Coords points="516,2290 1761,2290 1761,2358 516,2358"/>
                 <TextEquiv>
-                    <Unicode>Der Knabe Jeſus war gegen alle Menſchen</Unicode>
+                    <Unicode>Der Kna be Je ſus war ge gen al le Men ſchen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="English" custom="readingOrder {index:25;}">
                 <Coords points="375,2376 1761,2376 1761,2451 375,2451"/>
                 <TextEquiv>
-                    <Unicode>gut und freundlich. Aus ſeinem Munde kam nie</Unicode>
+                    <Unicode>gut und freund lich. Aus ſei nem Mun de kam nie</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_27" primaryLanguage="English" custom="readingOrder {index:26;}">
                 <Coords points="376,2463 1761,2463 1761,2537 376,2537"/>
                 <TextEquiv>
-                    <Unicode>ein böſes Wort. Er that keinem Kinde etwas zu</Unicode>
+                    <Unicode>ein bö ſes Wort. Er that kei nem Kin de et was zu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_28" primaryLanguage="English" custom="readingOrder {index:27;}">
                 <Coords points="378,2549 1765,2549 1765,2621 378,2621"/>
                 <TextEquiv>
-                    <Unicode>leid und betrübte nie einen Menſchen. Immer</Unicode>
+                    <Unicode>leid und be trüb te nie ei nen Men ſchen. Im mer</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_29" primaryLanguage="English" custom="readingOrder {index:28;}">
                 <Coords points="376,2638 1762,2638 1762,2714 376,2714"/>
                 <TextEquiv>
-                    <Unicode>ſagte er die Wahrheit, und war gegen alle Men=</Unicode>
+                    <Unicode>ſag te er die Wahr heit, und war ge gen al le Men⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>14&#xD;
 Von Jeſus Chriſtus.&#xD;
-mit. Ihr könnet euch denken, daß er auf dem Wege&#xD;
-ſo ſtill und ſittſam und in dem Tempel ſo voll An=&#xD;
-dacht war, daß alle frommen, guten Menschen Freude&#xD;
-daran hatten. Auf dem Heimwege aber bemerkten&#xD;
-ſeine Eltern auf einmal, daß er nicht mehr bei&#xD;
-ihnen war. Sie suchten ihn drei Tage lang. End=&#xD;
-lich fanden ſie ihn in dem Tempel. Seine Mutter&#xD;
-ſagte: „Sohn, warum haſt du uns das gethan?&#xD;
-Sieh dein Vater und ich, wir haben dich mit&#xD;
-Schmerzen geſucht." Er aber ſagte freundlich:&#xD;
+mit. Ihr kön net euch den ken, daß er auf dem We ge&#xD;
+ſo ſtill und ſitt ſam und in dem Tem pel ſo voll An⸗&#xD;
+dacht war, daß al le from men, gu ten Men ſchen Freu de&#xD;
+dar an hat ten. Auf dem Heim wege a ber be merk ten&#xD;
+ſei ne El tern auf ein mal, daß er nicht mehr bei&#xD;
+ih nen war. Sie ſuch ten ihn drei Ta ge lang. End⸗&#xD;
+lich fan den ſie ihn in dem Tem pel. Sei ne Mut ter&#xD;
+ſag te: „Sohn, war um haſt du uns das ge than?&#xD;
+Sieh dein Va ter und ich, wir ha ben dich mit&#xD;
+Schmer zen ge ſucht." Er a ber ſag te freund lich:&#xD;
 „Wißt ihr denn nicht, daß ich in dem ſein muß,&#xD;
-was meines Vaters iſt?" So gern war er in dem&#xD;
-Hauſe seines Vaters; seine größte Freude war, den&#xD;
-Willen Gottes zu thun. Er nahm zu, wie an Alter,&#xD;
-ſo an Weisheit und Gnade bei Gott und den Menſchen.&#xD;
-Der Knabe Jeſus war fleißig, und eifrig in&#xD;
-allem Guten. Er hatte ſeine größte Freude an&#xD;
-dem Worte Gottes. In dem Tempel war er mitten&#xD;
-unter den Lehrern. Er hörte ihnen auf merkſam&#xD;
-zu; er fragte ſie, und gab auf jede ihrer Fragen&#xD;
-die beſte Antwort. Die Lehrer und das Volk waren&#xD;
-erſtaunt über ſeine Weisheit.&#xD;
-Der Knabe Jeſus war gegen alle Menſchen&#xD;
-gut und freundlich. Aus ſeinem Munde kam nie&#xD;
-ein böſes Wort. Er that keinem Kinde etwas zu&#xD;
-leid und betrübte nie einen Menſchen. Immer&#xD;
-ſagte er die Wahrheit, und war gegen alle Men=</Unicode>
+was mei nes Vaters iſt?“ So gern war er in dem&#xD;
+Hau ſe ſei nes Va ters; ſeine größ te Freu de war, den&#xD;
+Wil len Got tes zu thun. Er nahm zu, wie an Al ter,&#xD;
+ſo an Weis heit und Gna de bei Gott und den Men ſchen.&#xD;
+Der Kna be Je ſus war flei ßig, und ei frig in&#xD;
+al lem Gu ten. Er hat te ſei ne größ te Freu de an&#xD;
+dem Wor te Got tes. In dem Tem pel war er mit ten&#xD;
+un ter den Leh rern. Er hör te ih nen auf merk ſam&#xD;
+zu; er frag te ſie, und gab auf je de ih rer Fra gen&#xD;
+die be ſte Ant wort. Die Leh rer und das Volk wa ren&#xD;
+er ſtaunt ü ber ſei ne Weis heit.&#xD;
+Der Kna be Je ſus war ge gen al le Men ſchen&#xD;
+gut und freund lich. Aus ſei nem Mun de kam nie&#xD;
+ein bö ſes Wort. Er that kei nem Kin de et was zu&#xD;
+leid und be trüb te nie ei nen Men ſchen. Im mer&#xD;
+ſag te er die Wahr heit, und war ge gen al le Men⸗</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

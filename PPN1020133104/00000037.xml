@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -113,7 +113,7 @@
             <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:10;}">
                 <Coords points="51,1089 1490,1089 1490,1170 51,1170"/>
                 <TextEquiv>
-                    <Unicode>Vogel in der Tasche des Knaben ſchrie ſo laut er konnte:</Unicode>
+                    <Unicode>Vogel in der Taſche des Knaben ſchrie ſo laut er konnte:</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -211,7 +211,7 @@
             <TextLine id="tl_25" primaryLanguage="English" custom="readingOrder {index:24;}">
                 <Coords points="317,2482 1092,2482 1092,2557 317,2557"/>
                 <TextEquiv>
-                    <Unicode>die Ente ſchlürft ans Rinnen,</Unicode>
+                    <Unicode>die Ente ſchlürft aus Rinnen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="English" custom="readingOrder {index:25;}">
@@ -224,7 +224,7 @@
             <TextLine id="tl_27" primaryLanguage="English" custom="readingOrder {index:26;}">
                 <Coords points="314,2658 1103,2658 1103,2735 314,2735"/>
                 <TextEquiv>
-                    <Unicode>Ich möcht nicht ſein ihr Gast.</Unicode>
+                    <Unicode>Ich möcht nicht ſein ihr Gaſt.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -252,7 +252,7 @@ den Vogel, ſteckte ihn in die Taſche und wollte damit&#xD;
 fortgehen. Da kam aber der Jäger gerade zur Thüre&#xD;
 herein. Er wollte dem Knaben eine Freude machen&#xD;
 und rief daher: Stärlein, wo biſt du? — und der&#xD;
-Vogel in der Tasche des Knaben ſchrie ſo laut er konnte:&#xD;
+Vogel in der Taſche des Knaben ſchrie ſo laut er konnte:&#xD;
 Da bin ich! Über und über rot vor Scham, gab Karl&#xD;
 den Vogel heraus und durfte ſich nie mehr bei dem&#xD;
 Jäger ſehen laſſen.&#xD;
@@ -266,9 +266,9 @@ die Katz' muß Mäuſe fangen,&#xD;
 die Kuh mag Heu und Stroh,&#xD;
 ein Korn macht's Spätzlein froh,&#xD;
 die Stare freſſen Spinnen,&#xD;
-die Ente ſchlürft ans Rinnen,&#xD;
+die Ente ſchlürft aus Rinnen,&#xD;
 das Schwein wühlt im Moraſt.&#xD;
-Ich möcht nicht ſein ihr Gast.&#xD;
+Ich möcht nicht ſein ihr Gaſt.&#xD;
 Hoffmann, Fibel. II. Abtlg. Kl. Ausg.&#xD;
 3</Unicode>
             </TextEquiv>

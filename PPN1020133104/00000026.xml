@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by words by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -115,7 +115,7 @@
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="407,1157 1753,1157 1753,1235 407,1235"/>
                 <TextEquiv>
-                    <Unicode>Das Feuer knistert und knattert. Der Krebs kneipt.</Unicode>
+                    <Unicode>Das Feuer kniſtert und knattert. Der Krebs kneipt.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -233,7 +233,7 @@ Punkte; hinken, blinken, blicken.&#xD;
 Knaul, Knauf, Knall, knallen, Knopf, knöpfen, Knabe,&#xD;
 Knittel, Knie, knicken, knacken, Nußknacker, Gnade,&#xD;
 gnädig.&#xD;
-Das Feuer knistert und knattert. Der Krebs kneipt.&#xD;
+Das Feuer kniſtert und knattert. Der Krebs kneipt.&#xD;
 Gott ist gnädig. Der Mensch denkt; Gott lenkt. Iß,&#xD;
 was gar iſt; trink, was klar iſt; ſprich, was wahr iſt.&#xD;
 Schlange, ſchlank; Zange, zank; bang, Bank; Fink,&#xD;

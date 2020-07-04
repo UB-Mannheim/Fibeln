@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -74,7 +74,7 @@
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="378,497 1778,497 1778,590 378,590"/>
                 <TextEquiv>
-                    <Unicode>Wenn du die Blum' pflückſt, die ſo ſchön ist und ſo</Unicode>
+                    <Unicode>Wenn du die Blum' pflückſt, die ſo ſchön iſt und ſo</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -188,7 +188,7 @@
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="499,2116 1748,2116 1748,2210 499,2210"/>
                 <TextEquiv>
-                    <Unicode>Weil Gott so gut iſt, ſo gib auch du, mein Kind,</Unicode>
+                    <Unicode>Weil Gott ſo gut iſt, ſo gib auch du, mein Kind,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -207,14 +207,14 @@
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="353,2376 1747,2376 1747,2470 353,2470"/>
                 <TextEquiv>
-                    <Unicode>du nun auch Luſt, recht gut, ftomm und brav zu ſein.</Unicode>
+                    <Unicode>du nun auch Luſt, recht gut, fromm und brav zu ſein.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
                 <Coords points="350,2462 1745,2462 1745,2559 350,2559"/>
                 <TextEquiv>
-                    <Unicode>Glaub es nur, ftomm und gut ſein iſt mehr, als reich</Unicode>
+                    <Unicode>Glaub es nur, fromm und gut ſein iſt mehr, als reich</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -230,7 +230,7 @@
 Von Gott.&#xD;
 und für all das, was du heut an mir thatſt. Wenn dir&#xD;
 das Stück Brot wohl ſchmeckt, ſo denk, es iſt von Gott.&#xD;
-Wenn du die Blum' pflückſt, die ſo ſchön ist und ſo&#xD;
+Wenn du die Blum' pflückſt, die ſo ſchön iſt und ſo&#xD;
 wohl riecht, ſo denk: Gott läßt ſie ſo ſchön blühn. Wenn&#xD;
 man dir Obſt gibt, ſo denk: Gott macht es ſo ſchön&#xD;
 rot und gelb, ſo ſüß und ſo voll Saft. — So oft&#xD;
@@ -247,11 +247,11 @@ Thal, Laub und Gras ſehn kann. Doch noch mehr&#xD;
 freut es mich, daß all das von dir iſt! O Gott, dir&#xD;
 ſei Dank!&#xD;
 9.&#xD;
-Weil Gott so gut iſt, ſo gib auch du, mein Kind,&#xD;
+Weil Gott ſo gut iſt, ſo gib auch du, mein Kind,&#xD;
 dir Müh', ſo gut zu ſein, wie er iſt. Du weißt, Gott&#xD;
 hat nur Luſt an dem, was gut und was recht iſt. Hab&#xD;
-du nun auch Luſt, recht gut, ftomm und brav zu ſein.&#xD;
-Glaub es nur, ftomm und gut ſein iſt mehr, als reich&#xD;
+du nun auch Luſt, recht gut, fromm und brav zu ſein.&#xD;
+Glaub es nur, fromm und gut ſein iſt mehr, als reich&#xD;
 und ſchön ſein. Was Gott ſagt, iſt wahr; er hält</Unicode>
             </TextEquiv>
         </TextRegion>

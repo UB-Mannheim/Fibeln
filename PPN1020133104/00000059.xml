@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -60,209 +60,209 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="75,362 1461,362 1461,439 75,439"/>
                 <TextEquiv>
-                    <Unicode>ger wollten es ihnen wehren. Aber Jesus ſprach</Unicode>
+                    <Unicode>ger woll ten es ih nen weh ren. A ber Je ſus ſprach</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:3;}">
                 <Coords points="76,448 1463,448 1463,526 76,526"/>
                 <TextEquiv>
-                    <Unicode>liebreich und freundlich: „Laſſet die Kleinen zu mir</Unicode>
+                    <Unicode>lieb reich und freund lich: „Laſ ſet die Klei nen zu mir</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="75,536 1458,536 1458,614 75,614"/>
                 <TextEquiv>
-                    <Unicode>kommen und wehret ihnen nicht, denn ihrer iſt das</Unicode>
+                    <Unicode>kom men und weh ret ih nen nicht, denn ih rer iſt das</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
                 <Coords points="75,625 1464,625 1464,700 75,700"/>
                 <TextEquiv>
-                    <Unicode>Himmelreich." Darauf nahm er die Kinder auf</Unicode>
+                    <Unicode>Him mel reich." Dar auf nahm er die Kin der auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="76,711 1459,711 1459,788 76,788"/>
                 <TextEquiv>
-                    <Unicode>ſeinen Schoß und in ſeine Arme, legte ihnen die</Unicode>
+                    <Unicode>ſei nen Schoß und in ſei ne Ar me, leg te ih nen die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="79,799 845,799 845,869 79,869"/>
                 <TextEquiv>
-                    <Unicode>Hände auf, und ſegnete ſie.</Unicode>
+                    <Unicode>Hän de auf, und ſeg ne te ſie.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="213,905 1465,905 1465,976 213,976"/>
                 <TextEquiv>
-                    <Unicode>Einſt ſaß Jeſus bei Tiſche. Da kam der Vater</Unicode>
+                    <Unicode>Einſt ſaß Je ſus bei Ti ſche. Da kam der Va ter</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="77,991 1461,991 1461,1067 77,1067"/>
                 <TextEquiv>
-                    <Unicode>eines kranken Kindes zu ihm, fiel ihm zu Füßen</Unicode>
+                    <Unicode>ei nes kran ken Kin des zu ihm, fiel ihm zu Fü ßen</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="77,1079 1461,1079 1461,1156 77,1156"/>
                 <TextEquiv>
-                    <Unicode>und ſagte: „Meine Tochter liegt in den letzten</Unicode>
+                    <Unicode>und ſag te: „Mei ne Toch ter liegt in den letz ten</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="76,1165 1458,1165 1458,1244 76,1244"/>
                 <TextEquiv>
-                    <Unicode>Zügen; komm' doch, und lege ihr deine Hand auf,</Unicode>
+                    <Unicode>Zü gen; komm' doch, und le ge ihr dei ne Hand auf,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="78,1253 1458,1253 1458,1329 78,1329"/>
                 <TextEquiv>
-                    <Unicode>daß ſie geſund werde und lebe." Jeſus ſtand ſo=</Unicode>
+                    <Unicode>daß ſie ge ſund wer de und le be.“ Je ſus ſtand ſo⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:13;}">
                 <Coords points="79,1340 1460,1340 1460,1415 79,1415"/>
                 <TextEquiv>
-                    <Unicode>gleich auf, und ging mit ihm. Als Jeſus in das</Unicode>
+                    <Unicode>gleich auf, und ging mit ihm. Als Je ſus in das</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="76,1428 1459,1428 1459,1505 76,1505"/>
                 <TextEquiv>
-                    <Unicode>Haus kam, war das Mädchen, das erſt zwölf Jahre</Unicode>
+                    <Unicode>Haus kam, war das Mäd chen, das erſt zwölf Jah re</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
                 <Coords points="77,1516 1462,1516 1462,1589 77,1589"/>
                 <TextEquiv>
-                    <Unicode>alt war, ſchon tot. Vater und Mutter und alle</Unicode>
+                    <Unicode>alt war, ſchon tot. Va ter und Mut ter und al le</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
                 <Coords points="77,1602 1462,1602 1462,1676 77,1676"/>
                 <TextEquiv>
-                    <Unicode>im Hauſe jammerten und weinten. Jeſus aber</Unicode>
+                    <Unicode>im Hau ſe jam mer ten und wein ten. Je ſus a ber</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
                 <Coords points="79,1689 1462,1689 1462,1765 79,1765"/>
                 <TextEquiv>
-                    <Unicode>ſagte liebreich: „Weinet nicht! Das Mägdlein iſt</Unicode>
+                    <Unicode>ſag te lieb reich: „Wei net nicht! Das Mägd lein iſt</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
                 <Coords points="78,1776 1461,1776 1461,1851 78,1851"/>
                 <TextEquiv>
-                    <Unicode>nicht tot! es ſchläft nur." Hierauf nahm es Jeſus</Unicode>
+                    <Unicode>nicht tot! es ſchläft nur.“ Hier auf nahm es Je ſus</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="79,1863 1456,1863 1456,1940 79,1940"/>
                 <TextEquiv>
-                    <Unicode>bei der Hand und ſprach: „Mägdlein! ich ſage dir,</Unicode>
+                    <Unicode>bei der Hand und ſprach: „Mägd lein! ich ſa ge dir,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="78,1951 1461,1951 1461,2026 78,2026"/>
                 <TextEquiv>
-                    <Unicode>ſtehe auf!" Da wurde das tote Kind wieder</Unicode>
+                    <Unicode>ſte he auf!“ Da wur de das to te Kind wie der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="80,2038 1457,2038 1457,2111 80,2111"/>
                 <TextEquiv>
-                    <Unicode>lebendig, und ſtand auf, und die Eltern waren voll</Unicode>
+                    <Unicode>leben dig, und ſtand auf, und die El tern wa ren voll</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="79,2125 846,2125 846,2196 79,2196"/>
                 <TextEquiv>
-                    <Unicode>Erſtaunen und voll Freude.</Unicode>
+                    <Unicode>Er ſtau nen und voll Freu de.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
                 <Coords points="214,2231 1458,2231 1458,2305 214,2305"/>
                 <TextEquiv>
-                    <Unicode>Einmal wollte Jeſus mit ſeinen Jüngern in</Unicode>
+                    <Unicode>Ein mal woll te Je ſus mit ſei nen Jün gern in</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="79,2317 1460,2317 1460,2391 79,2391"/>
                 <TextEquiv>
-                    <Unicode>eine Stadt gehen. Da trug man gerade einen</Unicode>
+                    <Unicode>ei ne Stadt ge hen. Da trug man ge ra de ei nen</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
                 <Coords points="78,2404 1459,2404 1459,2482 78,2482"/>
                 <TextEquiv>
-                    <Unicode>Toten zum Thore hinaus Es war der einzige</Unicode>
+                    <Unicode>To ten zum Tho re hin aus Es war der ein zi ge</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
                 <Coords points="78,2491 1460,2491 1460,2567 78,2567"/>
                 <TextEquiv>
-                    <Unicode>Sohn einer Witwe. Die Mutter und viele Leute</Unicode>
+                    <Unicode>Sohn ei ner Wit we. Die Mut ter und vie le Leu te</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
                 <Coords points="80,2578 1458,2578 1458,2653 80,2653"/>
                 <TextEquiv>
-                    <Unicode>aus der Stadt gingen mit der Leiche. Da Jeſus</Unicode>
+                    <Unicode>aus der Stadt gin gen mit der Lei che. Da Je ſus</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:28;}">
                 <Coords points="76,2664 1458,2664 1458,2742 76,2742"/>
                 <TextEquiv>
-                    <Unicode>die Mutter ſah, hatte er Mitleid mit ihr, und ſagte</Unicode>
+                    <Unicode>die Mut ter ſah, hat te er Mit leid mit ihr, und ſag te</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>Von Jeſus Chriſtus.&#xD;
 19&#xD;
-ger wollten es ihnen wehren. Aber Jesus ſprach&#xD;
-liebreich und freundlich: „Laſſet die Kleinen zu mir&#xD;
-kommen und wehret ihnen nicht, denn ihrer iſt das&#xD;
-Himmelreich." Darauf nahm er die Kinder auf&#xD;
-ſeinen Schoß und in ſeine Arme, legte ihnen die&#xD;
-Hände auf, und ſegnete ſie.&#xD;
-Einſt ſaß Jeſus bei Tiſche. Da kam der Vater&#xD;
-eines kranken Kindes zu ihm, fiel ihm zu Füßen&#xD;
-und ſagte: „Meine Tochter liegt in den letzten&#xD;
-Zügen; komm' doch, und lege ihr deine Hand auf,&#xD;
-daß ſie geſund werde und lebe." Jeſus ſtand ſo=&#xD;
-gleich auf, und ging mit ihm. Als Jeſus in das&#xD;
-Haus kam, war das Mädchen, das erſt zwölf Jahre&#xD;
-alt war, ſchon tot. Vater und Mutter und alle&#xD;
-im Hauſe jammerten und weinten. Jeſus aber&#xD;
-ſagte liebreich: „Weinet nicht! Das Mägdlein iſt&#xD;
-nicht tot! es ſchläft nur." Hierauf nahm es Jeſus&#xD;
-bei der Hand und ſprach: „Mägdlein! ich ſage dir,&#xD;
-ſtehe auf!" Da wurde das tote Kind wieder&#xD;
-lebendig, und ſtand auf, und die Eltern waren voll&#xD;
-Erſtaunen und voll Freude.&#xD;
-Einmal wollte Jeſus mit ſeinen Jüngern in&#xD;
-eine Stadt gehen. Da trug man gerade einen&#xD;
-Toten zum Thore hinaus Es war der einzige&#xD;
-Sohn einer Witwe. Die Mutter und viele Leute&#xD;
-aus der Stadt gingen mit der Leiche. Da Jeſus&#xD;
-die Mutter ſah, hatte er Mitleid mit ihr, und ſagte</Unicode>
+ger woll ten es ih nen weh ren. A ber Je ſus ſprach&#xD;
+lieb reich und freund lich: „Laſ ſet die Klei nen zu mir&#xD;
+kom men und weh ret ih nen nicht, denn ih rer iſt das&#xD;
+Him mel reich." Dar auf nahm er die Kin der auf&#xD;
+ſei nen Schoß und in ſei ne Ar me, leg te ih nen die&#xD;
+Hän de auf, und ſeg ne te ſie.&#xD;
+Einſt ſaß Je ſus bei Ti ſche. Da kam der Va ter&#xD;
+ei nes kran ken Kin des zu ihm, fiel ihm zu Fü ßen&#xD;
+und ſag te: „Mei ne Toch ter liegt in den letz ten&#xD;
+Zü gen; komm' doch, und le ge ihr dei ne Hand auf,&#xD;
+daß ſie ge ſund wer de und le be.“ Je ſus ſtand ſo⸗&#xD;
+gleich auf, und ging mit ihm. Als Je ſus in das&#xD;
+Haus kam, war das Mäd chen, das erſt zwölf Jah re&#xD;
+alt war, ſchon tot. Va ter und Mut ter und al le&#xD;
+im Hau ſe jam mer ten und wein ten. Je ſus a ber&#xD;
+ſag te lieb reich: „Wei net nicht! Das Mägd lein iſt&#xD;
+nicht tot! es ſchläft nur.“ Hier auf nahm es Je ſus&#xD;
+bei der Hand und ſprach: „Mägd lein! ich ſa ge dir,&#xD;
+ſte he auf!“ Da wur de das to te Kind wie der&#xD;
+leben dig, und ſtand auf, und die El tern wa ren voll&#xD;
+Er ſtau nen und voll Freu de.&#xD;
+Ein mal woll te Je ſus mit ſei nen Jün gern in&#xD;
+ei ne Stadt ge hen. Da trug man ge ra de ei nen&#xD;
+To ten zum Tho re hin aus Es war der ein zi ge&#xD;
+Sohn ei ner Wit we. Die Mut ter und vie le Leu te&#xD;
+aus der Stadt gin gen mit der Lei che. Da Je ſus&#xD;
+die Mut ter ſah, hat te er Mit leid mit ihr, und ſag te</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

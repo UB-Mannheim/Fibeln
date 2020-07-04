@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -61,7 +61,7 @@
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="492,415 1810,415 1810,485 492,485"/>
                 <TextEquiv>
-                    <Unicode>Drei kleine Geschwiſter ſaßen beiſammen und redeten</Unicode>
+                    <Unicode>Drei kleine Geſchwiſter ſaßen beiſammen und redeten</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -231,7 +231,7 @@
             <TextEquiv>
                 <Unicode>32&#xD;
 12. Die guten Kinder.&#xD;
-Drei kleine Geschwiſter ſaßen beiſammen und redeten&#xD;
+Drei kleine Geſchwiſter ſaßen beiſammen und redeten&#xD;
 von Vater und Mutter. Der ältere Bruder ſagte:&#xD;
 Geſtern hat mir der Vater ein neues Buch gegeben.&#xD;
 Die Schweſter ſprach: Am Sonntage habe ich von der&#xD;

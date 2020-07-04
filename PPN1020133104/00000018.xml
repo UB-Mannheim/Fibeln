@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -54,42 +54,42 @@
             <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
                 <Coords points="628,304 1501,304 1501,371 628,371"/>
                 <TextEquiv>
-                    <Unicode>Wie viel Stücke ſind ein Schock?</Unicode>
+                    <Unicode>Wie viel Stü cke ſind ein Schock?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="625,391 1466,391 1466,461 625,461"/>
                 <TextEquiv>
-                    <Unicode>Wie viel Hörner hat der Bock?</Unicode>
+                    <Unicode>Wie viel Hör ner hat der Bock?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="621,479 1725,479 1725,550 621,550"/>
                 <TextEquiv>
-                    <Unicode>Zum Dutzend braucht man, ſag wie viel?</Unicode>
+                    <Unicode>Zum Du tzend braucht man, ſag wie viel?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="621,566 1449,566 1449,635 621,635"/>
                 <TextEquiv>
-                    <Unicode>Wie viel Kegel zu dem Spiel?</Unicode>
+                    <Unicode>Wie viel Ke gel zu dem Spiel?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="619,654 1472,654 1472,723 619,723"/>
                 <TextEquiv>
-                    <Unicode>Wie viel Finger hat die Hand?</Unicode>
+                    <Unicode>Wie viel Fin ger hat die Hand?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="618,742 1351,742 1351,808 618,808"/>
                 <TextEquiv>
-                    <Unicode>Iſt dir alles dies bekannt?</Unicode>
+                    <Unicode>Iſt dir al les dies be kannt?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -103,7 +103,7 @@
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="335,1047 1789,1047 1789,1149 335,1149"/>
                 <TextEquiv>
-                    <Unicode>23. Mehrfache An= und Auslaute zugleich.</Unicode>
+                    <Unicode>23. Mehrfache An⸗ und Auslaute zugleich.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
@@ -222,14 +222,14 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>14&#xD;
-Wie viel Stücke ſind ein Schock?&#xD;
-Wie viel Hörner hat der Bock?&#xD;
-Zum Dutzend braucht man, ſag wie viel?&#xD;
-Wie viel Kegel zu dem Spiel?&#xD;
-Wie viel Finger hat die Hand?&#xD;
-Iſt dir alles dies bekannt?&#xD;
+Wie viel Stü cke ſind ein Schock?&#xD;
+Wie viel Hör ner hat der Bock?&#xD;
+Zum Du tzend braucht man, ſag wie viel?&#xD;
+Wie viel Ke gel zu dem Spiel?&#xD;
+Wie viel Fin ger hat die Hand?&#xD;
+Iſt dir al les dies be kannt?&#xD;
 III.&#xD;
-23. Mehrfache An= und Auslaute zugleich.&#xD;
+23. Mehrfache An⸗ und Auslaute zugleich.&#xD;
 Der Krebs zwickt dich, daß es ſchmerzt.&#xD;
 Schmalz, Schmerz, ſchwarz, Schwarm, ſchwimmt,&#xD;
 Schwanz, Schwert, ſchwitzt, ſchwatzt; zwitschert, blind,&#xD;

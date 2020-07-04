@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -60,7 +60,7 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="370,371 1825,371 1825,455 370,455"/>
                 <TextEquiv>
-                    <Unicode>Zimntermamt baut Brücken und Häuſer, der Drechſler</Unicode>
+                    <Unicode>Zimmermann baut Brücken und Häuſer, der Drechſler</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:3;}">
@@ -80,7 +80,7 @@
             <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
                 <Coords points="367,616 1322,616 1322,691 367,691"/>
                 <TextEquiv>
-                    <Unicode>brauchen wir das Holz ztim Kochen.</Unicode>
+                    <Unicode>brauchen wir das Holz zum Kochen.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -255,10 +255,10 @@
             <TextEquiv>
                 <Unicode>36&#xD;
 dem Holze Tiſche, Stühle, Schränke und Bänke; der&#xD;
-Zimntermamt baut Brücken und Häuſer, der Drechſler&#xD;
+Zimmermann baut Brücken und Häuſer, der Drechſler&#xD;
 macht Kegel und Kugeln und der Büttner Fäſſer. Im&#xD;
 Winter heizen wir den Ofen mit Holz. In der Küche&#xD;
-brauchen wir das Holz ztim Kochen.&#xD;
+brauchen wir das Holz zum Kochen.&#xD;
 20. Wie Gustav vom Baume fällt.&#xD;
 Hoch auf dem Wipfel eines Baumes, der nahe am&#xD;
 Wasser ſteht, hat ein Vogel ſein Neſt gebaut. Aus dem&#xD;

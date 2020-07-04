@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -61,205 +61,205 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="74,362 1458,362 1458,441 74,441"/>
                 <TextEquiv>
-                    <Unicode>und froh, und hüpft und ſpringt vor Freude. So</Unicode>
+                    <Unicode>und froh, und hüpft und ſpringt vor Freu de. So</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="73,450 1463,450 1463,530 73,530"/>
                 <TextEquiv>
-                    <Unicode>erwärmt der heilige Geiſt auch euer und unser aller</Unicode>
+                    <Unicode>erwärmt der hei li ge Geiſt auch eu er und un ſer al ler</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="72,538 1460,538 1460,617 72,617"/>
                 <TextEquiv>
-                    <Unicode>Herz, erfüllt es mit Freude, und gibt allem Guten</Unicode>
+                    <Unicode>Herz, erfüllt es mit Freu de, und gibt al lem Gu ten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="73,625 1461,625 1461,704 73,704"/>
                 <TextEquiv>
-                    <Unicode>dar in Wachstum und Gedeihen. Die Luftbelebt.</Unicode>
+                    <Unicode>dar in Wachs tum und Ge dei hen. Die Luft belebt.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="72,712 1461,712 1461,793 72,793"/>
                 <TextEquiv>
-                    <Unicode>Ohne daß wir ſie ſehen, atmen wir ſie jeden Au=</Unicode>
+                    <Unicode>Oh ne daß wir ſie ſe hen, at men wir ſie je den Au⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="74,801 1461,801 1461,879 74,879"/>
                 <TextEquiv>
-                    <Unicode>gen blick ein. Ohne Luft könnten wir gar nicht leben.</Unicode>
+                    <Unicode>gen blick ein. Oh ne Luft könn ten wir gar nicht le ben.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="74,887 1459,887 1459,966 74,966"/>
                 <TextEquiv>
-                    <Unicode>So können wir ohne den heiligen Geiſt, ob wir ihn</Unicode>
+                    <Unicode>So kön nen wir oh ne den hei li gen Geiſt, ob wir ihn</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="73,975 1293,975 1293,1052 73,1052"/>
                 <TextEquiv>
-                    <Unicode>gleich nicht ſehen, nicht gut und weiſe leben.</Unicode>
+                    <Unicode>gleich nicht ſe hen, nicht gut und wei ſe le ben.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="208,1063 1457,1063 1457,1141 208,1141"/>
                 <TextEquiv>
-                    <Unicode>Noch deutlicher ſehet ihr an den Jüngern,</Unicode>
+                    <Unicode>Noch deut li cher ſe het ihr an den Jün gern,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="72,1149 1459,1149 1459,1228 72,1228"/>
                 <TextEquiv>
-                    <Unicode>wozu dem Menſchen der Beiſtand des heiligen</Unicode>
+                    <Unicode>wo zu dem Men ſchen der Bei ſtand des hei li gen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="73,1235 698,1235 698,1306 73,1306"/>
                 <TextEquiv>
-                    <Unicode>Geiſtes notwendig ſei.</Unicode>
+                    <Unicode>Gei ſtes not wen dig ſei.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
                 <Coords points="208,1323 1460,1323 1460,1402 208,1402"/>
                 <TextEquiv>
-                    <Unicode>Bevor er kam, waren die Jünger öfters un=</Unicode>
+                    <Unicode>Be vor er kam, wa ren die Jün ger öf ters un⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="73,1409 1461,1409 1461,1491 73,1491"/>
                 <TextEquiv>
-                    <Unicode>verſtändig, klein mütig und nicht ohne Mangel.</Unicode>
+                    <Unicode>ver ſtän dig, klein mü tig und nicht oh ne Män gel.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
                 <Coords points="71,1497 1459,1497 1459,1578 71,1578"/>
                 <TextEquiv>
-                    <Unicode>Nachdem er gekommen war, ſahen ſie alles hell und</Unicode>
+                    <Unicode>Nach dem er ge kom men war, ſa hen ſie al les hell und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
                 <Coords points="71,1584 1461,1584 1461,1666 71,1666"/>
                 <TextEquiv>
-                    <Unicode>klar ein, was Jeſus ihnen geſagt hatte. Sie fühlten</Unicode>
+                    <Unicode>klar ein, was Je ſus ih nen ge ſagt hat te. Sie fühl ten</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
                 <Coords points="72,1671 1460,1671 1460,1748 72,1748"/>
                 <TextEquiv>
-                    <Unicode>neue Luſt und Kraft zum Guten. Sie waren voll</Unicode>
+                    <Unicode>neu e Luſt und Kraft zum Gu ten. Sie wa ren voll</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
                 <Coords points="71,1757 1459,1757 1459,1835 71,1835"/>
                 <TextEquiv>
-                    <Unicode>Freudigkeit, voll Mutes und Troſtes in allen Lei=</Unicode>
+                    <Unicode>Freu dig keit, voll Mu tes und Tro ſtes in al len Lei⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="71,1843 1458,1843 1458,1928 71,1928"/>
                 <TextEquiv>
-                    <Unicode>den. Ebenſo, wie die Jünger, könnt auch ihr erſt durch</Unicode>
+                    <Unicode>den. E ben ſo, wie die Jün ger, könnt auch ihr erſt durch</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="70,1930 1458,1930 1458,2014 70,2014"/>
                 <TextEquiv>
-                    <Unicode>den heiligen Geiſt recht verſtändige, gute, zufrie=</Unicode>
+                    <Unicode>den hei li gen Geiſt recht ver ſtän di ge, gu te, zu frie⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
                 <Coords points="70,2016 1457,2016 1457,2099 70,2099"/>
                 <TextEquiv>
-                    <Unicode>dene Menſchen werden. Wenn euch daher das Lernen</Unicode>
+                    <Unicode>de ne Men ſchen wer den. Wenn euch da her das Ler nen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="66,2105 1453,2105 1453,2186 66,2186"/>
                 <TextEquiv>
-                    <Unicode>ſchwer wird, wenn euch das Gute hart ankommt,</Unicode>
+                    <Unicode>ſchwer wird, wenn euch das Gu te hart an kommt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
                 <Coords points="67,2192 1452,2192 1452,2276 67,2276"/>
                 <TextEquiv>
-                    <Unicode>wenn ihr traurig ſeid, so bittet nur recht herzlich</Unicode>
+                    <Unicode>wenn ihr trau rig ſeid, ſo bit tet nur recht herz lich</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="67,2279 1402,2279 1402,2362 67,2362"/>
                 <TextEquiv>
-                    <Unicode>um den Beiſtand dieſes guten heiligen Geiſtes.</Unicode>
+                    <Unicode>um den Bei ſtand die ſes gu ten hei li gen Gei ſtes.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
                 <Coords points="195,2488 1450,2488 1450,2574 195,2574"/>
                 <TextEquiv>
-                    <Unicode>Liebe Kinder! Nun habt ihr mehreres gehört</Unicode>
+                    <Unicode>Li ebe Kin der! Nun habt ihr meh re res ge hört</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
                 <Coords points="63,2574 1445,2574 1445,2661 63,2661"/>
                 <TextEquiv>
-                    <Unicode>von unſerm lieben Gott: von dem Vater im Himmel,</Unicode>
+                    <Unicode>von un ſerm lie ben Gott: von dem Va ter im Him mel,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
                 <Coords points="62,2661 1444,2661 1444,2748 62,2748"/>
                 <TextEquiv>
-                    <Unicode>von ſeinem lieben Sohne und von dem heiligen</Unicode>
+                    <Unicode>von ſei nem lie ben Soh ne und von dem hei li gen</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextEquiv>
                 <Unicode>Von dem heiligen Geiſte.&#xD;
 23&#xD;
-und froh, und hüpft und ſpringt vor Freude. So&#xD;
-erwärmt der heilige Geiſt auch euer und unser aller&#xD;
-Herz, erfüllt es mit Freude, und gibt allem Guten&#xD;
-dar in Wachstum und Gedeihen. Die Luftbelebt.&#xD;
-Ohne daß wir ſie ſehen, atmen wir ſie jeden Au=&#xD;
-gen blick ein. Ohne Luft könnten wir gar nicht leben.&#xD;
-So können wir ohne den heiligen Geiſt, ob wir ihn&#xD;
-gleich nicht ſehen, nicht gut und weiſe leben.&#xD;
-Noch deutlicher ſehet ihr an den Jüngern,&#xD;
-wozu dem Menſchen der Beiſtand des heiligen&#xD;
-Geiſtes notwendig ſei.&#xD;
-Bevor er kam, waren die Jünger öfters un=&#xD;
-verſtändig, klein mütig und nicht ohne Mangel.&#xD;
-Nachdem er gekommen war, ſahen ſie alles hell und&#xD;
-klar ein, was Jeſus ihnen geſagt hatte. Sie fühlten&#xD;
-neue Luſt und Kraft zum Guten. Sie waren voll&#xD;
-Freudigkeit, voll Mutes und Troſtes in allen Lei=&#xD;
-den. Ebenſo, wie die Jünger, könnt auch ihr erſt durch&#xD;
-den heiligen Geiſt recht verſtändige, gute, zufrie=&#xD;
-dene Menſchen werden. Wenn euch daher das Lernen&#xD;
-ſchwer wird, wenn euch das Gute hart ankommt,&#xD;
-wenn ihr traurig ſeid, so bittet nur recht herzlich&#xD;
-um den Beiſtand dieſes guten heiligen Geiſtes.&#xD;
-Liebe Kinder! Nun habt ihr mehreres gehört&#xD;
-von unſerm lieben Gott: von dem Vater im Himmel,&#xD;
-von ſeinem lieben Sohne und von dem heiligen</Unicode>
+und froh, und hüpft und ſpringt vor Freu de. So&#xD;
+erwärmt der hei li ge Geiſt auch eu er und un ſer al ler&#xD;
+Herz, erfüllt es mit Freu de, und gibt al lem Gu ten&#xD;
+dar in Wachs tum und Ge dei hen. Die Luft belebt.&#xD;
+Oh ne daß wir ſie ſe hen, at men wir ſie je den Au⸗&#xD;
+gen blick ein. Oh ne Luft könn ten wir gar nicht le ben.&#xD;
+So kön nen wir oh ne den hei li gen Geiſt, ob wir ihn&#xD;
+gleich nicht ſe hen, nicht gut und wei ſe le ben.&#xD;
+Noch deut li cher ſe het ihr an den Jün gern,&#xD;
+wo zu dem Men ſchen der Bei ſtand des hei li gen&#xD;
+Gei ſtes not wen dig ſei.&#xD;
+Be vor er kam, wa ren die Jün ger öf ters un⸗&#xD;
+ver ſtän dig, klein mü tig und nicht oh ne Män gel.&#xD;
+Nach dem er ge kom men war, ſa hen ſie al les hell und&#xD;
+klar ein, was Je ſus ih nen ge ſagt hat te. Sie fühl ten&#xD;
+neu e Luſt und Kraft zum Gu ten. Sie wa ren voll&#xD;
+Freu dig keit, voll Mu tes und Tro ſtes in al len Lei⸗&#xD;
+den. E ben ſo, wie die Jün ger, könnt auch ihr erſt durch&#xD;
+den hei li gen Geiſt recht ver ſtän di ge, gu te, zu frie⸗&#xD;
+de ne Men ſchen wer den. Wenn euch da her das Ler nen&#xD;
+ſchwer wird, wenn euch das Gu te hart an kommt,&#xD;
+wenn ihr trau rig ſeid, ſo bit tet nur recht herz lich&#xD;
+um den Bei ſtand die ſes gu ten hei li gen Gei ſtes.&#xD;
+Li ebe Kin der! Nun habt ihr meh re res ge hört&#xD;
+von un ſerm lie ben Gott: von dem Va ter im Him mel,&#xD;
+von ſei nem lie ben Soh ne und von dem hei li gen</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

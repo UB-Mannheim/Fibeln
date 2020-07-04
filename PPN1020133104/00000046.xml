@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -164,13 +164,13 @@
             <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
                 <Coords points="373,1843 1762,1843 1762,1921 373,1921"/>
                 <TextEquiv>
-                    <Unicode>in der Welt ſoll dir ſo lieb sein, als Gott. Freu dich</Unicode>
+                    <Unicode>in der Welt ſoll dir ſo lieb ſein, als Gott. Freu dich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="371,1930 1762,1930 1762,2007 371,2007"/>
                 <TextEquiv>
-                    <Unicode>recht ſehr, daß ein Gott iſt, und daß er so gut iſt. Sei</Unicode>
+                    <Unicode>recht ſehr, daß ein Gott iſt, und daß er ſo gut iſt. Sei</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -247,8 +247,8 @@ Wald, wie die Blum' auf dem Feld.&#xD;
 6.&#xD;
 Mein Kind! du weißt jetzt ſchon viel von Gott.&#xD;
 Hab Gott recht lieb, ſo lieb, als du nur kannſt. Nichts&#xD;
-in der Welt ſoll dir ſo lieb sein, als Gott. Freu dich&#xD;
-recht ſehr, daß ein Gott iſt, und daß er so gut iſt. Sei&#xD;
+in der Welt ſoll dir ſo lieb ſein, als Gott. Freu dich&#xD;
+recht ſehr, daß ein Gott iſt, und daß er ſo gut iſt. Sei&#xD;
 recht froh, daß Gott so gut iſt, und es ſo wohl mit&#xD;
 dir meint. Denk oft: o Gott, das, was du uns gibſt,&#xD;
 ist ſchon ſo gut; wie gut mußt du erſt selbſt ſein! —&#xD;

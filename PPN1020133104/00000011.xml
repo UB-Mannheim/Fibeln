@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -53,41 +53,41 @@
             <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:1;}">
                 <Coords points="192,289 1529,289 1529,368 192,368"/>
                 <TextEquiv>
-                    <Unicode>Die Kette iſt von Eiſen. Gott gab mir</Unicode>
+                    <Unicode>Die Ket te iſt von Ei ſen. Gott gab mir</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="81,386 1532,386 1532,459 81,459"/>
                 <TextEquiv>
-                    <Unicode>Vater und Mutter. Butter, Futter, Vetter,</Unicode>
+                    <Unicode>Va ter und Mut ter. But ter, Fut ter, Vet ter,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="82,478 1532,478 1532,556 82,556"/>
                 <TextEquiv>
-                    <Unicode>Wetter, Ritter, bitter, Otter, Dotter, Bett,</Unicode>
+                    <Unicode>Wet ter, Rit ter, bit ter, Ot ter, Dot ter, Bett,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="82,576 615,576 615,652 82,652"/>
                 <TextEquiv>
-                    <Unicode>fett, matt, Ratte.</Unicode>
+                    <Unicode>fett, matt, Rat te.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:5;}">
                 <Coords points="507,673 1138,673 1138,738 507,738"/>
                 <TextEquiv>
-                    <Unicode>Puppe, Puppe, Puppe,</Unicode>
+                    <Unicode>Pup pe, Pup pe, Pup pe,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="506,753 1088,753 1088,820 506,820"/>
                 <TextEquiv>
-                    <Unicode>hier iſt deine Suppe!</Unicode>
+                    <Unicode>hier iſt dei ne Sup pe!</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
             </TextLine>
@@ -100,48 +100,48 @@
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="91,1021 1539,1021 1539,1103 91,1103"/>
                 <TextEquiv>
-                    <Unicode>Im Keller liegen Fäſſer. Darin iſt Wein,</Unicode>
+                    <Unicode>Im Kel ler lie gen Fäſ ſer. Da rin iſt Wein,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="387,1115 1245,1115 1245,1195 387,1195"/>
                 <TextEquiv>
-                    <Unicode>Bier, Eſſig oder Waſſer.</Unicode>
+                    <Unicode>Bier, Eſ ſig oder Waſ ſer.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="213,1233 1543,1233 1543,1315 213,1315"/>
                 <TextEquiv>
-                    <Unicode>Fäſſer, Faß; Bäſſe, Baß; Päſſe, Paß;</Unicode>
+                    <Unicode>Fäſ ſer, Faß; Bäſ ſe, Baß; Päſ ſe, Paß;</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="95,1323 1545,1323 1545,1405 95,1405"/>
                 <TextEquiv>
-                    <Unicode>laſſen, laß; faſſen, faß; Nüſſe, Nuß; Taſſe,</Unicode>
+                    <Unicode>laſ ſen, laß; faſ ſen, faß; Nüſ ſe, Nuß; Taſ ſe,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="97,1417 1545,1417 1545,1499 97,1499"/>
                 <TextEquiv>
-                    <Unicode>Kaſſe, Gaſſe, Waſſer, Meſſer, Kiſſen, küſſen,</Unicode>
+                    <Unicode>Kaſ ſe, Gaſ ſe, Waſ ſer, Meſ ſer, Kiſ ſen, küſ ſen,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:13;}">
                 <Coords points="97,1511 989,1511 989,1591 97,1591"/>
                 <TextEquiv>
-                    <Unicode>eſſen, iß, Guß, Kuß, Schuß.</Unicode>
+                    <Unicode>eſ ſen, iß, Guß, Kuß, Schuß.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="404,1611 1238,1611 1238,1677 404,1677"/>
                 <TextEquiv>
-                    <Unicode>Welches Faß hat keinen Reif?</Unicode>
+                    <Unicode>Wel ches Faß hat kei nen Reif?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
             </TextLine>
@@ -155,54 +155,54 @@
             <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:16;}">
                 <Coords points="101,1865 1551,1865 1551,1951 101,1951"/>
                 <TextEquiv>
-                    <Unicode>Die Katze hat vier Füße. Dieſe heißen</Unicode>
+                    <Unicode>Die Ka tze hat vier Fü ße. Die ſe hei ßen</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
             </TextLine>
             <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:17;}">
                 <Coords points="631,1959 1037,1959 1037,2037 631,2037"/>
                 <TextEquiv>
-                    <Unicode>auch Tatzen.</Unicode>
+                    <Unicode>auch Ta tzen.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="16.0"/>
             </TextLine>
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:18;}">
                 <Coords points="223,2075 1555,2075 1555,2157 223,2157"/>
                 <TextEquiv>
-                    <Unicode>Sitz, Satz, Netz, Hitze, Mütze, ſitzen, netzen,</Unicode>
+                    <Unicode>Sitz, Satz, Netz, Hi tze, Mü tze, ſi tzen, ne tzen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="105,2169 1555,2169 1555,2253 105,2253"/>
                 <TextEquiv>
-                    <Unicode>wetzen, putzen; ſüß, heiß, weiß, gießen, ſchießen,</Unicode>
+                    <Unicode>we tzen, pu tzen; ſüß, heiß, weiß, gie ßen, ſchie ßen,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="111,2261 543,2261 543,2337 111,2337"/>
                 <TextEquiv>
-                    <Unicode>büßen, fleißig.</Unicode>
+                    <Unicode>bü ßen, flei ßig.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="386,2389 1183,2389 1183,2456 386,2456"/>
                 <TextEquiv>
-                    <Unicode>Welche Katze hat kein Maul?</Unicode>
+                    <Unicode>Wel che Ka tze hat kein Maul?</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="385,2476 1263,2476 1263,2543 385,2543"/>
                 <TextEquiv>
-                    <Unicode>Welches Futter mag kein Gaul?</Unicode>
+                    <Unicode>Wel ches Fut ter mag kein Gaul?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:23;}">
                 <Coords points="383,2563 1235,2563 1235,2632 383,2632"/>
                 <TextEquiv>
-                    <Unicode>Welcher Mann hat kein Gehör,</Unicode>
+                    <Unicode>Wel cher Mann hat kein Ge hör,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1587978506572_2951" custom="readingOrder {index:24;}">
@@ -213,29 +213,29 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>7&#xD;
-Die Kette iſt von Eiſen. Gott gab mir&#xD;
-Vater und Mutter. Butter, Futter, Vetter,&#xD;
-Wetter, Ritter, bitter, Otter, Dotter, Bett,&#xD;
-fett, matt, Ratte.&#xD;
-Puppe, Puppe, Puppe,&#xD;
-hier iſt deine Suppe!&#xD;
+Die Ket te iſt von Ei ſen. Gott gab mir&#xD;
+Va ter und Mut ter. But ter, Fut ter, Vet ter,&#xD;
+Wet ter, Rit ter, bit ter, Ot ter, Dot ter, Bett,&#xD;
+fett, matt, Rat te.&#xD;
+Pup pe, Pup pe, Pup pe,&#xD;
+hier iſt dei ne Sup pe!&#xD;
 11. ſſ ß.&#xD;
-Im Keller liegen Fäſſer. Darin iſt Wein,&#xD;
-Bier, Eſſig oder Waſſer.&#xD;
-Fäſſer, Faß; Bäſſe, Baß; Päſſe, Paß;&#xD;
-laſſen, laß; faſſen, faß; Nüſſe, Nuß; Taſſe,&#xD;
-Kaſſe, Gaſſe, Waſſer, Meſſer, Kiſſen, küſſen,&#xD;
-eſſen, iß, Guß, Kuß, Schuß.&#xD;
-Welches Faß hat keinen Reif?&#xD;
+Im Kel ler lie gen Fäſ ſer. Da rin iſt Wein,&#xD;
+Bier, Eſ ſig oder Waſ ſer.&#xD;
+Fäſ ſer, Faß; Bäſ ſe, Baß; Päſ ſe, Paß;&#xD;
+laſ ſen, laß; faſ ſen, faß; Nüſ ſe, Nuß; Taſ ſe,&#xD;
+Kaſ ſe, Gaſ ſe, Waſ ſer, Meſ ſer, Kiſ ſen, küſ ſen,&#xD;
+eſ ſen, iß, Guß, Kuß, Schuß.&#xD;
+Wel ches Faß hat kei nen Reif?&#xD;
 12. tz, ß.&#xD;
-Die Katze hat vier Füße. Dieſe heißen&#xD;
-auch Tatzen.&#xD;
-Sitz, Satz, Netz, Hitze, Mütze, ſitzen, netzen,&#xD;
-wetzen, putzen; ſüß, heiß, weiß, gießen, ſchießen,&#xD;
-büßen, fleißig.&#xD;
-Welche Katze hat kein Maul?&#xD;
-Welches Futter mag kein Gaul?&#xD;
-Welcher Mann hat kein Gehör,&#xD;
+Die Ka tze hat vier Fü ße. Die ſe hei ßen&#xD;
+auch Ta tzen.&#xD;
+Sitz, Satz, Netz, Hi tze, Mü tze, ſi tzen, ne tzen,&#xD;
+we tzen, pu tzen; ſüß, heiß, weiß, gie ßen, ſchie ßen,&#xD;
+bü ßen, flei ßig.&#xD;
+Wel che Ka tze hat kein Maul?&#xD;
+Wel ches Fut ter mag kein Gaul?&#xD;
+Wel cher Mann hat kein Ge hör,&#xD;
 wel cher Schü tze kein Ge wehr?
 </Unicode>
             </TextEquiv>

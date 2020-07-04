@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -94,7 +94,7 @@
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="204,903 1307,903 1307,975 204,975"/>
                 <TextEquiv>
-                    <Unicode>ſieht man ſie gehn, hört man ſie schlagen,</Unicode>
+                    <Unicode>ſieht man ſie gehn, hört man ſie ſchlagen,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.0"/>
             </TextLine>
@@ -220,7 +220,7 @@ Spindeln, ſchöne Spinnerädchen&#xD;
 für die lieben muntern Mädchen.&#xD;
 10. Die Uhr.&#xD;
 Die Uhr ſeht an! So lang' ſie kann,&#xD;
-ſieht man ſie gehn, hört man ſie schlagen,&#xD;
+ſieht man ſie gehn, hört man ſie ſchlagen,&#xD;
 nicht bleibt ſie ſtehn, ſich zu beklagen&#xD;
 der Arbeit wegen, wie Faule pflegen;&#xD;
 drum an die Uhr denkt, Faule, nur!&#xD;
