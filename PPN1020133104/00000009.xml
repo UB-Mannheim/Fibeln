@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -60,72 +60,72 @@
             <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="175,418 1506,418 1506,513 175,513"/>
                 <TextEquiv>
-                    <Unicode>Gewehr, Lehrer, lehren, wehren, zehren,</Unicode>
+                    <Unicode>Ge wehr, Leh rer, leh ren, weh ren, zeh ren,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="59,511 1507,511 1507,607 59,607"/>
                 <TextEquiv>
-                    <Unicode>bekehren, ſehr, mehr, zehn; ihn, ihm, ihr, ihre,</Unicode>
+                    <Unicode>be keh ren, ſehr, mehr, zehn; ihn, ihm, ihr, ih re,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="57,605 1507,605 1507,700 57,700"/>
                 <TextEquiv>
-                    <Unicode>ihnen; Vieh, ziehen, ſehen, ſieh, leihen, geliehen,</Unicode>
+                    <Unicode>ih nen; Vieh, zieh en, ſeh en, ſieh, leih en, ge lieh en,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="59,699 660,699 660,783 59,783"/>
                 <TextEquiv>
-                    <Unicode>verzeihen, verziehen.</Unicode>
+                    <Unicode>ver zeih en, ver zieh en.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="179,799 1505,799 1505,894 179,894"/>
                 <TextEquiv>
-                    <Unicode>Zähle bis zehn! Sieh, wie das Vieh zieht!</Unicode>
+                    <Unicode>Zäh le bis zehn! Sieh, wie das Vieh zieht!</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="58,890 1504,890 1504,986 58,986"/>
                 <TextEquiv>
-                    <Unicode>Der Lehrer will dem Schüler die Fehler ab=</Unicode>
+                    <Unicode>Der Leh rer will dem Schü ler die Feh ler ab⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:8;}">
                 <Coords points="59,986 353,986 353,1066 59,1066"/>
                 <TextEquiv>
-                    <Unicode>gewöhnen.</Unicode>
+                    <Unicode>ge wöh nen.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="176,1086 1505,1086 1505,1180 176,1180"/>
                 <TextEquiv>
-                    <Unicode>Zehe, zähe; Zähne, zehne; Zähren, zehren;</Unicode>
+                    <Unicode>Zeh e, zäh e; Zäh ne, zeh ne; Zäh ren, zeh ren;</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:10;}">
                 <Coords points="57,1178 1504,1178 1504,1274 57,1274"/>
                 <TextEquiv>
-                    <Unicode>währen, wehren; verheeren, verhören; Lehne,</Unicode>
+                    <Unicode>wäh ren, weh ren; ver hee ren, ver hö ren; Leh ne,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="61,1269 1503,1269 1503,1369 61,1369"/>
                 <TextEquiv>
-                    <Unicode>Löhne; Sehne, Söhne; Heer, hören, hären;</Unicode>
+                    <Unicode>Löh ne; Seh ne, Söh ne; Heer, hö ren, hä ren;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="59,1364 841,1364 841,1448 59,1448"/>
                 <TextEquiv>
-                    <Unicode>Beeren, Bären, empören.</Unicode>
+                    <Unicode>Bee ren, Bä ren, em pö ren.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -139,31 +139,31 @@
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="56,1620 1498,1620 1498,1718 56,1718"/>
                 <TextEquiv>
-                    <Unicode>Das Haus hat eine Thüre oder ein Thor.</Unicode>
+                    <Unicode>Das Haus hat eine Thü re oder ein Thor.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:15;}">
                 <Coords points="174,1721 1500,1721 1500,1815 174,1815"/>
                 <TextEquiv>
-                    <Unicode>Thee, Thal, Thaler, Thomas, Theodor,</Unicode>
+                    <Unicode>Thee, Thal, Tha ler, Tho mas, The o dor,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:16;}">
                 <Coords points="53,1813 1499,1813 1499,1908 53,1908"/>
                 <TextEquiv>
-                    <Unicode>Thon, Theater, Katheder, Apotheke, thun, That.</Unicode>
+                    <Unicode>Thon, The a ter, Ka the der, A po the ke, thun, That.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:17;}">
                 <Coords points="173,1908 1499,1908 1499,2004 173,2004"/>
                 <TextEquiv>
-                    <Unicode>Thüre, Tier; Ahle, Aal; Moor, Mohr;</Unicode>
+                    <Unicode>Thü re, Tier; Ah le, Aal; Moor, Mohr;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:18;}">
                 <Coords points="56,1998 885,1998 885,2087 56,2087"/>
                 <TextEquiv>
-                    <Unicode>Meer, mehr; leeren, lehren.</Unicode>
+                    <Unicode>Meer, mehr; lee ren, leh ren.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -176,75 +176,75 @@
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="573,2236 985,2236 985,2297 573,2297"/>
                 <TextEquiv>
-                    <Unicode>Rate einmal!</Unicode>
+                    <Unicode>Ra te ein mal!</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="324,2322 1141,2322 1141,2396 324,2396"/>
                 <TextEquiv>
-                    <Unicode>Welche Uhr hat keine Räder?</Unicode>
+                    <Unicode>Wel che Uhr hat kei ne Rä der?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="11.0" bold="true"/>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="326,2392 1293,2392 1293,2469 326,2469"/>
                 <TextEquiv>
-                    <Unicode>Welcher Schuh iſt nicht von Leder?</Unicode>
+                    <Unicode>Wel cher Schuh iſt nicht von Le der?</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:23;}">
                 <Coords points="327,2462 1240,2462 1240,2541 327,2541"/>
                 <TextEquiv>
-                    <Unicode>Welches Häuschen hat kein Dach?</Unicode>
+                    <Unicode>Wel ches Häus chen hat kein Dach?</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="324,2532 1102,2532 1102,2608 324,2608"/>
                 <TextEquiv>
-                    <Unicode>Welche Mühle keinen Bach?</Unicode>
+                    <Unicode>Wel che Müh le kei nen Bach?</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="11.0" bold="true"/>
             </TextLine>
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:25;}">
                 <Coords points="325,2603 1174,2603 1174,2680 325,2680"/>
                 <TextEquiv>
-                    <Unicode>Welche Kuh hat gar kein Horn,</Unicode>
+                    <Unicode>Wel che Kuh hat gar kein Horn,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:26;}">
                 <Coords points="323,2673 1040,2673 1040,2742 323,2742"/>
                 <TextEquiv>
-                    <Unicode>welche Roſe keinen Dorn?</Unicode>
+                    <Unicode>wel che Ro ſe kei nen Dorn?</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>5&#xD;
 6. eh, ih, ieh.&#xD;
-Gewehr, Lehrer, lehren, wehren, zehren,&#xD;
-bekehren, ſehr, mehr, zehn; ihn, ihm, ihr, ihre,&#xD;
-ihnen; Vieh, ziehen, ſehen, ſieh, leihen, geliehen,&#xD;
-verzeihen, verziehen.&#xD;
-Zähle bis zehn! Sieh, wie das Vieh zieht!&#xD;
-Der Lehrer will dem Schüler die Fehler ab=&#xD;
-gewöhnen.&#xD;
-Zehe, zähe; Zähne, zehne; Zähren, zehren;&#xD;
-währen, wehren; verheeren, verhören; Lehne,&#xD;
-Löhne; Sehne, Söhne; Heer, hören, hären;&#xD;
-Beeren, Bären, empören.&#xD;
+Ge wehr, Leh rer, leh ren, weh ren, zeh ren,&#xD;
+be keh ren, ſehr, mehr, zehn; ihn, ihm, ihr, ih re,&#xD;
+ih nen; Vieh, zieh en, ſeh en, ſieh, leih en, ge lieh en,&#xD;
+ver zeih en, ver zieh en.&#xD;
+Zäh le bis zehn! Sieh, wie das Vieh zieht!&#xD;
+Der Leh rer will dem Schü ler die Feh ler ab⸗&#xD;
+ge wöh nen.&#xD;
+Zeh e, zäh e; Zäh ne, zeh ne; Zäh ren, zeh ren;&#xD;
+wäh ren, weh ren; ver hee ren, ver hö ren; Leh ne,&#xD;
+Löh ne; Seh ne, Söh ne; Heer, hö ren, hä ren;&#xD;
+Bee ren, Bä ren, em pö ren.&#xD;
 7. th.&#xD;
-Das Haus hat eine Thüre oder ein Thor.&#xD;
-Thee, Thal, Thaler, Thomas, Theodor,&#xD;
-Thon, Theater, Katheder, Apotheke, thun, That.&#xD;
-Thüre, Tier; Ahle, Aal; Moor, Mohr;&#xD;
-Meer, mehr; leeren, lehren.&#xD;
+Das Haus hat eine Thü re oder ein Thor.&#xD;
+Thee, Thal, Tha ler, Tho mas, The o dor,&#xD;
+Thon, The a ter, Ka the der, A po the ke, thun, That.&#xD;
+Thü re, Tier; Ah le, Aal; Moor, Mohr;&#xD;
+Meer, mehr; lee ren, leh ren.&#xD;
 Saht ihr die Saat?&#xD;
-Rate einmal!&#xD;
-Welche Uhr hat keine Räder?&#xD;
-Welcher Schuh iſt nicht von Leder?&#xD;
+Ra te ein mal!&#xD;
+Wel che Uhr hat kei ne Rä der?&#xD;
+Wel cher Schuh iſt nicht von Le der?&#xD;
 Welches Häuschen hat kein Dach?&#xD;
-Welche Mühle keinen Bach?&#xD;
-Welche Kuh hat gar kein Horn,&#xD;
-welche Roſe keinen Dorn?</Unicode>
+Wel che Müh le kei nen Bach?&#xD;
+Wel che Kuh hat gar kein Horn,&#xD;
+wel che Ro ſe kei nen Dorn?</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

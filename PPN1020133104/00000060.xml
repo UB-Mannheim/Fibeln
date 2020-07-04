@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -60,192 +60,192 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="376,354 1772,354 1772,428 376,428"/>
                 <TextEquiv>
-                    <Unicode>freundlich; „Weine nicht!" Dann befahl er den</Unicode>
+                    <Unicode>freund lich; „Wei ne nicht!“ Dann be fahl er den</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="377,441 1771,441 1771,517 377,517"/>
                 <TextEquiv>
-                    <Unicode>Trägern, ſtill zu ſtehen. Sie ließen die Bahre</Unicode>
+                    <Unicode>Trä gern, ſtill zu ſte hen. Sie lie ßen die Bah re</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="379,530 1770,530 1770,604 379,604"/>
                 <TextEquiv>
-                    <Unicode>nieder. Alle ſahen den Toten in dem offenen</Unicode>
+                    <Unicode>nie der. Al le ſa hen den To ten in dem of fe nen</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="380,617 1769,617 1769,692 380,692"/>
                 <TextEquiv>
-                    <Unicode>Sarge liegen. Jeſus aber ſprach: „Jüngling! ich</Unicode>
+                    <Unicode>Sar ge lie gen. Je ſus a ber ſprach: „Jüng ling! ich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="379,705 1768,705 1768,778 379,778"/>
                 <TextEquiv>
-                    <Unicode>ſage dir, ſtehe auf!" Und der Tote ſtand auf, und</Unicode>
+                    <Unicode>ſa ge dir, ſte he auf!“ Und der To te ſtand auf, und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="375,792 1376,792 1376,862 375,862"/>
                 <TextEquiv>
-                    <Unicode>Jeſus führte ihn zu ſeiner Mutter.</Unicode>
+                    <Unicode>Je ſus führ te ihn zu ſei ner Mut ter.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="521,1005 1770,1005 1770,1077 521,1077"/>
                 <TextEquiv>
-                    <Unicode>Aus allem, was Jeſus gethan und gelehrt</Unicode>
+                    <Unicode>Aus al lem, was Je ſus ge than und ge lehrt</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="381,1091 1770,1091 1770,1164 381,1164"/>
                 <TextEquiv>
-                    <Unicode>hat, erkennen wir seine Allmacht und ſeine große</Unicode>
+                    <Unicode>hat, er kennen wir ſeine All macht und ſei ne gro ße</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="378,1179 1770,1179 1770,1249 378,1249"/>
                 <TextEquiv>
-                    <Unicode>Liebe. Noch eher ſehen wir dieſe ſeine Liebe aus</Unicode>
+                    <Unicode>Lie be. Noch eh er ſe hen wir die ſe ſei ne Lie be aus</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="377,1266 1380,1266 1380,1337 377,1337"/>
                 <TextEquiv>
-                    <Unicode>allem, was er für uns gelitten hat.</Unicode>
+                    <Unicode>al lem, was er für uns ge lit ten hat.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="521,1365 1769,1365 1769,1436 521,1436"/>
                 <TextEquiv>
-                    <Unicode>Auch euch Kindern zu lieb litt Jeſus. Am</Unicode>
+                    <Unicode>Auch euch Kin dern zu lieb litt Je ſus. Am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
                 <Coords points="379,1443 1770,1443 1770,1527 379,1527"/>
                 <TextEquiv>
-                    <Unicode>Ölberge ſtand er eine solche Angſt aus, daß ihm</Unicode>
+                    <Unicode>Öl ber ge ſtand er ei ne ſol che Angſt aus, daß ihm</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="line_1588626178646_5431" custom="readingOrder {index:14;}">
                 <Coords points="367,1536 1773,1536 1773,1616 367,1616"/>
                 <TextEquiv>
-                    <Unicode>blutiger Schweiß ausbrach. Man geißelte ihn bis</Unicode>
+                    <Unicode>blu ti ger Schweiß aus brach. Man gei ßel te ihn bis</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626190105_5434" custom="readingOrder {index:15;}">
                 <Coords points="369,1624 1779,1624 1779,1706 369,1706"/>
                 <TextEquiv>
-                    <Unicode>aufs Blut, und drückte eine Krone von Dornen auf</Unicode>
+                    <Unicode>aufs Blut, und drück te ei ne Kro ne von Dor nen auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626200765_5437" custom="readingOrder {index:16;}">
                 <Coords points="369,1713 1777,1713 1777,1794 369,1794"/>
                 <TextEquiv>
-                    <Unicode>ſein Haupt. Er litt es geduldig, daß man ihn an</Unicode>
+                    <Unicode>ſein Haupt. Er litt es ge dul dig, daß man ihn an</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626210824_5440" custom="readingOrder {index:17;}">
                 <Coords points="367,1801 1777,1801 1777,1878 367,1878"/>
                 <TextEquiv>
-                    <Unicode>das Kreuz nagelte; er ſtarb am Kreuze aus Liebe</Unicode>
+                    <Unicode>das Kreuz na gel te; er ſtarb am Kreu ze aus Lie be</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626223395_5443" custom="readingOrder {index:18;}">
                 <Coords points="372,1889 1773,1889 1773,1969 372,1969"/>
                 <TextEquiv>
-                    <Unicode>zu euch; um euch und alle Menſchen von den Sün=</Unicode>
+                    <Unicode>zu euch; um euch und al le Men ſchen von den Sün⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626232285_5446" custom="readingOrder {index:19;}">
                 <Coords points="367,1975 1777,1975 1777,2055 367,2055"/>
                 <TextEquiv>
-                    <Unicode>den zu erlöſen, und uns alle heilig und ſelig zu</Unicode>
+                    <Unicode>den zu er lö ſen, und uns al le hei lig und ſe lig zu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626255226_5449" custom="readingOrder {index:20;}">
                 <Coords points="365,2062 1777,2062 1777,2144 365,2144"/>
                 <TextEquiv>
-                    <Unicode>machen. Ihr werdet künftig die Geſchichte davon</Unicode>
+                    <Unicode>ma chen. Ihr wer det künf tig die Ge ſchich te da von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626268864_5452" custom="readingOrder {index:21;}">
                 <Coords points="367,2150 1775,2150 1775,2230 367,2230"/>
                 <TextEquiv>
-                    <Unicode>ausführlicher hören. Doch werdet ihr auch jetzt</Unicode>
+                    <Unicode>aus führ li cher hö ren. Doch wer det ihr auch jetzt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626280374_5455" custom="readingOrder {index:22;}">
                 <Coords points="369,2234 1777,2234 1777,2320 369,2320"/>
                 <TextEquiv>
-                    <Unicode>ſchon einſehen, daß ihr an Jeſus den liebevollſten</Unicode>
+                    <Unicode>ſchon ein ſe hen, daß ihr an Je ſus den lie be voll ſten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1588626290714_5458" custom="readingOrder {index:23;}">
                 <Coords points="365,2322 1036,2322 1036,2400 365,2400"/>
                 <TextEquiv>
-                    <Unicode>und beſten Freund habt.</Unicode>
+                    <Unicode>und be ſten Freund habt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="522,2426 1770,2426 1770,2498 522,2498"/>
                 <TextEquiv>
-                    <Unicode>Liebet ihn, der euch geliebt hat bis in den</Unicode>
+                    <Unicode>Lie bet ihn, der euch ge liebt hat bis in den</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
                 <Coords points="381,2514 1770,2514 1770,2587 381,2587"/>
                 <TextEquiv>
-                    <Unicode>Tod; lebet nur ihm, und ſetzet auf ihn euer ganzes</Unicode>
+                    <Unicode>Tod; le bet nur ihm, und ſe tzet auf ihn eu er gan zes</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
                 <Coords points="381,2605 690,2605 690,2658 381,2658"/>
                 <TextEquiv>
-                    <Unicode>Vertrauen.</Unicode>
+                    <Unicode>Ver trau en.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextEquiv>
                 <Unicode>20&#xD;
 Von Jeſus Chriſtus.&#xD;
-freundlich; „Weine nicht!" Dann befahl er den&#xD;
-Trägern, ſtill zu ſtehen. Sie ließen die Bahre&#xD;
-nieder. Alle ſahen den Toten in dem offenen&#xD;
-Sarge liegen. Jeſus aber ſprach: „Jüngling! ich&#xD;
-ſage dir, ſtehe auf!" Und der Tote ſtand auf, und&#xD;
-Jeſus führte ihn zu ſeiner Mutter.&#xD;
-Aus allem, was Jeſus gethan und gelehrt&#xD;
-hat, erkennen wir seine Allmacht und ſeine große&#xD;
-Liebe. Noch eher ſehen wir dieſe ſeine Liebe aus&#xD;
-allem, was er für uns gelitten hat.&#xD;
-Auch euch Kindern zu lieb litt Jeſus. Am&#xD;
-Ölberge ſtand er eine solche Angſt aus, daß ihm&#xD;
-blutiger Schweiß ausbrach. Man geißelte ihn bis&#xD;
-aufs Blut, und drückte eine Krone von Dornen auf&#xD;
-ſein Haupt. Er litt es geduldig, daß man ihn an&#xD;
-das Kreuz nagelte; er ſtarb am Kreuze aus Liebe&#xD;
-zu euch; um euch und alle Menſchen von den Sün=&#xD;
-den zu erlöſen, und uns alle heilig und ſelig zu&#xD;
-machen. Ihr werdet künftig die Geſchichte davon&#xD;
-ausführlicher hören. Doch werdet ihr auch jetzt&#xD;
-ſchon einſehen, daß ihr an Jeſus den liebevollſten&#xD;
-und beſten Freund habt.&#xD;
-Liebet ihn, der euch geliebt hat bis in den&#xD;
-Tod; lebet nur ihm, und ſetzet auf ihn euer ganzes&#xD;
-Vertrauen.</Unicode>
+freund lich; „Wei ne nicht!“ Dann be fahl er den&#xD;
+Trä gern, ſtill zu ſte hen. Sie lie ßen die Bah re&#xD;
+nie der. Al le ſa hen den To ten in dem of fe nen&#xD;
+Sar ge lie gen. Je ſus a ber ſprach: „Jüng ling! ich&#xD;
+ſa ge dir, ſte he auf!“ Und der To te ſtand auf, und&#xD;
+Je ſus führ te ihn zu ſei ner Mut ter.&#xD;
+Aus al lem, was Je ſus ge than und ge lehrt&#xD;
+hat, er kennen wir ſeine All macht und ſei ne gro ße&#xD;
+Lie be. Noch eh er ſe hen wir die ſe ſei ne Lie be aus&#xD;
+al lem, was er für uns ge lit ten hat.&#xD;
+Auch euch Kin dern zu lieb litt Je ſus. Am&#xD;
+Öl ber ge ſtand er ei ne ſol che Angſt aus, daß ihm&#xD;
+blu ti ger Schweiß aus brach. Man gei ßel te ihn bis&#xD;
+aufs Blut, und drück te ei ne Kro ne von Dor nen auf&#xD;
+ſein Haupt. Er litt es ge dul dig, daß man ihn an&#xD;
+das Kreuz na gel te; er ſtarb am Kreu ze aus Lie be&#xD;
+zu euch; um euch und al le Men ſchen von den Sün⸗&#xD;
+den zu er lö ſen, und uns al le hei lig und ſe lig zu&#xD;
+ma chen. Ihr wer det künf tig die Ge ſchich te da von&#xD;
+aus führ li cher hö ren. Doch wer det ihr auch jetzt&#xD;
+ſchon ein ſe hen, daß ihr an Je ſus den lie be voll ſten&#xD;
+und be ſten Freund habt.&#xD;
+Lie bet ihn, der euch ge liebt hat bis in den&#xD;
+Tod; le bet nur ihm, und ſe tzet auf ihn eu er gan zes&#xD;
+Ver trau en.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

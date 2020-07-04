@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -86,7 +86,7 @@
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="362,719 1813,719 1813,791 362,791"/>
                 <TextEquiv>
-                    <Unicode>liebe Gott im Himmel, und er ſchickte ein warmes Lüft=</Unicode>
+                    <Unicode>liebe Gott im Himmel, und er ſchickte ein warmes Lüft⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -114,7 +114,7 @@
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="364,1046 1814,1046 1814,1118 364,1118"/>
                 <TextEquiv>
-                    <Unicode>Bäuerin hatte ein kleines, luſtiges Büblein. Es ist</Unicode>
+                    <Unicode>Bäuerin hatte ein kleines, luſtiges Büblein. Es iſt</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -128,7 +128,7 @@
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="365,1209 1816,1209 1816,1281 365,1281"/>
                 <TextEquiv>
-                    <Unicode>lustig; denn es war ſo kalt und das Büblein zitterte</Unicode>
+                    <Unicode>luſtig; denn es war ſo kalt und das Büblein zitterte</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -162,7 +162,7 @@
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
                 <Coords points="368,1616 1812,1616 1812,1689 368,1689"/>
                 <TextEquiv>
-                    <Unicode>freute ſich, daß der liebe Gott ihm das Schäfchen ge=</Unicode>
+                    <Unicode>freute ſich, daß der liebe Gott ihm das Schäfchen ge⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -245,7 +245,7 @@
             <TextLine id="tl_30" primaryLanguage="German" custom="readingOrder {index:29;}">
                 <Coords points="380,2653 1817,2653 1817,2731 380,2731"/>
                 <TextEquiv>
-                    <Unicode>Pferde nicht mehr auf, als es ziehen kann, und miß=</Unicode>
+                    <Unicode>Pferde nicht mehr auf, als es ziehen kann, und miß⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -256,18 +256,18 @@ Ein Schäfchen wurde zum erſten Male geſchoren,&#xD;
 und es hielt geduldig ſtill. Als dies aber vorüber war,&#xD;
 wurde es traurig; denn es fror ſehr, so daß das arme&#xD;
 Tierlein am ganzen Leibe zitterte. Und das ſah der&#xD;
-liebe Gott im Himmel, und er ſchickte ein warmes Lüft=&#xD;
+liebe Gott im Himmel, und er ſchickte ein warmes Lüft⸗&#xD;
 chen und ſchönen Sonnenſchein. Da wurde das gute&#xD;
 Schäfchen wieder munter und froh.&#xD;
 Das Schäflein hatte einer Bäuerin gehört, und die&#xD;
-Bäuerin hatte ein kleines, luſtiges Büblein. Es ist&#xD;
+Bäuerin hatte ein kleines, luſtiges Büblein. Es iſt&#xD;
 aber Winter geworden; da war das Büblein nicht mehr&#xD;
-lustig; denn es war ſo kalt und das Büblein zitterte&#xD;
+luſtig; denn es war ſo kalt und das Büblein zitterte&#xD;
 oft vor Froſt. Die Mutter aber ſtrickte ihm aus der&#xD;
 Wolle des Schäfleins ein warmes Röckchen und ein&#xD;
 Paar warme Strümpfe und zog dies alles dem Büblein&#xD;
 an. Da wurde es wieder luſtig und munter, und es&#xD;
-freute ſich, daß der liebe Gott ihm das Schäfchen ge=&#xD;
+freute ſich, daß der liebe Gott ihm das Schäfchen ge⸗&#xD;
 geben, das ſo warme Wolle für die Menſchen hat.&#xD;
 17. Das Pferd.&#xD;
 Das Pferd iſt ein großes und ſchönes Tier. Es&#xD;
@@ -279,7 +279,7 @@ Eiſen beſchlagen, damit es auf ſteinigen Wegen und&#xD;
 im Winter auf glatt gefrorenen Straßen gut gehen kann.&#xD;
 Das Pferd zieht den Wagen, den Karren, den&#xD;
 Pflug und die Egge. Verſtändige Leute laden einem&#xD;
-Pferde nicht mehr auf, als es ziehen kann, und miß=</Unicode>
+Pferde nicht mehr auf, als es ziehen kann, und miß⸗</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

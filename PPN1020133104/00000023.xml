@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -125,14 +125,14 @@
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="210,1642 1521,1642 1521,1720 210,1720"/>
                 <TextEquiv>
-                    <Unicode>Sophie, Prophet, Joſeph, Stephan, Alphabet,</Unicode>
+                    <Unicode>Sophie, Prophet, Joſeph, Stephan, Al pha bet,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.0"/>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:13;}">
                 <Coords points="107,1718 1524,1718 1524,1799 107,1799"/>
                 <TextEquiv>
-                    <Unicode>Philipp, Pharao, Phariſäer, Phosphor, Photographie.</Unicode>
+                    <Unicode>Phi lipp, Pha ra o, Pha ri ſä er, Phos phor, Pho to gra phie.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1587552342015_1154" custom="readingOrder {index:14;}">
@@ -196,8 +196,8 @@ Wurzelfaſern. Mit dieſen kriecht er am Boden fort&#xD;
 oder klettert an Felſen, Wänden, Bäumen ⁊c. empor&#xD;
 und überzieht ſie ganz. Er wird auch in Töpfen ge=&#xD;
 zogen und iſt eine Zierde der Zimmer.&#xD;
-Sophie, Prophet, Joſeph, Stephan, Alphabet,&#xD;
-Philipp, Pharao, Phariſäer, Phosphor, Photographie.&#xD;
+Sophie, Prophet, Joſeph, Stephan, Al pha bet,&#xD;
+Phi lipp, Pha ra o, Pha ri ſä er, Phos phor, Pho to gra phie.&#xD;
 33.&#xD;
 Cylinder&#xD;
 c C y Y&#xD;

@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -80,7 +80,7 @@
             <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
                 <Coords points="718,997 922,997 922,1076 718,1076"/>
                 <TextEquiv>
-                    <Unicode>Vogel.</Unicode>
+                    <Unicode>Vo gel.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -101,7 +101,7 @@
             <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:8;}">
                 <Coords points="215,1304 1534,1304 1534,1398 215,1398"/>
                 <TextEquiv>
-                    <Unicode>Meer, See, Seele, Heer, Beere, Armee,</Unicode>
+                    <Unicode>Meer, See, See le, Heer, Bee re, Ar mee,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
             </TextLine>
@@ -143,54 +143,54 @@
             <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:14;}">
                 <Coords points="364,1973 1256,1973 1256,2059 364,2059"/>
                 <TextEquiv>
-                    <Unicode>Die Ziege hat vier Beine.</Unicode>
+                    <Unicode>Die Zie ge hat vier Bei ne.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:15;}">
                 <Coords points="205,2084 1524,2084 1524,2179 205,2179"/>
                 <TextEquiv>
-                    <Unicode>Wiege, Wieſe, Rieſe, Bier, hier, vier, viel,</Unicode>
+                    <Unicode>Wie ge, Wie ſe, Rie ſe, Bier, hier, vier, viel,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
             </TextLine>
             <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:16;}">
                 <Coords points="89,2185 1525,2185 1525,2278 89,2278"/>
                 <TextEquiv>
-                    <Unicode>wie, ſie, die, nie, tief, ſchief, liegen, lieben,</Unicode>
+                    <Unicode>wie, ſie, die, nie, tief, ſchief, lie gen, lie ben,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
             </TextLine>
             <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:17;}">
                 <Coords points="86,2283 587,2283 587,2367 86,2367"/>
                 <TextEquiv>
-                    <Unicode>ſchieben, ſchielen.</Unicode>
+                    <Unicode>ſchie ben, ſchie len.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
             </TextLine>
             <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:18;}">
                 <Coords points="200,2382 1521,2382 1521,2480 200,2480"/>
                 <TextEquiv>
-                    <Unicode>Wieſe, Weiſe; Rieſe, Reiſe; ſie, ſei; leis,</Unicode>
+                    <Unicode>Wie ſe, Wei ſe; Rie ſe, Rei ſe; ſie, ſei; leis,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:19;}">
                 <Coords points="84,2482 649,2482 649,2563 84,2563"/>
                 <TextEquiv>
-                    <Unicode>lies; lieben, leiden.</Unicode>
+                    <Unicode>lies; lie ben, lei den.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="197,2584 1520,2584 1520,2679 197,2679"/>
                 <TextEquiv>
-                    <Unicode>Ziege, Züge; Ziegel, Zügel; Dinge, dünge;</Unicode>
+                    <Unicode>Zie ge, Zü ge; Zie gel, Zü gel; Ding e, düng e;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
                 <Coords points="82,2680 1459,2680 1459,2771 82,2771"/>
                 <TextEquiv>
-                    <Unicode>vier, für; liegen, lügen. Wir rieben Rüben.</Unicode>
+                    <Unicode>vier, für; lie gen, lü gen. Wir rie ben Rü ben.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="11.0"/>
             </TextLine>
@@ -207,23 +207,23 @@ A. Dehnung und Schärfung.&#xD;
 I.&#xD;
 1. aa, oo, ee.&#xD;
 Der Aal iſt ein Fiſch. Der Aar iſt ein&#xD;
-Vogel.&#xD;
+Vo gel.&#xD;
 Haar, Saat, Aas, Saal, Paar;&#xD;
 Boot, Moor, Moos;&#xD;
-Meer, See, Seele, Heer, Beere, Armee,&#xD;
+Meer, See, See le, Heer, Bee re, Ar mee,&#xD;
 Teer, Beet, leer, ſcheel.&#xD;
 Das Haar iſt fein. Das Aas iſt faul.&#xD;
 Der Saal iſt hoch. Das Moor iſt öde. Das&#xD;
 Meer oder die See iſt tief.&#xD;
 2. ie.&#xD;
-Die Ziege hat vier Beine.&#xD;
-Wiege, Wieſe, Rieſe, Bier, hier, vier, viel,&#xD;
-wie, ſie, die, nie, tief, ſchief, liegen, lieben,&#xD;
-ſchieben, ſchielen.&#xD;
-Wieſe, Weiſe; Rieſe, Reiſe; ſie, ſei; leis,&#xD;
-lies; lieben, leiden.&#xD;
-Ziege, Züge; Ziegel, Zügel; Dinge, dünge;&#xD;
-vier, für; liegen, lügen. Wir rieben Rüben.&#xD;
+Die Zie ge hat vier Bei ne.&#xD;
+Wie ge, Wie ſe, Rie ſe, Bier, hier, vier, viel,&#xD;
+wie, ſie, die, nie, tief, ſchief, lie gen, lie ben,&#xD;
+ſchie ben, ſchie len.&#xD;
+Wie ſe, Wei ſe; Rie ſe, Rei ſe; ſie, ſei; leis,&#xD;
+lies; lie ben, lei den.&#xD;
+Zie ge, Zü ge; Zie gel, Zü gel; Ding e, düng e;&#xD;
+vier, für; lie gen, lü gen. Wir rie ben Rü ben.&#xD;
 1*</Unicode>
             </TextEquiv>
         </TextRegion>

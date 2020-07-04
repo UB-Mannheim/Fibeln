@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -68,7 +68,7 @@
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="77,505 1491,505 1491,585 77,585"/>
                 <TextEquiv>
-                    <Unicode>Lachs, Wachs, Wichſe, wichſen, wachſen, wechſeln, drech=</Unicode>
+                    <Unicode>Lachs, Wachs, Wichſe, wichſen, wachſen, wechſeln, drech⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:4;}">
@@ -129,7 +129,7 @@
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="90,1436 1501,1436 1501,1511 90,1511"/>
                 <TextEquiv>
-                    <Unicode>her, ſonſt wird dich der Jäger holen mit dem Schieß=</Unicode>
+                    <Unicode>her, ſonſt wird dich der Jäger holen mit dem Schieß⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -191,14 +191,14 @@
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="200,2274 1509,2274 1509,2351 200,2351"/>
                 <TextEquiv>
-                    <Unicode>Portion, Ration, Nation, Station, Patient,</Unicode>
+                    <Unicode>Por ti on, Ra ti on, Na ti on, Sta ti on, Pa ti ent,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="101,2369 688,2369 688,2437 101,2437"/>
                 <TextEquiv>
-                    <Unicode>Pontius, Conſtantia.</Unicode>
+                    <Unicode>Pon ti us, Con ſtan ti a.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="12.0"/>
             </TextLine>
@@ -227,7 +227,7 @@
                 <Unicode>21&#xD;
 37. chs = x (ks)&#xD;
 Axt, Achſe, Achſel, Ochs, Luchs, Fuchs, Dachs,&#xD;
-Lachs, Wachs, Wichſe, wichſen, wachſen, wechſeln, drech=&#xD;
+Lachs, Wachs, Wichſe, wichſen, wachſen, wechſeln, drech⸗&#xD;
 ſeln; Büchſe, Büſche; wachſen, waſchen.&#xD;
 Rätſel.&#xD;
 Ich wachſe aus der Erde&#xD;
@@ -236,7 +236,7 @@ den Kaiſer und den König&#xD;
 und auch den Bettelmann.&#xD;
 Der Fuchs.&#xD;
 Fuchs, du haſt die Gans geſtohlen, gib ſie wieder&#xD;
-her, ſonſt wird dich der Jäger holen mit dem Schieß=&#xD;
+her, ſonſt wird dich der Jäger holen mit dem Schieß⸗&#xD;
 gewehr.&#xD;
 Sieh, er ladet ſchon die Flinte und dich trifft ihr&#xD;
 Schrot, daß dich färbt die rote Tinte, und dann biſt&#xD;
@@ -245,8 +245,8 @@ Liebes Füchslein, laß dir raten, ſei doch nur kein&#xD;
 Dieb; nimm, du brauchſt nicht Gänſebraten, mit der&#xD;
 Maus vorlieb.&#xD;
 38. ti wie zi&#xD;
-Portion, Ration, Nation, Station, Patient,&#xD;
-Pontius, Conſtantia.&#xD;
+Por ti on, Ra ti on, Na ti on, Sta ti on, Pa ti ent,&#xD;
+Pon ti us, Con ſtan ti a.&#xD;
 Der Arzt beſucht ſeine Patienten. Wir eſſen eine&#xD;
 Portion Fleiſch. Das Pferd erhält eine Ration Heu.&#xD;
 Ein ganzes Volk nennt man auch eine Nation.</Unicode>

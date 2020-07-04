@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by words syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -61,206 +61,206 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="384,352 1774,352 1774,418 384,418"/>
                 <TextEquiv>
-                    <Unicode>Morgen des Pfingſtfeſtes, da alle in einem Saale</Unicode>
+                    <Unicode>Mor gen des Pfingſt fe ſtes, da al le in ei nem Saa le</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="384,439 1774,439 1774,505 384,505"/>
                 <TextEquiv>
-                    <Unicode>verſammelt waren, hörten ſie auf einmal das Sauſen</Unicode>
+                    <Unicode>ver ſam melt wa ren, hör ten ſie auf ein mal das Sau ſen</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="380,528 1777,528 1777,591 380,591"/>
                 <TextEquiv>
-                    <Unicode>eines mächtigen Windes. Sie ſahen Feuerflam=</Unicode>
+                    <Unicode>ei nes mäch ti gen Win des. Sie ſa hen Feuer flam⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
                 <Coords points="384,615 1778,615 1778,680 384,680"/>
                 <TextEquiv>
-                    <Unicode>men, die ſich auf eines jeden Haupt niederließen.</Unicode>
+                    <Unicode>men, die ſich auf eines je den Haupt nie der lie ßen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="386,701 1778,701 1778,767 386,767"/>
                 <TextEquiv>
-                    <Unicode>Dies waren die Zeichen von der Ankunft des hei=</Unicode>
+                    <Unicode>Dies wa ren die Zei chen von der An kunft des hei⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="384,788 1779,788 1779,855 384,855"/>
                 <TextEquiv>
-                    <Unicode>ligen Geiſtes. Auch erkannten und empfanden</Unicode>
+                    <Unicode>lig en Ge iſtes. Auch er kann ten und em pfan den</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="383,877 1779,877 1779,943 383,943"/>
                 <TextEquiv>
-                    <Unicode>ſie innerlich, daß derſelbe nun gekommen ſei.</Unicode>
+                    <Unicode>ſie in ner lich, daß der ſel be nun ge kom men ſei.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="388,965 1775,965 1775,1030 388,1030"/>
                 <TextEquiv>
-                    <Unicode>Göttliche Weiſheit erleuchtete ihren Verſtand,</Unicode>
+                    <Unicode>Gött li che Weis heit er leuch te te ih ren Ver ſtand,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="385,1051 1777,1051 1777,1117 385,1117"/>
                 <TextEquiv>
-                    <Unicode>Kraft zu allem Guten und himmliſche Freude er=</Unicode>
+                    <Unicode>Kraft zu al lem Gu ten und himm li ſche Freu de er⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="385,1140 1778,1140 1778,1205 385,1205"/>
                 <TextEquiv>
-                    <Unicode>füllte ihr Herz. Sie fingen an, Gott laut zu loben</Unicode>
+                    <Unicode>füllte ihr Herz. Sie fin gen an, Gott laut zu lo ben</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="387,1227 803,1227 803,1292 387,1292"/>
                 <TextEquiv>
-                    <Unicode>und zu preiſen.</Unicode>
+                    <Unicode>und zu prei ſen.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
                 <Coords points="529,1326 1780,1326 1780,1390 529,1390"/>
                 <TextEquiv>
-                    <Unicode>Liebe Kinder! Die Feuerflammen und das</Unicode>
+                    <Unicode>Lie be Kin der! Die Feuerflammen und das</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="387,1413 1779,1413 1779,1479 387,1479"/>
                 <TextEquiv>
-                    <Unicode>Sauſen der Luft deuten ſinnbildlich an, was</Unicode>
+                    <Unicode>Sau ſen der Luft deu ten ſinn bild lich an, was</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
                 <Coords points="386,1500 1779,1500 1779,1566 386,1566"/>
                 <TextEquiv>
-                    <Unicode>für Wohlthaten der heilige Geiſt auch uns erweiſen</Unicode>
+                    <Unicode>für Wohl tha ten der hei li ge Geiſt auch uns er wei ſen</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:16;}">
                 <Coords points="386,1590 552,1590 552,1640 386,1640"/>
                 <TextEquiv>
-                    <Unicode>wolle.</Unicode>
+                    <Unicode>wol le.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
                 <Coords points="529,1686 1782,1686 1782,1753 529,1753"/>
                 <TextEquiv>
-                    <Unicode>Das Feuer erleuchtet. In finſterer Nacht ſeht</Unicode>
+                    <Unicode>Das Feuer erleuchtet. In fin ſte rer Nacht ſeht</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
                 <Coords points="388,1773 1780,1773 1780,1839 388,1839"/>
                 <TextEquiv>
-                    <Unicode>ihr mit offnen Augen nichts. Geht aber die liebe</Unicode>
+                    <Unicode>ihr mit off nen Au gen nichts. Geht a ber die lie be</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="388,1861 1780,1861 1780,1927 388,1927"/>
                 <TextEquiv>
-                    <Unicode>Sonne auf, ſo machen ihre goldnen Strahlen euch</Unicode>
+                    <Unicode>Son ne auf, ſo ma chen ih re gold nen Strah len euch</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="389,1948 1782,1948 1782,2015 389,2015"/>
                 <TextEquiv>
-                    <Unicode>die ganze Welt helle. So erleuchtet der heilige</Unicode>
+                    <Unicode>die gan ze Welt hel le. So er leuch tet der hei li ge</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="389,2033 1780,2033 1780,2098 389,2098"/>
                 <TextEquiv>
-                    <Unicode>Geist unſern Verſtand. — Das Feuer erwärmt.</Unicode>
+                    <Unicode>Geiſt un ſern Ver ſtand. — Das Feuer er wärmt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="389,2121 1781,2121 1781,2189 389,2189"/>
                 <TextEquiv>
-                    <Unicode>Bei großer Kälte iſt alles voll Eis und Schnee.</Unicode>
+                    <Unicode>Bei gro ßer Käl te iſt al les voll Eis und Schnee.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
                 <Coords points="388,2209 1783,2209 1783,2276 388,2276"/>
                 <TextEquiv>
-                    <Unicode>Wenn es euch recht friert, ſo könnt ihr euch über</Unicode>
+                    <Unicode>Wenn es euch recht friert, ſo könnt ihr euch ü ber</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="388,2294 1782,2294 1782,2364 388,2364"/>
                 <TextEquiv>
-                    <Unicode>nichts recht freuen und kaum einen Finger bewegen.</Unicode>
+                    <Unicode>nichts recht freu en und kaum ei nen Fin ger be we gen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
                 <Coords points="385,2382 1782,2382 1782,2449 385,2449"/>
                 <TextEquiv>
-                    <Unicode>Scheint aber im Frühlinge die Sonne recht warm</Unicode>
+                    <Unicode>Scheint a ber im Früh linge die Son ne recht warm</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
                 <Coords points="384,2470 1783,2470 1783,2535 384,2535"/>
                 <TextEquiv>
-                    <Unicode>und lieblich, ſo ſchmelzen Eis und Schnee, Blätt lein</Unicode>
+                    <Unicode>und lieb lich, ſo ſchmel zen Eis und Schnee, Blätt lein</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
                 <Coords points="385,2557 1784,2557 1784,2624 385,2624"/>
                 <TextEquiv>
-                    <Unicode>und Blümlein kommen hervor, und alles fängt an</Unicode>
+                    <Unicode>und Blüm lein kom men her vor, und al les fängt an</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:28;}">
                 <Coords points="381,2646 1783,2646 1783,2711 381,2711"/>
                 <TextEquiv>
-                    <Unicode>zu grünen und zu blühen; ihr aber ſeid munter</Unicode>
+                    <Unicode>zu grü nen und zu blü hen; ihr a ber ſeid mun ter</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextEquiv>
                 <Unicode>22&#xD;
 Von dem heiligen Geiſte.&#xD;
-Morgen des Pfingſtfeſtes, da alle in einem Saale&#xD;
-verſammelt waren, hörten ſie auf einmal das Sauſen&#xD;
-eines mächtigen Windes. Sie ſahen Feuerflam=&#xD;
-men, die ſich auf eines jeden Haupt niederließen.&#xD;
-Dies waren die Zeichen von der Ankunft des hei=&#xD;
-ligen Geiſtes. Auch erkannten und empfanden&#xD;
-ſie innerlich, daß derſelbe nun gekommen ſei.&#xD;
-Göttliche Weiſheit erleuchtete ihren Verſtand,&#xD;
-Kraft zu allem Guten und himmliſche Freude er=&#xD;
-füllte ihr Herz. Sie fingen an, Gott laut zu loben&#xD;
-und zu preiſen.&#xD;
-Liebe Kinder! Die Feuerflammen und das&#xD;
-Sauſen der Luft deuten ſinnbildlich an, was&#xD;
-für Wohlthaten der heilige Geiſt auch uns erweiſen&#xD;
-wolle.&#xD;
-Das Feuer erleuchtet. In finſterer Nacht ſeht&#xD;
-ihr mit offnen Augen nichts. Geht aber die liebe&#xD;
-Sonne auf, ſo machen ihre goldnen Strahlen euch&#xD;
-die ganze Welt helle. So erleuchtet der heilige&#xD;
-Geist unſern Verſtand. — Das Feuer erwärmt.&#xD;
-Bei großer Kälte iſt alles voll Eis und Schnee.&#xD;
-Wenn es euch recht friert, ſo könnt ihr euch über&#xD;
-nichts recht freuen und kaum einen Finger bewegen.&#xD;
-Scheint aber im Frühlinge die Sonne recht warm&#xD;
-und lieblich, ſo ſchmelzen Eis und Schnee, Blätt lein&#xD;
-und Blümlein kommen hervor, und alles fängt an&#xD;
-zu grünen und zu blühen; ihr aber ſeid munter</Unicode>
+Mor gen des Pfingſt fe ſtes, da al le in ei nem Saa le&#xD;
+ver ſam melt wa ren, hör ten ſie auf ein mal das Sau ſen&#xD;
+ei nes mäch ti gen Win des. Sie ſa hen Feuer flam⸗&#xD;
+men, die ſich auf eines je den Haupt nie der lie ßen.&#xD;
+Dies wa ren die Zei chen von der An kunft des hei⸗&#xD;
+lig en Ge iſtes. Auch er kann ten und em pfan den&#xD;
+ſie in ner lich, daß der ſel be nun ge kom men ſei.&#xD;
+Gött li che Weis heit er leuch te te ih ren Ver ſtand,&#xD;
+Kraft zu al lem Gu ten und himm li ſche Freu de er⸗&#xD;
+füllte ihr Herz. Sie fin gen an, Gott laut zu lo ben&#xD;
+und zu prei ſen.&#xD;
+Lie be Kin der! Die Feuerflammen und das&#xD;
+Sau ſen der Luft deu ten ſinn bild lich an, was&#xD;
+für Wohl tha ten der hei li ge Geiſt auch uns er wei ſen&#xD;
+wol le.&#xD;
+Das Feuer erleuchtet. In fin ſte rer Nacht ſeht&#xD;
+ihr mit off nen Au gen nichts. Geht a ber die lie be&#xD;
+Son ne auf, ſo ma chen ih re gold nen Strah len euch&#xD;
+die gan ze Welt hel le. So er leuch tet der hei li ge&#xD;
+Geiſt un ſern Ver ſtand. — Das Feuer er wärmt.&#xD;
+Bei gro ßer Käl te iſt al les voll Eis und Schnee.&#xD;
+Wenn es euch recht friert, ſo könnt ihr euch ü ber&#xD;
+nichts recht freu en und kaum ei nen Fin ger be we gen.&#xD;
+Scheint a ber im Früh linge die Son ne recht warm&#xD;
+und lieb lich, ſo ſchmel zen Eis und Schnee, Blätt lein&#xD;
+und Blüm lein kom men her vor, und al les fängt an&#xD;
+zu grü nen und zu blü hen; ihr a ber ſeid mun ter</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

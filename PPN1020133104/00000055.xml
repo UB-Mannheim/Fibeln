@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -60,102 +60,102 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="74,356 1455,356 1455,430 74,430"/>
                 <TextEquiv>
-                    <Unicode>ſchen redlich und aufrichtig. Er that ihnen nie das</Unicode>
+                    <Unicode>ſchen red lich und auf richtig. Er that ih nen nie das</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="75,444 1457,444 1457,518 75,518"/>
                 <TextEquiv>
-                    <Unicode>kleinſte Unrecht, ſondern er wies ihnen alles Liebe</Unicode>
+                    <Unicode>klein ſte Un recht, ſon dern er wies ih nen al les Lie be</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="75,532 1456,532 1456,606 75,606"/>
                 <TextEquiv>
-                    <Unicode>und Gute. Man mußte ihn alle Tage lieber haben!</Unicode>
+                    <Unicode>und Gu te. Man muß te ihn al le Ta ge lie ber ha ben!</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="211,638 1458,638 1458,711 211,711"/>
                 <TextEquiv>
-                    <Unicode>Der Knabe Jeſus war recht folgſam. Er that</Unicode>
+                    <Unicode>Der Kna be Je ſus war recht folg ſam. Er that</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="75,725 1458,725 1458,798 75,798"/>
                 <TextEquiv>
-                    <Unicode>ſeiner Mutter alles zu lieb, was er ihr nur an den</Unicode>
+                    <Unicode>ſeiner Mut ter al les zu lieb, was er ihr nur an den</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="76,812 1454,812 1454,887 76,887"/>
                 <TextEquiv>
-                    <Unicode>Augen abſehen konnte. Er half ſeinem Pflegevater,</Unicode>
+                    <Unicode>Au gen ab ſe hen konnte. Er half ſei nem Pfle ge va ter,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="77,899 1456,899 1456,972 77,972"/>
                 <TextEquiv>
-                    <Unicode>der ein Zimmermann war, treulich bei der Arbeit.</Unicode>
+                    <Unicode>der ein Zim mer mann war, treu lich bei der Ar beit.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="79,987 1456,987 1456,1063 79,1063"/>
                 <TextEquiv>
-                    <Unicode>Er war voll Liebe und Dank gegen ſeine El tern,</Unicode>
+                    <Unicode>Er war voll Lie be und Dank ge gen ſei ne El tern,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="77,1074 1082,1074 1082,1145 77,1145"/>
                 <TextEquiv>
-                    <Unicode>und war ihnen in allem unterthan.</Unicode>
+                    <Unicode>und war ih nen in al lem un ter than.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:11;}">
                 <Coords points="212,1162 1458,1162 1458,1237 212,1237"/>
                 <TextEquiv>
-                    <Unicode>Liebſte Kinder! Dem Knaben Jeſus ſollt auch</Unicode>
+                    <Unicode>Lieb ſte Kin der! Dem Kna ben Je ſus ſollt auch</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
                 <Coords points="83,1249 1461,1249 1461,1323 83,1323"/>
                 <TextEquiv>
-                    <Unicode>ihr in allem ähnlich werden. Habt ſein Bild im=</Unicode>
+                    <Unicode>ihr in al lem ähn lich wer den. Habt ſein Bild im⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:13;}">
                 <Coords points="81,1336 1460,1336 1460,1413 81,1413"/>
                 <TextEquiv>
-                    <Unicode>mer vor Augen. Fromm, fleißig, freundlich, folg=</Unicode>
+                    <Unicode>mer vor Au gen. Fromm, flei ßig, freund lich, folg⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="81,1424 1455,1424 1455,1501 81,1501"/>
                 <TextEquiv>
-                    <Unicode>ſam, war der kleine Jeſus. Fromm, fleißig, freundlich,</Unicode>
+                    <Unicode>ſam, war der klei ne Je ſus. Fromm, flei ßig, freund lich,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
                 <Coords points="80,1511 1460,1511 1460,1591 80,1591"/>
                 <TextEquiv>
-                    <Unicode>folgſam, ſollt auch ihr ſein. Diese vier F müßt ihr</Unicode>
+                    <Unicode>folg ſam, ſollt auch ihr ſein. Die ſe vier F müßt ihr</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_17" primaryLanguage="German" custom="readingOrder {index:16;}">
                 <Coords points="81,1598 1461,1598 1461,1674 81,1674"/>
                 <TextEquiv>
-                    <Unicode>euch recht merken. Dann kommt dazu noch von ſelbſt</Unicode>
+                    <Unicode>euch recht mer ken. Dann kommt da zu noch von ſelbſt</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
                 <Coords points="85,1683 1396,1683 1396,1763 85,1763"/>
                 <TextEquiv>
-                    <Unicode>das fünfte F. Ihr ſeid dann auch ſtets fröhlich.</Unicode>
+                    <Unicode>das fünfte F. Ihr ſeid dann auch ſtets fröh lich.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
@@ -169,86 +169,86 @@
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="83,2002 1464,2002 1464,2082 83,2082"/>
                 <TextEquiv>
-                    <Unicode>Jeſus Chriſtus, der beſte Lehrer der Kinder.</Unicode>
+                    <Unicode>Je ſus Chri ſtus, der be ſte Leh rer der Kin der.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="11.0" bold="true"/>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="217,2140 1463,2140 1463,2220 217,2220"/>
                 <TextEquiv>
-                    <Unicode>Als Jeſus dreißig Jahre alt war, fing er an,</Unicode>
+                    <Unicode>Als Je ſus drei ßig Jah re alt war, fing er an,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="86,2226 1465,2226 1465,2305 86,2305"/>
                 <TextEquiv>
-                    <Unicode>die Menſchen zu lehren. Er hatte viele Jünger.</Unicode>
+                    <Unicode>die Men ſchen zu leh ren. Er hat te vie le Jün ger.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="87,2312 1465,2312 1465,2394 87,2394"/>
                 <TextEquiv>
-                    <Unicode>Einſt zeigte er ſich ſeinen drei liebſten Jüngern auf</Unicode>
+                    <Unicode>Einſt zeigte er ſich ſeinen drei lieb ſten Jün gern auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
                 <Coords points="86,2400 1465,2400 1465,2479 86,2479"/>
                 <TextEquiv>
-                    <Unicode>einem Berge in himmliſcher Klarheit und Schönheit.</Unicode>
+                    <Unicode>ein em Ber ge in himm li ſcher Klar heit und Schön heit.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="85,2486 1463,2486 1463,2566 85,2566"/>
                 <TextEquiv>
-                    <Unicode>Da kam eine Stimme vom Himmel, und ſprach:</Unicode>
+                    <Unicode>Da kam ei ne Stim me vom Him mel, und ſprach:</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
                 <Coords points="90,2574 1465,2574 1465,2654 90,2654"/>
                 <TextEquiv>
-                    <Unicode>„Dieſer iſt mein lieber Sohn, an dem ich Wohlge=</Unicode>
+                    <Unicode>„Die ſer iſt mein lie ber Sohn, an dem ich Wohl ge⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:26;}">
                 <Coords points="87,2661 1137,2661 1137,2738 87,2738"/>
                 <TextEquiv>
-                    <Unicode>fallen habe. Dieſen ſollt ihr hören."</Unicode>
+                    <Unicode>fal len ha be. Die ſen ſollt ihr hö ren.“</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
             <TextEquiv>
                 <Unicode>Von Jeſus Chriſtus.&#xD;
 15&#xD;
-ſchen redlich und aufrichtig. Er that ihnen nie das&#xD;
-kleinſte Unrecht, ſondern er wies ihnen alles Liebe&#xD;
-und Gute. Man mußte ihn alle Tage lieber haben!&#xD;
-Der Knabe Jeſus war recht folgſam. Er that&#xD;
-ſeiner Mutter alles zu lieb, was er ihr nur an den&#xD;
-Augen abſehen konnte. Er half ſeinem Pflegevater,&#xD;
-der ein Zimmermann war, treulich bei der Arbeit.&#xD;
-Er war voll Liebe und Dank gegen ſeine El tern,&#xD;
-und war ihnen in allem unterthan.&#xD;
-Liebſte Kinder! Dem Knaben Jeſus ſollt auch&#xD;
-ihr in allem ähnlich werden. Habt ſein Bild im=&#xD;
-mer vor Augen. Fromm, fleißig, freundlich, folg=&#xD;
-ſam, war der kleine Jeſus. Fromm, fleißig, freundlich,&#xD;
-folgſam, ſollt auch ihr ſein. Diese vier F müßt ihr&#xD;
-euch recht merken. Dann kommt dazu noch von ſelbſt&#xD;
-das fünfte F. Ihr ſeid dann auch ſtets fröhlich.&#xD;
+ſchen red lich und auf richtig. Er that ih nen nie das&#xD;
+klein ſte Un recht, ſon dern er wies ih nen al les Lie be&#xD;
+und Gu te. Man muß te ihn al le Ta ge lie ber ha ben!&#xD;
+Der Kna be Je ſus war recht folg ſam. Er that&#xD;
+ſeiner Mut ter al les zu lieb, was er ihr nur an den&#xD;
+Au gen ab ſe hen konnte. Er half ſei nem Pfle ge va ter,&#xD;
+der ein Zim mer mann war, treu lich bei der Ar beit.&#xD;
+Er war voll Lie be und Dank ge gen ſei ne El tern,&#xD;
+und war ih nen in al lem un ter than.&#xD;
+Lieb ſte Kin der! Dem Kna ben Je ſus ſollt auch&#xD;
+ihr in al lem ähn lich wer den. Habt ſein Bild im⸗&#xD;
+mer vor Au gen. Fromm, flei ßig, freund lich, folg⸗&#xD;
+ſam, war der klei ne Je ſus. Fromm, flei ßig, freund lich,&#xD;
+folg ſam, ſollt auch ihr ſein. Die ſe vier F müßt ihr&#xD;
+euch recht mer ken. Dann kommt da zu noch von ſelbſt&#xD;
+das fünfte F. Ihr ſeid dann auch ſtets fröh lich.&#xD;
 III.&#xD;
-Jeſus Chriſtus, der beſte Lehrer der Kinder.&#xD;
-Als Jeſus dreißig Jahre alt war, fing er an,&#xD;
-die Menſchen zu lehren. Er hatte viele Jünger.&#xD;
-Einſt zeigte er ſich ſeinen drei liebſten Jüngern auf&#xD;
-einem Berge in himmliſcher Klarheit und Schönheit.&#xD;
-Da kam eine Stimme vom Himmel, und ſprach:&#xD;
-„Dieſer iſt mein lieber Sohn, an dem ich Wohlge=&#xD;
-fallen habe. Dieſen ſollt ihr hören."</Unicode>
+Je ſus Chri ſtus, der be ſte Leh rer der Kin der.&#xD;
+Als Je ſus drei ßig Jah re alt war, fing er an,&#xD;
+die Men ſchen zu leh ren. Er hat te vie le Jün ger.&#xD;
+Einſt zeigte er ſich ſeinen drei lieb ſten Jün gern auf&#xD;
+ein em Ber ge in himm li ſcher Klar heit und Schön heit.&#xD;
+Da kam ei ne Stim me vom Him mel, und ſprach:&#xD;
+„Die ſer iſt mein lie ber Sohn, an dem ich Wohl ge⸗&#xD;
+fal len ha be. Die ſen ſollt ihr hö ren.“</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

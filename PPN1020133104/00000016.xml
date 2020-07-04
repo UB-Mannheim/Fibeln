@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -54,77 +54,77 @@
             <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
                 <Coords points="423,305 1773,305 1773,385 423,385"/>
                 <TextEquiv>
-                    <Unicode>Sonſt gab es bei uns auch noch Bären und Wölfe</Unicode>
+                    <Unicode>Sonſt gab es bei uns auch noch Bä ren und Wöl fe</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="319,392 1770,392 1770,471 319,471"/>
                 <TextEquiv>
-                    <Unicode>in den Wäldern. Jetzt gibt es dieſe wilden Tiere bei</Unicode>
+                    <Unicode>in den Wäl dern. Jetzt gibt es die ſe wil den Tie re bei</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="322,480 1771,480 1771,560 322,560"/>
                 <TextEquiv>
-                    <Unicode>uns nicht mehr; aber ſie finden ſich noch in andern</Unicode>
+                    <Unicode>uns nicht mehr; aber ſie fin den ſich noch in an dern</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="314,567 552,567 552,621 314,621"/>
                 <TextEquiv>
-                    <Unicode>Ländern.</Unicode>
+                    <Unicode>Län dern.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="594,721 1455,721 1455,797 594,797"/>
                 <TextEquiv>
-                    <Unicode>In die Schule gehn die Buben,</Unicode>
+                    <Unicode>In die Schu le gehn die Bu ben,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="595,809 1380,809 1380,883 595,883"/>
                 <TextEquiv>
-                    <Unicode>die Soldaten ziehn ins Feld.</Unicode>
+                    <Unicode>die Sol da ten ziehn ins Feld.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="595,896 1401,896 1401,968 595,968"/>
                 <TextEquiv>
-                    <Unicode>Sorg ein jeder, daß er werde</Unicode>
+                    <Unicode>Sorg ein je der, daß er wer de</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="595,983 1417,983 1417,1057 595,1057"/>
                 <TextEquiv>
-                    <Unicode>mit der Zeit ein wackrer Held.</Unicode>
+                    <Unicode>mit der Zeit ein wack rer Held.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="593,1128 1522,1128 1522,1205 593,1205"/>
                 <TextEquiv>
-                    <Unicode>Wer auf dem Kopf hat einen Hut,</Unicode>
+                    <Unicode>Wer auf dem Kopf hat ei nen Hut,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="594,1216 1462,1216 1462,1291 594,1291"/>
                 <TextEquiv>
-                    <Unicode>dem ſteht er noch einmal ſo gut,</Unicode>
+                    <Unicode>dem ſteht er noch ein mal ſo gut,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="591,1304 1429,1304 1429,1377 591,1377"/>
                 <TextEquiv>
-                    <Unicode>wenn er ihn oft herunter thut.</Unicode>
+                    <Unicode>wenn er ihn oft her un ter thut.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_13" primaryLanguage="German" custom="readingOrder {index:12;}">
@@ -165,40 +165,40 @@
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:17;}">
                 <Coords points="303,1962 1744,1962 1744,2047 303,2047"/>
                 <TextEquiv>
-                    <Unicode>Schleim, Schloß, Schloſſer, Schluß, Schlüſſel, ſchlimm,</Unicode>
+                    <Unicode>Schleim, Schloß, Schloſ ſer, Schluß, Schlüſ ſel, ſchlimm,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_19" primaryLanguage="German" custom="readingOrder {index:18;}">
                 <Coords points="302,2049 1740,2049 1740,2134 302,2134"/>
                 <TextEquiv>
-                    <Unicode>Schlamm; Schnur, Schneider, Schnabel, ſchnitzen,</Unicode>
+                    <Unicode>Schlamm; Schnur, Schnei der, Schna bel, ſchni tzen,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="300,2136 1740,2136 1740,2222 300,2222"/>
                 <TextEquiv>
-                    <Unicode>ſchnell, Schnee; ſchräg, Schreck, Schrein, Schreiner,</Unicode>
+                    <Unicode>ſchnell, Schnee; ſchräg, Schreck, Schrein, Schrei ner,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="300,2223 1738,2223 1738,2307 300,2307"/>
                 <TextEquiv>
-                    <Unicode>ſchreiten, ſchreiben; friſch, fromm, fröhlich, frei, Frau,</Unicode>
+                    <Unicode>ſchrei ten, ſchrei ben; friſch, fromm, fröhlich, frei, Frau,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="299,2310 1537,2310 1537,2391 299,2391"/>
                 <TextEquiv>
-                    <Unicode>Fritz; Flur, Flor, Fleck, Fluß, Fleisch, fleißig.</Unicode>
+                    <Unicode>Fritz; Flur, Flor, Fleck, Fluß, Fleiſch, flei ßig.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="396,2400 1740,2400 1740,2482 396,2482"/>
                 <TextEquiv>
-                    <Unicode>Das Dach iſt ſchräg. Das Fleiſch iſt nahrhaft.</Unicode>
+                    <Unicode>Das Dach iſt ſchräg. Das Fleiſch iſt nahr haft.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:23;}">
@@ -211,44 +211,44 @@
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="294,2573 1736,2573 1736,2656 294,2656"/>
                 <TextEquiv>
-                    <Unicode>Schmied hämmert. Der Schreiner hobelt. Der Schnei=</Unicode>
+                    <Unicode>Schmied häm mert. Der Schrei ner ho belt. Der Schnei⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:25;}">
                 <Coords points="294,2660 1285,2660 1285,2736 294,2736"/>
                 <TextEquiv>
-                    <Unicode>der näht. Sei fleißig! Sei fromm!</Unicode>
+                    <Unicode>der näht. Sei flei ßig! Sei fromm!</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
             <TextEquiv>
                 <Unicode>12&#xD;
-Sonſt gab es bei uns auch noch Bären und Wölfe&#xD;
-in den Wäldern. Jetzt gibt es dieſe wilden Tiere bei&#xD;
-uns nicht mehr; aber ſie finden ſich noch in andern&#xD;
-Ländern.&#xD;
-In die Schule gehn die Buben,&#xD;
-die Soldaten ziehn ins Feld.&#xD;
-Sorg ein jeder, daß er werde&#xD;
-mit der Zeit ein wackrer Held.&#xD;
-Wer auf dem Kopf hat einen Hut,&#xD;
-dem ſteht er noch einmal ſo gut,&#xD;
-wenn er ihn oft herunter thut.&#xD;
+Sonſt gab es bei uns auch noch Bä ren und Wöl fe&#xD;
+in den Wäl dern. Jetzt gibt es die ſe wil den Tie re bei&#xD;
+uns nicht mehr; aber ſie fin den ſich noch in an dern&#xD;
+Län dern.&#xD;
+In die Schu le gehn die Bu ben,&#xD;
+die Sol da ten ziehn ins Feld.&#xD;
+Sorg ein je der, daß er wer de&#xD;
+mit der Zeit ein wack rer Held.&#xD;
+Wer auf dem Kopf hat ei nen Hut,&#xD;
+dem ſteht er noch ein mal ſo gut,&#xD;
+wenn er ihn oft her un ter thut.&#xD;
 II.&#xD;
 21. Zwei tönende Mitlaute als Anlaute.&#xD;
 Das Schwein wühlt im Schmutz.&#xD;
 Schwan, Schwamm, Schweif, Schweiß, ſchwül,&#xD;
 ſchwach; Schmuck, Schmied, ſchmal; Schlaf, ſchlaff,&#xD;
-Schleim, Schloß, Schloſſer, Schluß, Schlüſſel, ſchlimm,&#xD;
-Schlamm; Schnur, Schneider, Schnabel, ſchnitzen,&#xD;
-ſchnell, Schnee; ſchräg, Schreck, Schrein, Schreiner,&#xD;
-ſchreiten, ſchreiben; friſch, fromm, fröhlich, frei, Frau,&#xD;
-Fritz; Flur, Flor, Fleck, Fluß, Fleisch, fleißig.&#xD;
-Das Dach iſt ſchräg. Das Fleiſch iſt nahrhaft.&#xD;
+Schleim, Schloß, Schloſ ſer, Schluß, Schlüſ ſel, ſchlimm,&#xD;
+Schlamm; Schnur, Schnei der, Schna bel, ſchni tzen,&#xD;
+ſchnell, Schnee; ſchräg, Schreck, Schrein, Schrei ner,&#xD;
+ſchrei ten, ſchrei ben; friſch, fromm, fröhlich, frei, Frau,&#xD;
+Fritz; Flur, Flor, Fleck, Fluß, Fleiſch, flei ßig.&#xD;
+Das Dach iſt ſchräg. Das Fleiſch iſt nahr haft.&#xD;
 Der Schwan iſt weiß. Der Schwamm iſt leicht. Der&#xD;
-Schmied hämmert. Der Schreiner hobelt. Der Schnei=&#xD;
-der näht. Sei fleißig! Sei fromm!</Unicode>
+Schmied häm mert. Der Schrei ner ho belt. Der Schnei⸗&#xD;
+der näht. Sei flei ßig! Sei fromm!</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

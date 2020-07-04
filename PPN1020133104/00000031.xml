@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -104,7 +104,7 @@
             <TextLine id="line_1587556318803_1645" custom="readingOrder {index:9;}">
                 <Coords points="306,1334 987,1334 987,1423 306,1423"/>
                 <TextEquiv>
-                    <Unicode>das Kätzlein schreit miau,</Unicode>
+                    <Unicode>das Kätzlein ſchreit miau,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1587556325303_1648" custom="readingOrder {index:10;}">
@@ -201,7 +201,7 @@ die Zeit mir zu vertreiben. Will aber auch recht fleißig&#xD;
 die Lehrer loben!&#xD;
 2. Das Büblein auf dem Schulwege.&#xD;
 Das Hündchen bellt hau, hau,&#xD;
-das Kätzlein schreit miau,&#xD;
+das Kätzlein ſchreit miau,&#xD;
 das Kühlein brummt muh, muh,&#xD;
 das Täublein macht ruh, ruh.&#xD;
 Wie ſchreit das Büblein denn,&#xD;

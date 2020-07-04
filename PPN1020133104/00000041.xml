@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -88,7 +88,7 @@
             <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:6;}">
                 <Coords points="340,1637 1103,1637 1103,1714 340,1714"/>
                 <TextEquiv>
-                    <Unicode>die deutschen Schulen in Bayern.</Unicode>
+                    <Unicode>die deutſchen Schulen in Bayern.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:7;}">
@@ -100,7 +100,7 @@
             <TextLine id="line_1588365979398_4212" custom="readingOrder {index:8;}">
                 <Coords points="317,2007 1129,2007 1129,2078 317,2078"/>
                 <TextEquiv>
-                    <Unicode>Ministeriell genehmigt</Unicode>
+                    <Unicode>Miniſteriell genehmigt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:9;}">
@@ -137,9 +137,9 @@ für&#xD;
 die lieben Kleinen.&#xD;
 Erstes Lehr- und Leſebüchlein&#xD;
 für&#xD;
-die deutschen Schulen in Bayern.&#xD;
+die deutſchen Schulen in Bayern.&#xD;
 Separat=Ausgabe als Anhang zur Fibel.&#xD;
-Ministeriell genehmigt&#xD;
+Miniſteriell genehmigt&#xD;
 München.&#xD;
 Verlag von R. Oldenbourg,&#xD;
 Abteilung für Schulbücher.&#xD;

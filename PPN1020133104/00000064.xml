@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -61,79 +61,79 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="400,341 1785,341 1785,423 400,423"/>
                 <TextEquiv>
-                    <Unicode>Geiſte, der mit dem Vater und Sohne eines iſt. —</Unicode>
+                    <Unicode>Gei ſte, der mit dem Va ter und Sohne ei nes iſt. —</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="402,427 1787,427 1787,508 402,508"/>
                 <TextEquiv>
-                    <Unicode>Ein unendlich weiſer, gütiger, mächtiger Gott.</Unicode>
+                    <Unicode>Ein un end lich wei ſer, gü ti ger, mäch ti ger Gott.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="401,516 1790,516 1790,600 401,600"/>
                 <TextEquiv>
-                    <Unicode>Schon zu Hauſe hat man euch gelehrt, daß ihr alles</Unicode>
+                    <Unicode>Schon zu Hau ſe hat man euch ge lehrt, daß ihr al les</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:5;}">
                 <Coords points="403,603 1789,603 1789,686 403,686"/>
                 <TextEquiv>
-                    <Unicode>thun ſollt im Namen des Vaters, des Sohnes und</Unicode>
+                    <Unicode>thun ſollt im Na men des Va ters, des Soh nes und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="403,690 1790,690 1790,773 403,773"/>
                 <TextEquiv>
-                    <Unicode>des heiligen Geiſtes. Ihr werdet dieſe Worte nun</Unicode>
+                    <Unicode>des hei li gen Gei ſtes. Ihr wer det die ſe Wor te nun</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="403,778 1791,778 1791,860 403,860"/>
                 <TextEquiv>
-                    <Unicode>beſſer verſtehen, als früher. Thut nun aber auch</Unicode>
+                    <Unicode>beſ ſer ver ſteh en, als frü her. Thut nun a ber auch</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="405,865 1793,865 1793,945 405,945"/>
                 <TextEquiv>
-                    <Unicode>darnach um ſo bereitwilliger und eifriger. Seid</Unicode>
+                    <Unicode>dar nach um ſo be reit wil li ger und eif ri ger. Seid</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="404,951 1795,951 1795,1035 404,1035"/>
                 <TextEquiv>
-                    <Unicode>ſtets gute Kinder des Vaters im Himmel, folgſame</Unicode>
+                    <Unicode>ſtets gu te Kin der des Va ters im Him mel, folg ſa me</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="404,1038 1792,1038 1792,1121 404,1121"/>
                 <TextEquiv>
-                    <Unicode>Jünger Jeſu, unſers Herrn, und euer Herz ſei ſtets</Unicode>
+                    <Unicode>Jün ger Je ſu, un ſers Herrn, und eu er Herz ſei ſtets</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="405,1125 1795,1125 1795,1209 405,1209"/>
                 <TextEquiv>
-                    <Unicode>rein und heilig — ein Tempel des heiligen Geiſtes.</Unicode>
+                    <Unicode>rein und hei lig — ein Tem pel des hei li gen Gei ſtes.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>24&#xD;
 Von dem heiligen Geiſte.&#xD;
-Geiſte, der mit dem Vater und Sohne eines iſt. —&#xD;
-Ein unendlich weiſer, gütiger, mächtiger Gott.&#xD;
-Schon zu Hauſe hat man euch gelehrt, daß ihr alles&#xD;
-thun ſollt im Namen des Vaters, des Sohnes und&#xD;
-des heiligen Geiſtes. Ihr werdet dieſe Worte nun&#xD;
-beſſer verſtehen, als früher. Thut nun aber auch&#xD;
-darnach um ſo bereitwilliger und eifriger. Seid&#xD;
-ſtets gute Kinder des Vaters im Himmel, folgſame&#xD;
-Jünger Jeſu, unſers Herrn, und euer Herz ſei ſtets&#xD;
-rein und heilig — ein Tempel des heiligen Geiſtes.</Unicode>
+Gei ſte, der mit dem Va ter und Sohne ei nes iſt. —&#xD;
+Ein un end lich wei ſer, gü ti ger, mäch ti ger Gott.&#xD;
+Schon zu Hau ſe hat man euch ge lehrt, daß ihr al les&#xD;
+thun ſollt im Na men des Va ters, des Soh nes und&#xD;
+des hei li gen Gei ſtes. Ihr wer det die ſe Wor te nun&#xD;
+beſ ſer ver ſteh en, als frü her. Thut nun a ber auch&#xD;
+dar nach um ſo be reit wil li ger und eif ri ger. Seid&#xD;
+ſtets gu te Kin der des Va ters im Him mel, folg ſa me&#xD;
+Jün ger Je ſu, un ſers Herrn, und eu er Herz ſei ſtets&#xD;
+rein und hei lig — ein Tem pel des hei li gen Gei ſtes.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

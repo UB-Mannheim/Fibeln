@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -68,60 +68,60 @@
             <TextLine id="tl_4" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="417,449 1748,449 1748,540 417,540"/>
                 <TextEquiv>
-                    <Unicode>Jeſus Chriſtus, der größte Kinderfreund.</Unicode>
+                    <Unicode>Je ſus Chri ſtus, der größ te Kin der freund.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="14.0"/>
             </TextLine>
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="528,608 1787,608 1787,690 528,690"/>
                 <TextEquiv>
-                    <Unicode>Jeſus ist der beſte Freund aller Menſchen. Er</Unicode>
+                    <Unicode>Je ſus iſt der be ſte Freund al ler Men ſchen. Er</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="390,697 1785,697 1785,784 390,784"/>
                 <TextEquiv>
-                    <Unicode>ging umher, und half allen, die in Not und Elend</Unicode>
+                    <Unicode>ging um her, und half al len, die in Not und E lend</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
             </TextLine>
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:6;}">
                 <Coords points="390,785 1784,785 1784,867 390,867"/>
                 <TextEquiv>
-                    <Unicode>waren. Er machte Blinde ſehend, Taube hörend,</Unicode>
+                    <Unicode>waren. Er mach te Blin de ſe hend, Tau be hö rend,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="391,873 1788,873 1788,956 391,956"/>
                 <TextEquiv>
-                    <Unicode>Stumme redend, Lahme gehend, Kranke geſund, ja</Unicode>
+                    <Unicode>Stum me re dend, Lah me ge hend, Kran ke ge ſund, ja</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="393,960 1789,960 1789,1046 393,1046"/>
                 <TextEquiv>
-                    <Unicode>ſogar Tote wieder lebendig. Auch Kindern bewies</Unicode>
+                    <Unicode>ſo gar To te wie der le ben dig. Auch Kin dern be wies</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:9;}">
                 <Coords points="397,1059 963,1059 963,1130 397,1130"/>
                 <TextEquiv>
-                    <Unicode>er ſeine große Liebe.</Unicode>
+                    <Unicode>er ſeine gro ße Lie be.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
             </TextLine>
             <TextLine id="tl_11" primaryLanguage="German" custom="readingOrder {index:10;}">
                 <Coords points="545,1168 1794,1168 1794,1251 545,1251"/>
                 <TextEquiv>
-                    <Unicode>Eines Tages brachten fromme Mütter ihre</Unicode>
+                    <Unicode>Ei nes Ta ges brach ten from me Müt ter ih re</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
             </TextLine>
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="402,1256 1794,1256 1794,1341 402,1341"/>
                 <TextEquiv>
-                    <Unicode>Kinder zu Jeſus, damit er ſie ſegne. Seine Jün=</Unicode>
+                    <Unicode>Kin der zu Je ſus, da mit er ſie ſeg ne. Sei ne Jün⸗</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0" bold="true"/>
             </TextLine>
@@ -129,15 +129,15 @@
                 <Unicode>18&#xD;
 Von Jeſus Chriſtus.&#xD;
 IV.&#xD;
-Jeſus Chriſtus, der größte Kinderfreund.&#xD;
-Jeſus ist der beſte Freund aller Menſchen. Er&#xD;
-ging umher, und half allen, die in Not und Elend&#xD;
-waren. Er machte Blinde ſehend, Taube hörend,&#xD;
-Stumme redend, Lahme gehend, Kranke geſund, ja&#xD;
-ſogar Tote wieder lebendig. Auch Kindern bewies&#xD;
-er ſeine große Liebe.&#xD;
-Eines Tages brachten fromme Mütter ihre&#xD;
-Kinder zu Jeſus, damit er ſie ſegne. Seine Jün=</Unicode>
+Je ſus Chri ſtus, der größ te Kin der freund.&#xD;
+Je ſus iſt der be ſte Freund al ler Men ſchen. Er&#xD;
+ging um her, und half al len, die in Not und E lend&#xD;
+waren. Er mach te Blin de ſe hend, Tau be hö rend,&#xD;
+Stum me re dend, Lah me ge hend, Kran ke ge ſund, ja&#xD;
+ſo gar To te wie der le ben dig. Auch Kin dern be wies&#xD;
+er ſeine gro ße Lie be.&#xD;
+Ei nes Ta ges brach ten from me Müt ter ih re&#xD;
+Kin der zu Je ſus, da mit er ſie ſeg ne. Sei ne Jün⸗</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

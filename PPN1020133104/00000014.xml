@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -184,7 +184,7 @@
             <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:21;}">
                 <Coords points="313,2420 1761,2420 1761,2488 313,2488"/>
                 <TextEquiv>
-                    <Unicode>Peitſche, deutſch, hätſchle, tätſchle; bereits, gehts; packt,</Unicode>
+                    <Unicode>Peit ſche, deutſch, hätſch le, tätſch le; be reits, gehts; packt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_23" primaryLanguage="English" custom="readingOrder {index:22;}">
@@ -229,7 +229,7 @@ hüpfen, ſchöpf, ſchöpfe, ſchöpfen, Apfel, Wipfel, Gipfel,&#xD;
 Hopfen, Zapfen, rupfen;&#xD;
 Mops, Schöps, Gips, rips, raps; hübſch; Abt, übt,&#xD;
 hebt, liebt, foppt, ſchoppt, nippt, pappt, ſchabt, ſchiebt;&#xD;
-Peitſche, deutſch, hätſchle, tätſchle; bereits, gehts; packt,&#xD;
+Peit ſche, deutſch, hätſch le, tätſch le; be reits, gehts; packt,&#xD;
 bäckt, weckt, reckt, ſchickt, zuckt.&#xD;
 Der Topf, der Kopf, der Napf, der Apfel und der&#xD;
 Zapfen ſind rund. Der Mops und der Schöps ſind</Unicode>

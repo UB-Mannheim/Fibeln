@@ -14,7 +14,7 @@
 
 		<encodingDesc>
 			<Transcription> Level 2: https://ocr-d.de/de/gt-guidelines/trans/transkription.html </Transcription>
-			<Notation> long s = ſ; division by words (not by syllables) </Notation>
+			<Notation> long s = ſ; division by syllables </Notation>
 			<Software> Transkribus <Software>
 		</encodingDesc>
 
@@ -61,7 +61,7 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="371,323 1760,323 1760,399 371,399"/>
                 <TextEquiv>
-                    <Unicode>ihn schlägt. Iß nicht zu viel; denn das ſteht dem</Unicode>
+                    <Unicode>ihn ſchlägt. Iß nicht zu viel; denn das ſteht dem</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.0"/>
             </TextLine>
@@ -174,7 +174,7 @@
             <TextEquiv>
                 <Unicode>10&#xD;
 Von Gott.&#xD;
-ihn schlägt. Iß nicht zu viel; denn das ſteht dem&#xD;
+ihn ſchlägt. Iß nicht zu viel; denn das ſteht dem&#xD;
 Kind nicht wohl an, und macht träg, dumm und krank. —&#xD;
 Naſch nicht, und nimm auch dann nichts, wenn man&#xD;
 dich nicht ſieht. Die Maus ſtiehlt den Speck, und der&#xD;
