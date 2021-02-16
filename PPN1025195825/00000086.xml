@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-05-12T05:56:08</Created>
+	<LastChange>2020-06-04T13:04:39</LastChange></Metadata>
+	<Page imageFilename="00000086.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1681" imageHeight="2631" type="content">
+	<TextRegion id="r0" type="page-number">
+	<Coords points="924,59 924,60 956,60 956,61 958,61 958,62 959,62 959,76 1018,76 1018,77 1045,77 1045,78 1046,78 1046,80 961,80 961,81 960,81 960,86 959,86 959,87 958,87 958,89 956,89 956,90 954,90 954,91 947,91 947,90 926,90 926,89 925,89 925,77 835,77 835,76 831,76 831,74 919,74 919,60 921,60 921,59"/>
+	<TextEquiv>
+	<Unicode>— 76 —</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="164,110 140,2476 1680,2486 1678,118 1660,118"/></ImageRegion></Page></PcGts>
