@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-04-27T05:32:43</Created>
+	<LastChange>2020-04-27T06:31:36</LastChange></Metadata>
+	<Page imageFilename="00000024.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1725" imageHeight="2648" type="content">
+	<TextRegion id="r0" type="page-number">
+	<Coords points="958,103 958,119 1046,119 1046,120 1049,120 1049,131 1047,131 1047,132 963,132 963,134 962,134 962,142 960,142 960,143 915,143 915,142 914,142 914,132 827,132 827,131 821,131 821,119 913,119 913,108 914,108 914,107 916,107 916,106 918,106 918,105 919,105 919,104 920,104 920,103"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r1">
+	<Coords points="681,162 681,163 694,163 694,164 1712,164 1712,165 1714,165 1714,166 1715,166 1715,168 1716,168 1716,241 1715,241 1715,279 1714,279 1714,324 1713,324 1713,631 1712,631 1712,638 1711,638 1711,913 1710,913 1710,924 1709,924 1709,975 1708,975 1708,1269 1707,1269 1707,1293 1706,1293 1706,1326 1705,1326 1705,1350 1704,1350 1704,1355 1703,1355 1703,1358 1702,1358 1702,1359 1701,1359 1701,1360 1699,1360 1699,1361 1595,1361 1595,1362 1589,1362 1589,1363 1562,1363 1562,1362 1439,1362 1439,1361 1352,1361 1352,1360 1313,1360 1313,1359 1292,1359 1292,1358 1135,1358 1135,1357 927,1357 927,1356 923,1356 923,1355 911,1355 911,1354 839,1354 839,1353 703,1353 703,1352 590,1352 590,1351 578,1351 578,1350 470,1350 470,1349 382,1349 382,1348 309,1348 309,1347 248,1347 248,1346 162,1346 162,1345 161,1345 161,1343 160,1343 160,1340 159,1340 159,1251 160,1251 160,863 159,863 159,503 148,503 148,492 159,492 159,449 160,449 160,270 161,270 161,229 162,229 162,165 462,165 462,164 654,164 654,163 667,163 667,162"/></ImageRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="628,1398 628,1512 1203,1512 1203,1398"/>
+	<TextLine id="l0">
+	<Coords points="630,1398 630,1511 1202,1511 1202,1398"/>
+	<Word id="w3">
+	<Coords points="627,1398 627,1508 1197,1508 1197,1398"/>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>a</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="108,1564 108,1762 1707,1762 1707,1564"/>
+	<TextLine id="l1">
+	<Coords points="106,1566 106,1763 1708,1763 1708,1566"/>
+	<Word id="w4">
+	<Coords points="277,1627 277,1742 520,1742 520,1627"/>
+	<TextEquiv>
+	<Unicode>e</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="805,1606 805,1741 1017,1741 1017,1606"/>
+	<TextEquiv>
+	<Unicode>i</Unicode></TextEquiv></Word>
+	<Word id="w6">
+	<Coords points="1302,1620 1302,1747 1537,1747 1537,1620"/>
+	<TextEquiv>
+	<Unicode>ei</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>e i ei</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>e i ei</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="100,1776 100,2014 1705,2014 1705,1776"/>
+	<TextLine id="l2">
+	<Coords points="100,1778 100,2010 1707,2010 1707,1778"/>
+	<Word id="w7">
+	<Coords points="233,1837 233,1943 530,1943 530,1837"/>
+	<TextEquiv>
+	<Unicode>m</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="782,1810 782,1951 1030,1951 1030,1810"/>
+	<TextEquiv>
+	<Unicode>u</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="1307,1841 1307,1952 1483,1952 1483,1841"/>
+	<TextEquiv>
+	<Unicode>o</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>m u o</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>m u o</Unicode></TextEquiv></TextRegion>
+	<ImageRegion id="r5">
+	<Coords points="261,2013 261,2014 448,2014 448,2015 527,2015 527,2016 618,2016 618,2017 643,2017 643,2018 693,2018 693,2019 750,2019 750,2020 854,2020 854,2021 1116,2021 1116,2022 1268,2022 1268,2021 1411,2021 1411,2022 1562,2022 1562,2021 1670,2021 1670,2022 1696,2022 1696,2023 1699,2023 1699,2024 1700,2024 1700,2132 1699,2132 1699,2425 1698,2425 1698,2434 1697,2434 1697,2448 1696,2448 1696,2450 1502,2450 1502,2451 1251,2451 1251,2452 1203,2452 1203,2451 1135,2451 1135,2450 812,2450 812,2449 701,2449 701,2448 546,2448 546,2447 489,2447 489,2446 469,2446 469,2445 344,2445 344,2444 318,2444 318,2443 303,2443 303,2442 265,2442 265,2441 216,2441 216,2440 142,2440 142,2439 138,2439 138,2438 137,2438 137,2437 134,2437 134,2433 133,2433 133,2416 132,2416 132,2393 133,2393 133,2246 123,2246 123,2236 133,2236 133,2201 134,2201 134,2192 135,2192 135,2160 136,2160 136,2110 137,2110 137,2017 138,2017 138,2015 139,2015 139,2014 143,2014 143,2013"/></ImageRegion></Page></PcGts>
