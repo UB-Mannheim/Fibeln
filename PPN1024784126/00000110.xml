@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-03-26T22:13:57</Created>
+	<LastChange>2021-03-26T22:23:50</LastChange></Metadata>
+	<Page imageFilename="00000110.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1730" imageHeight="2672" type="other" primaryLanguage="German" primaryScript="Latf - Latin (Fraktur variant)">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="l2">
+	<Coords points="1089,974 1089,975 1184,975 1184,982 1185,982 1185,984 1188,984 1188,985 1189,985 1189,996 1188,996 1188,1010 1187,1010 1187,1011 1186,1011 1186,1012 1185,1012 1185,1013 1184,1013 1184,1014 1117,1014 1117,1015 1047,1015 1047,1019 1046,1019 1046,1020 1045,1020 1045,1021 1043,1021 1043,1022 1038,1022 1038,1023 1028,1023 1028,1022 1023,1022 1023,1021 1022,1021 1022,1019 1021,1019 1021,1016 985,1016 985,1015 841,1015 841,1016 839,1016 839,1017 829,1017 829,1025 795,1025 795,1022 794,1022 794,1018 674,1018 674,1026 663,1026 663,1018 635,1018 635,1017 633,1017 633,1016 631,1016 631,1001 630,1001 630,982 631,982 631,981 636,981 636,980 661,980 661,979 673,979 673,980 785,980 785,979 786,979 786,978 789,978 789,977 976,977 976,976 1050,976 1050,975 1074,975 1074,974"/>
+	<Word id="w3">
+	<Coords points="625,979 625,1029 718,1029 718,979"/>
+	<TextEquiv>
+	<Unicode>koſtet</Unicode></TextEquiv></Word>
+	<Word id="w6">
+	<Coords points="726,981 726,1023 779,1023 779,981"/>
+	<TextEquiv>
+	<Unicode>80</Unicode></TextEquiv></Word>
+	<Word id="w11">
+	<Coords points="781,977 781,1030 841,1030 841,977"/>
+	<TextEquiv>
+	<Unicode>Pf.</Unicode></TextEquiv></Word>
+	<Word id="w12">
+	<Coords points="845,993 845,1008 897,1008 897,993"/>
+	<TextEquiv>
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w13">
+	<Coords points="897,973 897,1020 968,1020 968,973"/>
+	<TextEquiv>
+	<Unicode>Ein</Unicode></TextEquiv></Word>
+	<Word id="w14">
+	<Coords points="965,969 965,1023 1195,1023 1195,969"/>
+	<TextEquiv>
+	<Unicode>Begleitwort</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>koſtet 80 Pf. — Ein Begleitwort</Unicode></TextEquiv></TextLine></TextRegion>
+	<GraphicRegion id="r0" type="frame">
+	<Coords points="203,200 203,2454 1612,2454 1612,200"/>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="921,833 921,841 934,841 934,842 946,842 946,879 1016,879 1016,880 1020,880 1020,882 1031,882 1031,887 1093,887 1093,888 1095,888 1095,889 1097,889 1097,890 1100,890 1100,891 1101,891 1101,926 1130,926 1130,952 1131,952 1131,975 1184,975 1184,982 1185,982 1185,984 1188,984 1188,985 1189,985 1189,1031 1190,1031 1190,1032 1192,1032 1192,1033 1194,1033 1194,1047 1203,1047 1203,1048 1204,1048 1204,1116 1211,1116 1211,1118 1212,1118 1212,1130 1228,1130 1228,1177 1235,1177 1235,1185 1236,1185 1236,1221 1239,1221 1239,1222 1241,1222 1241,1223 1242,1223 1242,1238 1243,1238 1243,1270 1244,1270 1244,1271 1245,1271 1245,1286 1247,1286 1247,1298 1245,1298 1245,1299 1244,1299 1244,1300 1190,1300 1190,1415 1221,1415 1221,1416 1223,1416 1223,1417 1225,1417 1225,1430 1232,1430 1232,1432 1233,1432 1233,1445 1232,1445 1232,1447 1231,1447 1231,1449 1230,1449 1230,1451 1229,1451 1229,1452 1228,1452 1228,1453 1218,1453 1218,1493 1217,1493 1217,1497 1216,1497 1216,1499 1215,1499 1215,1500 1214,1500 1214,1501 1202,1501 1202,1541 1201,1541 1201,1544 1200,1544 1200,1546 1199,1546 1199,1548 1198,1548 1198,1549 1181,1549 1181,1550 1172,1550 1172,1592 1171,1592 1171,1594 1170,1594 1170,1596 1169,1596 1169,1598 1146,1598 1146,1637 1145,1637 1145,1639 1135,1639 1135,1640 1086,1640 1086,1641 1065,1641 1065,1643 1064,1643 1064,1644 1063,1644 1063,1646 1062,1646 1062,1647 1061,1647 1061,1648 1060,1648 1060,1649 982,1649 982,1650 971,1650 971,1649 834,1649 834,1652 747,1652 747,1651 745,1651 745,1650 744,1650 744,1644 685,1644 685,1643 683,1643 683,1642 682,1642 682,1641 680,1641 680,1640 679,1640 679,1627 678,1627 678,1626 677,1626 677,1625 676,1625 676,1624 675,1624 675,1596 656,1596 656,1595 655,1595 655,1594 654,1594 654,1593 652,1593 652,1592 650,1592 650,1591 649,1591 649,1577 648,1577 648,1576 647,1576 647,1548 625,1548 625,1547 624,1547 624,1546 623,1546 623,1545 622,1545 622,1544 619,1544 619,1529 618,1529 618,1528 617,1528 617,1500 608,1500 608,1499 607,1499 607,1498 606,1498 606,1497 604,1497 604,1496 603,1496 603,1495 601,1495 601,1481 600,1481 600,1480 599,1480 599,1477 598,1477 598,1452 593,1452 593,1451 592,1451 592,1450 591,1450 591,1449 589,1449 589,1448 586,1448 586,1447 585,1447 585,1432 584,1432 584,1306 574,1306 574,1263 573,1263 573,1253 574,1253 574,1235 575,1235 575,1233 576,1233 576,1232 577,1232 577,1231 578,1231 578,1182 579,1182 579,1181 580,1181 580,1180 581,1180 581,1179 582,1179 582,1175 583,1175 583,1125 584,1125 584,1124 585,1124 585,1123 586,1123 586,1122 589,1122 589,1121 613,1121 613,1029 614,1029 614,1028 630,1028 630,982 631,982 631,981 636,981 636,980 661,980 661,979 683,979 683,943 684,943 684,942 686,942 686,941 687,941 687,940 702,940 702,939 710,939 710,895 711,895 711,893 712,893 712,892 714,892 714,891 751,891 751,890 763,890 763,889 764,889 764,886 765,886 765,884 774,884 774,883 779,883 779,882 782,882 782,881 783,881 783,880 873,880 873,838 874,838 874,837 875,837 875,836 876,836 876,835 877,835 877,834 882,834 882,833"/>
+	<TextLine id="l1">
+	<Coords points="879,839 933,839 933,868 879,868"/>
+	<Word id="w2">
+	<Coords points="879,839 933,839 933,868 879,868"/>
+	<TextEquiv conf="0.96627">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96627">
+	<Unicode>Die</Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="926,885 1096,885 1096,922 910,922 910,926 716,926 716,886 926,886"/>
+	<Word id="w4">
+	<Coords points="716,886 910,886 910,926 716,926"/>
+	<TextEquiv conf="0.30024">
+	<Unicode>methodiſche</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="926,885 1096,885 1096,922 926,922"/>
+	<TextEquiv conf="0.96523">
+	<Unicode>Anleitung</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.63274">
+	<Unicode>methodiſche Anleitung</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="1046,932 1126,932 1126,967 1014,967 1014,971 824,971 824,964 721,964 721,974 689,974 689,945 749,945 749,936 824,936 824,934 1046,934"/>
+	<Word id="w7">
+	<Coords points="689,945 721,945 721,974 689,974"/>
+	<TextEquiv conf="0.94550">
+	<Unicode>zu</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="749,936 795,936 795,964 749,964"/>
+	<TextEquiv conf="0.95534">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="824,934 1014,934 1014,971 824,971"/>
+	<TextEquiv conf="0.96229">
+	<Unicode>vorliegenden</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="1046,932 1126,932 1126,967 1046,967"/>
+	<TextEquiv conf="0.96804">
+	<Unicode>Fibel</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95779">
+	<Unicode>zu der vorliegenden Fibel</Unicode></TextEquiv></TextLine>
+	<TextLine id="l18">
+	<Coords points="1021,1029 1199,1029 1199,1065 999,1065 999,1067 954,1067 954,1066 775,1066 775,1069 688,1069 688,1070 618,1070 618,1034 712,1034 712,1032 796,1032 796,1030 1021,1030"/>
+	<Word id="w19">
+	<Coords points="618,1034 688,1034 688,1070 618,1070"/>
+	<TextEquiv conf="0.94580">
+	<Unicode>dazu</Unicode></TextEquiv></Word>
+	<Word id="w20">
+	<Coords points="712,1032 775,1032 775,1069 712,1069"/>
+	<TextEquiv conf="0.95943">
+	<Unicode>ſteht</Unicode></TextEquiv></Word>
+	<Word id="w21">
+	<Coords points="796,1030 931,1030 931,1066 796,1066"/>
+	<TextEquiv conf="0.96298">
+	<Unicode>koſtenfrei</Unicode></TextEquiv></Word>
+	<Word id="w22">
+	<Coords points="954,1038 999,1038 999,1067 954,1067"/>
+	<TextEquiv conf="0.96887">
+	<Unicode>zur</Unicode></TextEquiv></Word>
+	<Word id="w23">
+	<Coords points="1021,1029 1199,1029 1199,1065 1021,1065"/>
+	<TextEquiv conf="0.66721">
+	<Unicode>Verfügung:</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.90086">
+	<Unicode>dazu ſteht koſtenfrei zur Verfügung:</Unicode></TextEquiv></TextLine>
+	<TextLine id="l24">
+	<Coords points="883,1089 934,1089 934,1102 883,1102"/>
+	<Word id="w25">
+	<Coords points="883,1089 934,1089 934,1102 883,1102"/>
+	<TextEquiv conf="0.78878">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.78878">
+	<Unicode>—</Unicode></TextEquiv></TextLine>
+	<TextLine id="l26">
+	<Coords points="1149,1122 1224,1122 1224,1151 1133,1151 1133,1152 1011,1152 1011,1159 934,1159 934,1155 801,1155 801,1160 698,1160 698,1157 588,1157 588,1127 801,1127 801,1134 934,1134 934,1125 1026,1125 1026,1124 1149,1124"/>
+	<Word id="w27">
+	<Coords points="588,1127 695,1127 695,1157 588,1157"/>
+	<TextEquiv conf="0.96338">
+	<Unicode>Neben</Unicode></TextEquiv></Word>
+	<Word id="w28">
+	<Coords points="698,1127 801,1127 801,1160 698,1160"/>
+	<TextEquiv conf="0.96220">
+	<Unicode>dieſer</Unicode></TextEquiv></Word>
+	<Word id="w29">
+	<Coords points="816,1134 920,1134 920,1155 816,1155"/>
+	<TextEquiv conf="0.96587">
+	<Unicode>neuen</Unicode></TextEquiv></Word>
+	<Word id="w30">
+	<Coords points="934,1125 1011,1125 1011,1159 934,1159"/>
+	<TextEquiv conf="0.96319">
+	<Unicode>Fibel</Unicode></TextEquiv></Word>
+	<Word id="w31">
+	<Coords points="1026,1124 1133,1124 1133,1152 1026,1152"/>
+	<TextEquiv conf="0.96561">
+	<Unicode>bleiben</Unicode></TextEquiv></Word>
+	<Word id="w32">
+	<Coords points="1149,1122 1224,1122 1224,1151 1149,1151"/>
+	<TextEquiv conf="0.56786">
+	<Unicode>wei⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.89802">
+	<Unicode>Neben dieſer neuen Fibel bleiben wei⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l33">
+	<Coords points="1146,1171 1231,1171 1231,1200 1122,1200 1122,1209 845,1209 845,1212 694,1212 694,1213 584,1213 584,1176 874,1176 874,1174 945,1174 945,1172 1146,1172"/>
+	<Word id="w34">
+	<Coords points="584,1176 694,1176 694,1213 584,1213"/>
+	<TextEquiv conf="0.95863">
+	<Unicode>terhin</Unicode></TextEquiv></Word>
+	<Word id="w35">
+	<Coords points="724,1176 845,1176 845,1212 724,1212"/>
+	<TextEquiv conf="0.96109">
+	<Unicode>beſtehen</Unicode></TextEquiv></Word>
+	<Word id="w36">
+	<Coords points="874,1174 914,1174 914,1203 874,1203"/>
+	<TextEquiv conf="0.93250">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w37">
+	<Coords points="945,1172 1122,1172 1122,1209 945,1209"/>
+	<TextEquiv conf="0.92395">
+	<Unicode>bisherigen</Unicode></TextEquiv></Word>
+	<Word id="w38">
+	<Coords points="1146,1171 1231,1171 1231,1200 1146,1200"/>
+	<TextEquiv conf="0.92758">
+	<Unicode>Aus⸗</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94075">
+	<Unicode>terhin beſtehen die bisherigen Aus⸗</Unicode></TextEquiv></TextLine>
+	<TextLine id="l39">
+	<Coords points="1053,1219 1238,1219 1238,1255 1035,1255 1035,1259 834,1259 834,1261 681,1261 681,1263 579,1263 579,1225 856,1225 856,1222 1053,1222"/>
+	<Word id="w40">
+	<Coords points="579,1225 681,1225 681,1263 579,1263"/>
+	<TextEquiv conf="0.96281">
+	<Unicode>gaben</Unicode></TextEquiv></Word>
+	<Word id="w41">
+	<Coords points="701,1226 747,1226 747,1253 701,1253"/>
+	<TextEquiv conf="0.96361">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w42">
+	<Coords points="775,1225 834,1225 834,1261 775,1261"/>
+	<TextEquiv conf="0.84787">
+	<Unicode>nach</Unicode></TextEquiv></Word>
+	<Word id="w43">
+	<Coords points="856,1222 1035,1222 1035,1259 856,1259"/>
+	<TextEquiv conf="0.87651">
+	<Unicode>phonetiſchen</Unicode></TextEquiv></Word>
+	<Word id="w44">
+	<Coords points="1053,1219 1238,1219 1238,1255 1053,1255"/>
+	<TextEquiv conf="0.47664">
+	<Unicode>Grundſätzen</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82549">
+	<Unicode>gaben der nach phonetiſchen Grundſätzen</Unicode></TextEquiv></TextLine>
+	<TextLine id="l45">
+	<Coords points="965,1269 1158,1269 1158,1275 1242,1275 1242,1295 1158,1295 1158,1304 924,1304 924,1308 695,1308 695,1302 581,1302 581,1276 695,1276 695,1272 965,1272"/>
+	<Word id="w46">
+	<Coords points="581,1276 663,1276 663,1302 581,1302"/>
+	<TextEquiv conf="0.92940">
+	<Unicode>1906</Unicode></TextEquiv></Word>
+	<Word id="w47">
+	<Coords points="695,1272 924,1272 924,1308 695,1308"/>
+	<TextEquiv conf="0.84195">
+	<Unicode>veröffentlichten</Unicode></TextEquiv></Word>
+	<Word id="w48">
+	<Coords points="965,1269 1158,1269 1158,1304 965,1304"/>
+	<TextEquiv conf="0.96439">
+	<Unicode>Bearbeitung</Unicode></TextEquiv></Word>
+	<Word id="w49">
+	<Coords points="1190,1275 1242,1275 1242,1295 1190,1295"/>
+	<TextEquiv conf="0.96434">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92502">
+	<Unicode>1906 veröffentlichten Bearbeitung von</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="768,1317 946,1317 946,1318 1056,1318 1056,1355 946,1355 946,1358 768,1358"/>
+	<Word id="w51">
+	<Coords points="768,1317 946,1317 946,1358 768,1358"/>
+	<TextEquiv conf="0.93281">
+	<Unicode>Ferdinand</Unicode></TextEquiv></Word>
+	<Word id="w52">
+	<Coords points="964,1318 1056,1318 1056,1355 964,1355"/>
+	<TextEquiv conf="0.91927">
+	<Unicode>Hirts</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92604">
+	<Unicode>Ferdinand Hirts</Unicode></TextEquiv></TextLine>
+	<TextLine id="l53">
+	<Coords points="957,1364 1124,1364 1124,1404 957,1404 957,1398 842,1398 842,1407 703,1407 703,1367 842,1367 842,1368 957,1368"/>
+	<Word id="w54">
+	<Coords points="703,1367 842,1367 842,1407 703,1407"/>
+	<TextEquiv conf="0.37302">
+	<Unicode>Schreib⸗</Unicode></TextEquiv></Word>
+	<Word id="w55">
+	<Coords points="867,1368 931,1368 931,1398 867,1398"/>
+	<TextEquiv conf="0.93005">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w56">
+	<Coords points="957,1364 1124,1364 1124,1404 957,1404"/>
+	<TextEquiv conf="0.88916">
+	<Unicode>Leſefibel:</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.73074">
+	<Unicode>Schreib⸗ und Leſefibel:</Unicode></TextEquiv></TextLine>
+	<TextLine id="l57">
+	<Coords points="1098,1413 1228,1413 1228,1447 1071,1447 1071,1451 924,1451 924,1453 811,1453 811,1452 682,1452 682,1455 589,1455 589,1418 950,1418 950,1416 1098,1416"/>
+	<Word id="w58">
+	<Coords points="589,1418 682,1418 682,1455 589,1455"/>
+	<TextEquiv conf="0.92372">
+	<Unicode>Ausg.</Unicode></TextEquiv></Word>
+	<Word id="w59">
+	<Coords points="694,1418 721,1418 721,1447 694,1447"/>
+	<TextEquiv conf="0.89845">
+	<Unicode>A</Unicode></TextEquiv></Word>
+	<Word id="w60">
+	<Coords points="743,1419 787,1419 787,1452 743,1452"/>
+	<TextEquiv conf="0.92200">
+	<Unicode>für</Unicode></TextEquiv></Word>
+	<Word id="w61">
+	<Coords points="811,1418 924,1418 924,1453 811,1453"/>
+	<TextEquiv conf="0.90860">
+	<Unicode>einfache</Unicode></TextEquiv></Word>
+	<Word id="w62">
+	<Coords points="950,1416 1071,1416 1071,1451 950,1451"/>
+	<TextEquiv conf="0.92271">
+	<Unicode>evangel.</Unicode></TextEquiv></Word>
+	<Word id="w63">
+	<Coords points="1098,1413 1228,1413 1228,1447 1098,1447"/>
+	<TextEquiv conf="0.94250">
+	<Unicode>Schulen,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91966">
+	<Unicode>Ausg. A für einfache evangel. Schulen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l64">
+	<Coords points="1083,1462 1214,1462 1214,1494 1062,1494 1062,1499 967,1499 967,1498 794,1498 794,1502 696,1502 696,1503 604,1503 604,1467 813,1467 813,1464 952,1464 952,1472 1083,1472"/>
+	<Word id="w65">
+	<Coords points="604,1467 696,1467 696,1503 604,1503"/>
+	<TextEquiv conf="0.92436">
+	<Unicode>Ausg.</Unicode></TextEquiv></Word>
+	<Word id="w66">
+	<Coords points="707,1467 732,1467 732,1495 707,1495"/>
+	<TextEquiv conf="0.92680">
+	<Unicode>B</Unicode></TextEquiv></Word>
+	<Word id="w67">
+	<Coords points="751,1467 794,1467 794,1502 751,1502"/>
+	<TextEquiv conf="0.93262">
+	<Unicode>für</Unicode></TextEquiv></Word>
+	<Word id="w68">
+	<Coords points="813,1464 952,1464 952,1498 813,1498"/>
+	<TextEquiv conf="0.90171">
+	<Unicode>mehrklaſſ.</Unicode></TextEquiv></Word>
+	<Word id="w69">
+	<Coords points="967,1472 1062,1472 1062,1499 967,1499"/>
+	<TextEquiv conf="0.95888">
+	<Unicode>evang.</Unicode></TextEquiv></Word>
+	<Word id="w70">
+	<Coords points="1083,1462 1214,1462 1214,1494 1083,1494"/>
+	<TextEquiv conf="0.96327">
+	<Unicode>Schulen,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.93461">
+	<Unicode>Ausg. B für mehrklaſſ. evang. Schulen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l71">
+	<Coords points="1104,1510 1197,1510 1197,1542 1010,1542 1010,1545 900,1545 900,1550 714,1550 714,1552 622,1552 622,1515 796,1515 796,1513 915,1513 915,1512 1020,1512 1020,1511 1104,1511"/>
+	<Word id="w72">
+	<Coords points="622,1515 714,1515 714,1552 622,1552"/>
+	<TextEquiv conf="0.92081">
+	<Unicode>Ausg.</Unicode></TextEquiv></Word>
+	<Word id="w73">
+	<Coords points="725,1515 752,1515 752,1543 725,1543"/>
+	<TextEquiv conf="0.93292">
+	<Unicode>D</Unicode></TextEquiv></Word>
+	<Word id="w74">
+	<Coords points="766,1515 783,1515 783,1547 766,1547"/>
+	<TextEquiv conf="0.89713">
+	<Unicode>f.</Unicode></TextEquiv></Word>
+	<Word id="w75">
+	<Coords points="796,1513 900,1513 900,1550 796,1550"/>
+	<TextEquiv conf="0.92225">
+	<Unicode>mehrkl.</Unicode></TextEquiv></Word>
+	<Word id="w76">
+	<Coords points="915,1512 1010,1512 1010,1545 915,1545"/>
+	<TextEquiv conf="0.96485">
+	<Unicode>Schul.</Unicode></TextEquiv></Word>
+	<Word id="w77">
+	<Coords points="1020,1511 1090,1511 1090,1539 1020,1539"/>
+	<TextEquiv conf="0.91175">
+	<Unicode>beid.</Unicode></TextEquiv></Word>
+	<Word id="w78">
+	<Coords points="1104,1510 1197,1510 1197,1542 1104,1542"/>
+	<TextEquiv conf="0.73153">
+	<Unicode>Konf.,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.89732">
+	<Unicode>Ausg. D f. mehrkl. Schul. beid. Konf.,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l79">
+	<Coords points="1037,1558 1168,1558 1168,1591 1014,1591 1014,1592 936,1592 936,1595 812,1595 812,1597 744,1597 744,1599 653,1599 653,1564 757,1564 757,1563 796,1563 796,1562 830,1562 830,1561 1037,1561"/>
+	<Word id="w80">
+	<Coords points="653,1564 744,1564 744,1599 653,1599"/>
+	<TextEquiv conf="0.91697">
+	<Unicode>Ausg.</Unicode></TextEquiv></Word>
+	<Word id="w81">
+	<Coords points="757,1563 782,1563 782,1591 757,1591"/>
+	<TextEquiv conf="0.91881">
+	<Unicode>F</Unicode></TextEquiv></Word>
+	<Word id="w82">
+	<Coords points="796,1562 812,1562 812,1597 796,1597"/>
+	<TextEquiv conf="0.90686">
+	<Unicode>f.</Unicode></TextEquiv></Word>
+	<Word id="w83">
+	<Coords points="830,1561 936,1561 936,1595 830,1595"/>
+	<TextEquiv conf="0.88970">
+	<Unicode>mehrkl.</Unicode></TextEquiv></Word>
+	<Word id="w84">
+	<Coords points="950,1562 1014,1562 1014,1592 950,1592"/>
+	<TextEquiv conf="0.96146">
+	<Unicode>kath.</Unicode></TextEquiv></Word>
+	<Word id="w85">
+	<Coords points="1037,1558 1168,1558 1168,1591 1037,1591"/>
+	<TextEquiv conf="0.96278">
+	<Unicode>Schulen,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92610">
+	<Unicode>Ausg. F f. mehrkl. kath. Schulen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l86">
+	<Coords points="1009,1608 1142,1608 1142,1640 994,1640 994,1645 841,1645 841,1647 681,1647 681,1611 783,1611 783,1610 1009,1610"/>
+	<Word id="w87">
+	<Coords points="681,1611 774,1611 774,1647 681,1647"/>
+	<TextEquiv conf="0.91727">
+	<Unicode>Ausg.</Unicode></TextEquiv></Word>
+	<Word id="w88">
+	<Coords points="783,1610 811,1610 811,1640 783,1640"/>
+	<TextEquiv conf="0.91260">
+	<Unicode>G</Unicode></TextEquiv></Word>
+	<Word id="w89">
+	<Coords points="825,1610 841,1610 841,1647 825,1647"/>
+	<TextEquiv conf="0.88287">
+	<Unicode>f.</Unicode></TextEquiv></Word>
+	<Word id="w90">
+	<Coords points="854,1610 917,1610 917,1639 854,1639"/>
+	<TextEquiv conf="0.96604">
+	<Unicode>einf.</Unicode></TextEquiv></Word>
+	<Word id="w91">
+	<Coords points="929,1611 994,1611 994,1645 929,1645"/>
+	<TextEquiv conf="0.92800">
+	<Unicode>kath.</Unicode></TextEquiv></Word>
+	<Word id="w92">
+	<Coords points="1009,1608 1142,1608 1142,1640 1009,1640"/>
+	<TextEquiv conf="0.81196">
+	<Unicode>Schulen.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.90312">
+	<Unicode>Ausg. G f. einf. kath. Schulen.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Die
+methodiſche Anleitung
+zu der vorliegenden Fibel
+koſtet 80 Pf. — Ein Begleitwort
+dazu ſteht koſtenfrei zur Verfügung:
+—
+Neben dieſer neuen Fibel bleiben wei⸗
+terhin beſtehen die bisherigen Aus⸗
+gaben der nach phonetiſchen Grundſätzen
+1906 veröffentlichten Bearbeitung von
+Ferdinand Hirts
+Schreib⸗ und Leſefibel:
+Ausg. A für einfache evangel. Schulen,
+Ausg. B für mehrklaſſ. evang. Schulen,
+Ausg. D f. mehrkl. Schul. beid. Konf.,
+Ausg. F f. mehrkl. kath. Schulen,
+Ausg. G f. einf. kath. Schulen.</Unicode></TextEquiv></TextRegion></GraphicRegion></Page></PcGts>

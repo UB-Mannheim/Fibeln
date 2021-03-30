@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-03-16T09:32:03</Created>
+	<LastChange>2021-03-16T09:39:57</LastChange></Metadata>
+	<Page imageFilename="00000012.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1725" imageHeight="2663" type="content" primaryLanguage="German" primaryScript="Latf - Latin (Fraktur variant)">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r1" index="0"/>
+	<RegionRefIndexed regionRef="r5" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/></OrderedGroup></ReadingOrder>
+	<ImageRegion id="r0">
+	<Coords points="190,246 190,2096 1626,2096 1626,246"/></ImageRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords points="968,2104 968,2105 969,2105 969,2114 1011,2114 1011,2115 1012,2115 1012,2117 1013,2117 1013,2118 1014,2118 1014,2119 1015,2119 1015,2137 1024,2137 1024,2138 1026,2138 1026,2139 1027,2139 1027,2141 1028,2141 1028,2152 1027,2152 1027,2154 1026,2154 1026,2155 1011,2155 1011,2156 916,2156 916,2157 915,2157 915,2159 914,2159 914,2160 913,2160 913,2161 912,2161 912,2162 911,2162 911,2163 885,2163 885,2162 883,2162 883,2161 882,2161 882,2159 881,2159 881,2158 880,2158 880,2156 797,2156 797,2155 795,2155 795,2154 793,2154 793,2153 792,2153 792,2152 783,2152 783,2151 782,2151 782,2140 783,2140 783,2138 784,2138 784,2137 785,2137 785,2110 786,2110 786,2108 787,2108 787,2106 789,2106 789,2105 790,2105 790,2104"/>
+	<TextLine id="l1">
+	<Coords points="882,2107 1024,2107 1024,2161 882,2161 882,2152 787,2152 787,2108 882,2108"/>
+	<Word id="w2">
+	<Coords points="787,2108 857,2108 857,2152 787,2152"/>
+	<TextEquiv conf="0.96031">
+	<Unicode>Im</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="882,2107 1024,2107 1024,2161 882,2161"/>
+	<TextEquiv conf="0.96606">
+	<Unicode>Freien.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96319">
+	<Unicode>Im Freien.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Im Freien.</Unicode></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="898,2193 898,2369 908,2369 908,2193"/></SeparatorRegion>
+	<TextRegion id="r3" type="credit">
+	<Coords points="1545,2351 1545,2366 1550,2366 1550,2368 1551,2368 1551,2379 1550,2379 1550,2380 1549,2380 1549,2381 1542,2381 1542,2386 1531,2386 1531,2382 1424,2382 1424,2381 1421,2381 1421,2380 1415,2380 1415,2368 1416,2368 1416,2354 1417,2354 1417,2353 1418,2353 1418,2352 1419,2352 1419,2351"/>
+	<TextLine id="l7">
+	<Coords points="1419,2355 1547,2355 1547,2382 1419,2382"/>
+	<Word id="w9">
+	<Coords points="1419,2355 1547,2355 1547,2382 1419,2382"/>
+	<TextEquiv conf="0.91357">
+	<Unicode>Leidesdorf.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91357">
+	<Unicode>Leidesdorf.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Leidesdorf.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1505,2188 1505,2199 1523,2199 1523,2205 1524,2205 1524,2216 1535,2216 1535,2218 1536,2218 1536,2230 1535,2230 1535,2232 1534,2232 1534,2233 1524,2233 1524,2234 1523,2234 1523,2235 1487,2235 1487,2236 1378,2236 1378,2237 1365,2237 1365,2361 1364,2361 1364,2362 1352,2362 1352,2363 1315,2363 1315,2364 1314,2364 1314,2365 1313,2365 1313,2366 1312,2366 1312,2367 1311,2367 1311,2369 1310,2369 1310,2370 1152,2370 1152,2369 1032,2369 1032,2370 1012,2370 1012,2369 1011,2369 1011,2368 1010,2368 1010,2366 1009,2366 1009,2362 967,2362 967,2361 947,2361 947,2360 944,2360 944,2359 943,2359 943,2338 942,2338 942,2336 941,2336 941,2324 942,2324 942,2193 944,2193 944,2192 946,2192 946,2191 948,2191 948,2190 950,2190 950,2189 962,2189 962,2190 1122,2190 1122,2189 1151,2189 1151,2190 1171,2190 1171,2199 1220,2199 1220,2200 1334,2200 1334,2194 1335,2194 1335,2193 1336,2193 1336,2192 1397,2192 1397,2191 1419,2191 1419,2190 1471,2190 1471,2189 1493,2189 1493,2188"/>
+	<TextLine id="l11">
+	<Coords points="1471,2193 1532,2193 1532,2232 1376,2232 1376,2242 1297,2242 1297,2240 1122,2240 1122,2233 947,2233 947,2194 1270,2194 1270,2197 1401,2197 1401,2195 1471,2195"/>
+	<Word id="w13">
+	<Coords points="947,2194 1023,2194 1023,2233 947,2233"/>
+	<TextEquiv conf="0.95581">
+	<Unicode>bunt</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="1047,2195 1096,2195 1096,2231 1047,2231"/>
+	<TextEquiv conf="0.95581">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w4">
+	<Coords points="1122,2194 1270,2194 1270,2240 1122,2240"/>
+	<TextEquiv conf="0.96012">
+	<Unicode>Blumen,</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="1297,2197 1376,2197 1376,2242 1297,2242"/>
+	<TextEquiv conf="0.96597">
+	<Unicode>grün</Unicode></TextEquiv></Word>
+	<Word id="w6">
+	<Coords points="1401,2195 1447,2195 1447,2232 1401,2232"/>
+	<TextEquiv conf="0.96611">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w7">
+	<Coords points="1471,2193 1532,2193 1532,2232 1471,2232"/>
+	<TextEquiv conf="0.96101">
+	<Unicode>Au.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96081">
+	<Unicode>bunt die Blumen, grün die Au.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="949,2259 1050,2259 1050,2260 1143,2260 1143,2261 1360,2261 1360,2305 949,2305"/>
+	<Word id="w17">
+	<Coords points="949,2259 1050,2259 1050,2305 949,2305"/>
+	<TextEquiv conf="0.96683">
+	<Unicode>Luſtig</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="1077,2260 1143,2260 1143,2305 1077,2305"/>
+	<TextEquiv conf="0.95710">
+	<Unicode>iſt's</Unicode></TextEquiv></Word>
+	<Word id="w11">
+	<Coords points="1167,2261 1211,2261 1211,2297 1167,2297"/>
+	<TextEquiv conf="0.96658">
+	<Unicode>im</Unicode></TextEquiv></Word>
+	<Word id="w12">
+	<Coords points="1237,2261 1360,2261 1360,2305 1237,2305"/>
+	<TextEquiv conf="0.96784">
+	<Unicode>Freien,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96459">
+	<Unicode>Luſtig iſt's im Freien,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="946,2321 1216,2321 1216,2322 1361,2322 1361,2368 1088,2368 1088,2366 946,2366"/>
+	<Word id="w14">
+	<Coords points="946,2321 1072,2321 1072,2366 946,2366"/>
+	<TextEquiv conf="0.96270">
+	<Unicode>Ringel,</Unicode></TextEquiv></Word>
+	<Word id="w19">
+	<Coords points="1088,2321 1216,2321 1216,2368 1088,2368"/>
+	<TextEquiv conf="0.94604">
+	<Unicode>Ringel,</Unicode></TextEquiv></Word>
+	<Word id="w16">
+	<Coords points="1232,2322 1361,2322 1361,2368 1232,2368"/>
+	<TextEquiv conf="0.96636">
+	<Unicode>Reihen.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95837">
+	<Unicode>Ringel, Ringel, Reihen.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>bunt die Blumen, grün die Au.
+Luſtig iſt's im Freien,
+Ringel, Ringel, Reihen.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="293,2191 293,2192 295,2192 295,2193 410,2193 410,2192 624,2192 624,2193 625,2193 625,2201 643,2201 643,2202 665,2202 665,2203 666,2203 666,2204 667,2204 667,2205 668,2205 668,2221 677,2221 677,2222 678,2222 678,2223 679,2223 679,2316 791,2316 791,2317 810,2317 810,2326 848,2326 848,2327 849,2327 849,2346 859,2346 859,2347 860,2347 860,2362 859,2362 859,2364 858,2364 858,2365 857,2365 857,2366 855,2366 855,2367 844,2367 844,2362 828,2362 828,2361 645,2361 645,2362 643,2362 643,2363 642,2363 642,2364 641,2364 641,2365 640,2365 640,2366 639,2366 639,2367 627,2367 627,2368 616,2368 616,2362 468,2362 468,2364 467,2364 467,2365 466,2365 466,2366 409,2366 409,2369 397,2369 397,2360 351,2360 351,2359 270,2359 270,2358 267,2358 267,2357 266,2357 266,2356 265,2356 265,2355 264,2355 264,2354 263,2354 263,2353 262,2353 262,2352 261,2352 261,2350 260,2350 260,2348 259,2348 259,2343 258,2343 258,2327 259,2327 259,2197 260,2197 260,2195 261,2195 261,2193 262,2193 262,2192 264,2192 264,2191"/>
+	<TextLine id="l21">
+	<Coords points="264,2196 390,2196 390,2197 675,2197 675,2243 533,2243 533,2244 406,2244 406,2243 264,2243"/>
+	<Word id="w23">
+	<Coords points="264,2196 390,2196 390,2243 264,2243"/>
+	<TextEquiv conf="0.96602">
+	<Unicode>Ringel,</Unicode></TextEquiv></Word>
+	<Word id="w25">
+	<Coords points="406,2197 533,2197 533,2244 406,2244"/>
+	<TextEquiv conf="0.96204">
+	<Unicode>Ringel,</Unicode></TextEquiv></Word>
+	<Word id="w27">
+	<Coords points="547,2197 675,2197 675,2243 547,2243"/>
+	<TextEquiv conf="0.96805">
+	<Unicode>Reihen,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96537">
+	<Unicode>Ringel, Ringel, Reihen,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="538,2255 657,2255 657,2300 447,2300 447,2302 356,2302 356,2303 265,2303 265,2257 472,2257 472,2256 538,2256"/>
+	<Word id="w29">
+	<Coords points="265,2257 356,2257 356,2303 265,2303"/>
+	<TextEquiv conf="0.96441">
+	<Unicode>luſtig</Unicode></TextEquiv></Word>
+	<Word id="w31">
+	<Coords points="382,2257 447,2257 447,2302 382,2302"/>
+	<TextEquiv conf="0.95002">
+	<Unicode>iſt's</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="472,2256 513,2256 513,2292 472,2292"/>
+	<TextEquiv conf="0.95002">
+	<Unicode>im</Unicode></TextEquiv></Word>
+	<Word id="w33">
+	<Coords points="538,2255 657,2255 657,2300 538,2300"/>
+	<TextEquiv conf="0.96566">
+	<Unicode>Freien,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95753">
+	<Unicode>luſtig iſt's im Freien,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="263,2320 425,2320 425,2322 532,2322 532,2321 856,2321 856,2363 752,2363 752,2364 617,2364 617,2358 508,2358 508,2362 425,2362 425,2366 386,2366 386,2356 263,2356"/>
+	<Word id="w35">
+	<Coords points="263,2320 370,2320 370,2356 263,2356"/>
+	<TextEquiv conf="0.90819">
+	<Unicode>Sonn'</Unicode></TextEquiv></Word>
+	<Word id="w37">
+	<Coords points="386,2320 425,2320 425,2366 386,2366"/>
+	<TextEquiv conf="0.95945">
+	<Unicode>iſt</Unicode></TextEquiv></Word>
+	<Word id="w39">
+	<Coords points="449,2322 508,2322 508,2362 449,2362"/>
+	<TextEquiv conf="0.96553">
+	<Unicode>hell</Unicode></TextEquiv></Word>
+	<Word id="w41">
+	<Coords points="532,2321 593,2321 593,2358 532,2358"/>
+	<TextEquiv conf="0.96007">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w43">
+	<Coords points="617,2321 752,2321 752,2364 617,2364"/>
+	<TextEquiv conf="0.95068">
+	<Unicode>Himmel</Unicode></TextEquiv></Word>
+	<Word id="w45">
+	<Coords points="775,2321 856,2321 856,2363 775,2363"/>
+	<TextEquiv conf="0.96411">
+	<Unicode>blau,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95134">
+	<Unicode>Sonn' iſt hell und Himmel blau,</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Ringel, Ringel, Reihen,
+luſtig iſt's im Freien,
+Sonn' iſt hell und Himmel blau,</Unicode></TextEquiv></TextRegion></Page></PcGts>

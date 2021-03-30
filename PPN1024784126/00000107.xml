@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-03-30T10:34:35</Created>
+	<LastChange>2021-03-30T10:38:47</LastChange></Metadata>
+	<Page imageFilename="00000107.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1686" imageHeight="2644" type="content" primaryLanguage="German" primaryScript="Latf - Latin (Fraktur variant)">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r7" index="6"/>
+	<RegionRefIndexed regionRef="r6" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="800,160 800,174 801,174 801,175 802,175 802,176 803,176 803,178 804,178 804,183 910,183 910,194 909,194 909,195 804,195 804,196 803,196 803,199 802,199 802,200 801,200 801,201 800,201 800,202 799,202 799,203 798,203 798,204 796,204 796,205 782,205 782,204 753,204 753,203 751,203 751,202 750,202 750,199 749,199 749,195 656,195 656,194 630,194 630,182 747,182 747,170 748,170 748,166 749,166 749,164 750,164 750,163 751,163 751,162 752,162 752,161 754,161 754,160"/>
+	<TextLine id="l1">
+	<Coords points="752,165 800,165 800,188 906,188 906,191 800,191 800,201 752,201 752,191 635,191 635,187 752,187"/>
+	<Word id="w2">
+	<Coords points="635,187 685,187 685,191 635,191"/>
+	<TextEquiv conf="0.75656">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="752,165 800,165 800,201 752,201"/>
+	<TextEquiv conf="0.86116">
+	<Unicode>95</Unicode></TextEquiv></Word>
+	<Word id="w4">
+	<Coords points="855,188 906,188 906,191 855,191"/>
+	<TextEquiv conf="0.83491">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.81754">
+	<Unicode>— 95 —</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>— 95 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords points="421,261 421,262 423,262 423,264 424,264 424,266 425,266 425,277 542,277 542,266 543,266 543,264 544,264 544,263 545,263 545,262 612,262 612,261 625,261 625,262 626,262 626,277 774,277 774,262 836,262 836,263 951,263 951,262 962,262 962,263 963,263 963,271 1075,271 1075,270 1076,270 1076,269 1088,269 1088,270 1089,270 1089,279 1124,279 1124,280 1207,280 1207,281 1210,281 1210,282 1212,282 1212,283 1214,283 1214,284 1215,284 1215,285 1216,285 1216,287 1217,287 1217,288 1218,288 1218,290 1219,290 1219,292 1220,292 1220,295 1221,295 1221,304 1237,304 1237,305 1238,305 1238,307 1239,307 1239,324 1238,324 1238,325 1237,325 1237,326 1207,326 1207,327 1180,327 1180,334 1179,334 1179,336 1178,336 1178,337 1177,337 1177,338 1176,338 1176,339 1175,339 1175,340 1173,340 1173,341 1167,341 1167,342 1145,342 1145,341 1141,341 1141,340 1138,340 1138,339 1136,339 1136,338 1135,338 1135,336 1134,336 1134,326 876,326 876,325 825,325 825,324 632,324 632,325 520,325 520,324 439,324 439,323 343,323 343,272 342,272 342,261"/>
+	<TextLine id="l9">
+	<Coords points="347,266 728,266 728,267 1235,267 1235,338 779,338 779,321 510,321 510,320 347,320"/>
+	<Word id="w11">
+	<Coords points="347,266 467,266 467,320 347,320"/>
+	<TextEquiv conf="0.93303">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w13">
+	<Coords points="510,266 728,266 728,321 510,321"/>
+	<TextEquiv conf="0.89962">
+	<Unicode>sieben</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="779,267 1235,267 1235,338 779,338"/>
+	<TextEquiv conf="0.96659">
+	<Unicode>Wochentage.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.93308">
+	<Unicode>Die sieben Wochentage.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Die sieben Wochentage.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="93,367 93,368 96,368 96,369 99,369 99,370 101,370 101,371 102,371 102,381 438,381 438,369 498,369 498,381 801,381 801,374 806,374 806,373 822,373 822,374 832,374 832,375 837,375 837,376 839,376 839,377 842,377 842,378 875,378 875,379 1199,379 1199,372 1260,372 1260,374 1454,374 1454,390 1465,390 1465,391 1467,391 1467,392 1469,392 1469,394 1470,394 1470,413 1485,413 1485,414 1487,414 1487,415 1488,415 1488,416 1489,416 1489,418 1490,418 1490,437 1489,437 1489,439 1488,439 1488,441 1487,441 1487,442 1486,442 1486,443 1485,443 1485,444 1484,444 1484,445 1483,445 1483,446 1362,446 1362,525 1361,525 1361,528 1360,528 1360,529 1358,529 1358,530 1346,530 1346,529 1047,529 1047,530 891,530 891,532 890,532 890,534 889,534 889,536 888,536 888,537 887,537 887,538 886,538 886,539 885,539 885,540 883,540 883,541 882,541 882,542 870,542 870,541 848,541 848,540 843,540 843,539 841,539 841,538 839,538 839,537 838,537 838,535 837,535 837,528 794,528 794,527 543,527 543,531 542,531 542,533 541,533 541,535 540,535 540,536 539,536 539,537 538,537 538,538 537,538 537,539 535,539 535,540 523,540 523,539 498,539 498,538 496,538 496,537 494,537 494,536 493,536 493,535 492,535 492,534 491,534 491,526 364,526 364,525 207,525 207,524 188,524 188,428 81,428 81,427 72,427 72,426 69,426 69,425 67,425 67,424 65,424 65,423 64,423 64,419 63,419 63,403 64,403 64,376 65,376 65,373 66,373 66,371 68,371 68,370 69,370 69,369 71,369 71,368 74,368 74,367"/>
+	<TextLine id="l17">
+	<Coords points="68,372 312,372 312,374 668,374 668,378 1202,378 1202,377 1486,377 1486,442 806,442 806,439 441,439 441,437 68,437"/>
+	<Word id="w19">
+	<Coords points="68,372 312,372 312,437 68,437"/>
+	<TextEquiv conf="0.95858">
+	<Unicode>Sonntag,</Unicode></TextEquiv></Word>
+	<Word id="w21">
+	<Coords points="441,374 668,374 668,439 441,439"/>
+	<TextEquiv conf="0.96736">
+	<Unicode>Montag,</Unicode></TextEquiv></Word>
+	<Word id="w23">
+	<Coords points="806,378 1072,378 1072,442 806,442"/>
+	<TextEquiv conf="0.91319">
+	<Unicode>Dienstag,</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="1202,377 1486,377 1486,442 1202,442"/>
+	<TextEquiv conf="0.96377">
+	<Unicode>Mittwoch,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95073">
+	<Unicode>Sonntag, Montag, Dienstag, Mittwoch,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="193,471 539,471 539,472 887,472 887,474 1358,474 1358,526 887,526 887,538 674,538 674,536 193,536"/>
+	<Word id="w7">
+	<Coords points="193,471 539,471 539,536 193,536"/>
+	<TextEquiv conf="0.90635">
+	<Unicode>Donnerstag,</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="674,472 887,472 887,538 674,538"/>
+	<TextEquiv conf="0.96270">
+	<Unicode>Freitag,</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="1025,474 1358,474 1358,526 1025,526"/>
+	<TextEquiv conf="0.96183">
+	<Unicode>Sonnabend.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94363">
+	<Unicode>Donnerstag, Freitag, Sonnabend.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Sonntag, Montag, Dienstag, Mittwoch,
+Donnerstag, Freitag, Sonnabend.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="heading">
+	<Coords points="517,658 517,659 518,659 518,660 519,660 519,661 520,661 520,674 702,674 702,663 703,663 703,662 705,662 705,661 747,661 747,660 749,660 749,659 794,659 794,660 900,660 900,675 1030,675 1030,674 1031,674 1031,673 1032,673 1032,671 1033,671 1033,668 1034,668 1034,666 1046,666 1046,667 1047,667 1047,669 1048,669 1048,676 1084,676 1084,677 1086,677 1086,678 1088,678 1088,679 1090,679 1090,680 1091,680 1091,681 1092,681 1092,682 1093,682 1093,684 1094,684 1094,685 1095,685 1095,687 1096,687 1096,690 1097,690 1097,700 1113,700 1113,701 1114,701 1114,702 1115,702 1115,704 1116,704 1116,718 1115,718 1115,720 1114,720 1114,721 1113,721 1113,722 1082,722 1082,723 1071,723 1071,722 848,722 848,721 711,721 711,720 535,720 535,719 441,719 441,718 440,718 440,668 439,668 439,658"/>
+	<TextLine id="l25">
+	<Coords points="444,663 560,663 560,664 799,664 799,665 1112,665 1112,719 837,719 837,717 602,717 602,716 444,716"/>
+	<Word id="w27">
+	<Coords points="444,663 560,663 560,716 444,716"/>
+	<TextEquiv conf="0.95198">
+	<Unicode>Die</Unicode></TextEquiv></Word>
+	<Word id="w29">
+	<Coords points="602,664 799,664 799,717 602,717"/>
+	<TextEquiv conf="0.69715">
+	<Unicode>Zwölf</Unicode></TextEquiv></Word>
+	<Word id="w31">
+	<Coords points="837,665 1112,665 1112,719 837,719"/>
+	<TextEquiv conf="0.96113">
+	<Unicode>Monate.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.87009">
+	<Unicode>Die Zwölf Monate.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Die Zwölf Monate.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="90,763 90,764 91,764 91,780 153,780 153,781 591,781 591,766 592,766 592,765 603,765 603,766 634,766 634,767 635,767 635,768 679,768 679,784 1165,784 1165,768 1226,768 1226,775 1254,775 1254,776 1256,776 1256,777 1257,777 1257,785 1287,785 1287,786 1289,786 1289,787 1319,787 1319,808 1333,808 1333,809 1334,809 1334,810 1335,810 1335,811 1336,811 1336,812 1337,812 1337,814 1338,814 1338,964 1399,964 1399,965 1400,965 1400,980 1473,980 1473,981 1475,981 1475,982 1476,982 1476,983 1477,983 1477,1004 1488,1004 1488,1005 1489,1005 1489,1006 1490,1006 1490,1008 1491,1008 1491,1010 1492,1010 1492,1025 1491,1025 1491,1029 1490,1029 1490,1030 1489,1030 1489,1032 1488,1032 1488,1033 1487,1033 1487,1034 1486,1034 1486,1035 1484,1035 1484,1036 1479,1036 1479,1118 1478,1118 1478,1119 1477,1119 1477,1120 1316,1120 1316,1119 1272,1119 1272,1118 911,1118 911,1119 910,1119 910,1122 909,1122 909,1124 908,1124 908,1125 907,1125 907,1126 906,1126 906,1127 905,1127 905,1128 904,1128 904,1129 903,1129 903,1130 902,1130 902,1131 889,1131 889,1117 691,1117 691,1116 334,1116 334,1117 333,1117 333,1119 332,1119 332,1121 331,1121 331,1123 330,1123 330,1124 329,1124 329,1125 328,1125 328,1126 326,1126 326,1127 313,1127 313,1114 286,1114 286,1113 87,1113 87,1112 84,1112 84,1111 82,1111 82,1110 80,1110 80,1109 79,1109 79,1108 77,1108 77,1107 76,1107 76,1106 75,1106 75,1105 74,1105 74,1104 73,1104 73,1103 72,1103 72,1101 71,1101 71,1100 70,1100 70,1098 69,1098 69,1097 68,1097 68,1094 67,1094 67,1088 66,1088 66,1029 64,1029 64,836 61,836 61,835 59,835 59,834 58,834 58,830 57,830 57,819 58,819 58,818 69,818 69,764 70,764 70,763"/>
+	<TextLine id="l33">
+	<Coords points="62,768 269,768 269,770 833,770 833,773 1334,773 1334,837 1168,837 1168,836 596,836 596,832 62,832"/>
+	<Word id="w35">
+	<Coords points="62,768 269,768 269,832 62,832"/>
+	<TextEquiv conf="0.96734">
+	<Unicode>Januar,</Unicode></TextEquiv></Word>
+	<Word id="w37">
+	<Coords points="596,770 833,770 833,836 596,836"/>
+	<TextEquiv conf="0.96638">
+	<Unicode>Februar,</Unicode></TextEquiv></Word>
+	<Word id="w39">
+	<Coords points="1168,773 1334,773 1334,837 1168,837"/>
+	<TextEquiv conf="0.58180">
+	<Unicode>März,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.83851">
+	<Unicode>Januar, Februar, März,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="71,865 233,865 233,867 719,867 719,870 1301,870 1301,934 1156,934 1156,932 595,932 595,929 71,929"/>
+	<Word id="w6">
+	<Coords points="71,865 233,865 233,929 71,929"/>
+	<TextEquiv conf="0.96372">
+	<Unicode>April,</Unicode></TextEquiv></Word>
+	<Word id="w41">
+	<Coords points="595,867 719,867 719,932 595,932"/>
+	<TextEquiv conf="0.89237">
+	<Unicode>Mai,</Unicode></TextEquiv></Word>
+	<Word id="w43">
+	<Coords points="1156,870 1301,870 1301,934 1156,934"/>
+	<TextEquiv conf="0.96434">
+	<Unicode>Juni,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94015">
+	<Unicode>April, Mai, Juni,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="69,961 183,961 183,965 813,965 813,967 1488,967 1488,1032 1171,1032 1171,1030 596,1030 596,1026 69,1026"/>
+	<Word id="w45">
+	<Coords points="69,961 183,961 183,1026 69,1026"/>
+	<TextEquiv conf="0.96437">
+	<Unicode>Juli,</Unicode></TextEquiv></Word>
+	<Word id="w12">
+	<Coords points="596,965 813,965 813,1030 596,1030"/>
+	<TextEquiv conf="0.92092">
+	<Unicode>August,</Unicode></TextEquiv></Word>
+	<Word id="w47">
+	<Coords points="1171,967 1488,967 1488,1032 1171,1032"/>
+	<TextEquiv conf="0.96599">
+	<Unicode>September,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95043">
+	<Unicode>Juli, August, September,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="71,1057 330,1057 330,1061 907,1061 907,1064 1475,1064 1475,1116 907,1116 907,1127 594,1127 594,1123 71,1123"/>
+	<Word id="w49">
+	<Coords points="71,1057 330,1057 330,1123 71,1123"/>
+	<TextEquiv conf="0.96153">
+	<Unicode>Oktober,</Unicode></TextEquiv></Word>
+	<Word id="w16">
+	<Coords points="594,1061 907,1061 907,1127 594,1127"/>
+	<TextEquiv conf="0.96264">
+	<Unicode>November,</Unicode></TextEquiv></Word>
+	<Word id="w17">
+	<Coords points="1171,1064 1475,1064 1475,1116 1171,1116"/>
+	<TextEquiv conf="0.94981">
+	<Unicode>Dezember.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95799">
+	<Unicode>Oktober, November, Dezember.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Januar, Februar, März,
+April, Mai, Juni,
+Juli, August, September,
+Oktober, November, Dezember.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords points="441,1237 441,1253 469,1253 469,1254 684,1254 684,1243 686,1243 686,1242 690,1242 690,1241 692,1241 692,1240 694,1240 694,1239 696,1239 696,1238 708,1238 708,1239 730,1239 730,1240 890,1240 890,1241 892,1241 892,1242 893,1242 893,1245 894,1245 894,1256 1090,1256 1090,1243 1091,1243 1091,1242 1092,1242 1092,1241 1093,1241 1093,1240 1196,1240 1196,1241 1197,1241 1197,1280 1218,1280 1218,1281 1219,1281 1219,1282 1220,1282 1220,1284 1221,1284 1221,1299 1220,1299 1220,1301 1218,1301 1218,1302 1216,1302 1216,1303 1203,1303 1203,1302 982,1302 982,1310 981,1310 981,1312 980,1312 980,1313 979,1313 979,1314 977,1314 977,1315 974,1315 974,1316 969,1316 969,1317 950,1317 950,1316 943,1316 943,1315 940,1315 940,1314 939,1314 939,1313 938,1313 938,1312 937,1312 937,1310 936,1310 936,1301 680,1301 680,1300 520,1300 520,1299 450,1299 450,1298 371,1298 371,1297 370,1297 370,1295 369,1295 369,1292 368,1292 368,1289 367,1289 367,1286 366,1286 366,1282 365,1282 365,1280 364,1280 364,1277 363,1277 363,1275 362,1275 362,1272 361,1272 361,1269 360,1269 360,1267 359,1267 359,1264 358,1264 358,1261 357,1261 357,1258 356,1258 356,1256 355,1256 355,1254 354,1254 354,1252 353,1252 353,1251 352,1251 352,1249 351,1249 351,1248 349,1248 349,1238 350,1238 350,1237"/>
+	<TextLine id="l51">
+	<Coords points="354,1242 632,1242 632,1243 774,1243 774,1245 1217,1245 1217,1299 1017,1299 1017,1313 816,1313 816,1297 671,1297 671,1296 354,1296"/>
+	<Word id="w53">
+	<Coords points="354,1242 632,1242 632,1296 354,1296"/>
+	<TextEquiv conf="0.92393">
+	<Unicode>Woraus</Unicode></TextEquiv></Word>
+	<Word id="w55">
+	<Coords points="671,1243 774,1243 774,1297 671,1297"/>
+	<TextEquiv conf="0.96205">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w57">
+	<Coords points="816,1245 1017,1245 1017,1313 816,1313"/>
+	<TextEquiv conf="0.91531">
+	<Unicode>Dinge</Unicode></TextEquiv></Word>
+	<Word id="w59">
+	<Coords points="1057,1245 1217,1245 1217,1299 1057,1299"/>
+	<TextEquiv conf="0.85430">
+	<Unicode>sind.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.91389">
+	<Unicode>Woraus die Dinge sind.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Woraus die Dinge sind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="other">
+	<Coords points="1143,2422 1143,2423 1158,2423 1158,2426 1163,2426 1163,2431 1164,2431 1164,2443 1162,2443 1162,2444 1158,2444 1158,2447 1143,2447 1143,2455 1142,2455 1142,2456 1130,2456 1130,2455 1129,2455 1129,2454 1128,2454 1128,2440 1124,2440 1124,2439 1123,2439 1123,2428 1124,2428 1124,2423 1126,2423 1126,2422"/>
+	<TextLine id="l61">
+	<Coords points="1128,2427 1160,2427 1160,2452 1128,2452"/>
+	<Word id="w63">
+	<Coords points="1128,2427 1160,2427 1160,2452 1128,2452"/>
+	<TextEquiv conf="0.26506">
+	<Unicode>7*</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.26506">
+	<Unicode>7*</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>7*</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="218,1343 218,1344 220,1344 220,1345 349,1345 349,1351 398,1351 398,1352 399,1352 399,1353 400,1353 400,1357 450,1357 450,1362 578,1362 578,1345 603,1345 603,1348 687,1348 687,1349 688,1349 688,1352 800,1352 800,1351 802,1351 802,1350 804,1350 804,1349 806,1349 806,1348 880,1348 880,1347 906,1347 906,1353 971,1353 971,1354 972,1354 972,1355 973,1355 973,1356 974,1356 974,1364 1143,1364 1143,1353 1145,1353 1145,1352 1147,1352 1147,1351 1149,1351 1149,1350 1151,1350 1151,1349 1162,1349 1162,1365 1291,1365 1291,1348 1325,1348 1325,1349 1351,1349 1351,1350 1428,1350 1428,1366 1438,1366 1438,1367 1468,1367 1468,1368 1471,1368 1471,1369 1473,1369 1473,1384 1474,1384 1474,1386 1475,1386 1475,1387 1476,1387 1476,1390 1489,1390 1489,1391 1491,1391 1491,1392 1492,1392 1492,1393 1493,1393 1493,1395 1494,1395 1494,1410 1493,1410 1493,1412 1492,1412 1492,1414 1491,1414 1491,1415 1490,1415 1490,1416 1489,1416 1489,1417 1488,1417 1488,1418 1486,1418 1486,1419 1485,1419 1485,1420 1482,1420 1482,1421 1437,1421 1437,1543 1466,1543 1466,1544 1468,1544 1468,1545 1469,1545 1469,1546 1470,1546 1470,1547 1471,1547 1471,1566 1486,1566 1486,1567 1488,1567 1488,1568 1489,1568 1489,1569 1490,1569 1490,1570 1491,1570 1491,1573 1492,1573 1492,1854 1491,1854 1491,1856 1490,1856 1490,1858 1489,1858 1489,1859 1488,1859 1488,1860 1487,1860 1487,1861 1485,1861 1485,1862 1483,1862 1483,1863 1469,1863 1469,1975 1470,1975 1470,1976 1471,1976 1471,2007 1486,2007 1486,2008 1488,2008 1488,2010 1489,2010 1489,2011 1490,2011 1490,2014 1491,2014 1491,2029 1490,2029 1490,2192 1491,2192 1491,2203 1490,2203 1490,2207 1489,2207 1489,2209 1488,2209 1488,2210 1487,2210 1487,2211 1486,2211 1486,2212 1485,2212 1485,2213 1484,2213 1484,2214 1483,2214 1483,2215 1482,2215 1482,2216 1470,2216 1470,2214 1358,2214 1358,2294 1357,2294 1357,2296 1356,2296 1356,2298 1355,2298 1355,2299 1354,2299 1354,2300 1353,2300 1353,2301 1352,2301 1352,2302 1350,2302 1350,2303 1279,2303 1279,2375 1278,2375 1278,2377 1277,2377 1277,2378 1275,2378 1275,2379 1262,2379 1262,2378 1075,2378 1075,2379 1055,2379 1055,2378 756,2378 756,2377 628,2377 628,2378 627,2378 627,2382 626,2382 626,2383 625,2383 625,2385 624,2385 624,2386 623,2386 623,2387 622,2387 622,2388 620,2388 620,2389 607,2389 607,2376 474,2376 474,2375 379,2375 379,2374 347,2374 347,2373 344,2373 344,2372 123,2372 123,2371 78,2371 78,2370 77,2370 77,2367 76,2367 76,2364 75,2364 75,2361 74,2361 74,2358 73,2358 73,2356 72,2356 72,2353 71,2353 71,2350 70,2350 70,2347 69,2347 69,2345 68,2345 68,2344 67,2344 67,2342 65,2342 65,2341 64,2341 64,2331 65,2331 65,2330 66,2330 66,2189 65,2189 65,1900 66,1900 66,1811 67,1811 67,1656 66,1656 66,1475 65,1475 65,1462 66,1462 66,1344 67,1344 67,1343"/>
+	<TextLine id="l65">
+	<Coords points="71,1348 363,1348 363,1356 452,1356 452,1367 583,1367 583,1350 765,1350 765,1353 884,1353 884,1352 1163,1352 1163,1370 1296,1370 1296,1353 1490,1353 1490,1417 1296,1417 1296,1403 1176,1403 1176,1402 765,1402 765,1415 583,1415 583,1400 468,1400 468,1399 190,1399 190,1398 71,1398"/>
+	<Word id="w67">
+	<Coords points="71,1348 177,1348 177,1398 71,1398"/>
+	<TextEquiv conf="0.27385">
+	<Unicode>Der</Unicode></TextEquiv></Word>
+	<Word id="w69">
+	<Coords points="190,1348 363,1348 363,1399 190,1399"/>
+	<TextEquiv conf="0.27385">
+	<Unicode>Schuh</Unicode></TextEquiv></Word>
+	<Word id="w71">
+	<Coords points="384,1356 452,1356 452,1399 384,1399"/>
+	<TextEquiv conf="0.92392">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w73">
+	<Coords points="468,1367 568,1367 568,1400 468,1400"/>
+	<TextEquiv conf="0.96675">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w75">
+	<Coords points="583,1350 765,1350 765,1415 583,1415"/>
+	<TextEquiv conf="0.94466">
+	<Unicode>Leder,</Unicode></TextEquiv></Word>
+	<Word id="w77">
+	<Coords points="785,1353 869,1353 869,1402 785,1402"/>
+	<TextEquiv conf="0.96368">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w79">
+	<Coords points="884,1352 1163,1352 1163,1402 884,1402"/>
+	<TextEquiv conf="0.96272">
+	<Unicode>Leinwand</Unicode></TextEquiv></Word>
+	<Word id="w81">
+	<Coords points="1176,1370 1278,1370 1278,1403 1176,1403"/>
+	<TextEquiv conf="0.96318">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="1296,1353 1490,1353 1490,1417 1296,1417"/>
+	<TextEquiv conf="0.96620">
+	<Unicode>Flachs,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.80431">
+	<Unicode>Der Schuh ist von Leder, die Leinwand von Flachs,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="201,1433 355,1433 355,1454 536,1454 536,1438 717,1438 717,1441 886,1441 886,1439 1055,1439 1055,1458 1223,1458 1223,1441 1433,1441 1433,1506 1223,1506 1223,1491 1093,1491 1093,1490 717,1490 717,1504 536,1504 536,1487 201,1487 201,1486 70,1486 70,1437 201,1437"/>
+	<Word id="w83">
+	<Coords points="70,1437 164,1437 164,1486 70,1486"/>
+	<TextEquiv conf="0.96853">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w85">
+	<Coords points="201,1433 355,1433 355,1487 201,1487"/>
+	<TextEquiv conf="0.96406">
+	<Unicode>Taler</Unicode></TextEquiv></Word>
+	<Word id="w14">
+	<Coords points="392,1454 495,1454 495,1487 392,1487"/>
+	<TextEquiv conf="0.96503">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w87">
+	<Coords points="536,1438 717,1438 717,1504 536,1504"/>
+	<TextEquiv conf="0.96439">
+	<Unicode>Silber,</Unicode></TextEquiv></Word>
+	<Word id="w89">
+	<Coords points="759,1441 844,1441 844,1490 759,1490"/>
+	<TextEquiv conf="0.96812">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w91">
+	<Coords points="886,1439 1055,1439 1055,1490 886,1490"/>
+	<TextEquiv conf="0.96904">
+	<Unicode>Kerze</Unicode></TextEquiv></Word>
+	<Word id="w18">
+	<Coords points="1093,1458 1194,1458 1194,1491 1093,1491"/>
+	<TextEquiv conf="0.96801">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w93">
+	<Coords points="1223,1441 1433,1441 1433,1506 1223,1506"/>
+	<TextEquiv conf="0.96546">
+	<Unicode>Wachs,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96658">
+	<Unicode>der Taler von Silber, die Kerze von Wachs,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l20">
+	<Coords points="181,1524 393,1524 393,1542 527,1542 527,1526 777,1526 777,1530 913,1530 913,1529 1095,1529 1095,1536 1182,1536 1182,1546 1323,1546 1323,1530 1488,1530 1488,1595 1323,1595 1323,1579 913,1579 913,1578 777,1578 777,1591 527,1591 527,1575 181,1575 181,1574 71,1574 71,1527 181,1527"/>
+	<Word id="w95">
+	<Coords points="71,1527 164,1527 164,1574 71,1574"/>
+	<TextEquiv conf="0.93262">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w22">
+	<Coords points="181,1524 393,1524 393,1575 181,1575"/>
+	<TextEquiv conf="0.92825">
+	<Unicode>Mörser</Unicode></TextEquiv></Word>
+	<Word id="w97">
+	<Coords points="408,1542 510,1542 510,1575 408,1575"/>
+	<TextEquiv conf="0.93271">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w24">
+	<Coords points="527,1526 777,1526 777,1591 527,1591"/>
+	<TextEquiv conf="0.92296">
+	<Unicode>Messing,</Unicode></TextEquiv></Word>
+	<Word id="w25">
+	<Coords points="798,1530 891,1530 891,1578 798,1578"/>
+	<TextEquiv conf="0.96036">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w26">
+	<Coords points="913,1529 1095,1529 1095,1579 913,1579"/>
+	<TextEquiv conf="0.93232">
+	<Unicode>Kamm</Unicode></TextEquiv></Word>
+	<Word id="w99">
+	<Coords points="1117,1536 1182,1536 1182,1579 1117,1579"/>
+	<TextEquiv conf="0.93139">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w28">
+	<Coords points="1198,1546 1300,1546 1300,1579 1198,1579"/>
+	<TextEquiv conf="0.96992">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w101">
+	<Coords points="1323,1530 1488,1530 1488,1595 1323,1595"/>
+	<TextEquiv conf="0.96594">
+	<Unicode>Horn,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94183">
+	<Unicode>der Mörser von Messing, der Kamm ist von Horn,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l30">
+	<Coords points="187,1612 377,1612 377,1631 541,1631 541,1613 757,1613 757,1633 923,1633 923,1616 1061,1616 1061,1624 1182,1624 1182,1619 1303,1619 1303,1617 1488,1617 1488,1682 1303,1682 1303,1668 923,1668 923,1666 757,1666 757,1680 541,1680 541,1664 408,1664 408,1663 187,1663 187,1662 71,1662 71,1614 187,1614"/>
+	<Word id="w103">
+	<Coords points="71,1614 164,1614 164,1662 71,1662"/>
+	<TextEquiv conf="0.93279">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w32">
+	<Coords points="187,1612 377,1612 377,1663 187,1663"/>
+	<TextEquiv conf="0.87136">
+	<Unicode>Kessel</Unicode></TextEquiv></Word>
+	<Word id="w33">
+	<Coords points="408,1631 511,1631 511,1664 408,1664"/>
+	<TextEquiv conf="0.96398">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w34">
+	<Coords points="541,1613 757,1613 757,1680 541,1680"/>
+	<TextEquiv conf="0.95467">
+	<Unicode>Kupfer,</Unicode></TextEquiv></Word>
+	<Word id="w105">
+	<Coords points="789,1633 890,1633 890,1666 789,1666"/>
+	<TextEquiv conf="0.96169">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w36">
+	<Coords points="923,1616 1061,1616 1061,1668 923,1668"/>
+	<TextEquiv conf="0.93284">
+	<Unicode>Stahl</Unicode></TextEquiv></Word>
+	<Word id="w107">
+	<Coords points="1091,1624 1156,1624 1156,1668 1091,1668"/>
+	<TextEquiv conf="0.92900">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w38">
+	<Coords points="1182,1619 1276,1619 1276,1668 1182,1668"/>
+	<TextEquiv conf="0.96371">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w109">
+	<Coords points="1303,1617 1488,1617 1488,1682 1303,1682"/>
+	<TextEquiv conf="0.96726">
+	<Unicode>Sporn,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94192">
+	<Unicode>der Kessel von Kupfer, von Stahl ist der Sporn,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l40">
+	<Coords points="190,1700 460,1700 460,1719 606,1719 606,1702 778,1702 778,1706 924,1706 924,1705 1079,1705 1079,1708 1189,1708 1189,1723 1343,1723 1343,1706 1488,1706 1488,1770 1343,1770 1343,1756 1079,1756 1079,1769 924,1769 924,1755 778,1755 778,1766 606,1766 606,1753 482,1753 482,1752 190,1752 190,1751 72,1751 72,1702 190,1702"/>
+	<Word id="w111">
+	<Coords points="72,1702 163,1702 163,1751 72,1751"/>
+	<TextEquiv conf="0.93302">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w42">
+	<Coords points="190,1700 460,1700 460,1752 190,1752"/>
+	<TextEquiv conf="0.92254">
+	<Unicode>Schlüssel</Unicode></TextEquiv></Word>
+	<Word id="w113">
+	<Coords points="482,1719 583,1719 583,1753 482,1753"/>
+	<TextEquiv conf="0.93252">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w44">
+	<Coords points="606,1702 778,1702 778,1766 606,1766"/>
+	<TextEquiv conf="0.90684">
+	<Unicode>Eisen,</Unicode></TextEquiv></Word>
+	<Word id="w115">
+	<Coords points="808,1706 902,1706 902,1755 808,1755"/>
+	<TextEquiv conf="0.96477">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w46">
+	<Coords points="924,1705 1079,1705 1079,1769 924,1769"/>
+	<TextEquiv conf="0.93001">
+	<Unicode>Knopf</Unicode></TextEquiv></Word>
+	<Word id="w117">
+	<Coords points="1085,1708 1189,1708 1189,1756 1085,1756"/>
+	<TextEquiv conf="0.92702">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w48">
+	<Coords points="1209,1723 1311,1723 1311,1756 1209,1756"/>
+	<TextEquiv conf="0.96687">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w119">
+	<Coords points="1343,1706 1488,1706 1488,1770 1343,1770"/>
+	<TextEquiv conf="0.96459">
+	<Unicode>Bein,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.93869">
+	<Unicode>der Schlüssel von Eisen, der Knopf ist von Bein,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l50">
+	<Coords points="203,1786 345,1786 345,1797 453,1797 453,1808 621,1808 621,1791 812,1791 812,1794 978,1794 978,1793 1158,1793 1158,1811 1330,1811 1330,1794 1488,1794 1488,1859 1330,1859 1330,1844 1158,1844 1158,1845 978,1845 978,1843 812,1843 812,1857 621,1857 621,1842 491,1842 491,1840 203,1840 203,1839 71,1839 71,1789 203,1789"/>
+	<Word id="w51">
+	<Coords points="71,1789 163,1789 163,1839 71,1839"/>
+	<TextEquiv conf="0.96519">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w52">
+	<Coords points="203,1786 345,1786 345,1840 203,1840"/>
+	<TextEquiv conf="0.93292">
+	<Unicode>Tuch</Unicode></TextEquiv></Word>
+	<Word id="w121">
+	<Coords points="386,1797 453,1797 453,1840 386,1840"/>
+	<TextEquiv conf="0.91938">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w54">
+	<Coords points="491,1808 591,1808 591,1842 491,1842"/>
+	<TextEquiv conf="0.96777">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w123">
+	<Coords points="621,1791 812,1791 812,1857 621,1857"/>
+	<TextEquiv conf="0.96079">
+	<Unicode>Wolle,</Unicode></TextEquiv></Word>
+	<Word id="w56">
+	<Coords points="853,1794 936,1794 936,1843 853,1843"/>
+	<TextEquiv conf="0.96196">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w125">
+	<Coords points="978,1793 1158,1793 1158,1845 978,1845"/>
+	<TextEquiv conf="0.96450">
+	<Unicode>Mauer</Unicode></TextEquiv></Word>
+	<Word id="w58">
+	<Coords points="1196,1811 1299,1811 1299,1844 1196,1844"/>
+	<TextEquiv conf="0.96752">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w127">
+	<Coords points="1330,1794 1488,1794 1488,1859 1330,1859"/>
+	<TextEquiv conf="0.96752">
+	<Unicode>Stein,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95640">
+	<Unicode>das Tuch ist von Wolle, die Mauer von Stein,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l60">
+	<Coords points="193,1877 346,1877 346,1896 531,1896 531,1880 775,1880 775,1883 942,1883 942,1881 1107,1881 1107,1899 1293,1899 1293,1882 1421,1882 1421,1944 1293,1944 1293,1933 1107,1933 1107,1945 942,1945 942,1932 775,1932 775,1945 531,1945 531,1929 387,1929 387,1928 193,1928 193,1927 70,1927 70,1879 193,1879"/>
+	<Word id="w61">
+	<Coords points="70,1879 153,1879 153,1927 70,1927"/>
+	<TextEquiv conf="0.96868">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w62">
+	<Coords points="193,1877 346,1877 346,1928 193,1928"/>
+	<TextEquiv conf="0.96581">
+	<Unicode>Säule</Unicode></TextEquiv></Word>
+	<Word id="w129">
+	<Coords points="387,1896 490,1896 490,1929 387,1929"/>
+	<TextEquiv conf="0.96649">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w64">
+	<Coords points="531,1880 775,1880 775,1945 531,1945"/>
+	<TextEquiv conf="0.96246">
+	<Unicode>Marmor,</Unicode></TextEquiv></Word>
+	<Word id="w65">
+	<Coords points="816,1883 900,1883 900,1932 816,1932"/>
+	<TextEquiv conf="0.96246">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w66">
+	<Coords points="942,1881 1107,1881 1107,1945 942,1945"/>
+	<TextEquiv conf="0.96742">
+	<Unicode>Kugel</Unicode></TextEquiv></Word>
+	<Word id="w131">
+	<Coords points="1146,1899 1248,1899 1248,1933 1146,1933"/>
+	<TextEquiv conf="0.96742">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w68">
+	<Coords points="1293,1882 1421,1882 1421,1944 1293,1944"/>
+	<TextEquiv conf="0.96578">
+	<Unicode>Blei,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96582">
+	<Unicode>die Säule von Marmor, die Kugel von Blei,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l69">
+	<Coords points="200,1964 348,1964 348,1969 538,1969 538,1968 797,1968 797,1987 956,1987 956,1970 1097,1970 1097,1977 1231,1977 1231,1972 1353,1972 1353,1971 1487,1971 1487,2036 1353,2036 1353,2021 797,2021 797,2034 538,2034 538,2018 389,2018 389,2016 200,2016 200,2015 70,2015 70,1982 200,1982"/>
+	<Word id="w70">
+	<Coords points="70,1982 170,1982 170,2015 70,2015"/>
+	<TextEquiv conf="0.96361">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w133">
+	<Coords points="200,1964 348,1964 348,2016 200,2016"/>
+	<TextEquiv conf="0.93156">
+	<Unicode>Gold</Unicode></TextEquiv></Word>
+	<Word id="w72">
+	<Coords points="389,1969 507,1969 507,2018 389,2018"/>
+	<TextEquiv conf="0.92010">
+	<Unicode>sind</Unicode></TextEquiv></Word>
+	<Word id="w135">
+	<Coords points="538,1968 797,1968 797,2034 538,2034"/>
+	<TextEquiv conf="0.96327">
+	<Unicode>Dukaten,</Unicode></TextEquiv></Word>
+	<Word id="w74">
+	<Coords points="837,1987 928,1987 928,2021 837,2021"/>
+	<TextEquiv conf="0.96452">
+	<Unicode>aus</Unicode></TextEquiv></Word>
+	<Word id="w137">
+	<Coords points="956,1970 1097,1970 1097,2021 956,2021"/>
+	<TextEquiv conf="0.92922">
+	<Unicode>Mehl</Unicode></TextEquiv></Word>
+	<Word id="w76">
+	<Coords points="1136,1977 1203,1977 1203,2021 1136,2021"/>
+	<TextEquiv conf="0.92922">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w139">
+	<Coords points="1231,1972 1326,1972 1326,2021 1231,2021"/>
+	<TextEquiv conf="0.95946">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w78">
+	<Coords points="1353,1971 1487,1971 1487,2036 1353,2036"/>
+	<TextEquiv conf="0.95932">
+	<Unicode>Brei,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94670">
+	<Unicode>von Gold sind Dukaten, aus Mehl ist der Brei,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l79">
+	<Coords points="183,2053 320,2053 320,2061 442,2061 442,2057 770,2057 770,2075 917,2075 917,2058 1028,2058 1028,2060 1291,2060 1291,2059 1486,2059 1486,2124 1291,2124 1291,2109 917,2109 917,2108 770,2108 770,2123 555,2123 555,2107 442,2107 442,2105 349,2105 349,2104 183,2104 183,2103 70,2103 70,2070 183,2070"/>
+	<Word id="w80">
+	<Coords points="70,2070 159,2070 159,2103 70,2103"/>
+	<TextEquiv conf="0.96466">
+	<Unicode>aus</Unicode></TextEquiv></Word>
+	<Word id="w141">
+	<Coords points="183,2053 320,2053 320,2104 183,2104"/>
+	<TextEquiv conf="0.92793">
+	<Unicode>Holz</Unicode></TextEquiv></Word>
+	<Word id="w82">
+	<Coords points="349,2061 414,2061 414,2105 349,2105"/>
+	<TextEquiv conf="0.91299">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w143">
+	<Coords points="442,2057 533,2057 533,2107 442,2107"/>
+	<TextEquiv conf="0.93302">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w84">
+	<Coords points="555,2057 770,2057 770,2123 555,2123"/>
+	<TextEquiv conf="0.91406">
+	<Unicode>Kasten,</Unicode></TextEquiv></Word>
+	<Word id="w145">
+	<Coords points="787,2075 886,2075 886,2108 787,2108"/>
+	<TextEquiv conf="0.96571">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w86">
+	<Coords points="917,2058 1028,2058 1028,2109 917,2109"/>
+	<TextEquiv conf="0.92432">
+	<Unicode>Kork</Unicode></TextEquiv></Word>
+	<Word id="w147">
+	<Coords points="1030,2060 1153,2060 1153,2109 1030,2109"/>
+	<TextEquiv conf="0.92432">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w88">
+	<Coords points="1174,2060 1269,2060 1269,2109 1174,2109"/>
+	<TextEquiv conf="0.96074">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w149">
+	<Coords points="1291,2059 1486,2059 1486,2124 1291,2124"/>
+	<TextEquiv conf="0.96505">
+	<Unicode>Pfropf,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.93928">
+	<Unicode>aus Holz ist der Kasten, von Kork ist der Pfropf,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l90">
+	<Coords points="182,2141 316,2141 316,2149 467,2149 467,2146 803,2146 803,2164 973,2164 973,2144 1086,2144 1086,2154 1209,2154 1209,2148 1335,2148 1335,2143 1487,2143 1487,2212 1335,2212 1335,2197 1086,2197 1086,2198 973,2198 973,2197 803,2197 803,2210 576,2210 576,2195 467,2195 467,2193 182,2193 182,2192 70,2192 70,2158 182,2158"/>
+	<Word id="w151">
+	<Coords points="70,2158 159,2158 159,2192 70,2192"/>
+	<TextEquiv conf="0.95954">
+	<Unicode>aus</Unicode></TextEquiv></Word>
+	<Word id="w92">
+	<Coords points="182,2141 316,2141 316,2193 182,2193"/>
+	<TextEquiv conf="0.92470">
+	<Unicode>Glas</Unicode></TextEquiv></Word>
+	<Word id="w153">
+	<Coords points="360,2149 427,2149 427,2193 360,2193"/>
+	<TextEquiv conf="0.92470">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w94">
+	<Coords points="467,2146 551,2146 551,2195 467,2195"/>
+	<TextEquiv conf="0.93127">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w155">
+	<Coords points="576,2146 803,2146 803,2210 576,2210"/>
+	<TextEquiv conf="0.92010">
+	<Unicode>Flasche,</Unicode></TextEquiv></Word>
+	<Word id="w96">
+	<Coords points="844,2164 946,2164 946,2197 844,2197"/>
+	<TextEquiv conf="0.96622">
+	<Unicode>von</Unicode></TextEquiv></Word>
+	<Word id="w157">
+	<Coords points="973,2144 1086,2144 1086,2198 973,2198"/>
+	<TextEquiv conf="0.92863">
+	<Unicode>Ton</Unicode></TextEquiv></Word>
+	<Word id="w98">
+	<Coords points="1115,2154 1180,2154 1180,2197 1115,2197"/>
+	<TextEquiv conf="0.92335">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w159">
+	<Coords points="1209,2148 1304,2148 1304,2197 1209,2197"/>
+	<TextEquiv conf="0.96572">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w100">
+	<Coords points="1335,2143 1487,2143 1487,2212 1335,2212"/>
+	<TextEquiv conf="0.91583">
+	<Unicode>Topf,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.93601">
+	<Unicode>aus Glas ist die Flasche, von Ton ist der Topf,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l101">
+	<Coords points="198,2229 407,2229 407,2235 594,2235 594,2234 737,2234 737,2242 883,2242 883,2237 1014,2237 1014,2235 1354,2235 1354,2299 1014,2299 1014,2286 777,2286 777,2285 594,2285 594,2284 448,2284 448,2282 198,2282 198,2279 71,2279 71,2246 198,2246"/>
+	<Word id="w102">
+	<Coords points="71,2246 160,2246 160,2279 71,2279"/>
+	<TextEquiv conf="0.96487">
+	<Unicode>aus</Unicode></TextEquiv></Word>
+	<Word id="w161">
+	<Coords points="198,2229 407,2229 407,2282 198,2282"/>
+	<TextEquiv conf="0.96759">
+	<Unicode>Zucker</Unicode></TextEquiv></Word>
+	<Word id="w104">
+	<Coords points="448,2235 553,2235 553,2284 448,2284"/>
+	<TextEquiv conf="0.96281">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w163">
+	<Coords points="594,2234 737,2234 737,2285 594,2285"/>
+	<TextEquiv conf="0.93274">
+	<Unicode>Mehl</Unicode></TextEquiv></Word>
+	<Word id="w106">
+	<Coords points="777,2242 843,2242 843,2286 777,2286"/>
+	<TextEquiv conf="0.91165">
+	<Unicode>ist</Unicode></TextEquiv></Word>
+	<Word id="w165">
+	<Coords points="883,2237 976,2237 976,2286 883,2286"/>
+	<TextEquiv conf="0.96867">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w108">
+	<Coords points="1014,2235 1354,2235 1354,2299 1014,2299"/>
+	<TextEquiv conf="0.95938">
+	<Unicode>Zuckerbrot,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95253">
+	<Unicode>aus Zucker und Mehl ist das Zuckerbrot,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l109">
+	<Coords points="212,2320 311,2320 311,2322 510,2322 510,2323 624,2323 624,2324 926,2324 926,2325 1152,2325 1152,2323 1275,2323 1275,2375 966,2375 966,2374 624,2374 624,2385 537,2385 537,2372 340,2372 340,2368 69,2368 69,2334 212,2334"/>
+	<Word id="w110">
+	<Coords points="69,2334 175,2334 175,2368 69,2368"/>
+	<TextEquiv conf="0.96511">
+	<Unicode>wer</Unicode></TextEquiv></Word>
+	<Word id="w167">
+	<Coords points="212,2320 311,2320 311,2368 212,2368"/>
+	<TextEquiv conf="0.96511">
+	<Unicode>viel</Unicode></TextEquiv></Word>
+	<Word id="w112">
+	<Coords points="340,2322 510,2322 510,2372 340,2372"/>
+	<TextEquiv conf="0.96208">
+	<Unicode>davon</Unicode></TextEquiv></Word>
+	<Word id="w169">
+	<Coords points="537,2323 624,2323 624,2385 537,2385"/>
+	<TextEquiv conf="0.95729">
+	<Unicode>ißt,</Unicode></TextEquiv></Word>
+	<Word id="w114">
+	<Coords points="663,2324 926,2324 926,2374 663,2374"/>
+	<TextEquiv conf="0.93032">
+	<Unicode>bekommt</Unicode></TextEquiv></Word>
+	<Word id="w171">
+	<Coords points="966,2325 1112,2325 1112,2375 966,2375"/>
+	<TextEquiv conf="0.90706">
+	<Unicode>bittre</Unicode></TextEquiv></Word>
+	<Word id="w116">
+	<Coords points="1152,2323 1275,2323 1275,2375 1152,2375"/>
+	<TextEquiv conf="0.96478">
+	<Unicode>Not.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95025">
+	<Unicode>wer viel davon ißt, bekommt bittre Not.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Der Schuh ist von Leder, die Leinwand von Flachs,
+der Taler von Silber, die Kerze von Wachs,
+der Mörser von Messing, der Kamm ist von Horn,
+der Kessel von Kupfer, von Stahl ist der Sporn,
+der Schlüssel von Eisen, der Knopf ist von Bein,
+das Tuch ist von Wolle, die Mauer von Stein,
+die Säule von Marmor, die Kugel von Blei,
+von Gold sind Dukaten, aus Mehl ist der Brei,
+aus Holz ist der Kasten, von Kork ist der Pfropf,
+aus Glas ist die Flasche, von Ton ist der Topf,
+aus Zucker und Mehl ist das Zuckerbrot,
+wer viel davon ißt, bekommt bittre Not.</Unicode></TextEquiv></TextRegion></Page></PcGts>

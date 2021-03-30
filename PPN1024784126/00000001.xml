@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-03-08T09:37:55</Created>
+	<LastChange>2021-03-10T09:21:41</LastChange></Metadata>
+	<Page imageFilename="00000001.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1844" imageHeight="2728" type="front-cover" primaryLanguage="German" primaryScript="Latf - Latin (Fraktur variant)">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r4" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="heading">
+	<Coords points="656,206 656,300 719,302 722,288 1076,290 1066,310 1129,311 1133,295 1272,291 1261,205"/>
+	<TextLine id="l3">
+	<Coords points="647,204 647,302 1266,302 1266,204"/>
+	<Word id="w7">
+	<Coords points="650,202 650,304 1044,304 1044,202"/>
+	<TextEquiv>
+	<Unicode>Ferdinand</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="1075,211 1075,301 1266,301 1266,211"/>
+	<TextEquiv>
+	<Unicode>Hirts</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Ferdinand Hirts</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Ferdinand Hirts</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords points="340,392 340,508 765,513 756,534 816,534 822,516 1170,522 1176,536 1206,537 1216,516 1293,516 1304,539 1391,541 1387,526 1573,523 1570,412"/>
+	<TextLine id="l4">
+	<Coords points="337,401 337,545 1566,545 1566,401"/>
+	<Word id="w9">
+	<Coords points="334,397 334,512 605,512 605,397"/>
+	<TextEquiv>
+	<Unicode>Neue</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="633,402 633,536 1568,536 1568,402"/>
+	<TextEquiv>
+	<Unicode>Schreib⸗Leſe⸗Fibel</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Neue Schreib⸗Leſe⸗Fibel</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Neue Schreib⸗Leſe⸗Fibel</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r2" type="handwritten-annotation">
+	<Coords points="169,70 169,198 454,198 454,70"/></GraphicRegion>
+	<GraphicRegion id="r3" type="other">
+	<Coords points="26,89 26,589 336,589 336,89"/></GraphicRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords points="585,2171 583,2247 777,2246 798,2260 829,2260 825,2246 1077,2245 1080,2260 1146,2258 1153,2251 1281,2250 1282,2183"/>
+	<TextLine id="l5">
+	<Coords points="582,2176 582,2261 1277,2261 1277,2176"/>
+	<Word id="w11">
+	<Coords points="580,2173 580,2255 762,2255 762,2173"/>
+	<TextEquiv>
+	<Unicode>Nr.1:</Unicode></TextEquiv></Word>
+	<Word id="w12">
+	<Coords points="779,2175 779,2263 900,2263 900,2175"/>
+	<TextEquiv>
+	<Unicode>Für</Unicode></TextEquiv></Word>
+	<Word id="w13">
+	<Coords points="912,2180 912,2259 1279,2259 1279,2180"/>
+	<TextEquiv>
+	<Unicode>Stadtſchulen</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>Nr.1: Für Stadtſchulen</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Nr.1: Für Stadtſchulen</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="heading">
+	<Coords points="683,2308 682,2371 712,2374 712,2360 1139,2360 1146,2366 1181,2366 1175,2310"/>
+	<TextLine id="l6">
+	<Coords points="676,2304 676,2373 1176,2373 1176,2304"/>
+	<Word id="w14">
+	<Coords points="680,2301 680,2370 704,2370 704,2301"/>
+	<TextEquiv>
+	<Unicode>(</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="698,2306 698,2362 781,2362 781,2306"/>
+	<TextEquiv>
+	<Unicode>mit</Unicode></TextEquiv></Word>
+	<Word id="w17">
+	<Coords points="790,2307 790,2359 1153,2359 1153,2307"/>
+	<TextEquiv>
+	<Unicode>Buntdruckbildern</Unicode></TextEquiv></Word>
+	<Word id="w18">
+	<Coords points="1154,2313 1154,2366 1175,2366 1175,2313"/>
+	<TextEquiv>
+	<Unicode>)</Unicode></TextEquiv></Word>
+	<TextEquiv>
+	<Unicode>( mit Buntdruckbildern )</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>( mit Buntdruckbildern )</Unicode></TextEquiv></TextRegion>
+	<GraphicRegion id="r6" type="other">
+	<Coords points="18,2120 18,2597 464,2597 464,2120"/></GraphicRegion>
+	<ImageRegion id="r8">
+	<Coords points="635,722 390,896 283,1138 241,1496 400,1767 632,1945 909,2022 1325,1896 1477,1751 1593,1506 1616,1270 1551,1003 1406,825 1138,670 916,638 712,674 590,738 622,725"/></ImageRegion></Page></PcGts>

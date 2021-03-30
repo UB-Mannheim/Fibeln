@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-03-27T20:42:00</Created>
+	<LastChange>2021-03-27T20:48:36</LastChange></Metadata>
+	<Page imageFilename="00000085.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1734" imageHeight="2672" type="content" primaryLanguage="German" primaryScript="Latf - Latin (Fraktur variant)">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089">
+	<RegionRefIndexed regionRef="r0" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r2" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="r4" index="4"/>
+	<RegionRefIndexed regionRef="r5" index="5"/>
+	<RegionRefIndexed regionRef="r6" index="6"/>
+	<RegionRefIndexed regionRef="r7" index="7"/>
+	<RegionRefIndexed regionRef="r8" index="8"/>
+	<RegionRefIndexed regionRef="r9" index="9"/>
+	<RegionRefIndexed regionRef="r10" index="10"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="806,171 806,172 808,172 808,173 810,173 810,174 811,174 811,175 812,175 812,178 813,178 813,193 920,193 920,204 814,204 814,207 813,207 813,209 812,209 812,211 811,211 811,212 810,212 810,213 808,213 808,214 806,214 806,215 765,215 765,214 764,214 764,212 763,212 763,205 652,205 652,194 758,194 758,178 759,178 759,172 792,172 792,171"/>
+	<TextLine id="l1">
+	<Coords points="763,176 810,176 810,198 916,198 916,200 810,200 810,211 763,211 763,201 659,201 659,199 763,199"/>
+	<Word id="w2">
+	<Coords points="659,199 706,199 706,201 659,201"/>
+	<TextEquiv conf="0.60294">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<Word id="w3">
+	<Coords points="763,176 810,176 810,211 763,211"/>
+	<TextEquiv conf="0.73028">
+	<Unicode>73</Unicode></TextEquiv></Word>
+	<Word id="w4">
+	<Coords points="865,198 916,198 916,200 865,200"/>
+	<TextEquiv conf="0.81977">
+	<Unicode>—</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.71766">
+	<Unicode>— 73 —</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>— 73 —</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="heading">
+	<Coords points="943,272 943,275 971,275 971,276 973,276 973,277 974,277 974,279 975,279 975,322 976,322 976,333 975,333 975,335 974,335 974,336 973,336 973,337 769,337 769,338 744,338 744,337 741,337 741,336 623,336 623,335 598,335 598,281 599,281 599,280 609,280 609,279 612,279 612,278 614,278 614,277 647,277 647,276 741,276 741,275 748,275 748,274 861,274 861,273 864,273 864,272"/>
+	<TextLine id="l12">
+	<Coords points="854,277 972,277 972,333 811,333 811,334 730,334 730,332 603,332 603,281 730,281 730,279 854,279"/>
+	<Word id="w14">
+	<Coords points="603,281 686,281 686,332 603,332"/>
+	<TextEquiv conf="0.94395">
+	<Unicode>10.</Unicode></TextEquiv></Word>
+	<Word id="w16">
+	<Coords points="730,279 811,279 811,334 730,334"/>
+	<TextEquiv conf="0.94773">
+	<Unicode>So</Unicode></TextEquiv></Word>
+	<Word id="w18">
+	<Coords points="854,277 972,277 972,333 854,333"/>
+	<TextEquiv conf="0.93531">
+	<Unicode>lieb!</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94233">
+	<Unicode>10. So lieb!</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>10. So lieb!</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="568,379 568,380 806,380 806,379 824,379 824,380 981,380 981,379 1112,379 1112,390 1114,390 1114,392 1115,392 1115,393 1116,393 1116,394 1117,394 1117,397 1118,397 1118,402 1119,402 1119,412 1118,412 1118,419 1117,419 1117,421 1116,421 1116,423 1114,423 1114,424 1113,424 1113,425 1111,425 1111,426 1110,426 1110,427 1109,427 1109,428 1088,428 1088,429 994,429 994,439 993,439 993,440 975,440 975,566 974,566 974,567 972,567 972,569 971,569 971,570 931,570 931,571 838,571 838,640 837,640 837,641 784,641 784,642 769,642 769,652 757,652 757,651 756,651 756,642 443,642 443,643 442,643 442,644 441,644 441,645 440,645 440,646 439,646 439,647 438,647 438,648 437,648 437,649 436,649 436,651 424,651 424,650 423,650 423,649 413,649 413,642 335,642 335,641 334,641 334,640 333,640 333,639 332,639 332,631 331,631 331,619 330,619 330,618 328,618 328,496 327,496 327,495 326,495 326,464 328,464 328,463 329,463 329,462 352,462 352,461 365,461 365,452 366,452 366,451 382,451 382,390 385,390 385,389 387,389 387,388 389,388 389,387 390,387 390,386 391,386 391,384 393,384 393,383 447,383 447,382 448,382 448,381 450,381 450,380 453,380 453,379"/>
+	<TextLine id="l34">
+	<Coords points="448,384 640,384 640,385 809,385 809,384 843,384 843,385 984,385 984,384 1115,384 1115,425 1018,425 1018,436 984,436 984,433 843,433 843,435 778,435 778,436 669,436 669,435 518,435 518,436 448,436 448,425 387,425 387,388 448,388"/>
+	<Word id="w36">
+	<Coords points="387,388 419,388 419,425 387,425"/>
+	<TextEquiv conf="0.95940">
+	<Unicode>1.</Unicode></TextEquiv></Word>
+	<Word id="w38">
+	<Coords points="448,384 518,384 518,436 448,436"/>
+	<TextEquiv conf="0.95260">
+	<Unicode>Ich</Unicode></TextEquiv></Word>
+	<Word id="w40">
+	<Coords points="549,384 640,384 640,435 549,435"/>
+	<TextEquiv conf="0.95944">
+	<Unicode>habe</Unicode></TextEquiv></Word>
+	<Word id="w42">
+	<Coords points="669,385 778,385 778,436 669,436"/>
+	<TextEquiv conf="0.73481">
+	<Unicode>nichts</Unicode></TextEquiv></Word>
+	<Word id="w44">
+	<Coords points="809,384 843,384 843,435 809,435"/>
+	<TextEquiv conf="0.94266">
+	<Unicode>ſo</Unicode></TextEquiv></Word>
+	<Word id="w46">
+	<Coords points="874,385 953,385 953,433 874,433"/>
+	<TextEquiv conf="0.95391">
+	<Unicode>lieb,</Unicode></TextEquiv></Word>
+	<Word id="w48">
+	<Coords points="984,384 1018,384 1018,436 984,436"/>
+	<TextEquiv conf="0.94716">
+	<Unicode>ſo</Unicode></TextEquiv></Word>
+	<Word id="w50">
+	<Coords points="1048,384 1115,384 1115,425 1048,425"/>
+	<TextEquiv conf="0.95105">
+	<Unicode>lieb</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92513">
+	<Unicode>1. Ich habe nichts ſo lieb, ſo lieb</Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="426,455 510,455 510,456 658,456 658,455 884,455 884,511 658,511 658,496 510,496 510,507 426,507 426,496 331,496 331,456 426,456"/>
+	<Word id="w11">
+	<Coords points="331,456 398,456 398,496 331,496"/>
+	<TextEquiv conf="0.91780">
+	<Unicode>wie</Unicode></TextEquiv></Word>
+	<Word id="w52">
+	<Coords points="426,455 510,455 510,507 426,507"/>
+	<TextEquiv conf="0.81490">
+	<Unicode>dich,</Unicode></TextEquiv></Word>
+	<Word id="w54">
+	<Coords points="538,456 629,456 629,496 538,496"/>
+	<TextEquiv conf="0.93136">
+	<Unicode>mein</Unicode></TextEquiv></Word>
+	<Word id="w56">
+	<Coords points="658,455 884,455 884,511 658,511"/>
+	<TextEquiv conf="0.92746">
+	<Unicode>Mütterlein,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.89788">
+	<Unicode>wie dich, mein Mütterlein,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="875,525 971,525 971,567 875,567 875,566 729,566 729,567 523,567 523,577 400,577 400,567 333,567 333,538 400,538 400,526 523,526 523,527 758,527 758,526 875,526"/>
+	<Word id="w58">
+	<Coords points="333,538 371,538 371,567 333,567"/>
+	<TextEquiv conf="0.96720">
+	<Unicode>es</Unicode></TextEquiv></Word>
+	<Word id="w60">
+	<Coords points="400,526 523,526 523,577 400,577"/>
+	<TextEquiv conf="0.96475">
+	<Unicode>müßte</Unicode></TextEquiv></Word>
+	<Word id="w62">
+	<Coords points="551,527 642,527 642,567 551,567"/>
+	<TextEquiv conf="0.96937">
+	<Unicode>denn</Unicode></TextEquiv></Word>
+	<Word id="w19">
+	<Coords points="670,527 729,527 729,567 670,567"/>
+	<TextEquiv conf="0.83605">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w20">
+	<Coords points="758,526 846,526 846,566 758,566"/>
+	<TextEquiv conf="0.96385">
+	<Unicode>liebe</Unicode></TextEquiv></Word>
+	<Word id="w21">
+	<Coords points="875,525 971,525 971,567 875,567"/>
+	<TextEquiv conf="0.96408">
+	<Unicode>Gott</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94421">
+	<Unicode>es müßte denn der liebe Gott</Unicode></TextEquiv></TextLine>
+	<TextLine id="l22">
+	<Coords points="411,597 567,597 567,598 759,598 759,597 834,597 834,648 759,648 759,638 567,638 567,647 411,647 411,638 333,638 333,598 411,598"/>
+	<Word id="w23">
+	<Coords points="333,598 381,598 381,638 333,638"/>
+	<TextEquiv conf="0.96599">
+	<Unicode>im</Unicode></TextEquiv></Word>
+	<Word id="w64">
+	<Coords points="411,597 567,597 567,647 411,647"/>
+	<TextEquiv conf="0.95676">
+	<Unicode>Himmel</Unicode></TextEquiv></Word>
+	<Word id="w25">
+	<Coords points="595,598 729,598 729,638 595,638"/>
+	<TextEquiv conf="0.96723">
+	<Unicode>droben</Unicode></TextEquiv></Word>
+	<Word id="w66">
+	<Coords points="759,597 834,597 834,648 759,648"/>
+	<TextEquiv conf="0.95182">
+	<Unicode>ſein.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96045">
+	<Unicode>im Himmel droben ſein.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1. Ich habe nichts ſo lieb, ſo lieb
+wie dich, mein Mütterlein,
+es müßte denn der liebe Gott
+im Himmel droben ſein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="645,697 645,698 930,698 930,697 1000,697 1000,698 1182,698 1182,697 1196,697 1196,708 1198,708 1198,709 1199,709 1199,710 1200,710 1200,712 1201,712 1201,714 1202,714 1202,728 1211,728 1211,729 1212,729 1212,745 1211,745 1211,747 1210,747 1210,749 1209,749 1209,751 1208,751 1208,753 1207,753 1207,754 1148,754 1148,755 1145,755 1145,756 1128,756 1128,755 1126,755 1126,754 1125,754 1125,753 1124,753 1124,751 1123,751 1123,746 1005,746 1005,748 1004,748 1004,750 1003,750 1003,752 1002,752 1002,753 1001,753 1001,754 1000,754 1000,755 998,755 998,756 997,756 997,757 986,757 986,747 865,747 865,873 866,873 866,885 864,885 864,886 863,886 863,887 862,887 862,888 848,888 848,954 847,954 847,957 844,957 844,958 802,958 802,959 563,959 563,960 562,960 562,963 561,963 561,965 560,965 560,966 559,966 559,968 548,968 548,960 401,960 401,969 400,969 400,971 389,971 389,970 388,970 388,960 338,960 338,959 337,959 337,958 336,958 336,957 335,957 335,955 334,955 334,953 333,953 333,885 331,885 331,843 332,843 332,783 334,783 334,782 335,782 335,781 337,781 337,780 383,780 383,773 384,773 384,771 385,771 385,770 386,770 386,710 387,710 387,706 388,706 388,705 389,705 389,704 390,704 390,703 392,703 392,702 394,702 394,701 455,701 455,700 457,700 457,699 462,699 462,698 635,698 635,697"/>
+	<TextLine id="l68">
+	<Coords points="568,702 643,702 643,703 931,703 931,702 1003,702 1003,703 1128,703 1128,702 1208,702 1208,752 1128,752 1128,742 1003,742 1003,753 931,753 931,743 728,743 728,754 672,754 672,743 391,743 391,706 455,706 455,703 568,703"/>
+	<Word id="w70">
+	<Coords points="391,706 425,706 425,743 391,743"/>
+	<TextEquiv conf="0.87589">
+	<Unicode>2.</Unicode></TextEquiv></Word>
+	<Word id="w72">
+	<Coords points="455,703 540,703 540,743 455,743"/>
+	<TextEquiv conf="0.95356">
+	<Unicode>Den</Unicode></TextEquiv></Word>
+	<Word id="w74">
+	<Coords points="568,702 643,702 643,743 568,743"/>
+	<TextEquiv conf="0.64383">
+	<Unicode>lieb’</Unicode></TextEquiv></Word>
+	<Word id="w76">
+	<Coords points="672,703 728,703 728,754 672,754"/>
+	<TextEquiv conf="0.69077">
+	<Unicode>ich,</Unicode></TextEquiv></Word>
+	<Word id="w78">
+	<Coords points="757,703 838,703 838,743 757,743"/>
+	<TextEquiv conf="0.95040">
+	<Unicode>weil</Unicode></TextEquiv></Word>
+	<Word id="w80">
+	<Coords points="868,713 903,713 903,743 868,743"/>
+	<TextEquiv conf="0.91947">
+	<Unicode>er</Unicode></TextEquiv></Word>
+	<Word id="w82">
+	<Coords points="931,702 1003,702 1003,753 931,753"/>
+	<TextEquiv conf="0.44792">
+	<Unicode>dich</Unicode></TextEquiv></Word>
+	<Word id="w84">
+	<Coords points="1033,703 1098,703 1098,742 1033,742"/>
+	<TextEquiv conf="0.95408">
+	<Unicode>mir</Unicode></TextEquiv></Word>
+	<Word id="w86">
+	<Coords points="1128,702 1208,702 1208,752 1128,752"/>
+	<TextEquiv conf="0.95408">
+	<Unicode>gab,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.82111">
+	<Unicode>2. Den lieb’ ich, weil er dich mir gab,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l88">
+	<Coords points="705,773 820,773 820,824 705,824 705,814 410,814 410,815 337,815 337,774 705,774"/>
+	<Word id="w90">
+	<Coords points="337,774 410,774 410,815 337,815"/>
+	<TextEquiv conf="0.96637">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w92">
+	<Coords points="440,774 522,774 522,814 440,814"/>
+	<TextEquiv conf="0.96490">
+	<Unicode>weil</Unicode></TextEquiv></Word>
+	<Word id="w94">
+	<Coords points="551,785 584,785 584,814 551,814"/>
+	<TextEquiv conf="0.96490">
+	<Unicode>er</Unicode></TextEquiv></Word>
+	<Word id="w96">
+	<Coords points="611,774 676,774 676,814 611,814"/>
+	<TextEquiv conf="0.96037">
+	<Unicode>mir</Unicode></TextEquiv></Word>
+	<Word id="w98">
+	<Coords points="705,773 820,773 820,824 705,824"/>
+	<TextEquiv conf="0.96037">
+	<Unicode>erhält</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96338">
+	<Unicode>und weil er mir erhält</Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="645,844 862,844 862,885 615,885 615,896 437,896 437,885 336,885 336,846 437,846 437,845 645,845"/>
+	<Word id="w100">
+	<Coords points="336,846 407,846 407,885 336,885"/>
+	<TextEquiv conf="0.96473">
+	<Unicode>das</Unicode></TextEquiv></Word>
+	<Word id="w102">
+	<Coords points="437,845 615,845 615,896 437,896"/>
+	<TextEquiv conf="0.93126">
+	<Unicode>allerbeſte</Unicode></TextEquiv></Word>
+	<Word id="w104">
+	<Coords points="645,844 862,844 862,885 645,885"/>
+	<TextEquiv conf="0.91906">
+	<Unicode>Mütterlein</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.93835">
+	<Unicode>das allerbeſte Mütterlein</Unicode></TextEquiv></TextLine>
+	<TextLine id="l21">
+	<Coords points="735,914 844,914 844,955 559,955 559,964 403,964 403,967 338,967 338,916 588,916 588,915 735,915"/>
+	<Word id="w106">
+	<Coords points="338,916 403,916 403,967 338,967"/>
+	<TextEquiv conf="0.96386">
+	<Unicode>auf</Unicode></TextEquiv></Word>
+	<Word id="w108">
+	<Coords points="431,916 559,916 559,964 431,964"/>
+	<TextEquiv conf="0.95700">
+	<Unicode>weiter,</Unicode></TextEquiv></Word>
+	<Word id="w110">
+	<Coords points="588,915 704,915 704,955 588,955"/>
+	<TextEquiv conf="0.96508">
+	<Unicode>weiter</Unicode></TextEquiv></Word>
+	<Word id="w112">
+	<Coords points="735,914 844,914 844,955 735,955"/>
+	<TextEquiv conf="0.95841">
+	<Unicode>Welt.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96109">
+	<Unicode>auf weiter, weiter Welt.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>2. Den lieb’ ich, weil er dich mir gab,
+und weil er mir erhält
+das allerbeſte Mütterlein
+auf weiter, weiter Welt.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="heading">
+	<Coords points="706,1066 706,1067 841,1067 841,1080 969,1080 969,1070 970,1070 970,1068 971,1068 971,1067 972,1067 972,1066 984,1066 984,1069 1097,1069 1097,1068 1098,1068 1098,1067 1102,1067 1102,1066 1198,1066 1198,1079 1269,1079 1269,1080 1270,1080 1270,1081 1271,1081 1271,1082 1278,1082 1278,1094 1279,1094 1279,1095 1280,1095 1280,1096 1281,1096 1281,1098 1282,1098 1282,1111 1296,1111 1296,1112 1297,1112 1297,1126 1296,1126 1296,1128 1294,1128 1294,1129 1221,1129 1221,1130 913,1130 913,1133 912,1133 912,1135 911,1135 911,1137 910,1137 910,1138 909,1138 909,1139 908,1139 908,1140 907,1140 907,1141 906,1141 906,1142 904,1142 904,1143 886,1143 886,1142 884,1142 884,1141 875,1141 875,1131 642,1131 642,1132 483,1132 483,1135 482,1135 482,1136 481,1136 481,1138 480,1138 480,1139 479,1139 479,1140 478,1140 478,1141 476,1141 476,1142 475,1142 475,1143 473,1143 473,1144 470,1144 470,1145 465,1145 465,1146 446,1146 446,1145 443,1145 443,1144 442,1144 442,1143 441,1143 441,1142 440,1142 440,1141 439,1141 439,1140 438,1140 438,1138 437,1138 437,1136 436,1136 436,1135 427,1135 427,1130 319,1130 319,1129 296,1129 296,1128 295,1128 295,1127 294,1127 294,1086 293,1086 293,1076 294,1076 294,1075 301,1075 301,1074 305,1074 305,1073 308,1073 308,1072 441,1072 441,1071 443,1071 443,1070 445,1070 445,1069 450,1069 450,1068 465,1068 465,1069 469,1069 469,1070 472,1070 472,1071 473,1071 473,1072 475,1072 475,1073 476,1073 476,1074 478,1074 478,1076 479,1076 479,1077 480,1077 480,1079 481,1079 481,1082 604,1082 604,1081 605,1081 605,1079 606,1079 606,1077 607,1077 607,1076 608,1076 608,1075 609,1075 609,1074 610,1074 610,1073 612,1073 612,1072 614,1072 614,1071 627,1071 627,1070 628,1070 628,1068 630,1068 630,1067 693,1067 693,1066"/>
+	<TextLine id="l114">
+	<Coords points="606,1071 1293,1071 1293,1126 935,1126 935,1139 566,1139 566,1142 432,1142 432,1126 298,1126 298,1077 432,1077 432,1073 606,1073"/>
+	<Word id="w116">
+	<Coords points="298,1077 386,1077 386,1126 298,1126"/>
+	<TextEquiv conf="0.95619">
+	<Unicode>11.</Unicode></TextEquiv></Word>
+	<Word id="w118">
+	<Coords points="432,1073 566,1073 566,1142 432,1142"/>
+	<TextEquiv conf="0.93204">
+	<Unicode>Zum</Unicode></TextEquiv></Word>
+	<Word id="w120">
+	<Coords points="606,1071 935,1071 935,1139 606,1139"/>
+	<TextEquiv conf="0.91619">
+	<Unicode>Geburtstage</Unicode></TextEquiv></Word>
+	<Word id="w122">
+	<Coords points="974,1071 1056,1071 1056,1126 974,1126"/>
+	<TextEquiv conf="0.96043">
+	<Unicode>des</Unicode></TextEquiv></Word>
+	<Word id="w124">
+	<Coords points="1096,1071 1293,1071 1293,1126 1096,1126"/>
+	<TextEquiv conf="0.94357">
+	<Unicode>Vaters.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.94169">
+	<Unicode>11. Zum Geburtstage des Vaters.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>11. Zum Geburtstage des Vaters.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="595,1181 595,1182 598,1182 598,1183 743,1183 743,1182 746,1182 746,1181 756,1181 756,1182 951,1182 951,1181 997,1181 997,1182 999,1182 999,1183 1000,1183 1000,1192 1018,1192 1018,1193 1019,1193 1019,1194 1020,1194 1020,1251 1057,1251 1057,1252 1076,1252 1076,1253 1077,1253 1077,1263 1113,1263 1113,1264 1128,1264 1128,1265 1129,1265 1129,1286 1130,1286 1130,1393 1132,1393 1132,1403 1154,1403 1154,1404 1178,1404 1178,1405 1179,1405 1179,1406 1181,1406 1181,1407 1182,1407 1182,1425 1190,1425 1190,1426 1191,1426 1191,1440 1190,1440 1190,1441 1061,1441 1061,1442 1060,1442 1060,1444 1059,1444 1059,1445 1058,1445 1058,1447 1057,1447 1057,1566 1064,1566 1064,1567 1066,1567 1066,1581 1065,1581 1065,1582 1029,1582 1029,1583 997,1583 997,1592 996,1592 996,1593 905,1593 905,1594 895,1594 895,1593 894,1593 894,1583 756,1583 756,1584 738,1584 738,1594 511,1594 511,1595 501,1595 501,1594 500,1594 500,1586 434,1586 434,1585 409,1585 409,1584 408,1584 408,1583 404,1583 404,1490 403,1490 403,1488 402,1488 402,1431 404,1431 404,1302 403,1302 403,1280 400,1280 400,1268 401,1268 401,1267 403,1267 403,1266 405,1266 405,1216 406,1216 406,1215 408,1215 408,1214 409,1214 409,1191 410,1191 410,1188 411,1188 411,1187 412,1187 412,1186 413,1186 413,1185 414,1185 414,1184 415,1184 415,1183 420,1183 420,1182 433,1182 433,1183 564,1183 564,1182 582,1182 582,1181"/>
+	<TextLine id="l126">
+	<Coords points="564,1186 760,1186 760,1187 945,1187 945,1186 1016,1186 1016,1226 915,1226 915,1237 713,1237 713,1235 564,1235 564,1228 410,1228 410,1187 564,1187"/>
+	<Word id="w128">
+	<Coords points="410,1187 536,1187 536,1228 410,1228"/>
+	<TextEquiv conf="0.96891">
+	<Unicode>Lieber</Unicode></TextEquiv></Word>
+	<Word id="w130">
+	<Coords points="564,1186 684,1186 684,1235 564,1235"/>
+	<TextEquiv conf="0.96483">
+	<Unicode>Vater,</Unicode></TextEquiv></Word>
+	<Word id="w132">
+	<Coords points="713,1186 760,1186 760,1237 713,1237"/>
+	<TextEquiv conf="0.80739">
+	<Unicode>ich</Unicode></TextEquiv></Word>
+	<Word id="w134">
+	<Coords points="790,1187 915,1187 915,1237 790,1237"/>
+	<TextEquiv conf="0.96073">
+	<Unicode>bringe</Unicode></TextEquiv></Word>
+	<Word id="w136">
+	<Coords points="945,1186 1016,1186 1016,1226 945,1226"/>
+	<TextEquiv conf="0.96719">
+	<Unicode>Dir</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.93381">
+	<Unicode>Lieber Vater, ich bringe Dir</Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="765,1256 1126,1256 1126,1306 1009,1306 1009,1308 738,1308 738,1309 571,1309 571,1299 405,1299 405,1260 571,1260 571,1257 765,1257"/>
+	<Word id="w138">
+	<Coords points="405,1260 542,1260 542,1299 405,1299"/>
+	<TextEquiv conf="0.96319">
+	<Unicode>meinen</Unicode></TextEquiv></Word>
+	<Word id="w140">
+	<Coords points="571,1257 738,1257 738,1309 571,1309"/>
+	<TextEquiv conf="0.31580">
+	<Unicode>ſchönſten</Unicode></TextEquiv></Word>
+	<Word id="w142">
+	<Coords points="765,1256 1009,1256 1009,1308 765,1308"/>
+	<TextEquiv conf="0.50206">
+	<Unicode>Glückwunſch</Unicode></TextEquiv></Word>
+	<Word id="w144">
+	<Coords points="1039,1256 1126,1256 1126,1306 1039,1306"/>
+	<TextEquiv conf="0.96096">
+	<Unicode>hier:</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.68550">
+	<Unicode>meinen ſchönſten Glückwunſch hier:</Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="799,1328 1095,1328 1095,1368 938,1368 938,1379 799,1379 799,1369 620,1369 620,1379 535,1379 535,1370 409,1370 409,1329 620,1329 620,1330 799,1330"/>
+	<Word id="w146">
+	<Coords points="409,1329 504,1329 504,1370 409,1370"/>
+	<TextEquiv conf="0.95948">
+	<Unicode>Will</Unicode></TextEquiv></Word>
+	<Word id="w148">
+	<Coords points="535,1329 620,1329 620,1379 535,1379"/>
+	<TextEquiv conf="0.66587">
+	<Unicode>Dich</Unicode></TextEquiv></Word>
+	<Word id="w150">
+	<Coords points="651,1330 770,1330 770,1369 651,1369"/>
+	<TextEquiv conf="0.92874">
+	<Unicode>immer</Unicode></TextEquiv></Word>
+	<Word id="w152">
+	<Coords points="799,1328 938,1328 938,1379 799,1379"/>
+	<TextEquiv conf="0.85199">
+	<Unicode>herzlich</Unicode></TextEquiv></Word>
+	<Word id="w154">
+	<Coords points="970,1328 1095,1328 1095,1368 970,1368"/>
+	<TextEquiv conf="0.95388">
+	<Unicode>lieben!</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.87199">
+	<Unicode>Will Dich immer herzlich lieben!</Unicode></TextEquiv></TextLine>
+	<TextLine id="l19">
+	<Coords points="972,1397 1187,1397 1187,1448 942,1448 942,1449 639,1449 639,1439 506,1439 506,1450 407,1450 407,1399 506,1399 506,1400 639,1400 639,1399 845,1399 845,1398 972,1398"/>
+	<Word id="w156">
+	<Coords points="407,1399 506,1399 506,1450 407,1450"/>
+	<TextEquiv conf="0.90932">
+	<Unicode>Hab'</Unicode></TextEquiv></Word>
+	<Word id="w158">
+	<Coords points="534,1400 610,1400 610,1439 534,1439"/>
+	<TextEquiv conf="0.93183">
+	<Unicode>dies</Unicode></TextEquiv></Word>
+	<Word id="w160">
+	<Coords points="639,1399 814,1399 814,1449 639,1449"/>
+	<TextEquiv conf="0.91339">
+	<Unicode>Verschen</Unicode></TextEquiv></Word>
+	<Word id="w162">
+	<Coords points="845,1398 942,1398 942,1449 845,1449"/>
+	<TextEquiv conf="0.94802">
+	<Unicode>ſelbſt</Unicode></TextEquiv></Word>
+	<Word id="w164">
+	<Coords points="972,1397 1187,1397 1187,1448 972,1448"/>
+	<TextEquiv conf="0.93846">
+	<Unicode>geſchrieben.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.92820">
+	<Unicode>Hab' dies Verschen ſelbſt geſchrieben.</Unicode></TextEquiv></TextLine>
+	<TextLine id="l25">
+	<Coords points="653,1469 1038,1469 1038,1519 573,1519 573,1520 407,1520 407,1470 653,1470"/>
+	<Word id="w166">
+	<Coords points="407,1470 573,1470 573,1520 407,1520"/>
+	<TextEquiv conf="0.63582">
+	<Unicode>Möchte</Unicode></TextEquiv></Word>
+	<Word id="w27">
+	<Coords points="585,1481 622,1481 622,1510 585,1510"/>
+	<TextEquiv conf="0.73385">
+	<Unicode>es</Unicode></TextEquiv></Word>
+	<Word id="w168">
+	<Coords points="653,1469 739,1469 739,1519 653,1519"/>
+	<TextEquiv conf="0.76583">
+	<Unicode>Dich</Unicode></TextEquiv></Word>
+	<Word id="w29">
+	<Coords points="770,1469 854,1469 854,1519 770,1519"/>
+	<TextEquiv conf="0.83032">
+	<Unicode>doch</Unicode></TextEquiv></Word>
+	<Word id="w170">
+	<Coords points="885,1469 1038,1469 1038,1519 885,1519"/>
+	<TextEquiv conf="0.90516">
+	<Unicode>erfreun!</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.77420">
+	<Unicode>Möchte es Dich doch erfreun!</Unicode></TextEquiv></TextLine>
+	<TextLine id="l31">
+	<Coords points="851,1539 1062,1539 1062,1589 957,1589 957,1590 566,1590 566,1591 409,1591 409,1541 594,1541 594,1540 851,1540"/>
+	<Word id="w172">
+	<Coords points="409,1541 566,1541 566,1591 409,1591"/>
+	<TextEquiv conf="0.91084">
+	<Unicode>Künftig</Unicode></TextEquiv></Word>
+	<Word id="w33">
+	<Coords points="594,1540 697,1540 697,1590 594,1590"/>
+	<TextEquiv conf="0.96574">
+	<Unicode>Jahr</Unicode></TextEquiv></Word>
+	<Word id="w34">
+	<Coords points="728,1540 822,1540 822,1590 728,1590"/>
+	<TextEquiv conf="0.96083">
+	<Unicode>ſoll's</Unicode></TextEquiv></Word>
+	<Word id="w35">
+	<Coords points="851,1539 957,1539 957,1590 851,1590"/>
+	<TextEquiv conf="0.96569">
+	<Unicode>beſſer</Unicode></TextEquiv></Word>
+	<Word id="w174">
+	<Coords points="988,1539 1062,1539 1062,1589 988,1589"/>
+	<TextEquiv conf="0.96661">
+	<Unicode>ſein.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95394">
+	<Unicode>Künftig Jahr ſoll's beſſer ſein.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>Lieber Vater, ich bringe Dir
+meinen ſchönſten Glückwunſch hier:
+Will Dich immer herzlich lieben!
+Hab' dies Verschen ſelbſt geſchrieben.
+Möchte es Dich doch erfreun!
+Künftig Jahr ſoll's beſſer ſein.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="heading">
+	<Coords points="996,1697 996,1698 1038,1698 1038,1699 1039,1699 1039,1700 1040,1700 1040,1712 1159,1712 1159,1700 1168,1700 1168,1699 1170,1699 1170,1698 1172,1698 1172,1697 1184,1697 1184,1742 1194,1742 1194,1743 1196,1743 1196,1744 1197,1744 1197,1758 1196,1758 1196,1760 1194,1760 1194,1761 1038,1761 1038,1762 1012,1762 1012,1763 1011,1763 1011,1764 1010,1764 1010,1765 1008,1765 1008,1766 1007,1766 1007,1767 1005,1767 1005,1768 1004,1768 1004,1769 1003,1769 1003,1770 1002,1770 1002,1771 1001,1771 1001,1772 1000,1772 1000,1774 998,1774 998,1775 988,1775 988,1774 987,1774 987,1773 986,1773 986,1772 969,1772 969,1762 791,1762 791,1763 703,1763 703,1764 562,1764 562,1765 552,1765 552,1764 548,1764 548,1763 545,1763 545,1762 544,1762 544,1761 425,1761 425,1760 399,1760 399,1707 407,1707 407,1706 411,1706 411,1705 414,1705 414,1704 416,1704 416,1703 539,1703 539,1702 544,1702 544,1701 559,1701 559,1702 672,1702 672,1701 674,1701 674,1700 759,1700 759,1699 864,1699 864,1698 986,1698 986,1697"/>
+	<TextLine id="l176">
+	<Coords points="970,1702 1193,1702 1193,1771 970,1771 970,1758 822,1758 822,1760 631,1760 631,1761 531,1761 531,1757 404,1757 404,1708 531,1708 531,1706 670,1706 670,1704 861,1704 861,1703 970,1703"/>
+	<Word id="w178">
+	<Coords points="404,1708 491,1708 491,1757 404,1757"/>
+	<TextEquiv conf="0.95232">
+	<Unicode>12.</Unicode></TextEquiv></Word>
+	<Word id="w180">
+	<Coords points="531,1706 631,1706 631,1761 531,1761"/>
+	<TextEquiv conf="0.68402">
+	<Unicode>Der</Unicode></TextEquiv></Word>
+	<Word id="w182">
+	<Coords points="670,1704 822,1704 822,1760 670,1760"/>
+	<TextEquiv conf="0.96159">
+	<Unicode>Vater</Unicode></TextEquiv></Word>
+	<Word id="w184">
+	<Coords points="861,1703 927,1703 927,1758 861,1758"/>
+	<TextEquiv conf="0.95304">
+	<Unicode>im</Unicode></TextEquiv></Word>
+	<Word id="w186">
+	<Coords points="970,1702 1193,1702 1193,1771 970,1771"/>
+	<TextEquiv conf="0.96837">
+	<Unicode>Himmel.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.90387">
+	<Unicode>12. Der Vater im Himmel.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>12. Der Vater im Himmel.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1326,1799 1326,1816 1327,1816 1327,1817 1328,1817 1328,1818 1329,1818 1329,1820 1330,1820 1330,1834 1338,1834 1338,1835 1339,1835 1339,1836 1340,1836 1340,1849 1339,1849 1339,1852 1338,1852 1338,1855 1337,1855 1337,1856 1336,1856 1336,1858 1335,1858 1335,1859 1334,1859 1334,1860 1262,1860 1262,1862 1238,1862 1238,1918 1237,1918 1237,1921 1235,1921 1235,1922 1161,1922 1161,1923 1017,1923 1017,1929 1012,1929 1012,1930 1011,1930 1011,1931 1009,1931 1009,1932 972,1932 972,1933 960,1933 960,1924 842,1924 842,1926 841,1926 841,1927 840,1927 840,1929 839,1929 839,1930 838,1930 838,1931 837,1931 837,1932 836,1932 836,1933 823,1933 823,1932 711,1932 711,1933 709,1933 709,1934 706,1934 706,1935 624,1935 624,1934 623,1934 623,1925 472,1925 472,1926 471,1926 471,1928 470,1928 470,1929 469,1929 469,1930 468,1930 468,1931 467,1931 467,1932 466,1932 466,1933 465,1933 465,1934 464,1934 464,1935 452,1935 452,1926 289,1926 289,1927 288,1927 288,1929 287,1929 287,1930 286,1930 286,1931 285,1931 285,1933 284,1933 284,1934 283,1934 283,1935 281,1935 281,1936 280,1936 280,1937 270,1937 270,1936 241,1936 241,1926 240,1926 240,1899 239,1899 239,1878 241,1878 241,1877 299,1877 299,1843 300,1843 300,1817 301,1817 301,1816 304,1816 304,1815 305,1815 305,1814 307,1814 307,1813 308,1813 308,1812 309,1812 309,1811 310,1811 310,1810 362,1810 362,1809 363,1809 363,1808 364,1808 364,1807 367,1807 367,1806 594,1806 594,1805 605,1805 605,1806 765,1806 765,1805 782,1805 782,1815 919,1815 919,1814 982,1814 982,1806 983,1806 983,1805 984,1805 984,1804 1074,1804 1074,1803 1315,1803 1315,1799"/>
+	<TextLine id="l188">
+	<Coords points="1253,1804 1336,1804 1336,1858 1071,1858 1071,1848 955,1848 955,1849 867,1849 867,1860 586,1860 586,1851 304,1851 304,1815 366,1815 366,1811 586,1811 586,1810 867,1810 867,1819 987,1819 987,1809 1071,1809 1071,1808 1253,1808"/>
+	<Word id="w190">
+	<Coords points="304,1815 337,1815 337,1851 304,1851"/>
+	<TextEquiv conf="0.96082">
+	<Unicode>1.</Unicode></TextEquiv></Word>
+	<Word id="w192">
+	<Coords points="366,1811 449,1811 449,1851 366,1851"/>
+	<TextEquiv conf="0.95871">
+	<Unicode>Aus</Unicode></TextEquiv></Word>
+	<Word id="w194">
+	<Coords points="480,1811 557,1811 557,1851 480,1851"/>
+	<TextEquiv conf="0.95871">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w196">
+	<Coords points="586,1810 737,1810 737,1860 586,1860"/>
+	<TextEquiv conf="0.95190">
+	<Unicode>Himmel</Unicode></TextEquiv></Word>
+	<Word id="w198">
+	<Coords points="765,1810 867,1810 867,1860 765,1860"/>
+	<TextEquiv conf="0.96633">
+	<Unicode>ferne,</Unicode></TextEquiv></Word>
+	<Word id="w200">
+	<Coords points="897,1819 955,1819 955,1849 897,1849"/>
+	<TextEquiv conf="0.96548">
+	<Unicode>wo</Unicode></TextEquiv></Word>
+	<Word id="w202">
+	<Coords points="987,1809 1042,1809 1042,1848 987,1848"/>
+	<TextEquiv conf="0.96070">
+	<Unicode>die</Unicode></TextEquiv></Word>
+	<Word id="w204">
+	<Coords points="1071,1808 1223,1808 1223,1858 1071,1858"/>
+	<TextEquiv conf="0.96927">
+	<Unicode>Englein</Unicode></TextEquiv></Word>
+	<Word id="w206">
+	<Coords points="1253,1804 1336,1804 1336,1858 1253,1858"/>
+	<TextEquiv conf="0.96671">
+	<Unicode>ſind,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96207">
+	<Unicode>1. Aus dem Himmel ferne, wo die Englein ſind,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l208">
+	<Coords points="244,1877 369,1877 369,1881 504,1881 504,1880 659,1880 659,1891 819,1891 819,1879 1002,1879 1002,1878 1097,1878 1097,1879 1234,1879 1234,1919 1097,1919 1097,1928 975,1928 975,1929 790,1929 790,1931 626,1931 626,1921 471,1921 471,1931 369,1931 369,1933 244,1933"/>
+	<Word id="w210">
+	<Coords points="244,1877 369,1877 369,1933 244,1933"/>
+	<TextEquiv conf="0.21959">
+	<Unicode>ſchaut</Unicode></TextEquiv></Word>
+	<Word id="w212">
+	<Coords points="386,1881 471,1881 471,1931 386,1931"/>
+	<TextEquiv conf="0.80340">
+	<Unicode>doch</Unicode></TextEquiv></Word>
+	<Word id="w214">
+	<Coords points="504,1880 596,1880 596,1921 504,1921"/>
+	<TextEquiv conf="0.96211">
+	<Unicode>Gott</Unicode></TextEquiv></Word>
+	<Word id="w216">
+	<Coords points="626,1880 659,1880 659,1931 626,1931"/>
+	<TextEquiv conf="0.96550">
+	<Unicode>ſo</Unicode></TextEquiv></Word>
+	<Word id="w218">
+	<Coords points="690,1891 790,1891 790,1931 690,1931"/>
+	<TextEquiv conf="0.96441">
+	<Unicode>gerne</Unicode></TextEquiv></Word>
+	<Word id="w220">
+	<Coords points="819,1879 879,1879 879,1929 819,1929"/>
+	<TextEquiv conf="0.96508">
+	<Unicode>her</Unicode></TextEquiv></Word>
+	<Word id="w222">
+	<Coords points="909,1879 975,1879 975,1929 909,1929"/>
+	<TextEquiv conf="0.96795">
+	<Unicode>auf</Unicode></TextEquiv></Word>
+	<Word id="w224">
+	<Coords points="1002,1878 1097,1878 1097,1928 1002,1928"/>
+	<TextEquiv conf="0.96668">
+	<Unicode>jedes</Unicode></TextEquiv></Word>
+	<Word id="w226">
+	<Coords points="1125,1879 1234,1879 1234,1919 1125,1919"/>
+	<TextEquiv conf="0.96553">
+	<Unicode>Kind.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.86447">
+	<Unicode>ſchaut doch Gott ſo gerne her auf jedes Kind.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>1. Aus dem Himmel ferne, wo die Englein ſind,
+ſchaut doch Gott ſo gerne her auf jedes Kind.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="paragraph">
+	<Coords points="1249,1960 1249,1961 1269,1961 1269,1972 1273,1972 1273,1973 1274,1973 1274,1993 1281,1993 1281,1994 1282,1994 1282,2007 1281,2007 1281,2011 1280,2011 1280,2013 1279,2013 1279,2015 1278,2015 1278,2016 1277,2016 1277,2017 1248,2017 1248,2018 1246,2018 1246,2019 1181,2019 1181,2078 1180,2078 1180,2079 1179,2079 1179,2080 1152,2080 1152,2082 1151,2082 1151,2084 1150,2084 1150,2085 1149,2085 1149,2086 1148,2086 1148,2087 1147,2087 1147,2088 1146,2088 1146,2089 1145,2089 1145,2090 1133,2090 1133,2081 1003,2081 1003,2083 1002,2083 1002,2085 1001,2085 1001,2086 1000,2086 1000,2087 999,2087 999,2088 997,2088 997,2089 996,2089 996,2090 984,2090 984,2081 806,2081 806,2082 728,2082 728,2084 727,2084 727,2085 726,2085 726,2087 725,2087 725,2088 724,2088 724,2089 723,2089 723,2090 722,2090 722,2091 720,2091 720,2092 708,2092 708,2083 532,2083 532,2089 530,2089 530,2090 527,2090 527,2091 526,2091 526,2092 512,2092 512,2084 437,2084 437,2083 271,2083 271,2084 261,2084 261,2083 249,2083 249,2082 247,2082 247,2060 246,2060 246,2059 245,2059 245,2047 247,2047 247,2046 271,2046 271,2036 272,2036 272,2035 297,2035 297,1974 298,1974 298,1972 299,1972 299,1971 300,1971 300,1970 301,1970 301,1969 303,1969 303,1968 369,1968 369,1967 370,1967 370,1966 372,1966 372,1965 373,1965 373,1964 384,1964 384,1965 385,1965 385,1966 505,1966 505,1965 506,1965 506,1964 625,1964 625,1963 865,1963 865,1962 944,1962 944,1961 962,1961 962,1962 965,1962 965,1963 981,1963 981,1972 1101,1972 1101,1964 1102,1964 1102,1962 1156,1962 1156,1961 1159,1961 1159,1960"/>
+	<TextLine id="l228">
+	<Coords points="1157,1965 1278,1965 1278,2015 1157,2015 1157,2007 1026,2007 1026,2016 942,2016 942,2007 829,2007 829,2008 594,2008 594,2020 510,2020 510,2019 364,2019 364,2009 302,2009 302,1973 364,1973 364,1969 624,1969 624,1968 858,1968 858,1967 942,1967 942,1966 1026,1966 1026,1967 1157,1967"/>
+	<Word id="w230">
+	<Coords points="302,1973 335,1973 335,2009 302,2009"/>
+	<TextEquiv conf="0.85365">
+	<Unicode>2.</Unicode></TextEquiv></Word>
+	<Word id="w232">
+	<Coords points="364,1969 479,1969 479,2019 364,2019"/>
+	<TextEquiv conf="0.96047">
+	<Unicode>Höret</Unicode></TextEquiv></Word>
+	<Word id="w234">
+	<Coords points="510,1969 594,1969 594,2020 510,2020"/>
+	<TextEquiv conf="0.96753">
+	<Unicode>ſeine</Unicode></TextEquiv></Word>
+	<Word id="w236">
+	<Coords points="624,1968 726,1968 726,2008 624,2008"/>
+	<TextEquiv conf="0.96219">
+	<Unicode>Bitte</Unicode></TextEquiv></Word>
+	<Word id="w238">
+	<Coords points="753,1968 829,1968 829,2008 753,2008"/>
+	<TextEquiv conf="0.96213">
+	<Unicode>treu</Unicode></TextEquiv></Word>
+	<Word id="w240">
+	<Coords points="858,1967 913,1967 913,2007 858,2007"/>
+	<TextEquiv conf="0.96698">
+	<Unicode>bei</Unicode></TextEquiv></Word>
+	<Word id="w242">
+	<Coords points="942,1966 1026,1966 1026,2016 942,2016"/>
+	<TextEquiv conf="0.96655">
+	<Unicode>Tag</Unicode></TextEquiv></Word>
+	<Word id="w244">
+	<Coords points="1054,1967 1127,1967 1127,2007 1054,2007"/>
+	<TextEquiv conf="0.96400">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w246">
+	<Coords points="1157,1965 1278,1965 1278,2015 1157,2015"/>
+	<TextEquiv conf="0.82696">
+	<Unicode>Naht,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.93672">
+	<Unicode>2. Höret ſeine Bitte treu bei Tag und Naht,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l248">
+	<Coords points="838,2036 1177,2036 1177,2086 810,2086 810,2088 624,2088 624,2089 517,2089 517,2080 250,2080 250,2040 517,2040 517,2039 653,2039 653,2038 838,2038"/>
+	<Word id="w250">
+	<Coords points="250,2040 405,2040 405,2080 250,2080"/>
+	<TextEquiv conf="0.91234">
+	<Unicode>nimmt's</Unicode></TextEquiv></Word>
+	<Word id="w252">
+	<Coords points="432,2040 488,2040 488,2080 432,2080"/>
+	<TextEquiv conf="0.96527">
+	<Unicode>bei</Unicode></TextEquiv></Word>
+	<Word id="w254">
+	<Coords points="517,2039 624,2039 624,2089 517,2089"/>
+	<TextEquiv conf="0.95537">
+	<Unicode>jedem</Unicode></TextEquiv></Word>
+	<Word id="w256">
+	<Coords points="653,2038 810,2038 810,2088 653,2088"/>
+	<TextEquiv conf="0.92957">
+	<Unicode>Schritte</Unicode></TextEquiv></Word>
+	<Word id="w258">
+	<Coords points="838,2036 1002,2036 1002,2086 838,2086"/>
+	<TextEquiv conf="0.60514">
+	<Unicode>väterlich</Unicode></TextEquiv></Word>
+	<Word id="w260">
+	<Coords points="1030,2037 1066,2037 1066,2077 1030,2077"/>
+	<TextEquiv conf="0.95811">
+	<Unicode>in</Unicode></TextEquiv></Word>
+	<Word id="w262">
+	<Coords points="1095,2036 1177,2036 1177,2086 1095,2086"/>
+	<TextEquiv conf="0.94114">
+	<Unicode>acht.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.89528">
+	<Unicode>nimmt's bei jedem Schritte väterlich in acht.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>2. Höret ſeine Bitte treu bei Tag und Naht,
+nimmt's bei jedem Schritte väterlich in acht.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1252,2117 1252,2118 1315,2118 1315,2119 1316,2119 1316,2130 1320,2130 1320,2131 1321,2131 1321,2149 1327,2149 1327,2150 1328,2150 1328,2151 1329,2151 1329,2164 1328,2164 1328,2168 1327,2168 1327,2170 1326,2170 1326,2172 1325,2172 1325,2173 1324,2173 1324,2174 1248,2174 1248,2235 1247,2235 1247,2236 1246,2236 1246,2237 1213,2237 1213,2238 1014,2238 1014,2248 1013,2248 1013,2249 1002,2249 1002,2248 978,2248 978,2247 976,2247 976,2246 975,2246 975,2245 974,2245 974,2239 827,2239 827,2240 750,2240 750,2242 749,2242 749,2244 748,2244 748,2245 747,2245 747,2247 746,2247 746,2248 745,2248 745,2249 744,2249 744,2250 743,2250 743,2251 730,2251 730,2241 315,2241 315,2251 314,2251 314,2252 303,2252 303,2251 254,2251 254,2241 251,2241 251,2240 250,2240 250,2239 247,2239 247,2238 246,2238 246,2207 245,2207 245,2196 252,2196 252,2195 254,2195 254,2194 256,2194 256,2193 300,2193 300,2130 301,2130 301,2129 302,2129 302,2127 303,2127 303,2126 305,2126 305,2125 368,2125 368,2124 371,2124 371,2123 383,2123 383,2122 384,2122 384,2121 395,2121 395,2122 580,2122 580,2121 700,2121 700,2120 883,2120 883,2119 1172,2119 1172,2118 1241,2118 1241,2117"/>
+	<TextLine id="l264">
+	<Coords points="1217,2122 1325,2122 1325,2170 1186,2170 1186,2174 835,2174 835,2176 579,2176 579,2167 305,2167 305,2130 367,2130 367,2126 460,2126 460,2127 579,2127 579,2125 863,2125 863,2124 1061,2124 1061,2123 1217,2123"/>
+	<Word id="w266">
+	<Coords points="305,2130 338,2130 338,2167 305,2167"/>
+	<TextEquiv conf="0.83101">
+	<Unicode>3.</Unicode></TextEquiv></Word>
+	<Word id="w268">
+	<Coords points="367,2126 460,2126 460,2167 367,2167"/>
+	<TextEquiv conf="0.96562">
+	<Unicode>Gibt</Unicode></TextEquiv></Word>
+	<Word id="w270">
+	<Coords points="488,2127 552,2127 552,2167 488,2167"/>
+	<TextEquiv conf="0.92717">
+	<Unicode>mit</Unicode></TextEquiv></Word>
+	<Word id="w272">
+	<Coords points="579,2125 835,2125 835,2176 579,2176"/>
+	<TextEquiv conf="0.92136">
+	<Unicode>Vaterhänden</Unicode></TextEquiv></Word>
+	<Word id="w274">
+	<Coords points="863,2124 937,2124 937,2174 863,2174"/>
+	<TextEquiv conf="0.96416">
+	<Unicode>ihm</Unicode></TextEquiv></Word>
+	<Word id="w276">
+	<Coords points="967,2124 1034,2124 1034,2174 967,2174"/>
+	<TextEquiv conf="0.93135">
+	<Unicode>ſein</Unicode></TextEquiv></Word>
+	<Word id="w278">
+	<Coords points="1061,2123 1186,2123 1186,2174 1061,2174"/>
+	<TextEquiv conf="0.47815">
+	<Unicode>täglich</Unicode></TextEquiv></Word>
+	<Word id="w280">
+	<Coords points="1217,2122 1325,2122 1325,2170 1217,2170"/>
+	<TextEquiv conf="0.95470">
+	<Unicode>Brot,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.87169">
+	<Unicode>3. Gibt mit Vaterhänden ihm ſein täglich Brot,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l282">
+	<Coords points="915,2193 1030,2193 1030,2194 1159,2194 1159,2193 1244,2193 1244,2234 1030,2234 1030,2245 915,2245 915,2236 785,2236 785,2247 712,2247 712,2237 333,2237 333,2248 250,2248 250,2198 333,2198 333,2208 440,2208 440,2197 562,2197 562,2196 785,2196 785,2206 915,2206"/>
+	<Word id="w284">
+	<Coords points="250,2198 333,2198 333,2248 250,2248"/>
+	<TextEquiv conf="0.96190">
+	<Unicode>hilft</Unicode></TextEquiv></Word>
+	<Word id="w286">
+	<Coords points="363,2208 411,2208 411,2237 363,2237"/>
+	<TextEquiv conf="0.95950">
+	<Unicode>an</Unicode></TextEquiv></Word>
+	<Word id="w288">
+	<Coords points="440,2197 536,2197 536,2237 440,2237"/>
+	<TextEquiv conf="0.95951">
+	<Unicode>allen</Unicode></TextEquiv></Word>
+	<Word id="w290">
+	<Coords points="562,2196 685,2196 685,2237 562,2237"/>
+	<TextEquiv conf="0.96212">
+	<Unicode>Enden</Unicode></TextEquiv></Word>
+	<Word id="w292">
+	<Coords points="712,2196 785,2196 785,2247 712,2247"/>
+	<TextEquiv conf="0.96113">
+	<Unicode>ihm</Unicode></TextEquiv></Word>
+	<Word id="w294">
+	<Coords points="815,2206 887,2206 887,2236 815,2236"/>
+	<TextEquiv conf="0.96650">
+	<Unicode>aus</Unicode></TextEquiv></Word>
+	<Word id="w296">
+	<Coords points="915,2193 1030,2193 1030,2245 915,2245"/>
+	<TextEquiv conf="0.95210">
+	<Unicode>Angſt</Unicode></TextEquiv></Word>
+	<Word id="w298">
+	<Coords points="1057,2194 1129,2194 1129,2234 1057,2234"/>
+	<TextEquiv conf="0.96513">
+	<Unicode>und</Unicode></TextEquiv></Word>
+	<Word id="w300">
+	<Coords points="1159,2193 1244,2193 1244,2234 1159,2234"/>
+	<TextEquiv conf="0.96513">
+	<Unicode>Not.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.96145">
+	<Unicode>hilft an allen Enden ihm aus Angſt und Not.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>3. Gibt mit Vaterhänden ihm ſein täglich Brot,
+hilft an allen Enden ihm aus Angſt und Not.</Unicode></TextEquiv></TextRegion>
+	<TextRegion id="r10" type="paragraph">
+	<Coords points="1300,2275 1300,2276 1311,2276 1311,2287 1315,2287 1315,2288 1316,2288 1316,2307 1324,2307 1324,2325 1323,2325 1323,2326 1322,2326 1322,2328 1321,2328 1321,2330 1320,2330 1320,2331 1319,2331 1319,2332 1296,2332 1296,2334 1295,2334 1295,2335 1283,2335 1283,2326 1104,2326 1104,2392 1103,2392 1103,2394 1102,2394 1102,2395 1078,2395 1078,2398 1077,2398 1077,2400 1076,2400 1076,2402 1075,2402 1075,2403 1073,2403 1073,2404 1063,2404 1063,2405 1032,2405 1032,2406 1018,2406 1018,2405 1015,2405 1015,2404 1013,2404 1013,2403 1012,2403 1012,2402 1011,2402 1011,2396 842,2396 842,2397 812,2397 812,2407 800,2407 800,2401 688,2401 688,2402 687,2402 687,2404 686,2404 686,2405 583,2405 583,2407 582,2407 582,2408 493,2408 493,2399 367,2399 367,2409 355,2409 355,2400 255,2400 255,2399 254,2399 254,2398 252,2398 252,2397 249,2397 249,2396 246,2396 246,2354 247,2354 247,2353 248,2353 248,2352 300,2352 300,2306 301,2306 301,2305 302,2305 302,2303 303,2303 303,2302 304,2302 304,2300 305,2300 305,2299 306,2299 306,2297 307,2297 307,2296 308,2296 308,2294 309,2294 309,2293 310,2293 310,2291 311,2291 311,2289 312,2289 312,2288 313,2288 313,2285 314,2285 314,2284 370,2284 370,2283 371,2283 371,2282 373,2282 373,2281 375,2281 375,2280 377,2280 377,2279 716,2279 716,2286 718,2286 718,2287 720,2287 720,2288 723,2288 723,2289 839,2289 839,2281 846,2281 846,2280 847,2280 847,2279 863,2279 863,2278 949,2278 949,2277 998,2277 998,2276 1016,2276 1016,2277 1131,2277 1131,2276 1283,2276 1283,2275"/>
+	<TextLine id="l20">
+	<Coords points="1227,2280 1320,2280 1320,2331 1227,2331 1227,2322 1022,2322 1022,2331 950,2331 950,2330 820,2330 820,2324 510,2324 510,2335 369,2335 369,2325 305,2325 305,2289 369,2289 369,2284 820,2284 820,2283 950,2283 950,2281 1022,2281 1022,2282 1131,2282 1131,2281 1227,2281"/>
+	<Word id="w22">
+	<Coords points="305,2289 339,2289 339,2325 305,2325"/>
+	<TextEquiv conf="0.95768">
+	<Unicode>4.</Unicode></TextEquiv></Word>
+	<Word id="w24">
+	<Coords points="369,2284 510,2284 510,2335 369,2335"/>
+	<TextEquiv conf="0.95280">
+	<Unicode>Sagt's</Unicode></TextEquiv></Word>
+	<Word id="w26">
+	<Coords points="539,2284 605,2284 605,2324 539,2324"/>
+	<TextEquiv conf="0.95255">
+	<Unicode>den</Unicode></TextEquiv></Word>
+	<Word id="w5">
+	<Coords points="631,2284 790,2284 790,2324 631,2324"/>
+	<TextEquiv conf="0.96163">
+	<Unicode>Kindern</Unicode></TextEquiv></Word>
+	<Word id="w6">
+	<Coords points="820,2283 923,2283 923,2330 820,2330"/>
+	<TextEquiv conf="0.96163">
+	<Unicode>allen,</Unicode></TextEquiv></Word>
+	<Word id="w7">
+	<Coords points="950,2281 1022,2281 1022,2331 950,2331"/>
+	<TextEquiv conf="0.96412">
+	<Unicode>daß</Unicode></TextEquiv></Word>
+	<Word id="w8">
+	<Coords points="1052,2282 1106,2282 1106,2322 1052,2322"/>
+	<TextEquiv conf="0.96412">
+	<Unicode>ein</Unicode></TextEquiv></Word>
+	<Word id="w9">
+	<Coords points="1131,2281 1226,2281 1226,2322 1131,2322"/>
+	<TextEquiv conf="0.96635">
+	<Unicode>Vater</Unicode></TextEquiv></Word>
+	<Word id="w10">
+	<Coords points="1227,2280 1320,2280 1320,2331 1227,2331"/>
+	<TextEquiv conf="0.94764">
+	<Unicode>iſt,</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95872">
+	<Unicode>4. Sagt's den Kindern allen, daß ein Vater iſt,</Unicode></TextEquiv></TextLine>
+	<TextLine id="l11">
+	<Coords points="952,2351 1100,2351 1100,2402 952,2402 952,2392 845,2392 845,2403 802,2403 802,2393 686,2393 686,2404 401,2404 401,2405 357,2405 357,2396 251,2396 251,2357 357,2357 357,2355 426,2355 426,2354 802,2354 802,2353 952,2353"/>
+	<Word id="w12">
+	<Coords points="251,2357 328,2357 328,2396 251,2396"/>
+	<TextEquiv conf="0.96845">
+	<Unicode>dem</Unicode></TextEquiv></Word>
+	<Word id="w13">
+	<Coords points="357,2355 401,2355 401,2405 357,2405"/>
+	<TextEquiv conf="0.93281">
+	<Unicode>ſie</Unicode></TextEquiv></Word>
+	<Word id="w28">
+	<Coords points="426,2354 686,2354 686,2404 426,2404"/>
+	<TextEquiv conf="0.91942">
+	<Unicode>wohlgefallen,</Unicode></TextEquiv></Word>
+	<Word id="w15">
+	<Coords points="713,2354 772,2354 772,2393 713,2393"/>
+	<TextEquiv conf="0.96558">
+	<Unicode>der</Unicode></TextEquiv></Word>
+	<Word id="w30">
+	<Coords points="802,2353 845,2353 845,2403 802,2403"/>
+	<TextEquiv conf="0.95485">
+	<Unicode>ſie</Unicode></TextEquiv></Word>
+	<Word id="w17">
+	<Coords points="870,2353 927,2353 927,2392 870,2392"/>
+	<TextEquiv conf="0.96238">
+	<Unicode>nie</Unicode></TextEquiv></Word>
+	<Word id="w32">
+	<Coords points="952,2351 1100,2351 1100,2402 952,2402"/>
+	<TextEquiv conf="0.96238">
+	<Unicode>vergißt.</Unicode></TextEquiv></Word>
+	<TextEquiv conf="0.95226">
+	<Unicode>dem ſie wohlgefallen, der ſie nie vergißt.</Unicode></TextEquiv></TextLine>
+	<TextEquiv>
+	<Unicode>4. Sagt's den Kindern allen, daß ein Vater iſt,
+dem ſie wohlgefallen, der ſie nie vergißt.</Unicode></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-03-10T09:15:26</Created>
+	<LastChange>2021-03-10T09:15:26</LastChange></Metadata>
+	<Page imageFilename="00000004.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1685" imageHeight="2648" type="blank">
+	<GraphicRegion id="r0" type="barcode" orientation="90.00000">
+	<Coords points="696,964 696,1617 978,1617 978,964"/></GraphicRegion></Page></PcGts>
