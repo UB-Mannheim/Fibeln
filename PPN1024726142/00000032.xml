@@ -226,7 +226,7 @@
 	<Word id="w411">
 	<Coords points="499,531 584,531 584,592 499,592"/>
 	<TextEquiv conf="0.88987">
-	<Unicode>fagſt</Unicode></TextEquiv></Word>
+	<Unicode>ſagſt</Unicode></TextEquiv></Word>
 	<Word id="w413">
 	<Coords points="609,545 671,545 671,580 609,580"/>
 	<TextEquiv conf="0.92289">
@@ -256,7 +256,7 @@
 	<TextEquiv conf="0.91168">
 	<Unicode>Ruhe.</Unicode></TextEquiv></Word>
 	<TextEquiv>
-	<Unicode>Bald darauf fagſt du: Gute Nacht! Du gehſt zur Ruhe.</Unicode></TextEquiv></TextLine>
+	<Unicode>Bald darauf ſagſt du: Gute Nacht! Du gehſt zur Ruhe.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l7">
 	<Coords points="229,647 229,590 920,590 920,647"/>
 	<Word id="w427">
