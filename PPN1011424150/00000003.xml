@@ -56,7 +56,7 @@ Transkribus</Creator>
                 <Coords points="503,1776 1054,1789 1172,1771 1170,1677 1126,1692 1096,1673 1031,1710 807,1699 729,1720 673,1701 597,1732 502,1708"/>
                 <Baseline points="510,1771 542,1771 575,1771 608,1770 640,1769 673,1768 706,1767 738,1767 771,1765 804,1764 837,1763 869,1762 902,1761 935,1760 967,1759 1000,1759 1033,1759 1065,1758 1098,1759 1131,1759 1164,1760"/>
                 <TextEquiv>
-                    <Unicode>Neunundzwanzigste Auflage.</Unicode>
+                    <Unicode>Neunundzwanzigſte Auflage.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:6;}">
@@ -84,14 +84,14 @@ Transkribus</Creator>
                 <Coords points="245,2281 1432,2279 1458,2217 1099,2192 892,2232 244,2236"/>
                 <Baseline points="252,2281 315,2279 378,2277 441,2275 504,2274 567,2272 630,2271 693,2270 756,2269 819,2268 883,2267 946,2266 1009,2264 1072,2263 1135,2262 1198,2260 1261,2259 1324,2257 1387,2255 1451,2252"/>
                 <TextEquiv>
-                    <Unicode>Verlag der M. Du Mont=Schauberg'schen Buchhandlung.</Unicode>
+                    <Unicode>Verlag der M. Du Mont⸗Schauberg'ſchen Buchhandlung.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:10;}">
                 <Coords points="500,2392 752,2371 857,2403 891,2383 1045,2401 1157,2372 1205,2394 1203,2334 1120,2307 1087,2331 1038,2307 499,2335"/>
                 <Baseline points="508,2371 542,2371 576,2370 611,2370 645,2369 680,2368 714,2367 748,2367 783,2365 817,2365 852,2363 886,2363 920,2361 955,2360 989,2359 1024,2359 1058,2358 1092,2357 1127,2357 1161,2356 1196,2356"/>
                 <TextEquiv>
-                    <Unicode>Druck von M. Du Mont=Schauberg in Köln.</Unicode>
+                    <Unicode>Druck von M. Du Mont⸗Schauberg in Köln.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -100,12 +100,12 @@ Erſte Abtheilung.&#xD;
 Herausgegeben&#xD;
 vom&#xD;
 Lehrervereine zu Köln.&#xD;
-Neunundzwanzigste Auflage.&#xD;
+Neunundzwanzigſte Auflage.&#xD;
 HISTORISCHE&#xD;
 ONDERWIJSCOLLECTIE&#xD;
 Köln, 1871.&#xD;
-Verlag der M. Du Mont=Schauberg'schen Buchhandlung.&#xD;
-Druck von M. Du Mont=Schauberg in Köln.</Unicode>
+Verlag der M. Du Mont⸗Schauberg'ſchen Buchhandlung.&#xD;
+Druck von M. Du Mont⸗Schauberg in Köln.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">

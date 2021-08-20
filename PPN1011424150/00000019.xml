@@ -69,7 +69,7 @@ Transkribus</Creator>
                 <Coords points="129,589 212,594 274,577 298,589 330,581 374,598 375,509 275,485 223,483 200,493 131,476"/>
                 <Baseline points="138,565 163,566 188,566 214,566 239,565 265,565 290,565 316,566 341,568 367,574"/>
                 <TextEquiv>
-                    <Unicode>scheure,</Unicode>
+                    <Unicode>ſcheure,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
@@ -97,7 +97,7 @@ Transkribus</Creator>
                 <Coords points="700,786 757,804 875,770 916,802 948,784 997,797 1036,773 1098,770 1145,790 1145,689 1096,706 1072,687 989,675 923,699 892,684 810,699 754,673 700,681"/>
                 <Baseline points="708,763 733,765 758,765 783,766 809,767 834,767 859,767 885,767 910,767 935,766 960,766 986,766 1011,765 1036,765 1062,765 1087,765 1112,765 1138,765"/>
                 <TextEquiv>
-                    <Unicode>schaue, scheue,</Unicode>
+                    <Unicode>ſchaue, ſcheue,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
@@ -395,11 +395,11 @@ wiſche,&#xD;
 laufe,&#xD;
 meine, ſchone, rauſche,&#xD;
 ſaufe,&#xD;
-scheure,&#xD;
+ſcheure,&#xD;
 lauſche, feure, feile, male,&#xD;
 weiſe,&#xD;
 hauen,&#xD;
-schaue, scheue,&#xD;
+ſchaue, ſcheue,&#xD;
 neue,&#xD;
 haue,&#xD;
 ſchauen, reuen, ſauer, neuer, neues.&#xD;
