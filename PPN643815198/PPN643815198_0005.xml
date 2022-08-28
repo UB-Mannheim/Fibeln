@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000005/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-08-27T09:42:00.669156+00:00</Created>
+        <LastChange>2022-08-27T09:42:00.669199+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PPN643815198_0005.jpg" imageWidth="912" imageHeight="1432">
+    <TextRegion id="eSc_textblock_759a02ed"  >
+      <Coords points="299,111 406,111 459,124 469,167 390,193 296,180 280,171 280,155 283,127"/>
+      <TextLine id="eSc_line_f92b9b58" >
+        <Coords points="300,159 300,184 342,184 342,183 343,183 344,183 347,181 358,174 366,180 370,183 371,183 372,183 373,183 399,179 428,173 466,174 467,158 465,126 299,124 300,159"/>
+        <Baseline points="301,160 468,159"/>
+        <TextEquiv>
+          <Unicode>Neue</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_87449c27"  >
+      <Coords points="494,1227 393,1246 292,1233 276,1214 289,1208 292,1186 127,1182 127,1145 285,1136 273,1097 276,1081 296,1075 479,1081 501,1097 498,1136 625,1142 635,1176 508,1182 482,1199 501,1209"/>
+      <TextLine id="eSc_line_1742dd94" >
+        <Coords points="479,1082 296,1075 288,1076 276,1078 276,1079 278,1109 278,1125 398,1118 403,1120 408,1124 409,1124 410,1124 411,1124 435,1119 444,1118 448,1118 478,1124 479,1124 481,1124 482,1124 491,1118 491,1107 489,1089 479,1082"/>
+        <Baseline points="279,1110 492,1108"/>
+        <TextEquiv>
+          <Unicode>Goͤttingen,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a42bd61d" >
+        <Coords points="625,1149 617,1141 609,1141 605,1140 569,1146 541,1140 541,1140 540,1140 513,1147 420,1140 420,1140 389,1147 387,1147 383,1147 303,1141 302,1141 301,1141 300,1141 300,1142 293,1147 293,1148 265,1148 265,1147 255,1143 254,1143 253,1143 253,1143 234,1148 233,1148 231,1148 215,1142 214,1142 187,1142 186,1142 185,1142 184,1142 177,1147 163,1143 163,1143 162,1143 161,1143 160,1143 156,1147 148,1143 148,1144 140,1144 139,1144 132,1147 132,1171 133,1187 158,1179 193,1179 234,1187 237,1187 238,1187 239,1187 241,1187 261,1179 278,1184 279,1184 280,1184 280,1184 281,1184 291,1178 307,1186 307,1186 308,1187 351,1187 351,1186 352,1186 353,1186 388,1177 413,1186 414,1186 415,1186 436,1186 462,1186 462,1186 463,1186 463,1186 463,1185 470,1179 517,1176 545,1180 545,1180 576,1176 586,1185 587,1185 588,1185 588,1185 589,1185 607,1181 627,1185 628,1168 627,1158 625,1149"/>
+        <Baseline points="132,1171 413,1167 628,1168"/>
+        <TextEquiv>
+          <Unicode>gedruckt bey Johann Chriſtian Dieterich,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d20c6776" >
+        <Coords points="306,1227 306,1242 344,1236 353,1242 354,1242 355,1242 356,1242 358,1242 359,1242 359,1241 365,1236 454,1242 456,1227 456,1202 306,1200 306,1227"/>
+        <Baseline points="307,1229 457,1228"/>
+        <TextEquiv>
+          <Unicode>I 7 8 2.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0be06ce2"  >
+      <Coords points="78,295 81,301 66,301 66,292"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bb53c343"  >
+      <Coords points="81,235 81,241 79,241 79,235"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_adf78126"  >
+      <Coords points="641,318 641,320 610,323 597,318"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b53ba88d"  >
+      <Coords points="470,807 479,798 491,798 498,807"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5a600095"  >
+      <Coords points="521,813 518,805 545,805 549,813"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_63b9be0d"  >
+      <Coords points="72,241 72,244 70,244 70,241"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_31ec93da"  >
+      <Coords points="79,223 79,344 671,344 671,223"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f7bb7586"  >
+      <Coords points="78,276 78,279 66,282 66,276"/>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_65aeedba" >
+        <Coords points="90,354 670,328 670,312 665,217 87,219 89,319"/>
+        <Baseline points="90,320 672,313"/>
+        <TextEquiv>
+          <Unicode>Fibel.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

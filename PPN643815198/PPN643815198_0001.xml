@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000001/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-08-27T09:42:00.614787+00:00</Created>
+        <LastChange>2022-08-27T09:42:00.614907+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PPN643815198_0001.jpg" imageWidth="920" imageHeight="1440">
+    <TextRegion id="eSc_textblock_390571c6"  >
+      <Coords points="147,1123 197,1123 220,1139 229,1221 255,1222 229,1238 223,1266 163,1272 153,1266 156,1231 108,1224 121,1148 147,1123"/>
+    </TextRegion>
+  </Page>
+</PcGts>

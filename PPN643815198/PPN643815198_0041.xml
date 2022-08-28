@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000041/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-08-27T09:42:03.744402+00:00</Created>
+        <LastChange>2022-08-27T09:42:03.744426+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PPN643815198_0041.jpg" imageWidth="632" imageHeight="1352">
+    <TextRegion id="eSc_textblock_8fdd38cd"  >
+      <Coords points="54,1243 66,925 83,928 86,978 101,982 89,1092 117,1159 383,1183 383,1222 54,1243"/>
+      <TextLine id="eSc_line_307074de" >
+        <Coords points="367,1181 356,1180 345,1179 334,1179 322,1178 311,1177 306,1176 108,1172 108,1212 107,1235 176,1238 177,1238 178,1238 179,1238 179,1237 182,1234 187,1229 206,1229 220,1233 232,1238 233,1238 277,1239 278,1239 279,1239 293,1231 297,1230 325,1230 327,1231 340,1238 341,1238 343,1238 380,1229 381,1214 379,1183 367,1181"/>
+        <Baseline points="109,1213 382,1215"/>
+        <TextEquiv>
+          <Unicode>QpCARD 201</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_77b3db02"  >
+      <Coords points="446,294 493,303 499,378 499,1035 475,1059 434,1050 431,342 434,306 446,294"/>
+      <TextLine id="eSc_line_b9260841" >
+        <Coords points="476,302 444,306 444,358 443,359 435,381 435,382 435,382 438,410 435,422 435,423 435,423 437,450 435,476 435,477 435,477 438,485 431,522 431,522 431,523 440,555 441,581 433,617 433,618 438,650 432,665 432,666 432,666 436,701 432,711 432,712 432,712 432,713 439,729 436,778 436,778 439,798 433,814 433,814 433,841 433,842 433,842 438,857 435,868 435,868 435,869 435,870 441,890 443,896 441,920 441,923 441,923 441,924 441,924 444,932 441,940 441,940 441,941 441,941 445,953 441,964 439,972 439,972 439,973 441,1002 479,1002 488,1002 494,973 494,972 490,954 494,915 494,914 489,888 488,884 489,881 493,862 493,861 489,793 488,766 489,758 492,740 492,740 489,722 488,715 489,700 492,663 492,662 489,645 487,630 487,593 490,584 492,576 492,576 492,575 492,575 490,567 487,557 487,530 489,496 489,495 487,445 490,434 491,430 491,429 491,429 490,402 489,367 490,295 476,295 463,299 476,302"/>
+        <Baseline points="480,1001 477,294"/>
+        <TextEquiv>
+          <Unicode>SUB GÖTTINGEN / GDZ | 2010</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cd332aaa"  >
+      <Coords points="98,354 98,371 68,410 54,374 60,327 98,354"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_50385c8d"  >
+      <Coords points="63,429 92,432 95,446 60,449 63,429"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c3835652"  >
+      <Coords points="98,597 98,606 63,615 57,600 69,588 72,597 98,597"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_5710479f"  >
+      <Coords points="89,212 60,224 60,195 74,195 89,212"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_df239897"  >
+      <Coords points="69,766 71,766 71,777 66,774 69,766"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2e7623ef"  >
+      <Coords points="72,688 81,672 98,672 98,687 69,705 60,699 69,672 72,688"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_12d6294b"  >
+      <Coords points="72,826 101,835 71,873 60,846 69,814 72,826"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c2b2e4bf"  >
+      <Coords points="95,528 66,534 66,510 95,513 95,528"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6f04b6a6"  >
+      <Coords points="95,276 95,290 68,314 54,299 60,264 95,276"/>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000003/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-08-27T09:42:00.649305+00:00</Created>
+        <LastChange>2022-08-27T09:42:00.649342+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PPN643815198_0003.jpg" imageWidth="912" imageHeight="1432">
+    <TextRegion id="eSc_textblock_dbc6f08a"  >
+      <Coords points="350,1034 498,1037 507,1052 498,1077 296,1081 299,1040 350,1034"/>
+      <TextLine id="eSc_line_c3fd3563" >
+        <Coords points="496,1037 484,1035 472,1035 460,1035 448,1035 436,1035 424,1035 414,1034 401,1034 389,1034 377,1034 365,1034 353,1034 341,1034 329,1035 317,1038 305,1038 306,1058 306,1065 498,1065 498,1054 496,1037 496,1037"/>
+        <Baseline points="307,1059 500,1056"/>
+        <TextEquiv>
+          <Unicode>SUB Göttingen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b5c2a35d" >
+        <Coords points="453,1061 339,1058 337,1058 325,1058 313,1058 312,1056 302,1056 302,1071 321,1089 432,1094 451,1079 450,1077"/>
+        <Baseline points="303,1072 452,1080"/>
+        <TextEquiv>
+          <Unicode>114 398 054</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+      <TextLine id="eSc_line_0fde7516" >
+        <Coords points="578,1056 578,1063 609,1062 609,1056 609,1029 578,1029 578,1056"/>
+        <Baseline points="580,1057 610,1057"/>
+        <TextEquiv>
+          <Unicode>7</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

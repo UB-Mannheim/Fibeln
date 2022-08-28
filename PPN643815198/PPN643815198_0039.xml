@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000039/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-08-27T09:42:03.733651+00:00</Created>
+        <LastChange>2022-08-27T09:42:03.733675+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PPN643815198_0039.jpg" imageWidth="912" imageHeight="1432">
+    <TextRegion id="eSc_textblock_b7657324"  >
+      <Coords points="428,1284 276,1284 260,1291 339,1297 73,1307 60,1279 111,1237 333,1263 280,1268 276,1279 428,1284"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_670dd0f2"  >
+      <Coords points="342,241 321,228 324,206 346,210 342,241"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ffdd5abe"  >
+      <Coords points="371,1297 359,1297 362,1291 371,1295 371,1297"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b1aaf10a"  >
+      <Coords points="397,1300 385,1300 388,1295 397,1295 397,1300"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d67b5b99"  >
+      <Coords points="479,1294 476,1282 486,1272 491,1288 479,1294"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c16ab583"  >
+      <Coords points="491,1265 486,1265 486,1260 491,1260 491,1265"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c70aa81c"  >
+      <Coords points="510,1265 508,1265 505,1260 510,1260 510,1265"/>
+    </TextRegion>
+  </Page>
+</PcGts>

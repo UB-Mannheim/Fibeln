@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000006/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2022-08-27T09:42:00.686714+00:00</Created>
+        <LastChange>2022-08-27T09:42:00.686745+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="PPN643815198_0006.jpg" imageWidth="912" imageHeight="1432">
+    <TextRegion id="eSc_textblock_6f559ca5"  >
+      <Coords points="631,550 638,654 596,747 526,788 356,788 327,778 318,744 286,734 270,705 267,572 311,531 362,505 537,493 609,512 631,550"/>
+      <TextLine id="eSc_line_3eff4b7a" >
+        <Coords points="397,560 398,575 482,564 481,551 475,513 422,513 421,513 420,513 392,522 397,560"/>
+        <Baseline points="398,562 482,552"/>
+        <TextEquiv>
+          <Unicode>EX</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a9057a25" >
+        <Coords points="307,622 310,639 329,630 385,628 395,627 396,627 398,626 418,616 424,622 426,622 427,622 428,622 429,622 430,622 430,621 432,621 440,613 535,606 563,603 564,603 572,601 598,591 608,595 609,579 604,545 562,551 556,550 538,544 537,544 535,544 534,544 500,556 478,563 469,559 464,557 463,557 461,557 460,557 459,557 459,558 457,560 452,565 413,565 404,565 403,565 402,565 398,566 365,577 350,571 349,571 348,571 347,571 300,576 307,622"/>
+        <Baseline points="308,623 610,581"/>
+        <TextEquiv>
+          <Unicode>BIBLIOTHECA</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc4199ad" >
+        <Coords points="325,671 327,683 390,673 409,673 448,673 448,671 450,671 451,671 461,664 472,668 473,668 475,668 476,668 514,656 526,652 533,652 559,656 561,656 562,656 609,640 609,632 604,601 563,594 562,594 561,594 495,610 458,620 422,618 398,616 397,616 396,616 395,616 395,618 393,618 391,621 387,627 318,627 325,671"/>
+        <Baseline points="326,672 610,633"/>
+        <TextEquiv>
+          <Unicode>REGIA ACAD.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f82e43ac" >
+        <Coords points="350,717 352,726 563,698 562,684 556,650 534,645 533,645 510,650 509,650 508,650 508,651 507,651 503,656 498,662 344,676 350,717"/>
+        <Baseline points="351,718 563,685"/>
+        <TextEquiv>
+          <Unicode>GEORGIÆ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_930edddf" >
+        <Coords points="418,754 423,785 545,769 540,733 533,700 411,719 418,754"/>
+        <Baseline points="419,755 541,734"/>
+        <TextEquiv>
+          <Unicode>AUG:</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_1dade80e"  >
+      <Coords points="272,342 251,346 251,340 272,340 272,342"/>
+    </TextRegion>
+  </Page>
+</PcGts>
