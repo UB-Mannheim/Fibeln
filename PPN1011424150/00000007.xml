@@ -21,7 +21,7 @@ Transkribus</Creator>
                 <Coords points="584,237 618,254 665,235 719,237 731,251 748,243 795,291 843,278 871,303 910,304 923,124 894,122 840,158 757,165 740,180 685,168 648,188 587,186"/>
                 <Baseline points="593,222 621,222 649,224 677,227 705,230 906,243"/>
                 <TextEquiv>
-                    <Unicode> r, ſ.</Unicode>
+                    <Unicode>r, ſ.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -98,14 +98,14 @@ Transkribus</Creator>
                 <Coords points="166,1585 393,1536 727,1599 935,1528 1198,1589 1391,1533 1391,1416 1255,1412 1129,1471 745,1406 621,1477 312,1401 165,1477"/>
                 <Baseline points="174,1513 234,1513 294,1512 355,1512 415,1512 476,1511 536,1511 597,1511 657,1511 718,1511 778,1511 838,1511 899,1511 959,1511 1020,1511 1080,1510 1141,1510 1201,1509 1262,1508 1322,1507 1383,1506"/>
                 <TextEquiv>
-                    <Unicode> ſche, an, ſchi, em, ſchu,</Unicode>
+                    <Unicode>ſche, an, ſchi, em, ſchu,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
                 <Coords points="157,1707 213,1680 433,1754 728,1694 871,1754 1101,1684 1321,1717 1335,1634 1155,1639 1028,1566 876,1603 796,1569 656,1652 551,1569 388,1566 157,1654"/>
                 <Baseline points="166,1681 224,1682 282,1683 340,1684 398,1684 456,1685 514,1685 572,1686 630,1686 688,1686 747,1686 805,1686 863,1686 921,1685 979,1685 1037,1684 1095,1684 1153,1683 1211,1682 1269,1682 1328,1680"/>
                 <TextEquiv>
-                    <Unicode>#ul, scho, el, scha, or,</Unicode>
+                    <Unicode>ul, scho, el, scha, or,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
@@ -144,7 +144,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode> r, ſ.
+                <Unicode>r, ſ.
 6.
 ar, ur, ir, or,
 er,
@@ -155,8 +155,8 @@ ro, ru, ri, ra, re,
 h, ſch.
 ha, he, hu, hi, ho,
 oſch, iſch, eſch, uſch, er,
- ſche, an, ſchi, em, ſchu,
-#ul, scho, el, scha, or,
+ſche, an, ſchi, em, ſchu,
+ul, scho, el, scha, or,
 w, j.
 8.
 wo, wi, wa, wu, we,

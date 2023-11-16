@@ -63,7 +63,7 @@ Transkribus</Creator>
                 <Coords points="47,1200 203,1245 354,1186 450,1253 850,1188 926,1255 1034,1196 1140,1254 1256,1182 1405,1190 1405,1115 1213,1057 780,1141 508,1061 47,1108"/>
                 <Baseline points="56,1172 123,1172 190,1172 257,1172 324,1172 391,1172 458,1171 525,1171 592,1171 659,1171 726,1170 793,1170 860,1170 927,1170 994,1169 1061,1169 1128,1169 1195,1170 1262,1170 1329,1170 1397,1171"/>
                 <TextEquiv>
-                    <Unicode> 14. ſchäle, fange, wiſche, ſchüre,</Unicode>
+                    <Unicode>14. ſchäle, fange, wiſche, ſchüre,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:7;}">
@@ -129,7 +129,7 @@ lö=ſe, ö=le, ra=ſe, wei=ſe,
 13. ſchön, ſchöne, los, löſe.
 jung, junge, war, wäre,
 lang, lange, ſchal, ſchäle.
- 14. ſchäle, fange, wiſche, ſchüre,
+14. ſchäle, fange, wiſche, ſchüre,
 waſche, hole, ſchäme, ſinge,
 böſe, hange, lösche, rasche,
 15. ai, au, ei, nu, äu,

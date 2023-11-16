@@ -132,7 +132,7 @@ Transkribus</Creator>
                 <Coords points="119,2381 297,2399 405,2336 553,2333 764,2409 896,2404 1096,2334 1233,2406 1403,2399 1404,2232 1111,2300 847,2227 764,2283 569,2290 419,2218 119,2245"/>
                 <Baseline points="127,2330 190,2329 253,2327 317,2327 380,2326 444,2326 507,2326 570,2326 634,2327 697,2327 761,2328 824,2328 887,2329 951,2329 1014,2330 1078,2330 1141,2330 1204,2330 1268,2329 1331,2329 1395,2327"/>
                 <TextEquiv>
-                    <Unicode> ſchuf, war, ſing, wuſch.</Unicode>
+                    <Unicode>ſchuf, war, ſing, wuſch.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -152,7 +152,7 @@ für, ſchön, nun, was,
 ſchon, nur, hör, ſchal,
 her, mal huſch, hin,
 wem, mir, rasch, los,
- ſchuf, war, ſing, wuſch.</Unicode>
+ſchuf, war, ſing, wuſch.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

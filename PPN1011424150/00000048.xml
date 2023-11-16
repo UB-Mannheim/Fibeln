@@ -20,7 +20,7 @@ Transkribus</Creator>
                 <Coords points="687,174 704,173 713,182 732,177 773,205 797,200 806,210 822,199 845,197 845,120 832,123 814,111 798,126 782,119 763,131 746,122 722,136 686,124"/>
                 <Baseline points="695,171 723,172 751,172 780,172 808,171 837,171"/>
                 <TextEquiv>
-                    <Unicode> 44</Unicode>
+                    <Unicode>44</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -269,7 +269,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode> 44
+                <Unicode>44
 118. Der Frühling.
 Im Frühlinge wird die Luft milde. Es ſchmilzt der
 Schnee und das Eis. Davon wird die Erde naß. Bäche

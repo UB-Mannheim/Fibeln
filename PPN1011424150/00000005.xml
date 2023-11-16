@@ -119,7 +119,7 @@ Transkribus</Creator>
                 <Coords points="139,2379 1355,2396 1460,2358 1461,2297 773,2277 524,2317 261,2275 139,2323"/>
                 <Baseline points="147,2365 212,2367 277,2368 342,2369 407,2370 473,2371 538,2372 603,2373 668,2373 733,2374 799,2374 864,2374 929,2375 994,2375 1059,2375 1125,2375 1190,2376 1255,2376 1320,2377 1385,2377 1451,2378"/>
                 <TextEquiv>
-                    <Unicode> un, in, om, em.</Unicode>
+                    <Unicode>un, in, om, em.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -137,7 +137,7 @@ on, an, en, in,
 na, no, nu, ne,
 um, em, im, am
 mi, mu, ma, mo,
- un, in, om, em.</Unicode>
+un, in, om, em.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
