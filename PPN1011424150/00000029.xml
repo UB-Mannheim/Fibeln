@@ -63,7 +63,7 @@ Transkribus</Creator>
                 <Coords points="160,718 318,683 1434,693 1434,640 1332,611 965,652 160,638"/>
                 <Baseline points="169,690 269,690 469,689 569,689 769,689 869,689 1069,688 1169,688 1369,689 1427,689"/>
                 <TextEquiv>
-                    <Unicode>zieren, ſchieben, zielen, fließen, frieren, schließen,</Unicode>
+                    <Unicode>zieren, ſchieben, zielen, fließen, frieren, ſchließen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585225704446_3068" custom="readingOrder {index:7;}">
@@ -154,14 +154,14 @@ Transkribus</Creator>
                 <Coords points="184,1625 1311,1622 1438,1603 1438,1530 1226,1568 183,1567"/>
                 <Baseline points="192,1612 292,1611 492,1609 592,1608 792,1608 892,1609 1092,1608 1192,1608 1392,1609 1430,1608"/>
                 <TextEquiv>
-                    <Unicode>Das Schloß hat einen Schlüssel. Was thut man mit</Unicode>
+                    <Unicode>Das Schloß hat einen Schlüſſel. Was thut man mit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585225744301_3111" custom="readingOrder {index:20;}">
                 <Coords points="167,1693 1070,1670 1149,1704 1437,1679 1437,1615 167,1647"/>
                 <Baseline points="174,1681 274,1681 474,1679 574,1677 774,1675 874,1674 1074,1672 1174,1673 1374,1684 1430,1684"/>
                 <TextEquiv>
-                    <Unicode>dem Schlüssel? Die Tafel hat einen Rahmen. Der</Unicode>
+                    <Unicode>dem Schlüſſel? Die Tafel hat einen Rahmen. Der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585225746909_3114" custom="readingOrder {index:21;}">
@@ -238,7 +238,7 @@ Transkribus</Creator>
                 <Coords points="193,2512 490,2472 626,2501 794,2466 1263,2479 1263,2425 1107,2393 194,2436"/>
                 <Baseline points="202,2483 302,2483 402,2482 602,2482 702,2485 802,2489 902,2489 1102,2487 1202,2488 1255,2488"/>
                 <TextEquiv>
-                    <Unicode>wagen, wachen, ragen, schlagen, kochen, ſagen.</Unicode>
+                    <Unicode>wagen, wachen, ragen, ſchlagen, kochen, ſagen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -248,7 +248,7 @@ Dieb, Diebe; Lied, Lieder; Bier, Kiel,
 Ziel, Wieſe, Biene, Hiebe, Schiefer, Flieder,
 Giebel, Kiefer, Zierde, Miene, Rieſe, Vieh;
 hier, tief, ſchief; gießen, lieben, dienen,
-zieren, ſchieben, zielen, fließen, frieren, schließen,
+zieren, ſchieben, zielen, fließen, frieren, ſchließen,
 ziehen, zieh; fliehen, flieh; ſehen, ſieh.
 76.
 Thal, Thau, Theil, Thee, Thon, That, Thor, Theer,
@@ -261,8 +261,8 @@ Der Schmied ſchmiedet das Eiſen. Der Schäfer hütet
 die Schafe. Der Bauer mähet den Weizen. Der Müller
 mahlet das Korn. Wer nähet den Rock? Was ſchneidet
 man mit der Scheere? — Die Thür hat ein Schloß.
-Das Schloß hat einen Schlüssel. Was thut man mit
-dem Schlüssel? Die Tafel hat einen Rahmen. Der
+Das Schloß hat einen Schlüſſel. Was thut man mit
+dem Schlüſſel? Die Tafel hat einen Rahmen. Der
 Kübel hat Reifen. Wozu dienen die Reifen? — Viele
 Thiere wohnen in Höhlen. Die Hühner laufen auf dem
 Hofe. Die Aale schwimmen im Waſſer. Was für
@@ -273,7 +273,7 @@ Tag, Dach, Zug, Koch, Bach, Loch, Flug, Wage,
 Wache, Woge, Woche, Sage, Sache, Lauge, Rachen,
 Bogen, Augen, Nachen, Nagel, Roggen, Dogge; mager,
 fragen, pochen, ſaugen, machen, jagen, lachen, zagen,
-wagen, wachen, ragen, schlagen, kochen, ſagen.</Unicode>
+wagen, wachen, ragen, ſchlagen, kochen, ſagen.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585225688859_3049" custom="readingOrder {index:1;}">

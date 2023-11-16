@@ -195,7 +195,7 @@ Transkribus</Creator>
                 <Coords points="716,2048 730,2052 764,2044 775,2052 792,2051 803,2041 814,2041 840,2057 847,2051 861,2054 862,1987 842,1979 834,1982 778,1930 762,1937 742,1930 718,1933"/>
                 <Baseline points="724,2028 749,2029 775,2030 801,2030 827,2031 853,2030"/>
                 <TextEquiv>
-                    <Unicode>sch.</Unicode>
+                    <Unicode>ſch.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:26;}">
@@ -209,7 +209,7 @@ Transkribus</Creator>
                 <Coords points="33,2144 608,2183 943,2144 1290,2217 1293,2091 1116,2050 888,2093 224,2025 35,2063"/>
                 <Baseline points="41,2132 103,2134 165,2136 227,2137 289,2138 351,2140 413,2141 476,2142 538,2143 600,2144 662,2145 724,2146 786,2148 848,2149 911,2150 973,2152 1035,2154 1097,2156 1159,2158 1221,2160 1284,2163"/>
                 <TextEquiv>
-                    <Unicode>af, ſcha, of, ſcho, li, ef, sche,</Unicode>
+                    <Unicode>af, ſcha, of, ſcho, li, ef, ſche,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:28;}">
@@ -308,9 +308,9 @@ ma, ul, ru, ro, ol,
 er,
 nu, em, na, el, im, mu.
 36. f. ſch.
-sch.
+ſch.
 f,
-af, ſcha, of, ſcho, li, ef, sche,
+af, ſcha, of, ſcho, li, ef, ſche,
 ro, if,
 ſchi, mu, fa,
 ir, so,

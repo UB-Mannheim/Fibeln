@@ -97,7 +97,7 @@ Transkribus</Creator>
                 <Coords points="111,1071 1073,1089 1370,1074 1370,1010 110,1009"/>
                 <Baseline points="118,1058 180,1058 242,1058 304,1058 366,1058 429,1058 491,1058 553,1058 615,1058 677,1057 740,1057 802,1057 864,1057 926,1057 988,1056 1051,1056 1113,1056 1175,1055 1237,1055 1299,1055 1362,1055"/>
                 <TextEquiv>
-                    <Unicode>Kunſt; du weinſt, kennſt, spinnſt; er lernt, warnt, zürnt;</Unicode>
+                    <Unicode>Kunſt; du weinſt, kennſt, ſpinnſt; er lernt, warnt, zürnt;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l16" custom="readingOrder {index:12;}">
@@ -245,7 +245,7 @@ und keine Floſſen; er muß kriechen.
 96.
 Durſt, Gerſte, Wurſt, Firſte; du hörſt, lehrſt, führſt,
 frierſt, hinderſt, wanderſt, milderſt; Dunſt, Gunſt, Dienſt,
-Kunſt; du weinſt, kennſt, spinnſt; er lernt, warnt, zürnt;
+Kunſt; du weinſt, kennſt, ſpinnſt; er lernt, warnt, zürnt;
 du lernſt, warnſt, zürnſt; er lernte, warnte, zürnte; du
 kommſt, träumſt, rühmſt; er wärmt, ſchirmt; du rufſt,
 kaufſt, läufſt, hoffſt; Zunft, Sänfte; ſanft; darfſt, ſchärfſt.

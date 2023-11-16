@@ -174,7 +174,7 @@ Transkribus</Creator>
                 <Coords points="95,1851 1206,1854 1358,1838 1359,1782 95,1773"/>
                 <Baseline points="103,1818 165,1818 227,1819 290,1820 352,1821 414,1821 477,1822 539,1822 601,1823 664,1824 726,1824 788,1824 851,1825 913,1825 975,1825 1038,1825 1100,1825 1162,1825 1225,1825 1287,1825 1350,1825"/>
                 <TextEquiv>
-                    <Unicode>sie ihm Freude. Böse Kinder machen ihm nur Schmerz.</Unicode>
+                    <Unicode>ſie ihm Freude. Böſe Kinder machen ihm nur Schmerz.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l25" custom="readingOrder {index:23;}">
@@ -263,7 +263,7 @@ zirpen, zirpet; Kamp, Lampe, Pumpe; pumpen.
 Wir gehen in die Schule. Der Lehrer hat uns lieb.
 Gute Kinder haben auch den Lehrer lieb. Sie merken
 auf ſeine Lehren. Sie folgen ihm gern. Dadurch machen
-sie ihm Freude. Böse Kinder machen ihm nur Schmerz.
+ſie ihm Freude. Böſe Kinder machen ihm nur Schmerz.
 Wir gehen auch jeden Morgen in die Kirche. Da
 beten wir zu Gott. Wir danken ihm für den neuen
 Tag. Wir bitten ihn um ſeinen Segen.

@@ -77,7 +77,7 @@ Transkribus</Creator>
                 <Coords points="130,1512 387,1548 475,1485 560,1542 718,1473 851,1540 1007,1491 1204,1544 1372,1502 1372,1366 1120,1428 975,1361 699,1436 511,1367 432,1406 220,1369 130,1399"/>
                 <Baseline points="139,1466 200,1467 261,1468 322,1468 383,1469 445,1469 506,1469 567,1470 628,1470 689,1470 751,1470 812,1469 873,1469 934,1469 995,1469 1057,1469 1118,1469 1179,1469 1240,1469 1301,1469 1363,1469"/>
                 <TextEquiv>
-                    <Unicode>böſe, hange, lösche, rasche,</Unicode>
+                    <Unicode>böſe, hange, löſche, raſche,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:9;}">
@@ -131,7 +131,7 @@ jung, junge, war, wäre,
 lang, lange, ſchal, ſchäle.
 14. ſchäle, fange, wiſche, ſchüre,
 waſche, hole, ſchäme, ſinge,
-böſe, hange, lösche, rasche,
+böſe, hange, löſche, raſche,
 15. ai, au, ei, nu, äu,
 aus, ein, ſcheu, eil, auf,
 ſein, lauſch, weil, mein, lau,

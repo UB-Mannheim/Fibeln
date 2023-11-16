@@ -48,7 +48,7 @@ Transkribus</Creator>
                 <Coords points="167,513 1418,508 1362,446 167,464"/>
                 <Baseline points="175,499 236,500 298,500 360,500 422,501 484,501 545,500 607,500 669,500 731,500 793,500 854,499 916,499 978,499 1040,499 1102,499 1163,499 1225,500 1287,500 1349,501 1411,502"/>
                 <TextEquiv>
-                    <Unicode>und Flüsse ſchwellen an. Der Himmel wird wieder blau.</Unicode>
+                    <Unicode>und Flüſſe ſchwellen an. Der Himmel wird wieder blau.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
@@ -273,7 +273,7 @@ Transkribus</Creator>
 118. Der Frühling.
 Im Frühlinge wird die Luft milde. Es ſchmilzt der
 Schnee und das Eis. Davon wird die Erde naß. Bäche
-und Flüsse ſchwellen an. Der Himmel wird wieder blau.
+und Flüſſe ſchwellen an. Der Himmel wird wieder blau.
 Bald ſcheint die Sonne wärmer. Der Landmann zieht
 fröhlich zum Acker. Das Feld wird gepflügt, der Garten
 wird umgegraben. Die Winzer beſchneiden den Wein=

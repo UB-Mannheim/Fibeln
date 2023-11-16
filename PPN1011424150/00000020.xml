@@ -125,7 +125,7 @@ Transkribus</Creator>
                 <Coords points="942,775 976,780 998,766 1012,778 1050,773 1094,752 1110,760 1122,750 1141,762 1156,759 1155,663 1129,661 1118,669 1072,641 1044,655 1002,651 986,641 959,652 940,647"/>
                 <Baseline points="948,734 973,735 998,736 1023,736 1048,735 1073,735 1098,734 1123,733 1149,732"/>
                 <TextEquiv>
-                    <Unicode>schade,</Unicode>
+                    <Unicode>ſchade,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -536,7 +536,7 @@ heize,
 beide,
 müde,
 hüte.
-schade,
+ſchade,
 vom, reize,
 ſcheute.
 44. b, p, g, k.

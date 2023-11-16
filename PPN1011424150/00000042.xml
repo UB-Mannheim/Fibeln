@@ -90,7 +90,7 @@ Transkribus</Creator>
                 <Coords points="193,830 1453,830 1453,786 1328,770 194,763"/>
                 <Baseline points="201,817 263,818 325,818 387,818 449,818 512,818 574,819 636,819 698,819 760,820 823,820 885,820 947,820 1009,820 1071,820 1134,821 1196,821 1258,821 1320,821 1382,821 1445,821"/>
                 <TextEquiv>
-                    <Unicode>sind ihrer gewöhnlich recht viele zusammen. Sie fliegen</Unicode>
+                    <Unicode>ſind ihrer gewöhnlich recht viele zuſammen. Sie fliegen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
@@ -195,7 +195,7 @@ Transkribus</Creator>
                 <Coords points="183,1947 1446,1955 1446,1908 1370,1890 773,1883 726,1921 663,1886 183,1891"/>
                 <Baseline points="190,1939 252,1939 314,1940 377,1940 439,1940 502,1941 564,1941 626,1941 689,1941 751,1941 814,1941 876,1941 938,1941 1001,1941 1063,1941 1126,1941 1188,1941 1250,1941 1313,1941 1375,1941 1438,1941"/>
                 <TextEquiv>
-                    <Unicode>Quelle, das Quecksilber. Der Doctor curirt den Kranken.</Unicode>
+                    <Unicode>Quelle, das Queckſilber. Der Doctor curirt den Kranken.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:26;}">
@@ -258,7 +258,7 @@ voller Freude. Er wedelt mit dem Schweife und ſpringt
 an ihm hinan. Wenn es Abend geworden iſt, bindet
 man ihn los. Er bewacht in der Nacht das Haus.
 Auf dem Dache ſitzen die niedlichen Täubchen. Es
-sind ihrer gewöhnlich recht viele zusammen. Sie fliegen
+ſind ihrer gewöhnlich recht viele zuſammen. Sie fliegen
 häufig auf den Hof und ſuchen Gerſte und Hafer. Hier
 kann man ſie gut beſehen. Das Täubchen hat ein
 ſchönes Federkleid und röthliche Füße. Es iſt reinlich,
@@ -273,7 +273,7 @@ man den Cirkel?
 c, C= k.
 Die Cur, der Caplan, der Doctor, ein Concert, ein
 Clavier, der Sclave, die Cigarren, die Complet, eine
-Quelle, das Quecksilber. Der Doctor curirt den Kranken.
+Quelle, das Queckſilber. Der Doctor curirt den Kranken.
 Im Concerte wird geſungen. Die Cigarren werden
 geraucht.
 ch, Ch= j.

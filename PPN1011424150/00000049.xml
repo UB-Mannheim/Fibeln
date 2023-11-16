@@ -48,7 +48,7 @@ Transkribus</Creator>
                 <Coords points="69,533 1334,534 1334,487 1195,475 69,488"/>
                 <Baseline points="77,529 139,529 202,529 264,529 327,529 389,529 452,529 514,529 577,529 639,529 702,529 764,529 827,529 889,529 952,529 1014,529 1077,529 1139,529 1202,528 1264,528 1327,528"/>
                 <TextEquiv>
-                    <Unicode>und Teiche gefrieren. Die Fenſter sind mit Eisblumen</Unicode>
+                    <Unicode>und Teiche gefrieren. Die Fenſter ſind mit Eisblumen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
@@ -69,14 +69,14 @@ Transkribus</Creator>
                 <Coords points="70,719 1289,729 1336,713 1336,654 70,657"/>
                 <Baseline points="78,704 140,704 203,705 265,706 328,706 390,706 453,706 515,706 578,706 640,706 703,706 765,706 828,706 890,706 953,706 1015,705 1078,705 1140,705 1203,705 1265,705 1328,705"/>
                 <TextEquiv>
-                    <Unicode>sich des glatten Eiſes. Der Wagen knarrt vom Froſte.</Unicode>
+                    <Unicode>ſich des glatten Eiſes. Der Wagen knarrt vom Froſte.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
                 <Coords points="77,771 1331,784 1331,729 1256,717 77,718"/>
                 <Baseline points="85,762 146,763 208,764 270,764 332,765 394,765 456,765 518,766 580,766 642,766 704,766 765,766 827,765 889,765 951,765 1013,765 1075,765 1137,765 1199,766 1261,766 1323,766"/>
                 <TextEquiv>
-                    <Unicode>Es dampfen die Pferde. Man freut sich des wärmenden</Unicode>
+                    <Unicode>Es dampfen die Pferde. Man freut ſich des wärmenden</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:9;}">
@@ -139,7 +139,7 @@ Transkribus</Creator>
                 <Coords points="275,1468 1060,1473 1060,1430 1006,1414 942,1434 819,1406 695,1428 275,1411"/>
                 <Baseline points="282,1461 320,1462 359,1462 397,1462 436,1462 474,1462 513,1462 551,1462 590,1461 628,1461 667,1461 705,1461 744,1460 782,1460 821,1460 859,1461 898,1461 936,1462 975,1463 1013,1463 1052,1465"/>
                 <TextEquiv>
-                    <Unicode>Und schenksſ du deine Gnade mir,</Unicode>
+                    <Unicode>Und ſchenksſ du deine Gnade mir,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:18;}">
@@ -245,11 +245,11 @@ Transkribus</Creator>
 121. Der Winter.
 Im Winter wird es früh dunkel. Auf der Straße
 brennt die Laterne. — Die Luft wird kälter. Bäche
-und Teiche gefrieren. Die Fenſter sind mit Eisblumen
+und Teiche gefrieren. Die Fenſter ſind mit Eisblumen
 geziert. Statt des Regens fällt häufiger Schnee. Der
 Schnee deckt Feld und Flur. Muntere Knaben freuen
-sich des glatten Eiſes. Der Wagen knarrt vom Froſte.
-Es dampfen die Pferde. Man freut sich des wärmenden
+ſich des glatten Eiſes. Der Wagen knarrt vom Froſte.
+Es dampfen die Pferde. Man freut ſich des wärmenden
 Ofens. Gott ſorgt für Menſchen und Thiere.
 122. Morgengebet.
 Ich thu' die hellen Augen auf
@@ -258,7 +258,7 @@ Du hast mich in der dunkeln Nacht
 Sanft ſchlafen laſſen und bewacht.
 Behüte mich auch dieſen Tag,
 Daß mich kein Uebel treffen mag;
-Und schenksſ du deine Gnade mir,
+Und ſchenksſ du deine Gnade mir,
 So leb' ich dir, ſo sterb' ich dir.
 123. Abendgebet.
 O guter Gott, ich danke dir

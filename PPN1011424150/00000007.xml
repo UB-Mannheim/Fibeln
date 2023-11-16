@@ -105,7 +105,7 @@ Transkribus</Creator>
                 <Coords points="157,1707 213,1680 433,1754 728,1694 871,1754 1101,1684 1321,1717 1335,1634 1155,1639 1028,1566 876,1603 796,1569 656,1652 551,1569 388,1566 157,1654"/>
                 <Baseline points="166,1681 224,1682 282,1683 340,1684 398,1684 456,1685 514,1685 572,1686 630,1686 688,1686 747,1686 805,1686 863,1686 921,1685 979,1685 1037,1684 1095,1684 1153,1683 1211,1682 1269,1682 1328,1680"/>
                 <TextEquiv>
-                    <Unicode>ul, scho, el, scha, or,</Unicode>
+                    <Unicode>ul, ſcho, el, ſcha, or,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
@@ -156,7 +156,7 @@ h, ſch.
 ha, he, hu, hi, ho,
 oſch, iſch, eſch, uſch, er,
 ſche, an, ſchi, em, ſchu,
-ul, scho, el, scha, or,
+ul, ſcho, el, ſcha, or,
 w, j.
 8.
 wo, wi, wa, wu, we,

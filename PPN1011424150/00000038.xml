@@ -153,7 +153,7 @@ Transkribus</Creator>
                 <Coords points="176,1490 1440,1476 1402,1420 411,1425 326,1460 176,1422"/>
                 <Baseline points="185,1477 247,1476 309,1475 372,1475 434,1474 496,1474 559,1474 621,1474 683,1474 746,1474 808,1474 870,1474 933,1475 995,1475 1057,1475 1120,1474 1182,1474 1244,1473 1307,1473 1369,1472 1432,1470"/>
                 <TextEquiv>
-                    <Unicode>einen andern Acker. Ein Mann ſchärfte seine Senſe</Unicode>
+                    <Unicode>einen andern Acker. Ein Mann ſchärfte ſeine Senſe</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l21" custom="readingOrder {index:20;}">
@@ -202,7 +202,7 @@ Transkribus</Creator>
                 <Coords points="174,1901 1392,1899 1440,1890 1440,1838 174,1844"/>
                 <Baseline points="182,1887 244,1886 307,1885 369,1884 432,1883 494,1883 557,1883 619,1883 682,1883 744,1883 807,1884 869,1884 932,1884 994,1884 1057,1884 1119,1884 1182,1884 1244,1884 1307,1883 1369,1882 1432,1881"/>
                 <TextEquiv>
-                    <Unicode>der Egge über das Feld. Ein Häſchen sprang aus der</Unicode>
+                    <Unicode>der Egge über das Feld. Ein Häſchen ſprang aus der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:27;}">
@@ -216,7 +216,7 @@ Transkribus</Creator>
                 <Coords points="174,2006 1444,2016 1409,1947 174,1958"/>
                 <Baseline points="181,2001 243,2001 306,2001 369,2001 431,2001 494,2001 557,2001 619,2001 682,2001 745,2001 808,2001 870,2001 933,2001 996,2001 1058,2001 1121,2001 1184,2001 1246,2000 1309,2000 1372,1999 1435,1999"/>
                 <TextEquiv>
-                    <Unicode>Ein Vöglein flog in die Luft und ſang sein Lied. Ernſt</Unicode>
+                    <Unicode>Ein Vöglein flog in die Luft und ſang ſein Lied. Ernſt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:29;}">
@@ -288,16 +288,16 @@ Einſt ging Ernſt mit ſeinem Vater auf das Feld.
 Sie kamen an einen großen Acker. Darauf ſtanden
 Erbſen, Bohnen und Möhren. Eine Frau pflückte die
 Bohnen und legte ſie in einen Korb. Sie kamen an
-einen andern Acker. Ein Mann ſchärfte seine Senſe
+einen andern Acker. Ein Mann ſchärfte ſeine Senſe
 und mähte die reife Gerſte. Die Magd band die Gerſte
 in Garben und ſetzte dieſe in Haufen. Ein Wagen fuhr
 an ihnen vorbei. Die Pferde ſchwitzten; denn der
 Wagen war ſehr ſchwer. Der Knecht aber klatſchte mit
 der Peitſche. Sie gingen weiter und ſahen einen andern
 Knecht. Der ſtreute Samen aus und fuhr dann mit
-der Egge über das Feld. Ein Häſchen sprang aus der
+der Egge über das Feld. Ein Häſchen ſprang aus der
 Furche auf. Voll Angst lief es raſch dem Walde zu.
-Ein Vöglein flog in die Luft und ſang sein Lied. Ernſt
+Ein Vöglein flog in die Luft und ſang ſein Lied. Ernſt
 horchte voll Freude. Jetzt war es Abend. Nun gingen
 der Vater und Ernſt nach Hauſe.
 100.

@@ -174,7 +174,7 @@ Transkribus</Creator>
                 <Coords points="154,2002 1011,1987 1009,1916 953,1906 438,1923 343,1959 277,1921 152,1929"/>
                 <Baseline points="162,1982 204,1981 246,1980 288,1979 330,1978 372,1977 414,1976 456,1975 498,1974 540,1973 582,1971 624,1971 666,1970 708,1969 750,1968 792,1966 834,1966 876,1965 918,1963 960,1963 1003,1961"/>
                 <TextEquiv>
-                    <Unicode>Hände, meine Arme, seine Ferſen</Unicode>
+                    <Unicode>Hände, meine Arme, ſeine Ferſen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l31" custom="readingOrder {index:23;}">
@@ -195,7 +195,7 @@ Transkribus</Creator>
                 <Coords points="1018,2110 1091,2117 1124,2098 1188,2127 1205,2110 1236,2119 1287,2093 1332,2114 1423,2108 1421,2046 1360,2035 1299,2053 1232,2041 1207,2056 1171,2043 1116,2061 1087,2046 1064,2064 1016,2057"/>
                 <Baseline points="1026,2103 1051,2103 1077,2101 1103,2101 1129,2099 1155,2099 1181,2098 1207,2097 1232,2096 1258,2095 1284,2094 1310,2094 1336,2093 1362,2092 1388,2092 1414,2091"/>
                 <TextEquiv>
-                    <Unicode>euer Hof, unser</Unicode>
+                    <Unicode>euer Hof, unſer</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l34" custom="readingOrder {index:26;}">
@@ -244,7 +244,7 @@ Transkribus</Creator>
                 <Coords points="157,2508 702,2463 1412,2479 1410,2406 1303,2387 155,2429"/>
                 <Baseline points="164,2476 229,2475 294,2474 359,2472 424,2471 490,2470 555,2468 620,2467 685,2465 750,2464 816,2462 881,2460 946,2459 1011,2457 1076,2455 1142,2454 1207,2451 1272,2450 1337,2448 1403,2446"/>
                 <TextEquiv>
-                    <Unicode>Doſen, neue Börsen, bunte Düten, reine Eimer,</Unicode>
+                    <Unicode>Doſen, neue Börſen, bunte Düten, reine Eimer,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l41" custom="readingOrder {index:33;}">
@@ -277,17 +277,17 @@ Daumen, deine
 mein Finger, ſein
 Dein Bein,
 meine Aeltern,
-Hände, meine Arme, seine Ferſen
+Hände, meine Arme, ſeine Ferſen
 Burſche, meine
 deine Baſen, ſeine Jungen, euer
-euer Hof, unser
+euer Hof, unſer
 Feder, deine Fibel, unſer Haus,
 — Ein hübſcher Garten, hübſche Gärten,
 Garten.
 ein schöner Baum, schöne Bäume, eine reife Birne,
 reife Birnen; eine ſchöne Tafel, eine gute Feder,
 reine Hefte, bunte Bilder, schöne Beutel, hübsche
-Doſen, neue Börsen, bunte Düten, reine Eimer,
+Doſen, neue Börſen, bunte Düten, reine Eimer,
 alte Beſen, ſcharfe Beile.</Unicode>
             </TextEquiv>
         </TextRegion>

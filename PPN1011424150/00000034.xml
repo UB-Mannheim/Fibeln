@@ -83,7 +83,7 @@ Transkribus</Creator>
                 <Coords points="164,957 1363,923 1362,874 1294,864 163,891"/>
                 <Baseline points="172,932 231,931 290,930 349,929 408,929 467,928 526,927 585,927 644,926 703,925 763,925 822,924 881,923 940,922 999,921 1058,920 1117,919 1176,917 1235,916 1294,914 1354,912"/>
                 <TextEquiv>
-                    <Unicode>Waſſer. Was hat er noch mehr in seiner Taſche?</Unicode>
+                    <Unicode>Waſſer. Was hat er noch mehr in ſeiner Taſche?</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:10;}">
@@ -243,7 +243,7 @@ schleppteſt.
 89.
 Der Schäfer hütet die Schafe. An der Seite hat er
 eine Taſche von Leder. Darin iſt eine Flaſche mit
-Waſſer. Was hat er noch mehr in seiner Taſche?
+Waſſer. Was hat er noch mehr in ſeiner Taſche?
 Der Schäfer hat einen Hund. Der Hund läuft um die
 Herde. Geht ein Schaf von der Herde, dann bellt der
 Hund. Er jagt das Schaf zurück. — Die Schafe ſind

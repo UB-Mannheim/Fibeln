@@ -30,7 +30,7 @@ Transkribus</Creator>
                 <Coords points="198,440 1427,432 1427,372 1279,355 434,392 198,344"/>
                 <Baseline points="207,437 307,437 507,437 607,437 807,437 907,436 1107,436 1207,436 1407,438 1419,438"/>
                 <TextEquiv>
-                    <Unicode>Wölfe heulen. Esel schreien. Mäuse pipen. Kinder</Unicode>
+                    <Unicode>Wölfe heulen. Esel schreien. Mäuſe pipen. Kinder</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224296385_2623" custom="readingOrder {index:2;}">
@@ -100,28 +100,28 @@ Transkribus</Creator>
                 <Coords points="102,1215 1302,1215 1302,1167 1153,1118 837,1160 102,1161"/>
                 <Baseline points="110,1217 210,1216 410,1214 510,1214 610,1215 810,1218 910,1218 1010,1217 1210,1215 1294,1215"/>
                 <TextEquiv>
-                    <Unicode>Halle, Gasse, Pappe, Kammer, Karren, Akker,</Unicode>
+                    <Unicode>Halle, Gaſſe, Pappe, Kammer, Karren, Akker,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224358915_2666" custom="readingOrder {index:12;}">
                 <Coords points="99,1287 1288,1271 1288,1224 1206,1196 569,1234 99,1214"/>
                 <Baseline points="107,1286 207,1286 407,1286 507,1286 607,1286 807,1286 907,1286 1007,1286 1207,1287 1280,1287"/>
                 <TextEquiv>
-                    <Unicode>Ratte, Kazze, Jammer, Wasser, Galle, Haff,</Unicode>
+                    <Unicode>Ratte, Kazze, Jammer, Waſſer, Galle, Haff,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224362725_2669" custom="readingOrder {index:13;}">
                 <Coords points="105,1357 1280,1348 1280,1300 1220,1270 796,1270 685,1322 595,1272 105,1298"/>
                 <Baseline points="113,1359 213,1359 413,1359 513,1359 613,1359 813,1359 913,1359 1013,1359 1213,1359 1272,1359"/>
                 <TextEquiv>
-                    <Unicode>Rappen, Tasse, Wanne, Hammer, Bäkker, Affe,</Unicode>
+                    <Unicode>Rappen, Taſſe, Wanne, Hammer, Bäkker, Affe,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224365215_2672" custom="readingOrder {index:14;}">
                 <Coords points="101,1431 1260,1426 1260,1353 1127,1376 994,1340 906,1380 604,1350 439,1385 361,1348 238,1380 101,1357"/>
                 <Baseline points="110,1422 210,1422 410,1422 510,1422 610,1422 810,1422 910,1421 1010,1421 1210,1423 1252,1423"/>
                 <TextEquiv>
-                    <Unicode>Kappe, Falle, Flamme; matt, ſchlaff, satt;</Unicode>
+                    <Unicode>Kappe, Falle, Flamme; matt, ſchlaff, ſatt;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224367365_2675" custom="readingOrder {index:15;}">
@@ -149,7 +149,7 @@ Transkribus</Creator>
                 <Coords points="130,1839 549,1869 740,1829 1337,1830 1231,1767 1111,1802 983,1762 921,1800 797,1767 753,1799 130,1790"/>
                 <Baseline points="139,1848 239,1848 439,1848 539,1849 639,1849 839,1848 939,1848 1039,1848 1239,1848 1328,1848"/>
                 <TextEquiv>
-                    <Unicode>Kümmel, Schüssel, Füllen, Hütte, Rüssel, Bütte,</Unicode>
+                    <Unicode>Kümmel, Schüſſel, Füllen, Hütte, Rüſſel, Bütte,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224409355_2700" custom="readingOrder {index:19;}">
@@ -184,7 +184,7 @@ Transkribus</Creator>
                 <Coords points="123,2283 1280,2279 1342,2266 1342,2193 123,2216"/>
                 <Baseline points="132,2262 232,2262 432,2263 532,2262 732,2262 832,2262 1032,2262 1132,2262 1332,2263 1334,2263"/>
                 <TextEquiv>
-                    <Unicode>Zimmer, Rinne, Kissen, Widder, Hizze, Wille,</Unicode>
+                    <Unicode>Zimmer, Rinne, Kiſſen, Widder, Hizze, Wille,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224422725_2715" custom="readingOrder {index:24;}">
@@ -210,7 +210,7 @@ Transkribus</Creator>
             </TextLine>
             <TextEquiv>
                 <Unicode>22
-Wölfe heulen. Esel schreien. Mäuse pipen. Kinder
+Wölfe heulen. Esel schreien. Mäuſe pipen. Kinder
 ſingen. Die Schüler schreiben. Die Maler malen.
 Die Färber färben. Die Maurer mauern. Die Weber
 weben. Die Gerber gerben. Die Fiſcher fiſchen. Die
@@ -220,19 +220,19 @@ Wir lernen ſchreiben. Wir ſchreiben ſchön. Wir hören
 64.
 Ball, Kamm, Schwamm; Bälle, Kämme, Schwämme;
 Mann, Lamm; Männer, Lämmer; Sattel, Sättel;
-Halle, Gasse, Pappe, Kammer, Karren, Akker,
-Ratte, Kazze, Jammer, Wasser, Galle, Haff,
-Rappen, Tasse, Wanne, Hammer, Bäkker, Affe,
-Kappe, Falle, Flamme; matt, ſchlaff, satt;
+Halle, Gaſſe, Pappe, Kammer, Karren, Akker,
+Ratte, Kazze, Jammer, Waſſer, Galle, Haff,
+Rappen, Taſſe, Wanne, Hammer, Bäkker, Affe,
+Kappe, Falle, Flamme; matt, ſchlaff, ſatt;
 harren, ſchaffen, haſſen, ſcharren, kämmen, fällen.
 Mutter, Mütter; Puppe, Butter, Hummel, Schuppen,
 Kutte, Kuppe, Futter, Suppe; Müller, Mükke,
-Kümmel, Schüssel, Füllen, Hütte, Rüssel, Bütte,
+Kümmel, Schüſſel, Füllen, Hütte, Rüſſel, Bütte,
 Müzze, Rükken; dürr, dünn, dünner, dünnes;
 ſummen, murren, hüllen, füllen, ſchütteln, füttern.
 66.
 Schiff, Kinn, Schritt; Schiffe, Kinne, Schritte;
-Zimmer, Rinne, Kissen, Widder, Hizze, Wille,
+Zimmer, Rinne, Kiſſen, Widder, Hizze, Wille,
 Schimmel, Zinn, Lippe, Bitte, Schnitter, Himmel,
 Kittel, Sitte; immer, nimmer,ſchlimm, bitter;
 rinnen, ſchwimmen,ſinnen, wiſſen, pikken, ſchwirren.</Unicode>

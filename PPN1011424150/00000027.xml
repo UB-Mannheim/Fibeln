@@ -40,7 +40,7 @@ Transkribus</Creator>
                 <Coords points="132,484 1364,472 1365,392 132,423"/>
                 <Baseline points="140,467 240,467 440,468 540,468 740,469 840,470 1040,469 1140,470 1340,470 1356,470"/>
                 <TextEquiv>
-                    <Unicode>Kette, Kessel, Ebbe, Schwelle, Neſſel, Dekkel,</Unicode>
+                    <Unicode>Kette, Keſſel, Ebbe, Schwelle, Neſſel, Dekkel,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224718096_2779" custom="readingOrder {index:4;}">
@@ -54,14 +54,14 @@ Transkribus</Creator>
                 <Coords points="136,631 263,588 329,626 1166,581 1280,611 1351,602 1351,541 136,555"/>
                 <Baseline points="144,611 244,611 444,610 544,610 744,612 844,612 1044,612 1144,614 1344,615 1344,616"/>
                 <TextEquiv>
-                    <Unicode>fett, schnell, hell, helle, heller, helles;</Unicode>
+                    <Unicode>fett, ſchnell, hell, helle, heller, helles;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224723796_2785" custom="readingOrder {index:6;}">
                 <Coords points="132,711 1377,684 1377,627 1266,600 133,633"/>
                 <Baseline points="140,681 240,681 440,682 540,681 740,679 840,679 1040,687 1140,687 1340,682 1370,682"/>
                 <TextEquiv>
-                    <Unicode>bellen, essen, rennen, herrſchen, zerren, retten.</Unicode>
+                    <Unicode>bellen, eſſen, rennen, herrſchen, zerren, retten.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224725796_2788" custom="readingOrder {index:7;}">
@@ -145,7 +145,7 @@ Transkribus</Creator>
                 <Coords points="484,1855 589,1844 638,1878 761,1852 815,1885 927,1865 993,1888 1050,1857 1087,1862 1087,1820 872,1760 798,1784 718,1766 677,1790 648,1777 485,1816"/>
                 <Baseline points="493,1865 593,1865 693,1865 793,1865 893,1865 993,1866 1079,1866"/>
                 <TextEquiv>
-                    <Unicode>70. ss, ß</Unicode>
+                    <Unicode>70. ſſ, ß</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224772596_2824" custom="readingOrder {index:19;}">
@@ -201,17 +201,17 @@ Transkribus</Creator>
                 <Coords points="175,2469 1183,2465 1432,2420 1432,2367 175,2400"/>
                 <Baseline points="182,2441 282,2440 482,2437 582,2435 782,2433 882,2433 1082,2433 1182,2434 1382,2442 1424,2442"/>
                 <TextEquiv>
-                    <Unicode>weißen; büßen, heißen, reißen; aß, saß, maß.</Unicode>
+                    <Unicode>weißen; büßen, heißen, reißen; aß, ſaß, maß.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>23
 67.
 Herr, Fett, Elle, Tenne, Wetter, Meſſer,
-Kette, Kessel, Ebbe, Schwelle, Neſſel, Dekkel,
+Kette, Keſſel, Ebbe, Schwelle, Neſſel, Dekkel,
 Teller, Vetter, Welle, Sezzer, Seſſel, Zelle;
-fett, schnell, hell, helle, heller, helles;
-bellen, essen, rennen, herrſchen, zerren, retten.
+fett, ſchnell, hell, helle, heller, helles;
+bellen, eſſen, rennen, herrſchen, zerren, retten.
 68.
 Zoll, Zölle; Sonne, Tonne, Goſſe; Sommer
 Tonnen, Goſſen; Rotte, Nonne, Wolle, Sommer,
@@ -223,7 +223,7 @@ Sack, Säcke; Bock, Böcke; Sitz, Netz,
 Schätze, Mütze, Pocken, Setzer, Zucker, Bäcker,
 Decke, Hecke, Acker, Rücken, Mücke, Flocken;
 putzen, wecken, ſchwitzen, ſchmecken, ſchützen, ſchmücken.
-70. ss, ß
+70. ſſ, ß
 ſſ. ß.
 Bäſſe, Baß; Nüſſe, Nuß; Roſſe, Roß;
 Schüſſe, Schuß; Riſſe, Riß; Fäſſer, Faß;
@@ -231,7 +231,7 @@ Schlöſſer, Schloß; Güſſe, Guß; Päſſe, Paß;
 faſſen, faß; müſſen, muß; meſſen, miß;
 freſſen, friß; laſſen, laß; näſſen, naß.
 Maß, Maße, Fuß, Füße; Ruß, Buße, weiß;
-weißen; büßen, heißen, reißen; aß, saß, maß.</Unicode>
+weißen; büßen, heißen, reißen; aß, ſaß, maß.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

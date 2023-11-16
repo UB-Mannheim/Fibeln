@@ -125,14 +125,14 @@ Transkribus</Creator>
                 <Coords points="392,1214 620,1208 681,1229 899,1196 1121,1216 1121,1135 995,1166 833,1143 746,1168 701,1145 649,1177 391,1151"/>
                 <Baseline points="398,1198 433,1200 469,1201 505,1202 541,1203 577,1203 613,1203 649,1202 685,1202 721,1201 757,1200 792,1199 828,1198 864,1197 900,1197 936,1196 972,1196 1008,1196 1044,1197 1080,1197 1116,1199"/>
                 <TextEquiv>
-                    <Unicode>Sie sagen: "Heut' ist Samstag,</Unicode>
+                    <Unicode>Sie ſagen: "Heut' iſt Samstag,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
                 <Coords points="386,1268 659,1284 699,1259 1012,1257 1119,1277 1118,1228 1056,1201 1025,1224 876,1199 786,1228 385,1214"/>
                 <Baseline points="392,1259 428,1259 464,1259 500,1259 536,1259 572,1259 608,1259 644,1259 680,1258 716,1258 752,1257 788,1257 824,1256 860,1256 896,1255 932,1255 968,1254 1004,1254 1040,1254 1076,1253 1112,1253"/>
                 <TextEquiv>
-                    <Unicode>Und morgen, dann ist Sonntag.</Unicode>
+                    <Unicode>Und morgen, dann iſt Sonntag.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:17;}">
@@ -195,28 +195,28 @@ Transkribus</Creator>
                 <Coords points="380,1786 631,1813 875,1782 1104,1796 1104,1753 1023,1738 836,1732 792,1757 704,1735 607,1760 502,1739 471,1760 380,1737"/>
                 <Baseline points="386,1782 421,1784 457,1786 492,1788 528,1789 564,1789 599,1789 635,1789 670,1789 706,1788 742,1787 777,1786 813,1785 848,1784 884,1784 920,1783 955,1783 991,1783 1026,1783 1062,1784 1098,1785"/>
                 <TextEquiv>
-                    <Unicode>Sie ſagen: "Heut ist Samstag,</Unicode>
+                    <Unicode>Sie ſagen: "Heut iſt Samstag,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:26;}">
                 <Coords points="383,1867 676,1855 785,1882 840,1851 976,1865 1011,1844 1115,1866 1134,1794 549,1816 382,1797"/>
                 <Baseline points="388,1846 425,1847 462,1847 499,1848 536,1848 573,1848 610,1847 647,1846 684,1846 721,1845 758,1844 795,1844 832,1843 869,1842 906,1841 943,1841 980,1840 1017,1840 1054,1840 1091,1840 1128,1840"/>
                 <TextEquiv>
-                    <Unicode>Und morgen, dann ist Sonntag."</Unicode>
+                    <Unicode>Und morgen, dann iſt Sonntag."</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:27;}">
                 <Coords points="313,1943 652,1932 722,1957 765,1931 1294,1921 1294,1895 1153,1864 313,1884"/>
                 <Baseline points="319,1931 367,1931 415,1931 464,1930 512,1930 561,1929 609,1929 658,1928 706,1928 755,1927 803,1927 851,1926 900,1926 948,1925 997,1925 1045,1924 1094,1924 1142,1924 1191,1924 1239,1924 1288,1924"/>
                 <TextEquiv>
-                    <Unicode>126. Gebet zum Christkindchen.</Unicode>
+                    <Unicode>126. Gebet zum Chriſtkindchen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l29" custom="readingOrder {index:28;}">
                 <Coords points="440,2015 1078,2009 1077,1953 982,1936 872,1959 827,1936 765,1964 702,1944 647,1961 439,1950"/>
                 <Baseline points="446,2000 477,1999 508,1999 539,1999 571,1999 602,1999 633,1998 664,1998 696,1998 727,1997 758,1997 789,1997 821,1996 852,1996 883,1995 914,1995 946,1994 977,1994 1008,1994 1039,1993 1071,1993"/>
                 <TextEquiv>
-                    <Unicode>Lieb Jeſulein, süß Jesulein,</Unicode>
+                    <Unicode>Lieb Jeſulein, ſüß Jeſulein,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:29;}">
@@ -284,8 +284,8 @@ Nie mit Vorsatz sio betrüben!
 123. Am Samstag.
 Die Glocken, Glocken läuten,
 Man höret ſie von weitem;
-Sie sagen: "Heut' ist Samstag,
-Und morgen, dann ist Sonntag.
+Sie ſagen: "Heut' iſt Samstag,
+Und morgen, dann iſt Sonntag.
 Dann müßt ihr all' erſcheinen,
 Ihr Großen und ihr Kleinen,
 Im Gotteshaus im beſten Kleid,
@@ -294,10 +294,10 @@ Am Leibe rein,
 Am Herzen rein:
 So könnt ihr Gott gefallen!"
 Die Glocken, Glocken ſchallen,
-Sie ſagen: "Heut ist Samstag,
-Und morgen, dann ist Sonntag."
-126. Gebet zum Christkindchen.
-Lieb Jeſulein, süß Jesulein,
+Sie ſagen: "Heut iſt Samstag,
+Und morgen, dann iſt Sonntag."
+126. Gebet zum Chriſtkindchen.
+Lieb Jeſulein, ſüß Jeſulein,
 Sei du mein liebes Brüderlein
 Und ſpiel' mit meiner Seele!
 Ich wär' ſo gerne ganz bei dir,

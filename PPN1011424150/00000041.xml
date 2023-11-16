@@ -131,7 +131,7 @@ Transkribus</Creator>
                 <Coords points="84,1251 1343,1235 1343,1194 1243,1172 84,1188"/>
                 <Baseline points="92,1235 192,1235 392,1234 492,1233 692,1232 792,1231 992,1233 1092,1234 1292,1233 1335,1233"/>
                 <TextEquiv>
-                    <Unicode>süß, verſüßen; dünn, verdünnen; verdichten;</Unicode>
+                    <Unicode>ſüß, verſüßen; dünn, verdünnen; verdichten;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230629944_4154" custom="readingOrder {index:17;}">
@@ -180,7 +180,7 @@ Transkribus</Creator>
                 <Coords points="92,1747 850,1769 1367,1731 1291,1677 92,1699"/>
                 <Baseline points="100,1744 200,1744 400,1745 500,1745 700,1746 800,1746 1000,1747 1100,1749 1300,1749 1359,1750"/>
                 <TextEquiv>
-                    <Unicode>Diese ſucht ihnen überall Nahrung. Wenn ſie ein Krüm=</Unicode>
+                    <Unicode>Dieſe ſucht ihnen überall Nahrung. Wenn ſie ein Krüm=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230650164_4175" custom="readingOrder {index:24;}">
@@ -229,7 +229,7 @@ Transkribus</Creator>
                 <Coords points="90,2162 1373,2136 1249,2077 1209,2109 90,2104"/>
                 <Baseline points="97,2152 197,2152 397,2151 497,2151 697,2151 797,2151 997,2153 1097,2153 1297,2152 1365,2152"/>
                 <TextEquiv>
-                    <Unicode>fieder. In seinem Schwanze ſind zwei lange ſichel=</Unicode>
+                    <Unicode>fieder. In ſeinem Schwanze ſind zwei lange ſichel=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230671654_4196" custom="readingOrder {index:31;}">
@@ -257,7 +257,7 @@ Transkribus</Creator>
                 <Coords points="96,2394 1353,2404 1367,2326 96,2334"/>
                 <Baseline points="103,2387 203,2387 403,2386 503,2386 703,2388 803,2390 1003,2392 1103,2395 1303,2397 1358,2397"/>
                 <TextEquiv>
-                    <Unicode>verkündet er schon den Tag. Dann ruft er: Kikeriki!</Unicode>
+                    <Unicode>verkündet er ſchon den Tag. Dann ruft er: Kikeriki!</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230690474_4208" custom="readingOrder {index:35;}">
@@ -284,25 +284,25 @@ warm, erwärmen; bleich, erbleichen; erblaſſen;
 fragen, erfragen; leben, erleben; errathen;
 bieten, gebieten; horchen, gehorchen; geleiten;
 deuten, mißdeuten; brauchen, mißbrauchen; mißglücken;
-süß, verſüßen; dünn, verdünnen; verdichten;
+ſüß, verſüßen; dünn, verdünnen; verdichten;
 spielen, verspielen; blühen, verblühen; verhungern;
 brechen, zerbrechen; reißen, zerreißen; zerſtören.
 106.
 Auf einem Bauernhofe ſieht man viele Thiere. Da
 laufen viele Hühner umher und picken die Körnchen
 auf. Die Küchlein werden von einer Henne geführt.
-Diese ſucht ihnen überall Nahrung. Wenn ſie ein Krüm=
+Dieſe ſucht ihnen überall Nahrung. Wenn ſie ein Krüm=
 chen oder ein Körnchen gefunden hat, ruft ſie ſogleich
 die Küchlein. Geſchwind kommen die Kleinen herbei=
 gelaufen und picken die Krümchen und Körnchen auf.
 Des Abends verkriechen ſie ſich unter die Flügel ihrer
 Mutter. Auf dem Hofe ist auch ein Hahn. Er ist viel
 größer, als ein Huhn und hat auch ein ſchöneres Ge=
-fieder. In seinem Schwanze ſind zwei lange ſichel=
+fieder. In ſeinem Schwanze ſind zwei lange ſichel=
 förmige Federn. Auf dem Kopfe hat er einen fleiſchigen
 Kamm, und an jedem Fuße befindet sich ein Sporn.
 Des Morgens, noch ehe die Sonne aufgegangen ist,
-verkündet er schon den Tag. Dann ruft er: Kikeriki!
+verkündet er ſchon den Tag. Dann ruft er: Kikeriki!
 Dadurch mahnt er die Leute, daß ſie aufſtehen ſollen.</Unicode>
             </TextEquiv>
         </TextRegion>

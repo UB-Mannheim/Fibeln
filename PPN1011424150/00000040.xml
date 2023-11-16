@@ -118,7 +118,7 @@ Transkribus</Creator>
                 <Coords points="196,1173 1111,1192 1364,1159 1222,1110 663,1145 196,1116"/>
                 <Baseline points="204,1174 304,1174 504,1173 604,1173 704,1173 904,1173 1004,1173 1104,1173 1304,1173 1356,1173"/>
                 <TextEquiv>
-                    <Unicode>Schule, Schüler; Schloß, Schlosser; Seiler:</Unicode>
+                    <Unicode>Schule, Schüler; Schloß, Schloſſer; Seiler:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230219543_3993" custom="readingOrder {index:15;}">
@@ -276,7 +276,7 @@ nennt auch einige Küchenpflanzen!
 Baum, Bäumchen; Teller, Tellerchen; Löffelchen;
 Buch, Büchlein; Tuch, Tüchlein; Sternlein;
 König, Königin; Lehrer, Lehrerin; Schülerin;
-Schule, Schüler; Schloß, Schlosser; Seiler:
+Schule, Schüler; Schloß, Schloſſer; Seiler:
 böſe, boshaft; ſchaden, ſchadhaft; Herrschaft;
 Freund, Freundschaft; Feind, Feindſchaft; Botſchaft;
 Kind, Kindheit; Thor, Thorheit; Krankheit;

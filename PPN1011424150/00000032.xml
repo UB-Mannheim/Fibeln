@@ -118,7 +118,7 @@ Transkribus</Creator>
                 <Coords points="151,1361 1296,1353 1427,1338 1427,1290 150,1287"/>
                 <Baseline points="159,1341 222,1340 285,1339 348,1339 411,1338 474,1337 537,1337 600,1336 663,1335 726,1334 789,1334 852,1333 915,1332 978,1331 1041,1330 1104,1329 1167,1329 1230,1328 1293,1327 1356,1326 1419,1325"/>
                 <TextEquiv>
-                    <Unicode>Fliege. Sie frißt dieſe Thierchen. Dann ſchwingt sie</Unicode>
+                    <Unicode>Fliege. Sie frißt dieſe Thierchen. Dann ſchwingt ſie</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l16" custom="readingOrder {index:15;}">
@@ -241,7 +241,7 @@ Schrift aus? Der Schwamm hängt an einer Schnur.
 Dieſe ist an der Tafel feſt. Hast du auch ein Heft?
 Die Lerche ist ein Vogel. Sie baut ihr Nest auf den
 Acker. Sie fängt Würmer. Sie haſcht auch manche
-Fliege. Sie frißt dieſe Thierchen. Dann ſchwingt sie
+Fliege. Sie frißt dieſe Thierchen. Dann ſchwingt ſie
 ſich in die Luft. Sie ſingt ein schönes Lied. Sie will
 dem lieben Gott danken.
 86.

@@ -132,14 +132,14 @@ Transkribus</Creator>
                 <Coords points="120,1229 1363,1207 1328,1141 119,1165"/>
                 <Baseline points="128,1214 189,1213 250,1211 312,1210 373,1209 435,1207 496,1206 557,1205 619,1204 680,1203 742,1201 803,1200 864,1199 926,1198 987,1197 1049,1196 1110,1194 1171,1193 1233,1192 1294,1190 1356,1189"/>
                 <TextEquiv>
-                    <Unicode>ſtark; blitzsſhnell; kummervoll, muthlos; ſchlaflos, muth=</Unicode>
+                    <Unicode>ſtark; blitzſchnell; kummervoll, muthlos; ſchlaflos, muth=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:17;}">
                 <Coords points="111,1286 1250,1276 1287,1267 1286,1210 110,1234"/>
                 <Baseline points="119,1273 177,1271 235,1270 293,1269 351,1268 409,1267 467,1265 525,1265 583,1263 641,1262 699,1261 757,1260 815,1259 873,1258 931,1257 989,1256 1047,1255 1105,1253 1163,1252 1221,1251 1279,1249"/>
                 <TextEquiv>
-                    <Unicode>voll, lieblos, athemlos, liebevoll, liebreich, zuckersüß.</Unicode>
+                    <Unicode>voll, lieblos, athemlos, liebevoll, liebreich, zuckerſüß.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l21" custom="readingOrder {index:18;}">
@@ -202,7 +202,7 @@ Transkribus</Creator>
                 <Coords points="178,1828 1311,1820 1387,1811 1387,1766 177,1770"/>
                 <Baseline points="186,1819 245,1819 305,1818 364,1817 424,1817 484,1816 543,1815 603,1814 663,1813 722,1812 782,1811 842,1810 901,1808 961,1807 1021,1806 1080,1805 1140,1804 1200,1802 1259,1801 1319,1800 1379,1799"/>
                 <TextEquiv>
-                    <Unicode>An unſerem Hauſe ist ein Garten. Darin sſehen</Unicode>
+                    <Unicode>An unſerem Hauſe ist ein Garten. Darin ſtehen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:27;}">
@@ -272,7 +272,7 @@ Transkribus</Creator>
                 <Coords points="137,2413 1401,2409 1366,2336 137,2365"/>
                 <Baseline points="145,2407 207,2406 269,2404 332,2403 394,2402 457,2401 519,2400 581,2399 644,2398 706,2397 769,2396 831,2395 893,2394 956,2393 1018,2392 1081,2390 1143,2389 1205,2388 1268,2386 1330,2385 1393,2383"/>
                 <TextEquiv>
-                    <Unicode>Stachelbeeren. An der Mauer wächst der Weinstock und</Unicode>
+                    <Unicode>Stachelbeeren. An der Mauer wächst der Weinſtock und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l40" custom="readingOrder {index:37;}">
@@ -299,8 +299,8 @@ grasgrün, ſchneeweiß, hellblau, roſenroth, ſchwefel=
 gelb, braunroth, milchweiß, rabenſchwarz, dunkelroth,
 aſchgrau, feuerroth, ſchieferblau; eirund, wagerecht,
 viereckig, kugelrund; haushoch; ſteinhart, eiſenfeſt, baum=
-ſtark; blitzsſhnell; kummervoll, muthlos; ſchlaflos, muth=
-voll, lieblos, athemlos, liebevoll, liebreich, zuckersüß.
+ſtark; blitzſchnell; kummervoll, muthlos; ſchlaflos, muth=
+voll, lieblos, athemlos, liebevoll, liebreich, zuckerſüß.
 ausgehen, nachlaufen, anſehen, abtreten, hinwerfen,
 herkommen, zuschlagen, wegſpringen, durchſtoßen, ein=
 machen, umfallen, losdrücken, heimfliegen, darreichen,
@@ -309,7 +309,7 @@ niederdrücken, übertragen, wiederbringen, herumlaufen,
 hinterbringen, überſenden, wiederholen, unterhalten,
 überreichen, zurückweichen, einnehmen, ausgeben.
 102.
-An unſerem Hauſe ist ein Garten. Darin sſehen
+An unſerem Hauſe ist ein Garten. Darin ſtehen
 allerlei Bäume. Es ſind meiſtens Obſtbäume. Wer kann
 mir Obſtbäume angeben? — Auf dem Kirſchbaume
 wachſen Kirſchen. Der Apfelbaum trägt Aepfel. Der
@@ -319,7 +319,7 @@ den kalten Wintertagen. — Man findet auch Sträucher
 im Garten. Da steht der Johannis= und der Stachel=
 beerſtrauch. An dem Johannisbeerſtrauche hangen
 Johannisbeeren; an dem Stachelbeerſtrauche findet man
-Stachelbeeren. An der Mauer wächst der Weinstock und
+Stachelbeeren. An der Mauer wächst der Weinſtock und
 in der Ecke steht eine Haſelſtaude.</Unicode>
             </TextEquiv>
         </TextRegion>

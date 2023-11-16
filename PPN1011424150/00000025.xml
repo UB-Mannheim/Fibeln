@@ -387,11 +387,11 @@ Transkribus</Creator>
                 <Coords points="67,2069 1475,2064 1475,2012 1366,1982 893,2023 753,1966 572,2009 67,1993"/>
                 <Baseline points="76,2056 276,2056 376,2056 576,2056 676,2056 876,2056 976,2056 1176,2056 1276,2056 1466,2056"/>
                 <TextEquiv>
-                    <Unicode>Schmaus, ſchmausen, ſchmal, ſchmäler; Schnur,</Unicode>
+                    <Unicode>Schmaus, ſchmauſen, ſchmal, ſchmäler; Schnur,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Schmaus, ſchmausen, ſchmal, ſchmäler; Schnur,</Unicode>
+                <Unicode>Schmaus, ſchmauſen, ſchmal, ſchmäler; Schnur,</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223713253_2444" custom="readingOrder {index:30;}">
@@ -470,11 +470,11 @@ Transkribus</Creator>
                 <Coords points="75,2422 1464,2397 1464,2353 1351,2334 1201,2370 597,2327 75,2350"/>
                 <Baseline points="83,2415 283,2414 383,2414 583,2414 683,2414 883,2414 983,2414 1183,2414 1283,2414 1456,2414"/>
                 <TextEquiv>
-                    <Unicode>ſchlürfet, ſchmauset, ſchneidet, ſchnüret, ſchreibet.</Unicode>
+                    <Unicode>ſchlürfet, ſchmauſet, ſchneidet, ſchnüret, ſchreibet.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>ſchlürfet, ſchmauset, ſchneidet, ſchnüret, ſchreibet.</Unicode>
+                <Unicode>ſchlürfet, ſchmauſet, ſchneidet, ſchnüret, ſchreibet.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

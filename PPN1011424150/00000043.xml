@@ -48,14 +48,14 @@ Transkribus</Creator>
                 <Coords points="103,452 200,467 269,435 294,460 342,450 366,470 391,469 413,450 430,457 430,406 333,413 304,394 237,413 210,395 198,404 138,386 102,400"/>
                 <Baseline points="111,449 137,447 163,447 189,446 215,446 241,446 267,446 293,446 319,446 345,446 371,446 397,445 423,443"/>
                 <TextEquiv>
-                    <Unicode>Kinder singen</Unicode>
+                    <Unicode>Kinder ſingen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
                 <Coords points="108,524 1362,502 1361,452 1257,437 922,432 752,484 665,442 107,472"/>
                 <Baseline points="116,507 177,506 239,505 301,504 363,504 425,503 487,502 548,501 610,501 672,500 734,499 796,499 858,498 920,497 981,497 1043,496 1105,495 1167,495 1229,494 1291,493 1353,492"/>
                 <TextEquiv>
-                    <Unicode>und Chriſtian sind Namen. Die Chriſten glauben an</Unicode>
+                    <Unicode>und Chriſtian ſind Namen. Die Chriſten glauben an</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -188,7 +188,7 @@ Transkribus</Creator>
                 <Coords points="130,1905 504,1925 775,1884 1013,1922 1282,1877 1248,1834 1115,1816 129,1853"/>
                 <Baseline points="137,1894 193,1895 250,1895 307,1895 364,1895 421,1894 478,1892 534,1890 591,1889 648,1887 705,1884 762,1883 819,1880 876,1879 932,1877 989,1875 1046,1874 1103,1873 1160,1873 1217,1873 1274,1874"/>
                 <TextEquiv>
-                    <Unicode>eine Stadt. Max, Felix und Xaver sind Namen.</Unicode>
+                    <Unicode>eine Stadt. Max, Felix und Xaver ſind Namen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:25;}">
@@ -223,7 +223,7 @@ Transkribus</Creator>
                 <Coords points="141,2410 915,2381 995,2417 1409,2386 1408,2339 139,2344"/>
                 <Baseline points="148,2399 210,2398 273,2398 335,2397 398,2396 461,2395 523,2394 586,2393 649,2392 711,2391 774,2389 837,2388 899,2387 962,2385 1025,2383 1087,2382 1150,2380 1213,2378 1275,2376 1338,2375 1401,2372"/>
                 <TextEquiv>
-                    <Unicode>Fluß. Ypsilon ist ein Buchſtabe. Cypern und Ceylon</Unicode>
+                    <Unicode>Fluß. Ypſilon ist ein Buchſtabe. Cypern und Ceylon</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l32" custom="readingOrder {index:30;}">
@@ -238,8 +238,8 @@ Transkribus</Creator>
 ch. Ch= k.
 Der Chor, ein Choral, die Chriſten, Chriſtus. Die
 oft im Chor einen Choral. Christine
-Kinder singen
-und Chriſtian sind Namen. Die Chriſten glauben an
+Kinder ſingen
+und Chriſtian ſind Namen. Die Chriſten glauben an
 Christus und folgen ihm nach.
 108. ph, Ph= f.
 Der Epheu, ein Sopha, die Strophe, der Triumph.
@@ -258,12 +258,12 @@ Eine Axt, die Achſel, die Taxe, die Hexe, Xaverius,
 Xanten, die Eidechſe, Taxus. Der Holzhauer braucht
 die Axt. Der Taxus iſt ein Baum. Aus Flachs ſpinnt
 man Garn. Man muß die Taxe bezahlen. Lanten ist
-eine Stadt. Max, Felix und Xaver sind Namen.
+eine Stadt. Max, Felix und Xaver ſind Namen.
 y, Y.
 y, Y = i.
 Der Syrup, ein Tyrann, Tyrol, die Yſſel; Cyrus,
 Carl, Christoph. Der Syrup ist süß. Die Yssel ist ein
-Fluß. Ypsilon ist ein Buchſtabe. Cypern und Ceylon
+Fluß. Ypſilon ist ein Buchſtabe. Cypern und Ceylon
 ſind Inſeln.</Unicode>
             </TextEquiv>
         </TextRegion>

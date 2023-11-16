@@ -125,7 +125,7 @@ Transkribus</Creator>
                 <Coords points="98,2172 592,2199 702,2142 899,2251 1197,2159 1291,2179 1291,2061 1173,2059 1099,2119 967,2071 900,2126 98,2128"/>
                 <Baseline points="106,2165 164,2165 223,2165 282,2165 341,2165 400,2165 458,2165 517,2165 576,2165 635,2166 694,2166 752,2166 811,2167 870,2167 929,2168 988,2168 1046,2168 1105,2169 1164,2169 1223,2170 1282,2170"/>
                 <TextEquiv>
-                    <Unicode>wem, mir, rasch, los,</Unicode>
+                    <Unicode>wem, mir, raſch, los,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -151,7 +151,7 @@ um, wo, am, ja, ſo,
 für, ſchön, nun, was,
 ſchon, nur, hör, ſchal,
 her, mal huſch, hin,
-wem, mir, rasch, los,
+wem, mir, raſch, los,
 ſchuf, war, ſing, wuſch.</Unicode>
             </TextEquiv>
         </TextRegion>

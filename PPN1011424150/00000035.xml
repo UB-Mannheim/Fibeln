@@ -111,7 +111,7 @@ Transkribus</Creator>
                 <Coords points="75,1176 1347,1186 1347,1113 1253,1098 75,1109"/>
                 <Baseline points="83,1153 145,1154 208,1154 271,1155 334,1155 397,1156 459,1156 522,1156 585,1157 648,1157 711,1157 773,1158 836,1158 899,1158 962,1158 1025,1158 1087,1157 1150,1157 1213,1157 1276,1156 1339,1155"/>
                 <TextEquiv>
-                    <Unicode>suchen Erbsen, Linſen und Wicken. Der Hahn kündigt</Unicode>
+                    <Unicode>ſuchen Erbſen, Linſen und Wicken. Der Hahn kündigt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l16" custom="readingOrder {index:14;}">
@@ -125,7 +125,7 @@ Transkribus</Creator>
                 <Coords points="68,1286 1351,1300 1325,1233 68,1235"/>
                 <Baseline points="75,1289 138,1289 201,1289 265,1289 328,1289 391,1290 455,1290 518,1290 581,1291 645,1291 708,1291 771,1291 835,1292 898,1292 961,1292 1025,1292 1088,1292 1151,1291 1215,1291 1278,1290 1342,1289"/>
                 <TextEquiv>
-                    <Unicode>vom Schlafe auf. Sie beten zu Gott; sie danken ihm</Unicode>
+                    <Unicode>vom Schlafe auf. Sie beten zu Gott; ſie danken ihm</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:16;}">
@@ -181,7 +181,7 @@ Transkribus</Creator>
                 <Coords points="69,1830 1350,1843 1350,1784 1288,1770 69,1783"/>
                 <Baseline points="77,1824 140,1825 203,1826 266,1827 330,1828 393,1829 456,1829 519,1830 583,1830 646,1830 709,1830 772,1830 836,1830 899,1830 962,1829 1025,1829 1089,1828 1152,1828 1215,1827 1278,1826 1342,1825"/>
                 <TextEquiv>
-                    <Unicode>Wolken färben sich. In der Luft tanzen Mücken; die</Unicode>
+                    <Unicode>Wolken färben ſich. In der Luft tanzen Mücken; die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:24;}">
@@ -237,7 +237,7 @@ Transkribus</Creator>
                 <Coords points="87,2354 1349,2393 1350,2323 87,2305"/>
                 <Baseline points="95,2355 157,2356 219,2357 281,2358 344,2358 406,2359 468,2359 531,2359 593,2358 655,2358 718,2358 780,2358 842,2358 904,2357 967,2357 1029,2357 1091,2358 1154,2358 1216,2358 1278,2359 1341,2360"/>
                 <TextEquiv>
-                    <Unicode>Spaß, Spalt, Sporn, Spule, Speise, Spitze, Speiche,</Unicode>
+                    <Unicode>Spaß, Spalt, Sporn, Spule, Speiſe, Spitze, Speiche,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l34" custom="readingOrder {index:32;}">
@@ -268,9 +268,9 @@ Vögel wachen auf und ſingen ihre Lieder. Sie danken
 Gott. Die Blumen öffnen ihre Kelche. Die Bienen
 fliegen aus ihrem Korbe; ſie holen aus den Blüthen
 ſüßen Honig. Die Tauben fliegen auf das Feld. Sie
-suchen Erbsen, Linſen und Wicken. Der Hahn kündigt
+ſuchen Erbſen, Linſen und Wicken. Der Hahn kündigt
 den Tag an und weckt die Menſchen. Dieſe wachen
-vom Schlafe auf. Sie beten zu Gott; sie danken ihm
+vom Schlafe auf. Sie beten zu Gott; ſie danken ihm
 für die Ruhe der Nacht. Sie gehen an ihre Arbeit.
 Die Mutter kocht den Kaffee. Sie weckt mich, zieht
 mich an und betet mit mir. Dann gehe ich in die
@@ -278,7 +278,7 @@ Schule und lerne fleißig. Des Mittags kehre ich nach
 Hause zurück. Jetzt ist die Sonne hoch am Himmel.
 Es ist warm; es ist wärmer, als am Morgen und am
 Abend. Am Abend geht die Sonne wieder unter; die
-Wolken färben sich. In der Luft tanzen Mücken; die
+Wolken färben ſich. In der Luft tanzen Mücken; die
 Vögel singen ihr letztes Lied; die Menschen kehren von
 der Arbeit zurück. Sie ſind müde. Sie beten zu Gott
 und legen ſich zur Ruhe.
@@ -286,7 +286,7 @@ und legen ſich zur Ruhe.
 Stab, Staub, Stuhl, Stand, Storch, Stern, Stein,
 Stoß, Stift, Stiel, Stirne, Stelze, Stengel, Stempel,
 Staude; ſtark, ſtolz, ſteif; ſtoßen, ſtürmen, ſtechen, ſtecken;
-Spaß, Spalt, Sporn, Spule, Speise, Spitze, Speiche,
+Spaß, Spalt, Sporn, Spule, Speiſe, Spitze, Speiche,
 Spargel; ſpät, ſpitz; ſparen, ſpotten, ſpüren, ſpannen,
 ſpalten, ſpaßen.</Unicode>
             </TextEquiv>

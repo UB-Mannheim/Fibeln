@@ -104,7 +104,7 @@ Transkribus</Creator>
                 <Coords points="82,1170 1332,1185 1356,1099 1066,1137 1004,1094 82,1105"/>
                 <Baseline points="89,1156 151,1156 214,1156 277,1156 340,1156 403,1156 466,1156 529,1156 592,1156 655,1156 718,1156 780,1156 843,1156 906,1157 969,1157 1032,1157 1095,1157 1158,1158 1221,1158 1284,1158 1347,1159"/>
                 <TextEquiv>
-                    <Unicode>die Nacht. Dann legt man sich zu Bette und ſchläft.</Unicode>
+                    <Unicode>die Nacht. Dann legt man ſich zu Bette und ſchläft.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
@@ -174,7 +174,7 @@ Transkribus</Creator>
                 <Coords points="137,1911 223,1941 1357,1921 1357,1856 1229,1837 993,1867 137,1839"/>
                 <Baseline points="145,1909 196,1910 247,1910 299,1911 350,1911 402,1911 453,1911 504,1911 556,1911 607,1911 659,1911 710,1911 761,1911 813,1911 864,1911 916,1911 967,1912 1018,1912 1070,1913 1121,1915 1349,1926"/>
                 <TextEquiv>
-                    <Unicode>Gips, Mops, Möpse, Schöps, Schöpſe; Napf, Näpfe,</Unicode>
+                    <Unicode>Gips, Mops, Möpſe, Schöps, Schöpſe; Napf, Näpfe,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:23;}">
@@ -202,7 +202,7 @@ Transkribus</Creator>
                 <Coords points="90,2205 1352,2216 1353,2146 90,2146"/>
                 <Baseline points="97,2197 139,2196 182,2195 225,2194 268,2193 311,2193 354,2192 396,2192 439,2191 482,2191 525,2191 568,2191 611,2191 654,2191 696,2191 739,2191 782,2191 825,2191 868,2192 911,2192 1344,2204"/>
                 <TextEquiv>
-                    <Unicode>Fuchs, Füchſe, Büchſe, Büchſen; sechſ; wichſen, wichſet.</Unicode>
+                    <Unicode>Fuchs, Füchſe, Büchſe, Büchſen; ſechs; wichſen, wichſet.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l38" custom="readingOrder {index:27;}">
@@ -246,7 +246,7 @@ thun. Aber der Abend kommt. Es wird dunkel, und
 man kann nicht gut mehr ſehen. Dann zündet man ein
 Licht an. Der Vater, die Mutter und die Kinder ſetzen
 ſich um das Licht herum. — Nach dem Abend kommt
-die Nacht. Dann legt man sich zu Bette und ſchläft.
+die Nacht. Dann legt man ſich zu Bette und ſchläft.
 Ein Kranker kann oft nicht ſchlafen. Er hat große
 Schmerzen. Danke Gott, daß es dir wohl geht! — Der
 Schreiner hobelt und ſägt. Der Schloſſer hämmert und
@@ -256,11 +256,11 @@ malt Bilder. Der Tüncher weißt die Wände. Der
 Maurer führt Mauern auf. Wer deckt das Dach? Wer
 setzt Scheiben ein?
 88.
-Gips, Mops, Möpse, Schöps, Schöpſe; Napf, Näpfe,
+Gips, Mops, Möpſe, Schöps, Schöpſe; Napf, Näpfe,
 Zopf, Zöpfe, Kopf, Köpfe; hüpfen, ſchnupfen, rupfen,
 rupfet, rupfeſt; hübſch, hübſcher, hübſches; Kutſche;
 rutſchen, rutſchet, rutſcheſt; Wachs, Flachs, Dachs,
-Fuchs, Füchſe, Büchſe, Büchſen; sechſ; wichſen, wichſet.
+Fuchs, Füchſe, Büchſe, Büchſen; ſechs; wichſen, wichſet.
 jetzt, schätzt, reizt, ſitzt, ſetzt, heizt, ſchwitzt, ſchnitzt,
 putzt, putzte, putztet, putzteſt, ſchützt, ſchützte, ſchützten,
 ſchütztet, ſchützteſt; weckt, lockt, duckt, hackt, ſchmeckt,
