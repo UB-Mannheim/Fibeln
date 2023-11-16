@@ -63,7 +63,7 @@ Transkribus</Creator>
                 <Coords points="145,817 1330,817 1078,781 145,789"/>
                 <Baseline points="153,808 181,808 209,809 1322,808"/>
                 <TextEquiv>
-                    <Unicode>faul, fauler, faulen, faulem, faules. </Unicode>
+                    <Unicode>faul, fauler, faulen, faulem, faules.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -84,7 +84,7 @@ Transkribus</Creator>
                 <Coords points="138,1201 1336,1207 1106,1169 138,1175"/>
                 <Baseline points="146,1198 173,1197 200,1198 227,1198 1329,1197"/>
                 <TextEquiv>
-                    <Unicode>ende, wünſche, ſende, lüfte, wende, </Unicode>
+                    <Unicode>ende, wünſche, ſende, lüfte, wende,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:9;}">
@@ -119,7 +119,7 @@ Transkribus</Creator>
                 <Coords points="142,1741 1350,1735 1142,1702 142,1715"/>
                 <Baseline points="150,1735 178,1734 206,1735 234,1735 262,1734 1342,1727"/>
                 <TextEquiv>
-                    <Unicode>halten, heften, ſenden, würzen, melden, </Unicode>
+                    <Unicode>halten, heften, ſenden, würzen, melden,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
@@ -175,7 +175,7 @@ Transkribus</Creator>
                 <Coords points="157,2472 1361,2466 157,2432"/>
                 <Baseline points="164,2460 189,2460 214,2460 239,2460 264,2460 289,2460 1353,2460"/>
                 <TextEquiv>
-                    <Unicode>ſchelten, ſcheltet, werfen, werfet, duldet. </Unicode>
+                    <Unicode>ſchelten, ſcheltet, werfen, werfet, duldet.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -184,15 +184,15 @@ dein, deiner, deinen, deinem, deines,&#xD;
 fein, feiner, feinen, feinem, feines,&#xD;
 jung, junger, jungen, jungem, junges,&#xD;
 ſchön, ſchöner, ſchönen, ſchönen, ſchönem, ſchönes,&#xD;
-faul, fauler, faulen, faulem, faules. &#xD;
+faul, fauler, faulen, faulem, faules.&#xD;
 halte, wölbe, binde, färbe, merke,&#xD;
 winde, hefte, wärme, ſcherze, falte,&#xD;
-ende, wünſche, ſende, lüfte, wende, &#xD;
+ende, wünſche, ſende, lüfte, wende,&#xD;
 zürne, ſchirme, forme, lerne, lärme,&#xD;
 ſalbe, pumpe, gerbe, milde, mürbe.&#xD;
 lernen, helfen, lärmen, warnen, ſchärfen,&#xD;
 wünſchen, dürfen, formen, zürnen, wärmen,&#xD;
-halten, heften, ſenden, würzen, melden, &#xD;
+halten, heften, ſenden, würzen, melden,&#xD;
 werden, lüften, gelten, dulden, gürten,&#xD;
 ſcherzen, tanzen, wirken, gerben, wälzen.&#xD;
 zünden, zündet, färben, färbet, morden&#xD;
@@ -200,7 +200,7 @@ gelten, geltet, duften, duftet, meldet,&#xD;
 salzen, salzet, merken, merket, binden,&#xD;
 ſcherzen, ſcherzet, winden, windet, wölbet,&#xD;
 dürfen, dürfet, ſalben, ſsalbet, forſchen,&#xD;
-ſchelten, ſcheltet, werfen, werfet, duldet. </Unicode>
+ſchelten, ſcheltet, werfen, werfet, duldet.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">

@@ -195,7 +195,7 @@
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="322,2328 591,2322 591,2391 322,2397"/>
                 <TextEquiv>
-                    <Unicode>uns Obſt. </Unicode>
+                    <Unicode>uns Obſt.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -243,7 +243,7 @@ Angſt, hängſt, längſt, wärmſt, merkſt, wirkſt, kämpfſt,&#xD;
 ächzt, seufzt, abends, nirgends, eilends.&#xD;
 Der Arzt impft das Kind. Der Färber färbt das&#xD;
 Tuch. Der Gerber gerbt das Fell. Der Herbſt bringt&#xD;
-uns Obſt. &#xD;
+uns Obſt.&#xD;
 24. Das Büblein und der Bach.&#xD;
 Das Büblein fürchtet das Wasser ſehr und hat ein&#xD;
 ſchmutzig Geſicht. Das Bächlein ſiehts und läuft hinter</Unicode>

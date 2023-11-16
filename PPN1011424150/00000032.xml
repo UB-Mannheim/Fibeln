@@ -20,7 +20,7 @@ Transkribus</Creator>
                 <Coords points="698,233 720,225 760,232 779,216 794,223 801,214 832,219 855,209 882,229 919,217 913,140 865,108 846,103 816,113 803,106 744,141 691,133"/>
                 <Baseline points="705,207 730,206 756,205 781,204 807,201 832,200 858,198 883,195 909,193"/>
                 <TextEquiv>
-                    <Unicode>28 </Unicode>
+                    <Unicode>28</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -227,7 +227,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>28 &#xD;
+                <Unicode>28&#xD;
 Gift, Luft, Schrift, Saft, Säfte, Heft, Hefte; läuft,&#xD;
 hofft, ſchifft, ſchweiſt, ſchläft, ſchnauft, gafft, gaffte,&#xD;
 gafftest; miſcht, fiſcht, haſcht, lauſcht, lauſchtet, lauſchteſt;&#xD;

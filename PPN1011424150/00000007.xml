@@ -56,7 +56,7 @@ Transkribus</Creator>
                 <Coords points="131,673 403,757 615,672 686,703 1148,672 1344,733 1344,639 1203,637 1079,573 882,644 676,637 580,574 383,629 295,577 131,650"/>
                 <Baseline points="139,675 198,676 258,676 318,676 378,677 438,677 498,677 557,677 617,678 677,678 737,678 797,678 857,677 917,677 976,677 1036,677 1096,677 1156,676 1216,676 1276,675 1336,675"/>
                 <TextEquiv>
-                    <Unicode>ul, if, am, al, en, </Unicode>
+                    <Unicode>ul, if, am, al, en,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -91,7 +91,7 @@ Transkribus</Creator>
                 <Coords points="140,1400 483,1415 584,1365 803,1417 884,1370 1034,1420 1199,1343 1369,1370 1368,1288 1183,1233 979,1282 912,1231 748,1288 601,1234 466,1278 362,1235 139,1270"/>
                 <Baseline points="147,1343 207,1344 268,1345 329,1346 389,1346 450,1346 511,1346 571,1346 632,1345 693,1345 754,1344 814,1344 875,1343 936,1342 996,1342 1057,1342 1118,1341 1178,1341 1239,1341 1300,1342 1361,1342"/>
                 <TextEquiv>
-                    <Unicode>oſch, iſch, eſch, uſch, er, </Unicode>
+                    <Unicode>oſch, iſch, eſch, uſch, er,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
@@ -149,12 +149,12 @@ Transkribus</Creator>
 ar, ur, ir, or,&#xD;
 er,&#xD;
 ſa, ſo, ſe, ſu, ſi,&#xD;
-ul, if, am, al, en, &#xD;
+ul, if, am, al, en,&#xD;
 ro, ru, ri, ra, re,&#xD;
 7.&#xD;
 h, ſch.&#xD;
 ha, he, hu, hi, ho,&#xD;
-oſch, iſch, eſch, uſch, er, &#xD;
+oſch, iſch, eſch, uſch, er,&#xD;
  ſche, an, ſchi, em, ſchu,&#xD;
 #ul, scho, el, scha, or,&#xD;
 w, j.&#xD;

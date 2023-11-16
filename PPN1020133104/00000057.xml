@@ -47,7 +47,7 @@
             <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
                 <Coords points="557,227 967,225 967,277 557,279"/>
                 <TextEquiv>
-                    <Unicode>Von Jeſus Chriſtus. </Unicode>
+                    <Unicode>Von Jeſus Chriſtus.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="6.0" bold="true"/>
             </TextLine>
@@ -228,7 +228,7 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Von Jeſus Chriſtus. &#xD;
+                <Unicode>Von Jeſus Chriſtus.&#xD;
 17&#xD;
 ſto cke bleibt. Man nimmt ſie und wirft ſie ins Feu er,&#xD;
 und ver brennt ſie.“&#xD;

@@ -20,7 +20,7 @@ Transkribus</Creator>
                 <Coords points="726,170 745,166 782,186 795,178 817,192 841,184 846,189 854,181 867,190 883,184 899,190 927,177 926,138 908,142 845,104 808,111 788,107 771,93 734,106 722,103"/>
                 <Baseline points="733,165 759,168 786,168 812,167 839,164 865,162 892,161 919,160"/>
                 <TextEquiv>
-                    <Unicode>40 </Unicode>
+                    <Unicode>40</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l2" custom="readingOrder {index:1;}">
@@ -185,7 +185,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>40 &#xD;
+                <Unicode>40&#xD;
 109.&#xD;
 a, e, I, 0, u, al, au, en, ei.&#xD;
 a, e, I, 0, u, al, au, en, ei.&#xD;

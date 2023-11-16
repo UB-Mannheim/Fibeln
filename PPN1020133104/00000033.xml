@@ -221,7 +221,7 @@
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:26;}">
                 <Coords points="405,2495 1275,2495 1275,2569 405,2569"/>
                 <TextEquiv>
-                    <Unicode>vor Regen, Schnee und Wind, </Unicode>
+                    <Unicode>vor Regen, Schnee und Wind,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:27;}">
@@ -265,7 +265,7 @@ und auf den Boden. Große Häuſer haben drei, vier&#xD;
 Stockwerke.&#xD;
 8. Das Dach.&#xD;
 Ein Dach ſchützt unſer Haus&#xD;
-vor Regen, Schnee und Wind, &#xD;
+vor Regen, Schnee und Wind,&#xD;
 weil ſich's nicht wohnen läßt,&#xD;
 wo keine Dächer ſind.</Unicode>
             </TextEquiv>
