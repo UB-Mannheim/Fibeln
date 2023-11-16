@@ -123,20 +123,20 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>1. i, n, u, e,&#xD;
-in, un, en, ni&#xD;
-nu, ni, ne, un,&#xD;
-m&#xD;
-2.&#xD;
-mu, me, mi, um,&#xD;
-em, im, um, me,&#xD;
-ni, un, ne, im.&#xD;
-o, a.&#xD;
-3.&#xD;
-on, an, en, in,&#xD;
-na, no, nu, ne,&#xD;
-um, em, im, am&#xD;
-mi, mu, ma, mo,&#xD;
+                <Unicode>1. i, n, u, e,
+in, un, en, ni
+nu, ni, ne, un,
+m
+2.
+mu, me, mi, um,
+em, im, um, me,
+ni, un, ne, im.
+o, a.
+3.
+on, an, en, in,
+na, no, nu, ne,
+um, em, im, am
+mi, mu, ma, mo,
  un, in, om, em.</Unicode>
             </TextEquiv>
         </TextRegion>

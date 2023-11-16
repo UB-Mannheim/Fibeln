@@ -207,29 +207,29 @@
                 <TextStyle fontFamily="Arial" fontSize="11.0"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>4&#xD;
-3. uh, üh.&#xD;
-Die Uhr geht. Die Uh ren geh en.&#xD;
-Die Kuh iſt auf der Wei de. Die Küh e&#xD;
-ſind auf der Wei de.&#xD;
-Uhr, Ruhr, Schuh, Schuh e, Huhn, Hüh⸗&#xD;
-ner, ruh en, ruh ig, Ruh e, Müh le, Müh len,&#xD;
-füh len, wüh len, kühl, kühn.&#xD;
-Büh ne, Bie ne; Kiel, kühl; Kien, kühn.&#xD;
-4. ah, äh.&#xD;
-Kahn, Hahn, Bahn, Zahn, zahm, Zahl,&#xD;
-kahl, Jahr, wahr, Wahr heit; Käh ne, Häh ne,&#xD;
-Zäh ne, Mäh ne, Äh re, näh ren, wäh ren, zäh len,&#xD;
-wäh len, wäh nen, gäh nen.&#xD;
-Das Schaf iſt zahm. Die Mäh er mäh en&#xD;
-ei ne Wie ſe ab. Re de nur die Wahr heit!&#xD;
-5. oh, öh.&#xD;
-Ohr, Rohr, Sohn, Mohn, Boh ne, Kohl,&#xD;
-hohl, wohl, Soh le, Koh le, boh ren, loh nen, woh⸗&#xD;
-nen; Ohr, Öhr, Rohr, Röh re, Sohn, Söh ne,&#xD;
-Höh le, Höh e, ge wöh nen, ver ſöh nen.&#xD;
-Mit dem Oh re hö ren wir. Die Na del hat&#xD;
-ein Öhr. Das Rohr iſt hohl. Ver ſöh ne dich&#xD;
+                <Unicode>4
+3. uh, üh.
+Die Uhr geht. Die Uh ren geh en.
+Die Kuh iſt auf der Wei de. Die Küh e
+ſind auf der Wei de.
+Uhr, Ruhr, Schuh, Schuh e, Huhn, Hüh⸗
+ner, ruh en, ruh ig, Ruh e, Müh le, Müh len,
+füh len, wüh len, kühl, kühn.
+Büh ne, Bie ne; Kiel, kühl; Kien, kühn.
+4. ah, äh.
+Kahn, Hahn, Bahn, Zahn, zahm, Zahl,
+kahl, Jahr, wahr, Wahr heit; Käh ne, Häh ne,
+Zäh ne, Mäh ne, Äh re, näh ren, wäh ren, zäh len,
+wäh len, wäh nen, gäh nen.
+Das Schaf iſt zahm. Die Mäh er mäh en
+ei ne Wie ſe ab. Re de nur die Wahr heit!
+5. oh, öh.
+Ohr, Rohr, Sohn, Mohn, Boh ne, Kohl,
+hohl, wohl, Soh le, Koh le, boh ren, loh nen, woh⸗
+nen; Ohr, Öhr, Rohr, Röh re, Sohn, Söh ne,
+Höh le, Höh e, ge wöh nen, ver ſöh nen.
+Mit dem Oh re hö ren wir. Die Na del hat
+ein Öhr. Das Rohr iſt hohl. Ver ſöh ne dich
 mit dei nem Fein de!</Unicode>
             </TextEquiv>
         </TextRegion>

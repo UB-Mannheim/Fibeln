@@ -106,14 +106,14 @@
                 <TextStyle fontFamily="Times New Roman" fontSize="38.0"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>Das Abc (Alphabet).&#xD;
-ABCDEFGH&#xD;
-a b c d e f g h&#xD;
-I K L M N O P&#xD;
-i k l m n o p&#xD;
-O R S T U V W&#xD;
-q r ſ t u v w&#xD;
-X Y Z.&#xD;
+                <Unicode>Das Abc (Alphabet).
+ABCDEFGH
+a b c d e f g h
+I K L M N O P
+i k l m n o p
+O R S T U V W
+q r ſ t u v w
+X Y Z.
 x y z.</Unicode>
             </TextEquiv>
         </TextRegion>

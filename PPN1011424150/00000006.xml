@@ -115,17 +115,17 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>4. ni, om, ne, um,&#xD;
-am, nu, im, no,&#xD;
-un, me, an, mi,&#xD;
-mo, in, mu, en,&#xD;
-na, em, on, ma.&#xD;
-l, f.&#xD;
-5.&#xD;
-al, ol, ul, el, il,&#xD;
-lo, la, le, li, lu,&#xD;
-ef, if, of, uf, af,&#xD;
-fu, fe, fi, fa, fo,&#xD;
+                <Unicode>4. ni, om, ne, um,
+am, nu, im, no,
+un, me, an, mi,
+mo, in, mu, en,
+na, em, on, ma.
+l, f.
+5.
+al, ol, ul, el, il,
+lo, la, le, li, lu,
+ef, if, of, uf, af,
+fu, fe, fi, fa, fo,
 al, fo, um, lo, ef.</Unicode>
             </TextEquiv>
         </TextRegion>

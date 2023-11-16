@@ -208,30 +208,30 @@
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>10&#xD;
-18. f, g, ch, f, m, n, l, s, sch, z als&#xD;
-Auslaut mit tönendem Mitlaut voraus.&#xD;
-Dorf, Torf, fünf, künftig; Berg, Burg; durch,&#xD;
-horch; Milch, Dolch, welch; welk; Balg, Talg; Schalk;&#xD;
-arg; Mark; Wurm, Turm, Schirm; Hirn, Horn, Korn,&#xD;
-Kern, gern; Karl, Kerl; wandeln, fädeln, ſäuſeln;&#xD;
-Gans, Hans; rings, längs; Hirsch, falsch; Menſch,&#xD;
-Punſch, wünſch; Herz, Harz; als; Falz; Hals, Holz,&#xD;
-Gans, ganz, Puls, Salz, Filz, Fels.&#xD;
-Der Hund bellt und beißt. Das Kind fällt. Der&#xD;
-Schüler fehlt. Der Wolf heult. Die Wunde heilt.&#xD;
-Die Magd wäſcht, wiſcht, heizt, holt, kocht. Die Maus&#xD;
-nagt in der Nacht. Das Licht liegt auf dem Tiſche.&#xD;
-19. f, s, t, ſch und voraus ein nicht&#xD;
-tönender Mitlaut.&#xD;
-Topf, Kopf, Zopf, Schopf, Napf, zupf, hüpf, hüpfe,&#xD;
-hüpfen, ſchöpf, ſchöpfe, ſchöpfen, Apfel, Wipfel, Gipfel,&#xD;
-Hopfen, Zapfen, rupfen;&#xD;
-Mops, Schöps, Gips, rips, raps; hübſch; Abt, übt,&#xD;
-hebt, liebt, foppt, ſchoppt, nippt, pappt, ſchabt, ſchiebt;&#xD;
-Peit ſche, deutſch, hätſch le, tätſch le; be reits, gehts; packt,&#xD;
-bäckt, weckt, reckt, ſchickt, zuckt.&#xD;
-Der Topf, der Kopf, der Napf, der Apfel und der&#xD;
+                <Unicode>10
+18. f, g, ch, f, m, n, l, s, sch, z als
+Auslaut mit tönendem Mitlaut voraus.
+Dorf, Torf, fünf, künftig; Berg, Burg; durch,
+horch; Milch, Dolch, welch; welk; Balg, Talg; Schalk;
+arg; Mark; Wurm, Turm, Schirm; Hirn, Horn, Korn,
+Kern, gern; Karl, Kerl; wandeln, fädeln, ſäuſeln;
+Gans, Hans; rings, längs; Hirsch, falsch; Menſch,
+Punſch, wünſch; Herz, Harz; als; Falz; Hals, Holz,
+Gans, ganz, Puls, Salz, Filz, Fels.
+Der Hund bellt und beißt. Das Kind fällt. Der
+Schüler fehlt. Der Wolf heult. Die Wunde heilt.
+Die Magd wäſcht, wiſcht, heizt, holt, kocht. Die Maus
+nagt in der Nacht. Das Licht liegt auf dem Tiſche.
+19. f, s, t, ſch und voraus ein nicht
+tönender Mitlaut.
+Topf, Kopf, Zopf, Schopf, Napf, zupf, hüpf, hüpfe,
+hüpfen, ſchöpf, ſchöpfe, ſchöpfen, Apfel, Wipfel, Gipfel,
+Hopfen, Zapfen, rupfen;
+Mops, Schöps, Gips, rips, raps; hübſch; Abt, übt,
+hebt, liebt, foppt, ſchoppt, nippt, pappt, ſchabt, ſchiebt;
+Peit ſche, deutſch, hätſch le, tätſch le; be reits, gehts; packt,
+bäckt, weckt, reckt, ſchickt, zuckt.
+Der Topf, der Kopf, der Napf, der Apfel und der
 Zapfen ſind rund. Der Mops und der Schöps ſind</Unicode>
             </TextEquiv>
         </TextRegion>

@@ -32,7 +32,7 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>X.&#xD;
+                <Unicode>X.
 26.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -179,25 +179,25 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>f, i, l, b, k, d,&#xD;
-F, I, L, B, K, D.&#xD;
-Faden, Ida, Laib. Bein,&#xD;
-Keule, Dom, Inſel, Fibel,&#xD;
-Börſe, Löwe, Käfer, Laube,&#xD;
-Iltis, Düte, Fuder, Birne,&#xD;
-Kirſche Beule. Ilme, Feder,&#xD;
-Daumen Leid, Kerze, Dose.&#xD;
-27. j, g, z, e, p, h,&#xD;
-J, G,&#xD;
-Z, E, P,&#xD;
-H.&#xD;
-Zum, Geiz, Zauber, Eber,&#xD;
-Pause, Hoſe, Eis,&#xD;
-Zunge,&#xD;
-Hafer, Erde, Gabel,&#xD;
-Juli,&#xD;
-Palme, Jubel, Zeile Hobel.&#xD;
-Ekel, Zange Pumze, Gurte.&#xD;
+                <Unicode>f, i, l, b, k, d,
+F, I, L, B, K, D.
+Faden, Ida, Laib. Bein,
+Keule, Dom, Inſel, Fibel,
+Börſe, Löwe, Käfer, Laube,
+Iltis, Düte, Fuder, Birne,
+Kirſche Beule. Ilme, Feder,
+Daumen Leid, Kerze, Dose.
+27. j, g, z, e, p, h,
+J, G,
+Z, E, P,
+H.
+Zum, Geiz, Zauber, Eber,
+Pause, Hoſe, Eis,
+Zunge,
+Hafer, Erde, Gabel,
+Juli,
+Palme, Jubel, Zeile Hobel.
+Ekel, Zange Pumze, Gurte.
 Gaimen, Hülfe, Peter, Jude.</Unicode>
             </TextEquiv>
         </TextRegion>

@@ -179,27 +179,27 @@ Transkribus</Creator>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>mein, meiner, meinen, meinem, meines,&#xD;
-dein, deiner, deinen, deinem, deines,&#xD;
-fein, feiner, feinen, feinem, feines,&#xD;
-jung, junger, jungen, jungem, junges,&#xD;
-ſchön, ſchöner, ſchönen, ſchönen, ſchönem, ſchönes,&#xD;
-faul, fauler, faulen, faulem, faules.&#xD;
-halte, wölbe, binde, färbe, merke,&#xD;
-winde, hefte, wärme, ſcherze, falte,&#xD;
-ende, wünſche, ſende, lüfte, wende,&#xD;
-zürne, ſchirme, forme, lerne, lärme,&#xD;
-ſalbe, pumpe, gerbe, milde, mürbe.&#xD;
-lernen, helfen, lärmen, warnen, ſchärfen,&#xD;
-wünſchen, dürfen, formen, zürnen, wärmen,&#xD;
-halten, heften, ſenden, würzen, melden,&#xD;
-werden, lüften, gelten, dulden, gürten,&#xD;
-ſcherzen, tanzen, wirken, gerben, wälzen.&#xD;
-zünden, zündet, färben, färbet, morden&#xD;
-gelten, geltet, duften, duftet, meldet,&#xD;
-salzen, salzet, merken, merket, binden,&#xD;
-ſcherzen, ſcherzet, winden, windet, wölbet,&#xD;
-dürfen, dürfet, ſalben, ſsalbet, forſchen,&#xD;
+                <Unicode>mein, meiner, meinen, meinem, meines,
+dein, deiner, deinen, deinem, deines,
+fein, feiner, feinen, feinem, feines,
+jung, junger, jungen, jungem, junges,
+ſchön, ſchöner, ſchönen, ſchönen, ſchönem, ſchönes,
+faul, fauler, faulen, faulem, faules.
+halte, wölbe, binde, färbe, merke,
+winde, hefte, wärme, ſcherze, falte,
+ende, wünſche, ſende, lüfte, wende,
+zürne, ſchirme, forme, lerne, lärme,
+ſalbe, pumpe, gerbe, milde, mürbe.
+lernen, helfen, lärmen, warnen, ſchärfen,
+wünſchen, dürfen, formen, zürnen, wärmen,
+halten, heften, ſenden, würzen, melden,
+werden, lüften, gelten, dulden, gürten,
+ſcherzen, tanzen, wirken, gerben, wälzen.
+zünden, zündet, färben, färbet, morden
+gelten, geltet, duften, duftet, meldet,
+salzen, salzet, merken, merket, binden,
+ſcherzen, ſcherzet, winden, windet, wölbet,
+dürfen, dürfet, ſalben, ſsalbet, forſchen,
 ſchelten, ſcheltet, werfen, werfet, duldet.</Unicode>
             </TextEquiv>
         </TextRegion>
@@ -247,10 +247,10 @@ dürfen, dürfet, ſalben, ſsalbet, forſchen,&#xD;
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>17&#xD;
-46.&#xD;
-47.&#xD;
-48.&#xD;
+                <Unicode>17
+46.
+47.
+48.
 49.</Unicode>
             </TextEquiv>
         </TextRegion>
