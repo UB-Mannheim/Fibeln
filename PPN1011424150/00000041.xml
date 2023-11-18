@@ -138,7 +138,7 @@ Transkribus</Creator>
                 <Coords points="72,1314 1373,1311 1373,1250 1299,1238 850,1236 729,1276 601,1240 73,1251"/>
                 <Baseline points="80,1299 180,1299 380,1300 480,1300 680,1300 780,1300 980,1301 1080,1302 1280,1304 1365,1304"/>
                 <TextEquiv>
-                    <Unicode>spielen, verspielen; blühen, verblühen; verhungern;</Unicode>
+                    <Unicode>ſpielen, verſpielen; blühen, verblühen; verhungern;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230632324_4157" custom="readingOrder {index:18;}">
@@ -215,7 +215,7 @@ Transkribus</Creator>
                 <Coords points="87,2059 1379,2040 1378,1967 87,2001"/>
                 <Baseline points="95,2034 195,2033 395,2032 495,2032 695,2031 795,2030 995,2030 1095,2030 1295,2031 1370,2031"/>
                 <TextEquiv>
-                    <Unicode>Mutter. Auf dem Hofe ist auch ein Hahn. Er ist viel</Unicode>
+                    <Unicode>Mutter. Auf dem Hofe iſt auch ein Hahn. Er iſt viel</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230664924_4190" custom="readingOrder {index:29;}">
@@ -243,14 +243,14 @@ Transkribus</Creator>
                 <Coords points="93,2278 1337,2277 1352,2229 93,2233"/>
                 <Baseline points="100,2269 200,2269 400,2267 500,2267 700,2267 800,2266 1000,2264 1100,2264 1300,2267 1344,2267"/>
                 <TextEquiv>
-                    <Unicode>Kamm, und an jedem Fuße befindet sich ein Sporn.</Unicode>
+                    <Unicode>Kamm, und an jedem Fuße befindet ſich ein Sporn.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230683774_4202" custom="readingOrder {index:33;}">
                 <Coords points="98,2341 1365,2325 1325,2267 98,2278"/>
                 <Baseline points="106,2326 206,2325 406,2325 506,2325 706,2324 806,2323 1006,2324 1106,2324 1306,2324 1358,2324"/>
                 <TextEquiv>
-                    <Unicode>Des Morgens, noch ehe die Sonne aufgegangen ist,</Unicode>
+                    <Unicode>Des Morgens, noch ehe die Sonne aufgegangen iſt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230686425_4205" custom="readingOrder {index:34;}">
@@ -285,7 +285,7 @@ fragen, erfragen; leben, erleben; errathen;
 bieten, gebieten; horchen, gehorchen; geleiten;
 deuten, mißdeuten; brauchen, mißbrauchen; mißglücken;
 ſüß, verſüßen; dünn, verdünnen; verdichten;
-spielen, verspielen; blühen, verblühen; verhungern;
+ſpielen, verſpielen; blühen, verblühen; verhungern;
 brechen, zerbrechen; reißen, zerreißen; zerſtören.
 106.
 Auf einem Bauernhofe ſieht man viele Thiere. Da
@@ -296,12 +296,12 @@ chen oder ein Körnchen gefunden hat, ruft ſie ſogleich
 die Küchlein. Geſchwind kommen die Kleinen herbei=
 gelaufen und picken die Krümchen und Körnchen auf.
 Des Abends verkriechen ſie ſich unter die Flügel ihrer
-Mutter. Auf dem Hofe ist auch ein Hahn. Er ist viel
+Mutter. Auf dem Hofe iſt auch ein Hahn. Er iſt viel
 größer, als ein Huhn und hat auch ein ſchöneres Ge=
 fieder. In ſeinem Schwanze ſind zwei lange ſichel=
 förmige Federn. Auf dem Kopfe hat er einen fleiſchigen
-Kamm, und an jedem Fuße befindet sich ein Sporn.
-Des Morgens, noch ehe die Sonne aufgegangen ist,
+Kamm, und an jedem Fuße befindet ſich ein Sporn.
+Des Morgens, noch ehe die Sonne aufgegangen iſt
 verkündet er ſchon den Tag. Dann ruft er: Kikeriki!
 Dadurch mahnt er die Leute, daß ſie aufſtehen ſollen.</Unicode>
             </TextEquiv>

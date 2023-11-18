@@ -168,7 +168,7 @@ Transkribus</Creator>
                 <Coords points="140,2392 1366,2397 1366,2354 140,2363"/>
                 <Baseline points="148,2385 173,2385 199,2386 225,2386 251,2387 1358,2386"/>
                 <TextEquiv>
-                    <Unicode>dürfen, dürfet, ſalben, ſsalbet, forſchen,</Unicode>
+                    <Unicode>dürfen, dürfet, ſalben, ſalbet, forſchen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:21;}">
@@ -199,7 +199,7 @@ zünden, zündet, färben, färbet, morden
 gelten, geltet, duften, duftet, meldet,
 salzen, salzet, merken, merket, binden,
 ſcherzen, ſcherzet, winden, windet, wölbet,
-dürfen, dürfet, ſalben, ſsalbet, forſchen,
+dürfen, dürfet, ſalben, ſalbet, forſchen,
 ſchelten, ſcheltet, werfen, werfet, duldet.</Unicode>
             </TextEquiv>
         </TextRegion>

@@ -160,14 +160,14 @@ Transkribus</Creator>
                 <Coords points="83,1642 1341,1630 1306,1568 1135,1600 83,1565"/>
                 <Baseline points="91,1625 153,1626 215,1626 277,1626 339,1627 401,1627 463,1627 525,1627 587,1627 649,1627 712,1627 774,1627 836,1627 898,1627 960,1627 1022,1626 1084,1626 1146,1626 1208,1626 1270,1626 1333,1626"/>
                 <TextEquiv>
-                    <Unicode>Hause zurück. Jetzt ist die Sonne hoch am Himmel.</Unicode>
+                    <Unicode>Hauſe zurück. Jetzt iſt die Sonne hoch am Himmel.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:21;}">
                 <Coords points="81,1698 1345,1710 1305,1650 81,1642"/>
                 <Baseline points="89,1688 151,1690 213,1691 276,1692 338,1692 401,1693 463,1694 525,1694 588,1694 650,1694 713,1695 775,1695 837,1695 900,1694 962,1694 1025,1694 1087,1694 1149,1693 1212,1693 1274,1692 1337,1692"/>
                 <TextEquiv>
-                    <Unicode>Es ist warm; es ist wärmer, als am Morgen und am</Unicode>
+                    <Unicode>Es iſt warm; es iſt wärmer, als am Morgen und am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:22;}">
@@ -275,8 +275,8 @@ für die Ruhe der Nacht. Sie gehen an ihre Arbeit.
 Die Mutter kocht den Kaffee. Sie weckt mich, zieht
 mich an und betet mit mir. Dann gehe ich in die
 Schule und lerne fleißig. Des Mittags kehre ich nach
-Hause zurück. Jetzt ist die Sonne hoch am Himmel.
-Es ist warm; es ist wärmer, als am Morgen und am
+Hauſe zurück. Jetzt iſt die Sonne hoch am Himmel.
+Es iſt warm; es iſt wärmer, als am Morgen und am
 Abend. Am Abend geht die Sonne wieder unter; die
 Wolken färben ſich. In der Luft tanzen Mücken; die
 Vögel singen ihr letztes Lied; die Menschen kehren von

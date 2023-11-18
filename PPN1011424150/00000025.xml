@@ -335,11 +335,11 @@ Transkribus</Creator>
                 <Coords points="70,1732 1485,1749 1485,1676 1415,1655 70,1670"/>
                 <Baseline points="79,1727 279,1727 379,1726 579,1726 679,1726 879,1726 979,1726 1179,1726 1279,1726 1477,1726"/>
                 <TextEquiv>
-                    <Unicode>Schlange, Schleim, Schleier, Schleuse, Schleifer, Schleuder,</Unicode>
+                    <Unicode>Schlange, Schleim, Schleier, Schleuſe, Schleifer, Schleuder,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Schlange, Schleim, Schleier, Schleuse, Schleifer, Schleuder,</Unicode>
+                <Unicode>Schlange, Schleim, Schleier, Schleuſe, Schleifer, Schleuder,</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223694123_2420" custom="readingOrder {index:26;}">

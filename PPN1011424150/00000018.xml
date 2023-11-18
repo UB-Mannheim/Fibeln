@@ -139,7 +139,7 @@ Transkribus</Creator>
                 <Coords points="209,1444 318,1403 873,1403 986,1441 1458,1396 1447,1299 1279,1338 1157,1303 208,1311"/>
                 <Baseline points="217,1397 278,1397 340,1397 401,1396 463,1396 525,1396 586,1395 648,1395 710,1394 771,1393 833,1393 895,1392 956,1391 1018,1390 1080,1389 1141,1388 1203,1387 1265,1386 1326,1385 1388,1383 1450,1382"/>
                 <TextEquiv>
-                    <Unicode>neun, fein, lauſch, reif, ſcheu,rar.</Unicode>
+                    <Unicode>neun, fein, lauſch, reif, ſcheu, rar.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:18;}">
@@ -314,7 +314,7 @@ au, ai, ei, en.
 auf, ein, neu,
 mein, rein, faul,
 nein, lauf, feil,
-neun, fein, lauſch, reif, ſcheu,rar.
+neun, fein, lauſch, reif, ſcheu, rar.
 39. j, ſ, h, w, s, ng.
 j. ſ, h. w. s, ng.
 ſing,
