@@ -1,1 +1,0 @@
-neu=e, neu=es, neu=er, neu=en,
