@@ -201,14 +201,14 @@ Transkribus</Creator>
                 <Coords points="206,2158 1257,2152 1413,2129 1413,2077 205,2073"/>
                 <Baseline points="214,2138 273,2136 333,2135 392,2133 452,2131 512,2130 571,2129 631,2128 690,2128 750,2127 810,2126 869,2126 929,2125 988,2125 1048,2124 1108,2123 1167,2123 1227,2122 1286,2121 1346,2120 1406,2119"/>
                 <TextEquiv>
-                    <Unicode>Die Fischer fahren in einem Kahne. In der Kanne</Unicode>
+                    <Unicode>Die Fiſcher fahren in einem Kahne. In der Kanne</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l32" custom="readingOrder {index:27;}">
                 <Coords points="145,2217 1412,2193 1411,2150 1340,2133 248,2164 144,2134"/>
                 <Baseline points="153,2209 215,2207 278,2206 340,2204 403,2203 465,2201 528,2200 590,2199 653,2198 715,2197 778,2196 841,2195 903,2194 966,2193 1028,2192 1091,2192 1153,2191 1216,2190 1278,2190 1341,2190 1404,2190"/>
                 <TextEquiv>
-                    <Unicode>haben wir Bier. Die Wogen schlagen an das Ufer.</Unicode>
+                    <Unicode>haben wir Bier. Die Wogen ſchlagen an das Ufer.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l33" custom="readingOrder {index:28;}">
@@ -273,8 +273,8 @@ der Säge kann man ſägen. Mit der Sichel kann man
 riechen mit der Naſe. Wir ſchmecken mit der Zunge.
 Wir fühlen mit dem ganzen Körper.
 81.
-Die Fischer fahren in einem Kahne. In der Kanne
-haben wir Bier. Die Wogen schlagen an das Ufer.
+Die Fiſcher fahren in einem Kahne. In der Kanne
+haben wir Bier. Die Wogen ſchlagen an das Ufer.
 Ein Jahr hat viele Wochen. Der Rabe hat eine ſchwarze
 Farbe. Der Rappe zieht den Wagen. Der Herr reitet
 auf dem Roſſe. Auf dem Beete waren rothe Roſen.

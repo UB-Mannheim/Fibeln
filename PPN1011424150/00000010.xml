@@ -83,7 +83,7 @@ Transkribus</Creator>
                 <Coords points="127,1197 401,1166 527,1201 579,1163 656,1197 770,1155 1245,1196 1474,1166 1474,1081 1263,1103 1001,1055 924,1093 786,1041 666,1108 126,1090"/>
                 <Baseline points="136,1140 202,1141 269,1142 335,1142 402,1142 468,1142 535,1142 601,1141 668,1140 734,1140 801,1139 867,1138 934,1137 1000,1137 1067,1136 1133,1136 1200,1135 1266,1135 1333,1135 1399,1135 1466,1136"/>
                 <TextEquiv>
-                    <Unicode>neu=n, neu=es, neu=er, neu=en,</Unicode>
+                    <Unicode>neu=e, neu=es, neu=er, neu=en,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:8;}">

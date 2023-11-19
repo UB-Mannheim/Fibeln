@@ -55,7 +55,7 @@ Transkribus</Creator>
                 <Coords points="194,531 1446,540 1446,483 1369,475 429,506 194,467"/>
                 <Baseline points="202,523 263,523 325,524 387,525 449,525 510,526 572,526 634,527 696,527 757,527 819,527 881,528 943,528 1004,528 1066,528 1128,528 1190,528 1251,528 1313,529 1375,529 1437,529"/>
                 <TextEquiv>
-                    <Unicode>bellt laut. Kommt aber ſein Herr gegangen, ſo ist er</Unicode>
+                    <Unicode>bellt laut. Kommt aber ſein Herr gegangen, ſo iſt er</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -153,7 +153,7 @@ Transkribus</Creator>
                 <Coords points="186,1526 1441,1528 1441,1469 272,1484 186,1443"/>
                 <Baseline points="193,1518 255,1517 317,1517 379,1517 441,1517 503,1518 565,1518 627,1518 689,1519 751,1519 813,1520 875,1520 937,1521 999,1521 1061,1522 1123,1522 1185,1522 1247,1522 1309,1521 1371,1521 1433,1520"/>
                 <TextEquiv>
-                    <Unicode>Die Ceder ist ein ſchöner Baum. Cäsar war ein großer</Unicode>
+                    <Unicode>Die Ceder iſt ein ſchöner Baum. Cäsar war ein großer</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l21" custom="readingOrder {index:20;}">
@@ -230,14 +230,14 @@ Transkribus</Creator>
                 <Coords points="179,2313 1445,2320 1445,2267 1377,2254 179,2260"/>
                 <Baseline points="187,2303 249,2302 312,2301 374,2301 437,2301 499,2301 562,2301 624,2301 687,2301 749,2302 812,2302 874,2303 937,2304 999,2304 1062,2305 1124,2305 1187,2305 1249,2305 1312,2305 1374,2305 1437,2305"/>
                 <TextEquiv>
-                    <Unicode>Der Cherub ist ein Engel. Conrad ist ein Name. China</Unicode>
+                    <Unicode>Der Cherub iſt ein Engel. Conrad iſt ein Name. China</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l32" custom="readingOrder {index:31;}">
                 <Coords points="182,2370 1364,2385 1452,2376 1453,2315 182,2315"/>
                 <Baseline points="190,2361 252,2361 315,2361 378,2361 440,2362 503,2362 566,2362 628,2363 691,2363 754,2363 817,2364 879,2364 942,2365 1005,2365 1067,2365 1130,2365 1193,2366 1255,2366 1318,2366 1381,2366 1444,2365"/>
                 <TextEquiv>
-                    <Unicode>iſt ein großes Land. In der Cisterne iſt Waſſer. Quäle</Unicode>
+                    <Unicode>iſt ein großes Land. In der Ciſterne iſt Waſſer. Quäle</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l33" custom="readingOrder {index:32;}">
@@ -253,7 +253,7 @@ In einer Ecke des Hofes liegt ein Hund in einem
 Häuschen. Er iſt mit einer Kette befeſtigt. Sobald ein
 Fremder auf dem Hofe erſcheint, ſpringt er plötzlich
 aus ſeinem Häuschen, reißt gewaltig an der Kette und
-bellt laut. Kommt aber ſein Herr gegangen, ſo ist er
+bellt laut. Kommt aber ſein Herr gegangen, ſo iſt er
 voller Freude. Er wedelt mit dem Schweife und ſpringt
 an ihm hinan. Wenn es Abend geworden iſt, bindet
 man ihn los. Er bewacht in der Nacht das Haus.
@@ -267,7 +267,7 @@ Kind, laß dich nicht von ihm beſchämen!
 107. c, C.
 c, C = z.
 Die Ceder, ein Centner, Cäsar, der Cirkel, Cedron.
-Die Ceder ist ein ſchöner Baum. Cäsar war ein großer
+Die Ceder iſt ein ſchöner Baum. Cäsar war ein großer
 Feldherr. Der Centner hat hundert Pfund. Wofür braucht
 man den Cirkel?
 c, C= k.
@@ -278,8 +278,8 @@ Im Concerte wird geſungen. Die Cigarren werden
 geraucht.
 ch, Ch= j.
 Der Cherub, China, der Chineſe, Conrad, der Vocal.
-Der Cherub ist ein Engel. Conrad ist ein Name. China
-iſt ein großes Land. In der Cisterne iſt Waſſer. Quäle
+Der Cherub iſt ein Engel. Conrad iſt ein Name. China
+iſt ein großes Land. In der Ciſterne iſt Waſſer. Quäle
 die Thiere nicht!</Unicode>
             </TextEquiv>
         </TextRegion>

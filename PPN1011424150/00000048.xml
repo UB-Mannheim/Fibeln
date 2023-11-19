@@ -83,7 +83,7 @@ Transkribus</Creator>
                 <Coords points="163,791 1426,811 1405,740 751,774 163,747"/>
                 <Baseline points="170,790 232,791 294,791 357,792 419,792 482,792 544,793 606,793 669,793 731,793 794,793 856,793 918,793 981,793 1043,793 1106,793 1168,792 1230,792 1293,792 1355,792 1418,793"/>
                 <TextEquiv>
-                    <Unicode>Die Saatſschießt empor. Die Zugvögel kehren zurück</Unicode>
+                    <Unicode>Die Saat ſchießt empor. Die Zugvögel kehren zurück</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:10;}">
@@ -139,7 +139,7 @@ Transkribus</Creator>
                 <Coords points="161,1302 1369,1319 1408,1258 161,1263"/>
                 <Baseline points="169,1296 230,1295 292,1295 353,1295 415,1295 476,1294 538,1294 599,1294 661,1294 722,1294 784,1294 846,1294 907,1294 969,1294 1030,1295 1092,1295 1153,1296 1215,1296 1276,1297 1338,1298 1400,1299"/>
                 <TextEquiv>
-                    <Unicode>werden reif. Es reifen die Kirschen. Es blühet der Wein=</Unicode>
+                    <Unicode>werden reif. Es reifen die Kirſchen. Es blühet der Wein=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:18;}">
@@ -153,14 +153,14 @@ Transkribus</Creator>
                 <Coords points="150,1419 1403,1438 1413,1385 150,1367"/>
                 <Baseline points="158,1411 220,1412 282,1412 344,1412 407,1412 469,1412 531,1411 594,1411 656,1411 718,1410 781,1410 843,1410 905,1410 967,1410 1030,1410 1092,1411 1154,1412 1217,1413 1279,1414 1341,1416 1404,1418"/>
                 <TextEquiv>
-                    <Unicode>Heu wird eingefahren. Das Getreide ist nicht mehr grün,</Unicode>
+                    <Unicode>Heu wird eingefahren. Das Getreide iſt nicht mehr grün,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l21" custom="readingOrder {index:20;}">
                 <Coords points="149,1500 1366,1491 1413,1439 149,1440"/>
                 <Baseline points="157,1473 219,1472 281,1472 344,1472 406,1471 469,1471 531,1471 594,1470 656,1470 719,1470 781,1470 843,1470 906,1470 968,1470 1031,1470 1093,1471 1156,1471 1218,1472 1281,1472 1343,1473 1406,1474"/>
                 <TextEquiv>
-                    <Unicode>sondern gelb. Die Aehren sind schwer. Es nahet die</Unicode>
+                    <Unicode>sondern gelb. Die Aehren sind ſchwer. Es nahet die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:21;}">
@@ -174,35 +174,35 @@ Transkribus</Creator>
                 <Coords points="151,1595 1413,1606 1413,1548 1333,1538 151,1533"/>
                 <Baseline points="159,1588 221,1588 283,1588 345,1588 408,1587 470,1587 532,1587 595,1587 657,1587 719,1586 782,1586 844,1586 906,1586 968,1586 1031,1586 1093,1587 1155,1587 1218,1588 1280,1588 1342,1589 1405,1590"/>
                 <TextEquiv>
-                    <Unicode>ist brennend und drückend. Die Schnitter schwitzen auf</Unicode>
+                    <Unicode>iſt brennend und drückend. Die Schnitter ſchwitzen auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l24" custom="readingOrder {index:23;}">
                 <Coords points="156,1659 1421,1653 1421,1607 1293,1596 156,1596"/>
                 <Baseline points="164,1647 226,1646 288,1646 351,1646 413,1646 476,1646 538,1645 601,1645 663,1645 726,1645 788,1645 850,1645 913,1645 975,1645 1038,1645 1100,1646 1163,1646 1225,1647 1288,1647 1350,1648 1413,1649"/>
                 <TextEquiv>
-                    <Unicode>dem Felde. Der Schatten ist kühl und labend. Alles hofft</Unicode>
+                    <Unicode>dem Felde. Der Schatten iſt kühl und labend. Alles hofft</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l25" custom="readingOrder {index:24;}">
                 <Coords points="149,1724 1418,1726 1418,1678 1335,1654 149,1675"/>
                 <Baseline points="158,1705 220,1706 283,1706 345,1706 408,1705 471,1705 533,1705 596,1705 658,1705 721,1704 784,1704 846,1704 909,1704 971,1704 1034,1704 1097,1705 1159,1705 1222,1706 1284,1707 1347,1708 1410,1709"/>
                 <TextEquiv>
-                    <Unicode>auf erquickenden Regen. Gott sorgt für die Menschen;</Unicode>
+                    <Unicode>auf erquickenden Regen. Gott sorgt für die Menſchen;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:25;}">
                 <Coords points="150,1766 752,1768 828,1803 930,1763 1307,1774 1307,1719 150,1730"/>
                 <Baseline points="158,1767 215,1766 272,1765 329,1764 386,1764 443,1764 500,1763 557,1763 614,1763 671,1762 728,1762 785,1762 842,1762 899,1763 956,1763 1013,1763 1070,1763 1127,1764 1184,1764 1241,1764 1299,1765"/>
                 <TextEquiv>
-                    <Unicode>er sendet Sonnenschein und Regen zur rechten Zeit.</Unicode>
+                    <Unicode>er sendet Sonnenſchein und Regen zur rechten Zeit.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:26;}">
                 <Coords points="494,1902 546,1912 628,1888 746,1909 776,1893 1054,1922 1054,1826 798,1843 697,1819 653,1855 614,1829 494,1822"/>
                 <Baseline points="503,1881 530,1882 557,1882 584,1882 611,1882 639,1883 666,1883 693,1883 720,1883 747,1883 775,1883 802,1883 829,1883 856,1883 883,1883 911,1883 938,1883 965,1883 992,1883 1019,1883 1047,1883"/>
                 <TextEquiv>
-                    <Unicode>120. Der Herbst.</Unicode>
+                    <Unicode>120. Der Herbſt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l28" custom="readingOrder {index:27;}">
@@ -244,7 +244,7 @@ Transkribus</Creator>
                 <Coords points="151,2263 1288,2272 1311,2206 151,2215"/>
                 <Baseline points="158,2251 215,2251 272,2251 329,2251 387,2251 444,2251 501,2251 559,2251 616,2251 673,2251 731,2252 788,2252 845,2252 902,2252 960,2253 1017,2253 1074,2253 1132,2254 1189,2254 1246,2255 1304,2255"/>
                 <TextEquiv>
-                    <Unicode>Speicher werden angefüllt. Gott ist ſehr gütig.</Unicode>
+                    <Unicode>Speicher werden angefüllt. Gott iſt ſehr gütig.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l34" custom="readingOrder {index:33;}">
@@ -278,7 +278,7 @@ Bald ſcheint die Sonne wärmer. Der Landmann zieht
 fröhlich zum Acker. Das Feld wird gepflügt, der Garten
 wird umgegraben. Die Winzer beſchneiden den Wein=
 ſtock. Nun grünet der Buſch. Es grünet der Garten.
-Die Saatſschießt empor. Die Zugvögel kehren zurück
+Die Saat ſchießt empor. Die Zugvögel kehren zurück
 und bauen ſich Neſter. Der Geſang der Nachtigallen
 belebt das Gebüſch. Das Veilchen duftet. Das Mai=
 glöckchen blühet. Viele Blumen zieren Wieſen und
@@ -286,22 +286,22 @@ Garten.
 119. Der Sommer.
 Im Sommer sind die Tage lang, die Nächte kurz. Die
 Sonne wird heisser. Die Erdbeeren und Johannisbeeren
-werden reif. Es reifen die Kirschen. Es blühet der Wein=
+werden reif. Es reifen die Kirſchen. Es blühet der Wein=
 stock. Das Gras auf der Wiese wird abgemähet. Das
-Heu wird eingefahren. Das Getreide ist nicht mehr grün,
-sondern gelb. Die Aehren sind schwer. Es nahet die
+Heu wird eingefahren. Das Getreide iſt nicht mehr grün,
+sondern gelb. Die Aehren sind ſchwer. Es nahet die
 Aernte. Roggen und Weizen werden gemäht. Die Hitze
-ist brennend und drückend. Die Schnitter schwitzen auf
-dem Felde. Der Schatten ist kühl und labend. Alles hofft
-auf erquickenden Regen. Gott sorgt für die Menschen;
-er sendet Sonnenschein und Regen zur rechten Zeit.
-120. Der Herbst.
+iſt brennend und drückend. Die Schnitter ſchwitzen auf
+dem Felde. Der Schatten iſt kühl und labend. Alles hofft
+auf erquickenden Regen. Gott sorgt für die Menſchen;
+er sendet Sonnenſchein und Regen zur rechten Zeit.
+120. Der Herbſt.
 Im Herbſte nehmen die Tage ab. Die Hitze läßt
 nach. Aepfel, Birnen und Nüſſe werden reif. Auch die
 Weintrauben kommen zur Reife. Die Weinleſe wird
 gehalten. Die Kartoffeln werden ausgegraben. Man
 verſieht ſich mit Vorrath für den Winter. Keller und
-Speicher werden angefüllt. Gott ist ſehr gütig.
+Speicher werden angefüllt. Gott iſt ſehr gütig.
 Nun werden die Blätter gelb und fallen ab. Die Zug=
 vögel ziehen in wärmere Länder. Kalter Nebel erfüllt
 am Morgen die Luft.</Unicode>

@@ -27,14 +27,14 @@ Transkribus</Creator>
                 <Coords points="116,335 1350,340 1350,257 116,250"/>
                 <Baseline points="124,312 184,313 245,314 306,314 367,314 428,315 489,315 550,315 611,314 672,314 733,314 793,314 854,314 915,313 976,313 1037,313 1098,314 1159,314 1220,315 1281,315 1342,316"/>
                 <TextEquiv>
-                    <Unicode>Druck, Draht, Drache, Drescher; drei, drechſeln, drücken,</Unicode>
+                    <Unicode>Druck, Draht, Drache, Dreſcher; drei, drechſeln, drücken,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:2;}">
                 <Coords points="74,413 1341,401 1341,334 74,333"/>
                 <Baseline points="83,381 145,383 208,383 270,384 333,385 395,385 458,386 520,386 583,386 645,386 708,386 771,386 833,386 896,386 958,386 1021,386 1083,385 1146,385 1208,385 1271,385 1334,385"/>
                 <TextEquiv>
-                    <Unicode>drängen; Trost, Thran, Trank, Thräne, Traube, Träger,</Unicode>
+                    <Unicode>drängen; Troſt, Thran, Trank, Thräne, Traube, Träger,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:3;}">
@@ -188,7 +188,7 @@ Transkribus</Creator>
                 <Coords points="69,1898 705,1911 762,1874 993,1927 1358,1891 1320,1834 69,1830"/>
                 <Baseline points="77,1890 140,1892 204,1893 268,1894 331,1895 395,1896 459,1896 522,1897 586,1897 650,1897 714,1897 777,1897 841,1896 905,1896 968,1895 1032,1895 1096,1894 1159,1894 1223,1893 1287,1892 1351,1892"/>
                 <TextEquiv>
-                    <Unicode>Vögel singen ihr letztes Lied; die Menschen kehren von</Unicode>
+                    <Unicode>Vögel ſingen ihr letztes Lied; die Menſchen kehren von</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:25;}">
@@ -256,8 +256,8 @@ Transkribus</Creator>
             </TextLine>
             <TextEquiv>
                 <Unicode>31
-Druck, Draht, Drache, Drescher; drei, drechſeln, drücken,
-drängen; Trost, Thran, Trank, Thräne, Traube, Träger,
+Druck, Draht, Drache, Dreſcher; drei, drechſeln, drücken,
+drängen; Troſt, Thran, Trank, Thräne, Traube, Träger,
 Treiber, Trichter; treu, träge, trübe, treten, trinken,
 tröſten, tränken, trauen, triefen; Gnade; Knopf, Knecht,
 Knabe, Knappe, Knochen; Knospe; knapp, knack; knüpfen,
@@ -279,7 +279,7 @@ Hauſe zurück. Jetzt iſt die Sonne hoch am Himmel.
 Es iſt warm; es iſt wärmer, als am Morgen und am
 Abend. Am Abend geht die Sonne wieder unter; die
 Wolken färben ſich. In der Luft tanzen Mücken; die
-Vögel singen ihr letztes Lied; die Menschen kehren von
+Vögel ſingen ihr letztes Lied; die Menſchen kehren von
 der Arbeit zurück. Sie ſind müde. Sie beten zu Gott
 und legen ſich zur Ruhe.
 92.

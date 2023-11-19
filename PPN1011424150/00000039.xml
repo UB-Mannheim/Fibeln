@@ -48,7 +48,7 @@ Transkribus</Creator>
                 <Coords points="96,500 1360,480 1316,412 1170,446 1111,412 95,437"/>
                 <Baseline points="104,486 166,484 228,483 291,481 353,480 415,479 478,478 540,477 602,477 665,476 727,475 789,474 852,473 914,472 976,471 1039,470 1101,469 1163,467 1226,466 1288,464 1351,462"/>
                 <TextEquiv>
-                    <Unicode>Kinnbacken, Ohrmuschel, Augapfel, Fußſohle, Raub=</Unicode>
+                    <Unicode>Kinnbacken, Ohrmuſchel, Augapfel, Fußſohle, Raub=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
@@ -83,7 +83,7 @@ Transkribus</Creator>
                 <Coords points="99,794 1361,767 1360,712 1287,706 99,750"/>
                 <Baseline points="107,782 169,780 231,778 293,777 356,775 418,773 480,772 543,771 605,770 667,769 730,768 792,767 854,766 916,765 979,765 1041,764 1103,763 1166,762 1228,762 1290,761 1353,760"/>
                 <TextEquiv>
-                    <Unicode>glas, Wallfischfang, Schauſpielhaus; Handſchuhmacher,</Unicode>
+                    <Unicode>glas, Wallfiſchfang, Schauſpielhaus; Handſchuhmacher,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:10;}">
@@ -153,7 +153,7 @@ Transkribus</Creator>
                 <Coords points="121,1409 1105,1398 1310,1383 1370,1365 1370,1322 120,1336"/>
                 <Baseline points="129,1389 190,1388 252,1387 313,1386 375,1385 437,1384 498,1383 560,1382 622,1381 683,1380 745,1379 807,1377 868,1376 930,1375 992,1373 1053,1372 1115,1371 1177,1369 1238,1368 1300,1367 1362,1366"/>
                 <TextEquiv>
-                    <Unicode>herkommen, zuschlagen, wegſpringen, durchſtoßen, ein=</Unicode>
+                    <Unicode>herkommen, zuſchlagen, wegſpringen, durchſtoßen, ein=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:20;}">
@@ -202,7 +202,7 @@ Transkribus</Creator>
                 <Coords points="178,1828 1311,1820 1387,1811 1387,1766 177,1770"/>
                 <Baseline points="186,1819 245,1819 305,1818 364,1817 424,1817 484,1816 543,1815 603,1814 663,1813 722,1812 782,1811 842,1810 901,1808 961,1807 1021,1806 1080,1805 1140,1804 1200,1802 1259,1801 1319,1800 1379,1799"/>
                 <TextEquiv>
-                    <Unicode>An unſerem Hauſe ist ein Garten. Darin ſtehen</Unicode>
+                    <Unicode>An unſerem Hauſe iſt ein Garten. Darin ſtehen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:27;}">
@@ -251,7 +251,7 @@ Transkribus</Creator>
                 <Coords points="133,2238 1385,2229 1366,2154 132,2184"/>
                 <Baseline points="141,2229 202,2228 264,2228 326,2227 388,2227 450,2226 511,2225 573,2224 635,2223 697,2222 759,2220 820,2219 882,2218 944,2217 1006,2215 1068,2214 1129,2213 1191,2211 1253,2210 1315,2209 1377,2207"/>
                 <TextEquiv>
-                    <Unicode>im Garten. Da steht der Johannis= und der Stachel=</Unicode>
+                    <Unicode>im Garten. Da ſteht der Johannis= und der Stachel=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l37" custom="readingOrder {index:34;}">
@@ -272,14 +272,14 @@ Transkribus</Creator>
                 <Coords points="137,2413 1401,2409 1366,2336 137,2365"/>
                 <Baseline points="145,2407 207,2406 269,2404 332,2403 394,2402 457,2401 519,2400 581,2399 644,2398 706,2397 769,2396 831,2395 893,2394 956,2393 1018,2392 1081,2390 1143,2389 1205,2388 1268,2386 1330,2385 1393,2383"/>
                 <TextEquiv>
-                    <Unicode>Stachelbeeren. An der Mauer wächst der Weinſtock und</Unicode>
+                    <Unicode>Stachelbeeren. An der Mauer wächſt der Weinſtock und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l40" custom="readingOrder {index:37;}">
                 <Coords points="140,2496 308,2465 474,2492 608,2464 914,2478 899,2406 139,2413"/>
                 <Baseline points="148,2467 185,2466 223,2465 261,2465 299,2464 337,2464 375,2463 412,2463 450,2462 488,2461 526,2461 564,2460 602,2460 640,2459 677,2458 715,2457 753,2457 791,2456 829,2455 867,2454 905,2452"/>
                 <TextEquiv>
-                    <Unicode>in der Ecke steht eine Haſelſtaude.</Unicode>
+                    <Unicode>in der Ecke ſteht eine Haſelſtaude.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -287,12 +287,12 @@ Transkribus</Creator>
 kohl, Hülſenfrucht, Mitternacht, Morgenſtern, Sonnen=
 ſchein, Glockenklang, Hörnerſchall. — Buchbinder, Dach=
 decker, Hutmacher, Poſtbote, Rothgerber, Großvater,
-Kinnbacken, Ohrmuschel, Augapfel, Fußſohle, Raub=
+Kinnbacken, Ohrmuſchel, Augapfel, Fußſohle, Raub=
 vogel, Maiblume; Blumengarten, Schlüſſelblume, Knaben=
 ſchule, Kleiderbürſte, Kaffeemühle, Federmeſſer, Abend=
 ſonne. — Maulbeerbaum, Landwehrmann, Obſtbaum=
 zucht, Handwerksmann, Sonntagskleid, Branntwein=
-glas, Wallfischfang, Schauſpielhaus; Handſchuhmacher,
+glas, Wallfiſchfang, Schauſpielhaus; Handſchuhmacher,
 Schreinerhandwerk, Schloſſerwerkzeug.
 101.
 grasgrün, ſchneeweiß, hellblau, roſenroth, ſchwefel=
@@ -302,25 +302,25 @@ viereckig, kugelrund; haushoch; ſteinhart, eiſenfeſt, baum=
 ſtark; blitzſchnell; kummervoll, muthlos; ſchlaflos, muth=
 voll, lieblos, athemlos, liebevoll, liebreich, zuckerſüß.
 ausgehen, nachlaufen, anſehen, abtreten, hinwerfen,
-herkommen, zuschlagen, wegſpringen, durchſtoßen, ein=
+herkommen, zuſchlagen, wegſpringen, durchſtoßen, ein=
 machen, umfallen, losdrücken, heimfliegen, darreichen,
 aufſtehen, niederſetzen, voranſchreiten, untertauchen,
 niederdrücken, übertragen, wiederbringen, herumlaufen,
 hinterbringen, überſenden, wiederholen, unterhalten,
 überreichen, zurückweichen, einnehmen, ausgeben.
 102.
-An unſerem Hauſe ist ein Garten. Darin ſtehen
+An unſerem Hauſe iſt ein Garten. Darin ſtehen
 allerlei Bäume. Es ſind meiſtens Obſtbäume. Wer kann
 mir Obſtbäume angeben? — Auf dem Kirſchbaume
 wachſen Kirſchen. Der Apfelbaum trägt Aepfel. Der
 Pflaumenbaum ſchenkt uns Pflaumen. — Manche Früchte
 ißt man gleich. Andere trocknet man und ſpeiſt ſie in
 den kalten Wintertagen. — Man findet auch Sträucher
-im Garten. Da steht der Johannis= und der Stachel=
+im Garten. Da ſteht der Johannis= und der Stachel=
 beerſtrauch. An dem Johannisbeerſtrauche hangen
 Johannisbeeren; an dem Stachelbeerſtrauche findet man
-Stachelbeeren. An der Mauer wächst der Weinſtock und
-in der Ecke steht eine Haſelſtaude.</Unicode>
+Stachelbeeren. An der Mauer wächſt der Weinſtock und
+in der Ecke ſteht eine Haſelſtaude.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

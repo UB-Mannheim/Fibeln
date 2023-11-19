@@ -41,7 +41,7 @@ Transkribus</Creator>
                 <Coords points="426,443 490,469 632,432 691,459 1363,445 1362,392 1309,377 425,398"/>
                 <Baseline points="433,445 479,444 525,443 571,442 617,441 663,440 709,439 755,439 801,438 847,437 894,437 940,436 986,435 1032,435 1078,434 1124,433 1170,433 1216,432 1262,431 1308,430 1355,429"/>
                 <TextEquiv>
-                    <Unicode>oft im Chor einen Choral. Christine</Unicode>
+                    <Unicode>oft im Chor einen Choral. Chriſtine</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
@@ -62,7 +62,7 @@ Transkribus</Creator>
                 <Coords points="108,585 451,570 556,595 695,555 779,587 807,582 806,512 765,498 672,534 619,506 107,524"/>
                 <Baseline points="115,565 149,565 183,565 217,565 251,565 286,564 320,564 354,564 388,563 422,563 457,562 491,562 525,562 559,561 593,560 628,560 662,559 696,559 730,558 764,557 799,557"/>
                 <TextEquiv>
-                    <Unicode>Christus und folgen ihm nach.</Unicode>
+                    <Unicode>Chriſtus und folgen ihm nach.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:7;}">
@@ -97,7 +97,7 @@ Transkribus</Creator>
                 <Coords points="121,900 1369,894 1368,841 1313,828 120,848"/>
                 <Baseline points="128,894 189,893 251,892 312,891 374,890 436,889 497,888 559,887 621,887 682,886 744,886 806,885 867,885 929,884 991,884 1052,883 1114,883 1176,882 1237,881 1299,880 1361,879"/>
                 <TextEquiv>
-                    <Unicode>Ein Choral besteht aus mehren Strophen. Das Alphabet</Unicode>
+                    <Unicode>Ein Choral beſteht aus mehren Strophen. Das Alphabet</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
@@ -125,7 +125,7 @@ Transkribus</Creator>
                 <Coords points="121,1168 1378,1144 1321,1085 120,1099"/>
                 <Baseline points="128,1156 190,1155 252,1153 314,1151 376,1150 438,1149 500,1148 562,1147 624,1146 686,1145 749,1144 811,1143 873,1143 935,1142 997,1141 1059,1140 1121,1140 1183,1139 1245,1138 1307,1137 1370,1136"/>
                 <TextEquiv>
-                    <Unicode>Pontius, eine Lection, die Auction. Die Deutschen bil=</Unicode>
+                    <Unicode>Pontius, eine Lection, die Auction. Die Deutſchen bil=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -139,7 +139,7 @@ Transkribus</Creator>
                 <Coords points="114,1284 1365,1292 1375,1202 113,1220"/>
                 <Baseline points="122,1274 184,1272 246,1271 308,1270 371,1269 433,1268 495,1267 558,1266 620,1265 682,1265 745,1264 807,1264 869,1263 931,1262 994,1262 1056,1261 1118,1261 1181,1260 1243,1259 1305,1259 1368,1258"/>
                 <TextEquiv>
-                    <Unicode>An der Eiſenbahn ſind Stationen; hier halten die Züge still.</Unicode>
+                    <Unicode>An der Eiſenbahn ſind Stationen; hier halten die Züge ſtill.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:18;}">
@@ -181,7 +181,7 @@ Transkribus</Creator>
                 <Coords points="128,1853 1389,1843 1387,1761 1338,1756 1115,1793 1007,1761 127,1789"/>
                 <Baseline points="136,1837 198,1836 260,1834 322,1833 384,1831 447,1830 509,1828 571,1827 633,1825 695,1824 758,1822 820,1821 882,1819 944,1818 1006,1816 1069,1815 1131,1813 1193,1812 1255,1811 1317,1810 1380,1809"/>
                 <TextEquiv>
-                    <Unicode>man Garn. Man muß die Taxe bezahlen. Lanten ist</Unicode>
+                    <Unicode>man Garn. Man muß die Taxe bezahlen. Lanten iſt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l26" custom="readingOrder {index:24;}">
@@ -216,14 +216,14 @@ Transkribus</Creator>
                 <Coords points="140,2344 1391,2325 1390,2275 1229,2258 1105,2292 139,2278"/>
                 <Baseline points="148,2341 209,2340 271,2338 333,2337 395,2336 456,2335 518,2334 580,2333 642,2332 703,2331 765,2330 827,2328 889,2327 950,2326 1012,2324 1074,2322 1136,2321 1197,2319 1259,2317 1321,2315 1383,2312"/>
                 <TextEquiv>
-                    <Unicode>Carl, Christoph. Der Syrup ist süß. Die Yssel ist ein</Unicode>
+                    <Unicode>Carl, Chriſtoph. Der Syrup iſt ſüß. Die Yſſel iſt ein</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l31" custom="readingOrder {index:29;}">
                 <Coords points="141,2410 915,2381 995,2417 1409,2386 1408,2339 139,2344"/>
                 <Baseline points="148,2399 210,2398 273,2398 335,2397 398,2396 461,2395 523,2394 586,2393 649,2392 711,2391 774,2389 837,2388 899,2387 962,2385 1025,2383 1087,2382 1150,2380 1213,2378 1275,2376 1338,2375 1401,2372"/>
                 <TextEquiv>
-                    <Unicode>Fluß. Ypſilon ist ein Buchſtabe. Cypern und Ceylon</Unicode>
+                    <Unicode>Fluß. Ypſilon iſt ein Buchſtabe. Cypern und Ceylon</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l32" custom="readingOrder {index:30;}">
@@ -237,33 +237,33 @@ Transkribus</Creator>
                 <Unicode>39
 ch. Ch= k.
 Der Chor, ein Choral, die Chriſten, Chriſtus. Die
-oft im Chor einen Choral. Christine
+oft im Chor einen Choral. Chriſtine
 Kinder ſingen
 und Chriſtian ſind Namen. Die Chriſten glauben an
-Christus und folgen ihm nach.
+Chriſtus und folgen ihm nach.
 108. ph, Ph= f.
 Der Epheu, ein Sopha, die Strophe, der Triumph.
 Joſeph, Adolph, Philipp, Rudolph, Stephan und Sophie
 ſind Namen. Der Epheu bleibt das ganze Jahr grün.
-Ein Choral besteht aus mehren Strophen. Das Alphabet
+Ein Choral beſteht aus mehren Strophen. Das Alphabet
 hat viele Buchſtaben.
 ti = zi.
 Die Nation, eine Portion, der Patient, eine Station,
-Pontius, eine Lection, die Auction. Die Deutschen bil=
+Pontius, eine Lection, die Auction. Die Deutſchen bil=
 den eine Nation. Den Kranken nennt man auch Patient.
-An der Eiſenbahn ſind Stationen; hier halten die Züge still.
+An der Eiſenbahn ſind Stationen; hier halten die Züge ſtill.
 y, X.
 x. X = ks.
 Eine Axt, die Achſel, die Taxe, die Hexe, Xaverius,
 Xanten, die Eidechſe, Taxus. Der Holzhauer braucht
 die Axt. Der Taxus iſt ein Baum. Aus Flachs ſpinnt
-man Garn. Man muß die Taxe bezahlen. Lanten ist
+man Garn. Man muß die Taxe bezahlen. Lanten iſt
 eine Stadt. Max, Felix und Xaver ſind Namen.
 y, Y.
 y, Y = i.
 Der Syrup, ein Tyrann, Tyrol, die Yſſel; Cyrus,
-Carl, Christoph. Der Syrup ist süß. Die Yssel ist ein
-Fluß. Ypſilon ist ein Buchſtabe. Cypern und Ceylon
+Carl, Chriſtoph. Der Syrup iſt ſüß. Die Yſſel iſt ein
+Fluß. Ypſilon iſt ein Buchſtabe. Cypern und Ceylon
 ſind Inſeln.</Unicode>
             </TextEquiv>
         </TextRegion>

@@ -48,14 +48,14 @@ Transkribus</Creator>
                 <Coords points="164,554 1432,550 1432,460 163,474"/>
                 <Baseline points="171,529 233,529 296,528 358,528 421,527 484,527 546,527 609,527 672,527 734,527 797,526 860,526 922,526 985,526 1048,525 1110,525 1173,524 1236,524 1298,523 1361,522 1424,521"/>
                 <TextEquiv>
-                    <Unicode>Häupter; foppt, tappt, nippt, schleppt, schleppte, schlepptet,</Unicode>
+                    <Unicode>Häupter; foppt, tappt, nippt, ſchleppt, ſchleppte, ſchlepptet,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
                 <Coords points="170,617 214,616 252,627 269,619 287,630 320,630 340,620 360,632 370,621 411,614 411,572 330,536 308,552 291,541 266,551 169,551"/>
                 <Baseline points="178,602 203,601 228,601 253,601 278,601 303,601 328,601 353,600 378,600 404,598"/>
                 <TextEquiv>
-                    <Unicode>schleppteſt.</Unicode>
+                    <Unicode>ſchleppteſt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -181,7 +181,7 @@ Transkribus</Creator>
                 <Coords points="167,1965 1424,1964 1432,1880 166,1900"/>
                 <Baseline points="174,1951 236,1950 299,1949 361,1948 424,1947 486,1946 549,1945 611,1944 674,1943 736,1942 799,1942 862,1941 924,1940 987,1939 1049,1938 1112,1938 1174,1937 1237,1936 1299,1936 1362,1935 1425,1934"/>
                 <TextEquiv>
-                    <Unicode>gleich; glühen, glitſchen; Klotz, Klee, Klammer, Kloster;</Unicode>
+                    <Unicode>gleich; glühen, glitſchen; Klotz, Klee, Klammer, Kloſter;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l25" custom="readingOrder {index:24;}">
@@ -238,8 +238,8 @@ Transkribus</Creator>
 labt, tobt, lobt, webt, gibt, raubt, hebt, ſchreibt,
 ſchnaubt, ſchwebt, ſchwebte, ſchwebtet, ſchwebteſt, lebt,
 lebte, lebtet, lebteſt, liebt, liebte, liebtet, liebteſt; Haupt,
-Häupter; foppt, tappt, nippt, schleppt, schleppte, schlepptet,
-schleppteſt.
+Häupter; foppt, tappt, nippt, ſchleppt, ſchleppte, ſchlepptet,
+ſchleppteſt.
 89.
 Der Schäfer hütet die Schafe. An der Seite hat er
 eine Taſche von Leder. Darin iſt eine Flaſche mit
@@ -257,7 +257,7 @@ Blatt, Blech, Blick, Blitz, Blume, Blaſe; blond, bleich,
 blaß, blind, blöde; blitzen, bleichen, blaſen, bleiben;
 Plan, Platz, Planke; platt, plump; plandern, plätſchern,
 plätten; Glanz, Glied, Glück, Glaube, Glocke; glatt,
-gleich; glühen, glitſchen; Klotz, Klee, Klammer, Kloster;
+gleich; glühen, glitſchen; Klotz, Klee, Klammer, Kloſter;
 klein, klug; klettern, klingeln.
 Brod, Brett, Brief, Braten, Brücke; braun, breit,
 brav; brechen, brüllen, brauſen; Pracht, Prinz, Preis,

@@ -209,35 +209,35 @@ Transkribus</Creator>
                 <Coords points="141,2207 1195,2215 1354,2205 1355,2143 142,2129"/>
                 <Baseline points="149,2183 208,2184 268,2184 328,2185 388,2185 448,2185 508,2186 567,2186 627,2187 687,2187 747,2188 807,2188 867,2188 927,2189 986,2189 1046,2189 1106,2190 1166,2190 1226,2190 1286,2190 1346,2190"/>
                 <TextEquiv>
-                    <Unicode>Lust, Frost, Rast, Gast, Gäste, Nest, Nester, Küster,</Unicode>
+                    <Unicode>Luſt, Froſt, Raſt, Gaſt, Gäſte, Neſt, Neſter, Küſter,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:28;}">
                 <Coords points="97,2276 1343,2280 1366,2211 98,2207"/>
                 <Baseline points="106,2251 168,2252 231,2252 293,2253 356,2254 419,2254 481,2255 544,2256 606,2256 669,2257 732,2257 794,2258 857,2258 919,2259 982,2259 1045,2259 1107,2260 1170,2260 1232,2260 1295,2261 1358,2261"/>
                 <TextEquiv>
-                    <Unicode>Meister, Schwester; faſt, wüſt, feſt; roſten, huſten, koſten,</Unicode>
+                    <Unicode>Meiſter, Schweſter; faſt, wüſt, feſt; roſten, huſten, koſten,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l32" custom="readingOrder {index:29;}">
                 <Coords points="278,2345 1191,2357 1192,2290 278,2275"/>
                 <Baseline points="100,2326 332,2323 379,2323 426,2324 474,2324 521,2325 568,2326 616,2326 663,2327 710,2327 758,2328 805,2329 852,2329 900,2330 947,2330 994,2331 1042,2331 1089,2331 1136,2331 1358,2337"/>
                 <TextEquiv>
-                    <Unicode>faſten, faſtest, beteſt, nützeſt, schließeſt, flieheſt, ſiedesſt</Unicode>
+                    <Unicode>faſten, faſteſt, beteſt, nützeſt, ſchließeſt, flieheſt, ſiedesſt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l35" custom="readingOrder {index:30;}">
                 <Coords points="284,2417 1368,2418 1368,2349 1297,2335 1224,2363 285,2347"/>
                 <Baseline points="103,2396 346,2395 399,2396 453,2396 506,2397 559,2397 613,2398 666,2398 719,2398 773,2399 826,2399 879,2399 933,2400 986,2400 1039,2401 1093,2401 1146,2401 1199,2402 1253,2402 1306,2402 1360,2403"/>
                 <TextEquiv>
-                    <Unicode>fliegeſt, schwitzeſt, schwärzeſt, haſſeſt; ißt, mißt, reißt,</Unicode>
+                    <Unicode>fliegeſt, ſchwitzeſt, ſchwärzeſt, haſſeſt; ißt, mißt, reißt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l36" custom="readingOrder {index:31;}">
                 <Coords points="98,2466 207,2510 252,2477 471,2501 563,2475 823,2477 823,2420 733,2406 614,2432 434,2402 382,2427 99,2408"/>
                 <Baseline points="107,2460 142,2461 177,2462 213,2463 248,2464 283,2465 319,2466 354,2466 389,2466 425,2467 460,2467 495,2467 531,2467 566,2467 601,2467 637,2467 672,2467 707,2467 743,2467 778,2467 814,2467"/>
                 <TextEquiv>
-                    <Unicode>läßt, faßt, weißt, haßt, schließt.</Unicode>
+                    <Unicode>läßt, faßt, weißt, haßt, ſchließt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -268,11 +268,11 @@ Wir gehen auch jeden Morgen in die Kirche. Da
 beten wir zu Gott. Wir danken ihm für den neuen
 Tag. Wir bitten ihn um ſeinen Segen.
 84.
-Lust, Frost, Rast, Gast, Gäste, Nest, Nester, Küster,
-Meister, Schwester; faſt, wüſt, feſt; roſten, huſten, koſten,
-faſten, faſtest, beteſt, nützeſt, schließeſt, flieheſt, ſiedesſt
-fliegeſt, schwitzeſt, schwärzeſt, haſſeſt; ißt, mißt, reißt,
-läßt, faßt, weißt, haßt, schließt.</Unicode>
+Luſt, Froſt, Raſt, Gaſt, Gäſte, Neſt, Neſter, Küſter,
+Meiſter, Schweſter; faſt, wüſt, feſt; roſten, huſten, koſten,
+faſten, faſteſt, beteſt, nützeſt, ſchließeſt, flieheſt, ſiedesſt
+fliegeſt, ſchwitzeſt, ſchwärzeſt, haſſeſt; ißt, mißt, reißt,
+läßt, faßt, weißt, haßt, ſchließt.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

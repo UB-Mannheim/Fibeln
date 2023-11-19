@@ -111,7 +111,7 @@ Transkribus</Creator>
                 <Coords points="270,1179 420,1189 475,1158 579,1192 758,1160 1074,1185 1095,1113 270,1125"/>
                 <Baseline points="277,1169 317,1168 358,1167 398,1167 439,1167 479,1166 520,1166 560,1166 601,1166 641,1166 682,1166 722,1166 763,1166 803,1166 844,1166 884,1166 925,1166 965,1166 1006,1166 1046,1166 1087,1166"/>
                 <TextEquiv>
-                    <Unicode>Du hast mich in der dunkeln Nacht</Unicode>
+                    <Unicode>Du haſt mich in der dunkeln Nacht</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:14;}">
@@ -146,7 +146,7 @@ Transkribus</Creator>
                 <Coords points="274,1551 1038,1531 1038,1473 984,1464 355,1487 274,1467"/>
                 <Baseline points="281,1520 318,1521 355,1521 393,1521 430,1522 468,1522 505,1522 543,1522 580,1521 618,1521 655,1521 692,1521 730,1521 767,1521 805,1521 842,1521 880,1521 917,1521 955,1521 992,1522 1030,1522"/>
                 <TextEquiv>
-                    <Unicode>So leb' ich dir, ſo sterb' ich dir.</Unicode>
+                    <Unicode>So leb' ich dir, ſo ſterb' ich dir.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
@@ -216,7 +216,7 @@ Transkribus</Creator>
                 <Coords points="355,2271 704,2297 768,2274 1044,2280 1090,2308 1091,2210 851,2235 740,2208 678,2238 550,2240 356,2217"/>
                 <Baseline points="364,2273 399,2273 435,2274 471,2274 507,2274 543,2274 579,2274 615,2274 651,2274 687,2274 723,2274 758,2274 794,2274 830,2274 866,2274 902,2274 938,2275 974,2276 1010,2277 1046,2277 1082,2279"/>
                 <TextEquiv>
-                    <Unicode>Erwecke mich zur Morgenstund',</Unicode>
+                    <Unicode>Erwecke mich zur Morgenſtund',</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:29;}">
@@ -254,12 +254,12 @@ Ofens. Gott ſorgt für Menſchen und Thiere.
 122. Morgengebet.
 Ich thu' die hellen Augen auf
 Und ſchau', o Gott, zu dir hinauf!
-Du hast mich in der dunkeln Nacht
+Du haſt mich in der dunkeln Nacht
 Sanft ſchlafen laſſen und bewacht.
 Behüte mich auch dieſen Tag,
 Daß mich kein Uebel treffen mag;
 Und ſchenksſ du deine Gnade mir,
-So leb' ich dir, ſo sterb' ich dir.
+So leb' ich dir, ſo ſterb' ich dir.
 123. Abendgebet.
 O guter Gott, ich danke dir
 Für all die vielen Gaben,
@@ -269,7 +269,7 @@ Der Tag iſt wieder hingebracht,
 Muß nun zur Ruh' mich legen;
 Sei du bei mir die ganze Nacht
 Mit deinem Schutz und Segen.
-Erwecke mich zur Morgenstund',
+Erwecke mich zur Morgenſtund',
 Gib, daß ich nie mehr fehle;
 Erhalte meinen Leib geſund
 Und ſtärke meine Seele.</Unicode>

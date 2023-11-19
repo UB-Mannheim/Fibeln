@@ -71,11 +71,11 @@ Transkribus</Creator>
                 <Coords points="439,365 595,347 645,374 792,356 974,372 1144,352 1144,328 1049,299 969,317 871,294 815,317 753,276 678,303 439,292"/>
                 <Baseline points="449,353 549,353 649,353 749,353 849,353 949,353 1049,353 1136,353"/>
                 <TextEquiv>
-                    <Unicode>59. nf, ns, nsch, ms.</Unicode>
+                    <Unicode>59. nf, ns, nſch, ms.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>59. nf, ns, nsch, ms.</Unicode>
+                <Unicode>59. nf, ns, nſch, ms.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223574993_2308" custom="readingOrder {index:3;}">
@@ -148,11 +148,11 @@ Transkribus</Creator>
                 <Coords points="335,765 441,735 576,776 631,737 769,765 827,735 1015,770 1174,755 1222,747 1222,671 1119,687 1045,659 944,701 827,680 723,705 638,675 335,680"/>
                 <Baseline points="344,742 444,742 544,742 644,742 744,742 844,742 944,742 1044,742 1144,742 1213,742"/>
                 <TextEquiv>
-                    <Unicode>60. rm, rn, rf, rs, rsch, rl.</Unicode>
+                    <Unicode>60. rm, rn, rf, rs, rſch, rl.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>60. rm, rn, rf, rs, rsch, rl.</Unicode>
+                <Unicode>60. rm, rn, rf, rs, rſch, rl.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223614653_2336" custom="readingOrder {index:10;}">
@@ -187,11 +187,11 @@ Transkribus</Creator>
                 <Coords points="64,987 1463,985 1463,930 1293,909 64,910"/>
                 <Baseline points="73,984 273,984 373,984 573,984 673,984 873,984 973,984 1173,984 1273,984 1454,984"/>
                 <TextEquiv>
-                    <Unicode>schirmen, lärmen; Dorn, Dörner, Kern, Kerne,</Unicode>
+                    <Unicode>ſchirmen, lärmen; Dorn, Dörner, Kern, Kerne,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>schirmen, lärmen; Dorn, Dörner, Kern, Kerne,</Unicode>
+                <Unicode>ſchirmen, lärmen; Dorn, Dörner, Kern, Kerne,</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223627518_2354" custom="readingOrder {index:13;}">
@@ -232,11 +232,11 @@ Transkribus</Creator>
                 <Coords points="81,1178 1474,1197 1474,1146 1373,1119 81,1127"/>
                 <Baseline points="91,1186 291,1186 391,1186 591,1186 691,1186 891,1186 991,1186 1191,1186 1291,1186 1465,1186"/>
                 <TextEquiv>
-                    <Unicode>Dörfer, Würfe, scharf, wirf, werfen, schärfen,</Unicode>
+                    <Unicode>Dörfer, Würfe, ſcharf, wirf, werfen, ſchärfen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Dörfer, Würfe, scharf, wirf, werfen, schärfen,</Unicode>
+                <Unicode>Dörfer, Würfe, ſcharf, wirf, werfen, ſchärfen,</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223835709_2518" custom="readingOrder {index:17;}">
@@ -322,11 +322,11 @@ Transkribus</Creator>
                 <Coords points="77,1665 260,1631 391,1672 1424,1655 1424,1596 1333,1586 563,1596 494,1635 389,1592 77,1596"/>
                 <Baseline points="87,1653 287,1653 387,1653 587,1653 687,1653 887,1654 987,1654 1187,1653 1287,1653 1414,1653"/>
                 <TextEquiv>
-                    <Unicode>frisch, frei, freuen, freuet, freute; Schlaf,</Unicode>
+                    <Unicode>friſch, frei, freuen, freuet, freute; Schlaf,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>frisch, frei, freuen, freuet, freute; Schlaf,</Unicode>
+                <Unicode>friſch, frei, freuen, freuet, freute; Schlaf,</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223691793_2414" custom="readingOrder {index:25;}">
@@ -361,11 +361,11 @@ Transkribus</Creator>
                 <Coords points="75,1877 346,1921 712,1863 819,1901 1440,1872 1440,1821 1231,1798 459,1797 277,1842 75,1807"/>
                 <Baseline points="84,1872 284,1872 384,1872 584,1872 684,1871 884,1871 984,1871 1184,1871 1284,1871 1432,1871"/>
                 <TextEquiv>
-                    <Unicode>Schrei, Schreiber, Schraube,ſchreien, ſchreiben, ſchreiten.</Unicode>
+                    <Unicode>Schrei, Schreiber, Schraube, ſchreien, ſchreiben, ſchreiten.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Schrei, Schreiber, Schraube,ſchreien, ſchreiben, ſchreiten.</Unicode>
+                <Unicode>Schrei, Schreiber, Schraube, ſchreien, ſchreiben, ſchreiten.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223699583_2432" custom="readingOrder {index:28;}">

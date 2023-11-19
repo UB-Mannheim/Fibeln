@@ -34,7 +34,7 @@ Transkribus</Creator>
                 <Coords points="169,403 1351,415 1447,400 1448,353 169,347"/>
                 <Baseline points="177,390 209,391 242,392 274,393 307,394 339,394 372,395 405,395 437,395 470,396 502,396 535,396 567,396 600,396 633,396 665,395 698,395 730,395 763,396 1440,403"/>
                 <TextEquiv>
-                    <Unicode>bel, Zwetsche; zwei, zwölf; zwingen, zwacken, zwängen,</Unicode>
+                    <Unicode>bel, Zwetſche; zwei, zwölf; zwingen, zwacken, zwängen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:3;}">
@@ -55,7 +55,7 @@ Transkribus</Creator>
                 <Coords points="183,625 364,616 440,635 500,613 641,636 725,618 724,547 688,564 574,548 535,570 486,545 182,552"/>
                 <Baseline points="190,602 216,603 242,605 268,606 295,606 321,607 347,607 374,608 400,608 426,608 453,608 479,607 505,607 531,607 558,606 584,605 610,605 637,604 663,603 689,602 716,601"/>
                 <TextEquiv>
-                    <Unicode>Pforte, Pfosten, Pfeffer.</Unicode>
+                    <Unicode>Pforte, Pfoſten, Pfeffer.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:6;}">
@@ -76,7 +76,7 @@ Transkribus</Creator>
                 <Coords points="182,853 1440,840 1440,791 1365,770 182,788"/>
                 <Baseline points="190,835 252,835 314,835 376,835 438,835 500,835 562,836 624,836 686,836 748,836 811,836 873,837 935,837 997,837 1059,837 1121,836 1183,836 1245,835 1307,834 1369,833 1432,832"/>
                 <TextEquiv>
-                    <Unicode>Stachel. Der Ochs hat Hörner; er stößt mit den Hör=</Unicode>
+                    <Unicode>Stachel. Der Ochs hat Hörner; er ſtößt mit den Hör=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:9;}">
@@ -104,42 +104,42 @@ Transkribus</Creator>
                 <Coords points="179,1130 1397,1139 1438,1136 1438,1070 179,1081"/>
                 <Baseline points="186,1115 248,1115 310,1115 372,1115 434,1115 497,1115 559,1115 621,1115 683,1115 745,1115 808,1115 870,1115 932,1115 994,1115 1056,1115 1119,1115 1181,1115 1243,1115 1305,1115 1367,1115 1430,1115"/>
                 <TextEquiv>
-                    <Unicode>mit dem Schnabel? — Die Brücke ist breit; der Steg</Unicode>
+                    <Unicode>mit dem Schnabel? — Die Brücke iſt breit; der Steg</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:13;}">
                 <Coords points="165,1196 1444,1192 1444,1147 1374,1124 165,1130"/>
                 <Baseline points="174,1185 237,1186 300,1186 363,1186 426,1187 489,1187 552,1187 615,1187 678,1188 741,1188 804,1188 867,1188 930,1188 993,1188 1056,1187 1119,1187 1182,1186 1245,1186 1308,1185 1371,1184 1435,1183"/>
                 <TextEquiv>
-                    <Unicode>ist ſchmal. Der Baum ist groß; der Pfahl ist klein.</Unicode>
+                    <Unicode>iſt ſchmal. Der Baum iſt groß; der Pfahl iſt klein.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:14;}">
                 <Coords points="171,1256 1448,1280 1448,1214 1329,1191 171,1218"/>
                 <Baseline points="179,1257 242,1257 305,1257 368,1257 431,1257 494,1257 557,1257 620,1257 683,1257 746,1257 809,1257 872,1257 935,1257 998,1256 1061,1256 1124,1256 1187,1255 1250,1255 1313,1254 1376,1253 1439,1253"/>
                 <TextEquiv>
-                    <Unicode>Der Balken ist dick; der Stock ist dünn. Der Pfosten</Unicode>
+                    <Unicode>Der Balken iſt dick; der Stock iſt dünn. Der Pfoſten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:15;}">
                 <Coords points="178,1343 1440,1348 1404,1269 1013,1259 807,1302 178,1265"/>
                 <Baseline points="186,1328 248,1328 310,1327 372,1327 435,1327 497,1327 559,1327 622,1327 684,1327 746,1327 809,1327 871,1327 933,1327 995,1327 1058,1327 1120,1327 1182,1326 1245,1326 1307,1325 1369,1325 1432,1324"/>
                 <TextEquiv>
-                    <Unicode>ist lang; der Stift ist kurz. — Die Nadel ist ſpitzer als</Unicode>
+                    <Unicode>iſt lang; der Stift iſt kurz. — Die Nadel iſt ſpitzer als</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:16;}">
                 <Coords points="179,1406 1449,1422 1449,1360 1370,1339 179,1348"/>
                 <Baseline points="186,1396 248,1396 311,1396 374,1397 437,1397 500,1397 562,1398 625,1398 688,1398 751,1398 814,1398 876,1399 939,1399 1002,1398 1065,1398 1128,1398 1190,1398 1253,1398 1316,1397 1379,1397 1442,1396"/>
                 <TextEquiv>
-                    <Unicode>der Griffel. Der Tisch ist höher als der Stuhl. Der</Unicode>
+                    <Unicode>der Griffel. Der Tiſch iſt höher als der Stuhl. Der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l21" custom="readingOrder {index:17;}">
                 <Coords points="182,1474 497,1512 674,1470 806,1504 907,1488 907,1441 852,1413 811,1432 651,1405 560,1433 446,1411 397,1435 349,1403 229,1423 182,1401"/>
                 <Baseline points="190,1467 225,1468 261,1469 296,1470 332,1471 367,1471 403,1471 438,1471 474,1471 509,1470 545,1470 580,1469 616,1469 651,1468 687,1468 722,1468 758,1467 793,1467 829,1468 864,1468 900,1469"/>
                 <TextEquiv>
-                    <Unicode>Saal ist größer als die Stube.</Unicode>
+                    <Unicode>Saal iſt größer als die Stube.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:18;}">
@@ -181,14 +181,14 @@ Transkribus</Creator>
                 <Coords points="174,1936 1441,1958 1442,1881 1330,1866 175,1879"/>
                 <Baseline points="182,1924 460,1923 511,1922 562,1922 614,1922 665,1922 716,1923 767,1923 819,1924 870,1924 921,1925 972,1926 1024,1926 1075,1927 1126,1927 1177,1928 1229,1928 1280,1928 1331,1927 1382,1927 1434,1926"/>
                 <TextEquiv>
-                    <Unicode>Pfrieme, Pfründe; pfropfen; Pflug, Pflaume, Pflaster,</Unicode>
+                    <Unicode>Pfrieme, Pfründe; pfropfen; Pflug, Pflaume, Pflaſter,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l41" custom="readingOrder {index:25;}">
                 <Coords points="204,2023 1188,2022 1165,1943 834,1935 784,1969 607,1936 559,1969 510,1933 204,1936"/>
                 <Baseline points="212,1996 260,1996 308,1996 357,1996 405,1996 454,1996 502,1995 551,1995 599,1995 648,1995 696,1996 744,1996 793,1996 841,1996 890,1996 938,1996 987,1996 1035,1996 1084,1996 1132,1997 1181,1997"/>
                 <TextEquiv>
-                    <Unicode>Pflicht; pflastern, pflanzen, pflügen, pflücken.</Unicode>
+                    <Unicode>Pflicht; pflaſtern, pflanzen, pflügen, pflücken.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l42" custom="readingOrder {index:26;}">
@@ -236,30 +236,30 @@ Transkribus</Creator>
             <TextEquiv>
                 <Unicode>32
 Zwang, Zweig, Zwerg, Zweck, Zwiſt, Zweifel, Zwie=
-bel, Zwetsche; zwei, zwölf; zwingen, zwacken, zwängen,
+bel, Zwetſche; zwei, zwölf; zwingen, zwacken, zwängen,
 zwitſchern; Qual, Qualm, Quaſt, Quelle, Quitte, Quirle;
 quälen, quillen; Pfund, Pferd, Pfeil, Pfahl, Pfanne,
-Pforte, Pfosten, Pfeffer.
+Pforte, Pfoſten, Pfeffer.
 93.
 Die Biene hat einen Stachel; ſie ſticht mit dem
-Stachel. Der Ochs hat Hörner; er stößt mit den Hör=
+Stachel. Der Ochs hat Hörner; er ſtößt mit den Hör=
 nern. Die Katze hat Krallen; ſie kratzt mit den Krallen.
 Der Hund hat ſcharfe Zähne; er beißt mit den Zähnen.
 Welche Thiere haben Scheeren? Was thun die Vögel
-mit dem Schnabel? — Die Brücke ist breit; der Steg
-ist ſchmal. Der Baum ist groß; der Pfahl ist klein.
-Der Balken ist dick; der Stock ist dünn. Der Pfosten
-ist lang; der Stift ist kurz. — Die Nadel ist ſpitzer als
-der Griffel. Der Tisch ist höher als der Stuhl. Der
-Saal ist größer als die Stube.
+mit dem Schnabel? — Die Brücke iſt breit; der Steg
+iſt ſchmal. Der Baum iſt groß; der Pfahl iſt klein.
+Der Balken iſt dick; der Stock iſt dünn. Der Pfoſten
+iſt lang; der Stift iſt kurz. — Die Nadel iſt ſpitzer als
+der Griffel. Der Tiſch iſt höher als der Stuhl. Der
+Saal iſt größer als die Stube.
 94.
 Strand, Stroh, Strauch, Strahl, Strick, Strauß,
 Strich, Straße; ſtrafen, ſtreicheln, ſtreben; Spruch,
 Sproß, Sprung, Sprache; ſpröde; ſprudeln, ſpritzen,
 ſpringen, ſprießen; Splint, Splitter; ſpleißen; Pfropf
 94.
-Pfrieme, Pfründe; pfropfen; Pflug, Pflaume, Pflaster,
-Pflicht; pflastern, pflanzen, pflügen, pflücken.
+Pfrieme, Pfründe; pfropfen; Pflug, Pflaume, Pflaſter,
+Pflicht; pflaſtern, pflanzen, pflügen, pflücken.
 95.
 Das Pferd hat vier Füße; es kann gehen, laufen
 und ſpringen. Die Katze hat auch vier Füße; ſie kann

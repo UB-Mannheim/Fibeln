@@ -48,7 +48,7 @@ Transkribus</Creator>
                 <Coords points="171,563 1436,548 1397,485 171,486"/>
                 <Baseline points="179,543 241,542 304,542 366,541 429,541 491,541 554,541 616,541 679,541 741,541 804,541 866,541 929,541 991,541 1054,541 1116,541 1179,540 1241,540 1304,540 1366,539 1429,538"/>
                 <TextEquiv>
-                    <Unicode>ſchimpfst; kämpft, kämpfſt, ſtampfſt; packt, packſt; ſtockt,</Unicode>
+                    <Unicode>ſchimpfſt; kämpft, kämpfſt, ſtampfſt; packt, packſt; ſtockt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
@@ -90,7 +90,7 @@ Transkribus</Creator>
                 <Coords points="179,941 1335,938 1425,926 1425,881 179,886"/>
                 <Baseline points="186,926 247,926 309,926 370,925 432,925 494,925 555,925 617,924 678,924 740,924 802,924 863,924 925,924 986,924 1048,923 1110,923 1171,923 1233,923 1294,923 1356,923 1418,923"/>
                 <TextEquiv>
-                    <Unicode>wirkſt; harkt, harkſt; stärkt, stärkſt; eilends, abends:</Unicode>
+                    <Unicode>wirkſt; harkt, harkſt; ſtärkt, ſtärkſt; eilends, abends:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l12" custom="readingOrder {index:11;}">
@@ -209,7 +209,7 @@ Transkribus</Creator>
                 <Coords points="176,1957 1374,1962 1437,1955 1437,1891 176,1902"/>
                 <Baseline points="184,1944 246,1944 308,1943 370,1943 433,1943 495,1943 557,1943 619,1943 682,1943 744,1942 806,1942 868,1942 931,1942 993,1942 1055,1942 1117,1942 1180,1942 1242,1942 1304,1942 1366,1942 1429,1941"/>
                 <TextEquiv>
-                    <Unicode>Furche auf. Voll Angst lief es raſch dem Walde zu.</Unicode>
+                    <Unicode>Furche auf. Voll Angſt lief es raſch dem Walde zu.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l29" custom="readingOrder {index:28;}">
@@ -251,7 +251,7 @@ Transkribus</Creator>
                 <Coords points="174,2342 1359,2355 1433,2332 1433,2284 174,2290"/>
                 <Baseline points="181,2330 243,2330 305,2329 367,2329 429,2329 492,2329 554,2329 616,2329 678,2329 740,2329 803,2329 865,2329 927,2330 989,2330 1051,2330 1114,2330 1176,2331 1238,2331 1300,2331 1362,2331 1425,2331"/>
                 <TextEquiv>
-                    <Unicode>faß, Bierglas, Schlafrock, Festkleid, Hofraum, Jagd=</Unicode>
+                    <Unicode>faß, Bierglas, Schlafrock, Feſtkleid, Hofraum, Jagd=</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l35" custom="readingOrder {index:34;}">
@@ -273,13 +273,13 @@ Transkribus</Creator>
 98.
 Dampf, Dämpfe; Sumpf, Sümpfe; Strumpf,
 Strümpfe; dumpf, ſtumpf, ſtümpfen, ſtümpfeſt; ſchimpft,
-ſchimpfst; kämpft, kämpfſt, ſtampfſt; packt, packſt; ſtockt,
+ſchimpfſt; kämpft, kämpfſt, ſtampfſt; packt, packſt; ſtockt,
 ſtockſt; drückt, drückſt; flickt, flickſt; weckt, weckſt; hackt,
 hackſt, hackte, hacktet, hackteſt.
 walkt, welkt; walkte, welkte; walkteſt, welkteſt; denkt,
 wankt, lenkt, trinkt; denkſt, wankſt, lenkſt, trinkſt; dank=
 teſt; kränkt, kränkſt; Markt, Märkte; merkt, merkſt; wirkt,
-wirkſt; harkt, harkſt; stärkt, stärkſt; eilends, abends:
+wirkſt; harkt, harkſt; ſtärkt, ſtärkſt; eilends, abends:
 nachts, nichts, rechts; klatſcht, klatſchtet, klatſchteſt; glit=
 ſchen, glitſcht, glitſchteſt; rutſchen, rutſcht, rutſcheſt,
 rutſchtet, rutſchteſt.
@@ -296,13 +296,13 @@ Wagen war ſehr ſchwer. Der Knecht aber klatſchte mit
 der Peitſche. Sie gingen weiter und ſahen einen andern
 Knecht. Der ſtreute Samen aus und fuhr dann mit
 der Egge über das Feld. Ein Häſchen ſprang aus der
-Furche auf. Voll Angst lief es raſch dem Walde zu.
+Furche auf. Voll Angſt lief es raſch dem Walde zu.
 Ein Vöglein flog in die Luft und ſang ſein Lied. Ernſt
 horchte voll Freude. Jetzt war es Abend. Nun gingen
 der Vater und Ernſt nach Hauſe.
 100.
 Wohnhaus, Hausthür, Wanduhr, Schwarzbrod, Salz=
-faß, Bierglas, Schlafrock, Festkleid, Hofraum, Jagd=
+faß, Bierglas, Schlafrock, Feſtkleid, Hofraum, Jagd=
 hund. — Gartenthür, Blumenbeet, Fingerhut, Immer=
 grün, Veilchenduft, Apfelbaum, Sauerkraut, Blumen=</Unicode>
             </TextEquiv>

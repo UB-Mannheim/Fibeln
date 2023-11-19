@@ -34,7 +34,7 @@ Transkribus</Creator>
                 <Coords points="73,407 1348,410 1309,337 73,325"/>
                 <Baseline points="81,389 147,389 213,389 279,389 346,390 412,390 478,390 544,390 611,390 677,390 743,390 809,390 876,390 942,391 1008,391 1074,392 1141,393 1207,394 1273,395 1340,397"/>
                 <TextEquiv>
-                    <Unicode>ſchlägt, ſaugt, ſägt, ſägtet, ſägtest; Pacht, Licht, Hecht,</Unicode>
+                    <Unicode>ſchlägt, ſaugt, ſägt, ſägtet, ſägteſt; Pacht, Licht, Hecht,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:3;}">
@@ -69,7 +69,7 @@ Transkribus</Creator>
                 <Coords points="83,806 1360,820 1322,745 83,757"/>
                 <Baseline points="91,802 154,801 217,801 280,800 343,800 406,800 469,800 532,800 595,800 658,801 721,801 784,802 847,802 910,803 973,803 1036,804 1099,804 1162,804 1225,804 1288,804 1351,803"/>
                 <TextEquiv>
-                    <Unicode>uns hell ist. Dann können die Menſchen gut ihre Arbeit</Unicode>
+                    <Unicode>uns hell iſt. Dann können die Menſchen gut ihre Arbeit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
@@ -209,7 +209,7 @@ Transkribus</Creator>
                 <Coords points="149,2283 1347,2293 1347,2216 1304,2206 149,2216"/>
                 <Baseline points="156,2266 206,2266 256,2266 306,2265 356,2265 406,2265 456,2265 506,2264 556,2264 606,2264 656,2264 706,2264 756,2264 806,2264 856,2264 906,2264 956,2264 1006,2263 1056,2263 1106,2263 1339,2277"/>
                 <TextEquiv>
-                    <Unicode>jetzt, schätzt, reizt, ſitzt, ſetzt, heizt, ſchwitzt, ſchnitzt,</Unicode>
+                    <Unicode>jetzt, ſchätzt, reizt, ſitzt, ſetzt, heizt, ſchwitzt, ſchnitzt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l39" custom="readingOrder {index:28;}">
@@ -236,12 +236,12 @@ Transkribus</Creator>
             <TextEquiv>
                 <Unicode>— 29 —
 Jagd, Magd, Mägde; wagt, ſchweigt, ſchmiegt, fliegt,
-ſchlägt, ſaugt, ſägt, ſägtet, ſägtest; Pacht, Licht, Hecht,
+ſchlägt, ſaugt, ſägt, ſägtet, ſägteſt; Pacht, Licht, Hecht,
 Docht, Nacht, Nächte, Tochter, Töchter; leicht, recht,
 ſchlecht; kocht, keucht, ſicht, wacht, haucht.
 87.
 Am Tage ſcheint die Sonne. Sie macht, daß es bei
-uns hell ist. Dann können die Menſchen gut ihre Arbeit
+uns hell iſt. Dann können die Menſchen gut ihre Arbeit
 thun. Aber der Abend kommt. Es wird dunkel, und
 man kann nicht gut mehr ſehen. Dann zündet man ein
 Licht an. Der Vater, die Mutter und die Kinder ſetzen
@@ -261,7 +261,7 @@ Zopf, Zöpfe, Kopf, Köpfe; hüpfen, ſchnupfen, rupfen,
 rupfet, rupfeſt; hübſch, hübſcher, hübſches; Kutſche;
 rutſchen, rutſchet, rutſcheſt; Wachs, Flachs, Dachs,
 Fuchs, Füchſe, Büchſe, Büchſen; ſechs; wichſen, wichſet.
-jetzt, schätzt, reizt, ſitzt, ſetzt, heizt, ſchwitzt, ſchnitzt,
+jetzt, ſchätzt, reizt, ſitzt, ſetzt, heizt, ſchwitzt, ſchnitzt,
 putzt, putzte, putztet, putzteſt, ſchützt, ſchützte, ſchützten,
 ſchütztet, ſchützteſt; weckt, lockt, duckt, hackt, ſchmeckt,
 ſchmückt, ſchmückte, ſchmückten, ſchmücktet, ſchmückteſt.</Unicode>

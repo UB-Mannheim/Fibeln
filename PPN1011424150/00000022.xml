@@ -223,7 +223,7 @@ Transkribus</Creator>
                 <Coords points="157,2273 1141,2268 1248,2229 1423,2258 1422,2181 155,2218"/>
                 <Baseline points="165,2262 227,2261 290,2260 352,2259 415,2257 477,2256 540,2255 602,2254 665,2252 727,2251 790,2249 852,2248 915,2246 977,2244 1040,2242 1102,2241 1165,2239 1227,2237 1290,2235 1352,2233 1415,2231"/>
                 <TextEquiv>
-                    <Unicode>ein schöner Baum, schöne Bäume, eine reife Birne,</Unicode>
+                    <Unicode>ein ſchöner Baum, ſchöne Bäume, eine reife Birne,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l38" custom="readingOrder {index:30;}">
@@ -237,7 +237,7 @@ Transkribus</Creator>
                 <Coords points="154,2429 1424,2398 1422,2328 1323,2313 1012,2358 938,2326 456,2374 395,2337 152,2354"/>
                 <Baseline points="162,2406 224,2404 287,2402 350,2400 412,2399 475,2397 538,2396 600,2394 663,2393 726,2391 789,2390 851,2388 914,2387 977,2385 1039,2384 1102,2382 1165,2380 1227,2379 1290,2376 1353,2374 1416,2372"/>
                 <TextEquiv>
-                    <Unicode>reine Hefte, bunte Bilder, schöne Beutel, hübsche</Unicode>
+                    <Unicode>reine Hefte, bunte Bilder, ſchöne Beutel, hübſche</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l40" custom="readingOrder {index:32;}">
@@ -284,9 +284,9 @@ euer Hof, unſer
 Feder, deine Fibel, unſer Haus,
 — Ein hübſcher Garten, hübſche Gärten,
 Garten.
-ein schöner Baum, schöne Bäume, eine reife Birne,
+ein ſchöner Baum, ſchöne Bäume, eine reife Birne,
 reife Birnen; eine ſchöne Tafel, eine gute Feder,
-reine Hefte, bunte Bilder, schöne Beutel, hübsche
+reine Hefte, bunte Bilder, ſchöne Beutel, hübſche
 Doſen, neue Börſen, bunte Düten, reine Eimer,
 alte Beſen, ſcharfe Beile.</Unicode>
             </TextEquiv>

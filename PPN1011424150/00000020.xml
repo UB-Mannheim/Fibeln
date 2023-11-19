@@ -41,14 +41,14 @@ Transkribus</Creator>
                 <Coords points="76,456 290,473 457,436 797,444 796,375 670,334 598,383 488,345 444,365 273,341 169,366 75,355"/>
                 <Baseline points="83,432 118,434 153,435 189,436 224,437 259,437 295,436 330,436 365,435 401,434 436,433 471,432 507,431 542,430 577,429 613,429 648,428 683,428 719,429 754,429 790,431"/>
                 <TextEquiv>
-                    <Unicode>tausche, deine, öde,</Unicode>
+                    <Unicode>tauſche, deine, öde,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
                 <Coords points="1226,545 1262,556 1332,529 1420,528 1477,553 1477,464 1466,467 1450,453 1432,463 1413,444 1398,456 1362,455 1350,464 1334,453 1310,456 1260,429 1226,437"/>
                 <Baseline points="1233,523 1259,525 1285,526 1312,526 1338,525 1364,525 1391,524 1417,524 1443,525 1470,527"/>
                 <TextEquiv>
-                    <Unicode>schaute,</Unicode>
+                    <Unicode>ſchaute,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
@@ -524,8 +524,8 @@ Transkribus</Creator>
                 <Unicode>16
 43.
 zäume, meide,
-tausche, deine, öde,
-schaute,
+tauſche, deine, öde,
+ſchaute,
 lade,
 meide,
 läute,

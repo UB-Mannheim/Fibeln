@@ -139,7 +139,7 @@ Transkribus</Creator>
                 <Coords points="149,1789 1421,1761 1420,1696 1320,1687 1108,1724 910,1683 810,1736 668,1691 148,1720"/>
                 <Baseline points="156,1769 218,1768 281,1767 344,1766 407,1765 470,1764 532,1763 595,1762 658,1761 721,1759 784,1758 846,1757 909,1756 972,1755 1035,1754 1098,1753 1160,1752 1223,1750 1286,1749 1349,1748 1412,1748"/>
                 <TextEquiv>
-                    <Unicode>im Hauſe, auf dem Tische, hinter dem Ofen, über</Unicode>
+                    <Unicode>im Hauſe, auf dem Tiſche, hinter dem Ofen, über</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:18;}">
@@ -167,7 +167,7 @@ Transkribus</Creator>
                 <Coords points="442,2106 527,2135 598,2115 635,2139 801,2129 877,2098 1104,2113 1135,2100 1134,2004 872,2058 755,2026 442,2054"/>
                 <Baseline points="450,2095 483,2096 517,2096 551,2096 585,2097 619,2096 653,2096 687,2096 721,2095 755,2095 789,2095 822,2094 856,2093 890,2093 924,2092 958,2092 992,2091 1026,2090 1060,2090 1094,2089 1128,2089"/>
                 <TextEquiv>
-                    <Unicode>58. If, lm, In, ls, lsch.</Unicode>
+                    <Unicode>58. If, lm, In, ls, lſch.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l30" custom="readingOrder {index:22;}">
@@ -188,7 +188,7 @@ Transkribus</Creator>
                 <Coords points="147,2366 1359,2365 1402,2291 954,2267 146,2315"/>
                 <Baseline points="154,2360 180,2362 206,2363 232,2364 258,2363 284,2363 310,2364 1394,2344"/>
                 <TextEquiv>
-                    <Unicode>Schelme, Palme; Köln, schaufeln, handeln, ſäuseln,</Unicode>
+                    <Unicode>Schelme, Palme; Köln, ſchaufeln, handeln, ſäuseln,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l46" custom="readingOrder {index:25;}">
@@ -223,14 +223,14 @@ Schule, unter der Schule, aus der Schule; mit der
 Feder, mit der Feile, mit dem Beile, mit dem
 Zirkel, mit dem Haken, mit der Angel; aus Eiſen,
 aus Silber, aus Marmor, aus Leder, aus Purpur;
-im Hauſe, auf dem Tische, hinter dem Ofen, über
+im Hauſe, auf dem Tiſche, hinter dem Ofen, über
 den Hof, neben der Scheune, in dem Garten, an
 der Mauer, unter dem Baume, bei den Schafen,
 über der Erde.
-58. If, lm, In, ls, lsch.
+58. If, lm, In, ls, lſch.
 Schilf, Wolf, Wölfe, Hülfe, helfen, hilf,
 half; Halm, Salm, Schelm, Halme, Salme,
-Schelme, Palme; Köln, schaufeln, handeln, ſäuseln,
+Schelme, Palme; Köln, ſchaufeln, handeln, ſäuseln,
 angeln, lächeln; Hals, Hälſe, Puls, Pulſe,
 Fels, Felſen, als; falſch, fälſchen, Fälſcher.</Unicode>
             </TextEquiv>

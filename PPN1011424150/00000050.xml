@@ -251,7 +251,7 @@ Transkribus</Creator>
                 <Coords points="382,2298 496,2289 547,2312 580,2287 618,2308 671,2286 696,2309 730,2290 878,2305 1016,2289 1015,2248 967,2233 641,2257 552,2233 532,2252 381,2245"/>
                 <Baseline points="388,2292 419,2291 450,2291 481,2290 512,2290 543,2290 574,2289 605,2289 636,2289 667,2289 699,2289 730,2288 761,2288 792,2288 823,2288 854,2287 885,2287 916,2287 947,2286 978,2286 1010,2285"/>
                 <TextEquiv>
-                    <Unicode>Weil ich ihn ſonst verfehle.</Unicode>
+                    <Unicode>Weil ich ihn ſonſt verfehle.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l35" custom="readingOrder {index:34;}">
@@ -302,7 +302,7 @@ Sei du mein liebes Brüderlein
 Und ſpiel' mit meiner Seele!
 Ich wär' ſo gerne ganz bei dir,
 O zeig' den Weg zum Himmel mir,
-Weil ich ihn ſonst verfehle.
+Weil ich ihn ſonſt verfehle.
 Im Himmel möcht' ich bei dir ſein,
 Lieb Jeſulein, mein Brüderlein.</Unicode>
             </TextEquiv>

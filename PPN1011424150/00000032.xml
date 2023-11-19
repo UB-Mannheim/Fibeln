@@ -41,14 +41,14 @@ Transkribus</Creator>
                 <Coords points="144,513 1420,479 1406,414 143,447"/>
                 <Baseline points="151,489 214,488 277,487 340,486 403,485 466,483 529,482 592,481 655,480 718,479 781,477 844,477 907,476 970,475 1033,474 1096,473 1159,472 1222,472 1285,471 1348,471 1411,470"/>
                 <TextEquiv>
-                    <Unicode>gafftest; miſcht, fiſcht, haſcht, lauſcht, lauſchtet, lauſchteſt;</Unicode>
+                    <Unicode>gaffteſt; miſcht, fiſcht, haſcht, lauſcht, lauſchtet, lauſchteſt;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
                 <Coords points="143,573 1113,573 1111,499 1068,490 142,515"/>
                 <Baseline points="151,559 198,559 246,559 294,559 341,558 389,558 437,557 484,555 532,554 580,553 628,552 675,551 723,549 771,548 818,547 866,547 914,546 961,546 1009,546 1057,546 1105,546"/>
                 <TextEquiv>
-                    <Unicode>fängt, schwingt, mengt, mengtet, mengteſt.</Unicode>
+                    <Unicode>fängt, ſchwingt, mengt, mengtet, mengteſt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
@@ -62,14 +62,14 @@ Transkribus</Creator>
                 <Coords points="207,796 1414,775 1401,698 1298,741 1193,701 789,742 206,718"/>
                 <Baseline points="215,778 274,778 334,778 393,777 453,776 512,776 572,775 631,774 691,773 750,772 810,771 869,770 929,769 988,768 1048,767 1107,766 1167,766 1226,765 1286,764 1345,764 1405,764"/>
                 <TextEquiv>
-                    <Unicode>Du gehst in die Schule. Du bist ein Schüler. Du</Unicode>
+                    <Unicode>Du gehst in die Schule. Du biſt ein Schüler. Du</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:7;}">
                 <Coords points="152,868 1358,859 1421,836 1421,784 151,795"/>
                 <Baseline points="159,851 221,850 284,849 347,848 409,846 472,845 535,844 597,843 660,842 723,841 786,840 848,840 911,839 974,838 1036,837 1099,837 1162,836 1224,836 1287,836 1350,836 1413,836"/>
                 <TextEquiv>
-                    <Unicode>hast eine Tafel und ein Buch. Dein Buch heißt Fibel.</Unicode>
+                    <Unicode>haſt eine Tafel und ein Buch. Dein Buch heißt Fibel.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l9" custom="readingOrder {index:8;}">
@@ -97,14 +97,14 @@ Transkribus</Creator>
                 <Coords points="143,1143 1340,1139 1345,1067 142,1083"/>
                 <Baseline points="150,1130 209,1129 268,1129 328,1128 387,1127 447,1126 506,1126 565,1125 625,1124 684,1123 744,1123 803,1122 862,1121 922,1120 981,1119 1041,1118 1100,1117 1159,1116 1219,1115 1278,1114 1338,1113"/>
                 <TextEquiv>
-                    <Unicode>Dieſe ist an der Tafel feſt. Hast du auch ein Heft?</Unicode>
+                    <Unicode>Dieſe iſt an der Tafel feſt. Haſt du auch ein Heft?</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
                 <Coords points="149,1206 1422,1199 1421,1148 1195,1123 148,1151"/>
                 <Baseline points="156,1201 218,1200 281,1199 344,1198 407,1197 470,1196 533,1195 595,1194 658,1194 721,1193 784,1192 847,1192 910,1191 973,1190 1035,1189 1098,1189 1161,1188 1224,1188 1287,1187 1350,1186 1413,1185"/>
                 <TextEquiv>
-                    <Unicode>Die Lerche ist ein Vogel. Sie baut ihr Nest auf den</Unicode>
+                    <Unicode>Die Lerche iſt ein Vogel. Sie baut ihr Neſt auf den</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
@@ -125,7 +125,7 @@ Transkribus</Creator>
                 <Coords points="153,1436 1195,1396 1273,1436 1432,1398 1432,1341 152,1358"/>
                 <Baseline points="161,1413 224,1411 287,1410 350,1409 413,1408 477,1408 540,1407 603,1406 666,1406 729,1405 793,1405 856,1404 919,1404 982,1403 1045,1402 1109,1401 1172,1400 1235,1399 1298,1398 1361,1396 1425,1394"/>
                 <TextEquiv>
-                    <Unicode>ſich in die Luft. Sie ſingt ein schönes Lied. Sie will</Unicode>
+                    <Unicode>ſich in die Luft. Sie ſingt ein ſchönes Lied. Sie will</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -202,7 +202,7 @@ Transkribus</Creator>
                 <Coords points="158,2288 1424,2282 1433,2196 1285,2229 353,2201 157,2239"/>
                 <Baseline points="165,2269 228,2268 291,2267 354,2266 417,2265 480,2265 543,2264 606,2263 669,2263 732,2262 795,2262 858,2261 921,2261 984,2260 1047,2260 1110,2259 1173,2258 1236,2258 1299,2257 1362,2255 1425,2254"/>
                 <TextEquiv>
-                    <Unicode>zielt, schwillt, fühlt, füllt; Erde, Herde; werden, wird,</Unicode>
+                    <Unicode>zielt, ſchwillt, fühlt, füllt; Erde, Herde; werden, wird,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l31" custom="readingOrder {index:27;}">
@@ -230,19 +230,19 @@ Transkribus</Creator>
                 <Unicode>28
 Gift, Luft, Schrift, Saft, Säfte, Heft, Hefte; läuft,
 hofft, ſchifft, ſchweiſt, ſchläft, ſchnauft, gafft, gaffte,
-gafftest; miſcht, fiſcht, haſcht, lauſcht, lauſchtet, lauſchteſt;
-fängt, schwingt, mengt, mengtet, mengteſt.
+gaffteſt; miſcht, fiſcht, haſcht, lauſcht, lauſchtet, lauſchteſt;
+fängt, ſchwingt, mengt, mengtet, mengteſt.
 85.
-Du gehst in die Schule. Du bist ein Schüler. Du
-hast eine Tafel und ein Buch. Dein Buch heißt Fibel.
+Du gehst in die Schule. Du biſt ein Schüler. Du
+haſt eine Tafel und ein Buch. Dein Buch heißt Fibel.
 In dem Buche liefeſt du. Was thuſt du mit der Tafel?
 Du mußt immer ſchön ſchreiben. Womit löſcheſt du die
 Schrift aus? Der Schwamm hängt an einer Schnur.
-Dieſe ist an der Tafel feſt. Hast du auch ein Heft?
-Die Lerche ist ein Vogel. Sie baut ihr Nest auf den
+Dieſe iſt an der Tafel feſt. Haſt du auch ein Heft?
+Die Lerche iſt ein Vogel. Sie baut ihr Neſt auf den
 Acker. Sie fängt Würmer. Sie haſcht auch manche
 Fliege. Sie frißt dieſe Thierchen. Dann ſchwingt ſie
-ſich in die Luft. Sie ſingt ein schönes Lied. Sie will
+ſich in die Luft. Sie ſingt ein ſchönes Lied. Sie will
 dem lieben Gott danken.
 86.
 Sand, Mund, Kind, Mond, Rand, Feind, Hand,
@@ -253,7 +253,7 @@ den; fremd: Sammt, Amt, Aemter; zäumt, kommt,
 leimt, leimte, leimten, leimtet, leimteſt.
 Gold, Wald, Wälder, Feld, Felder; wild, mild,
 milder; Welt, Pult, Zelt, Zelte; alt, kalt, kälter; ſchallt,
-zielt, schwillt, fühlt, füllt; Erde, Herde; werden, wird,
+zielt, ſchwillt, fühlt, füllt; Erde, Herde; werden, wird,
 ward; Bart, Wort, Wirth, Hirt, Gürtel, Schwert; fort,
 werth, hart, zart; ſchwirrt, ziert, kehrt, murrt, irrt, bohrt,
 bohrten, bohrteſt.</Unicode>

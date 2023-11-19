@@ -34,21 +34,21 @@ Transkribus</Creator>
                 <Coords points="208,373 1460,386 1451,312 208,296"/>
                 <Baseline points="216,364 316,364 516,363 616,363 816,363 916,363 1116,363 1216,363 1416,362 1452,362"/>
                 <TextEquiv>
-                    <Unicode>Blumen und Küchenpflanzen. Die schneeweiße Lilie hat</Unicode>
+                    <Unicode>Blumen und Küchenpflanzen. Die ſchneeweiße Lilie hat</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230179923_3957" custom="readingOrder {index:3;}">
                 <Coords points="209,423 1464,426 1464,385 1366,363 209,365"/>
                 <Baseline points="218,431 318,431 518,429 618,427 818,427 918,427 1118,427 1218,427 1418,427 1457,427"/>
                 <TextEquiv>
-                    <Unicode>oben eine Glocke. Darin sitzen lange Fäden, auf welchen</Unicode>
+                    <Unicode>oben eine Glocke. Darin ſitzen lange Fäden, auf welchen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230182733_3960" custom="readingOrder {index:4;}">
                 <Coords points="201,485 1466,497 1466,443 1414,422 201,430"/>
                 <Baseline points="209,489 309,489 509,490 609,489 809,492 909,494 1109,488 1209,488 1409,488 1459,488"/>
                 <TextEquiv>
-                    <Unicode>goldgelbe Körner liegen. Die Stockviole ist braungelb;</Unicode>
+                    <Unicode>goldgelbe Körner liegen. Die Stockviole iſt braungelb;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230185473_3963" custom="readingOrder {index:5;}">
@@ -69,7 +69,7 @@ Transkribus</Creator>
                 <Coords points="191,654 1467,649 1457,596 1263,633 1137,598 191,595"/>
                 <Baseline points="199,657 299,656 499,656 599,655 799,655 899,655 1099,653 1199,653 1399,653 1459,653"/>
                 <TextEquiv>
-                    <Unicode>iſt geruchlos. Am liebſten ist mir die Roſe. Sie iſt</Unicode>
+                    <Unicode>iſt geruchlos. Am liebſten iſt mir die Roſe. Sie iſt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230193722_3972" custom="readingOrder {index:8;}">
@@ -125,14 +125,14 @@ Transkribus</Creator>
                 <Coords points="184,1234 653,1209 746,1248 1420,1253 1420,1179 1327,1154 1111,1193 184,1171"/>
                 <Baseline points="192,1232 292,1232 492,1232 592,1232 792,1232 892,1232 1092,1232 1192,1232 1392,1232 1412,1232"/>
                 <TextEquiv>
-                    <Unicode>böſe, boshaft; ſchaden, ſchadhaft; Herrschaft;</Unicode>
+                    <Unicode>böſe, boshaft; ſchaden, ſchadhaft; Herrſchaft;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230222973_3996" custom="readingOrder {index:16;}">
                 <Coords points="190,1298 1405,1311 1405,1246 1127,1221 852,1257 190,1231"/>
                 <Baseline points="198,1292 298,1292 498,1292 598,1292 698,1292 898,1292 998,1291 1098,1290 1298,1289 1397,1289"/>
                 <TextEquiv>
-                    <Unicode>Freund, Freundschaft; Feind, Feindſchaft; Botſchaft;</Unicode>
+                    <Unicode>Freund, Freundſchaft; Feind, Feindſchaft; Botſchaft;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230226423_3999" custom="readingOrder {index:17;}">
@@ -202,7 +202,7 @@ Transkribus</Creator>
                 <Coords points="173,1989 955,1999 1115,1966 1388,2005 1361,1929 173,1921"/>
                 <Baseline points="181,1986 281,1985 481,1985 581,1984 681,1984 881,1984 981,1984 1081,1984 1281,1984 1380,1984"/>
                 <TextEquiv>
-                    <Unicode>König, königlich; Fürst, fürſtlich; ritterlich;</Unicode>
+                    <Unicode>König, königlich; Fürſt, fürſtlich; ritterlich;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230267243_4033" custom="readingOrder {index:27;}">
@@ -223,7 +223,7 @@ Transkribus</Creator>
                 <Coords points="177,2157 1338,2174 1373,2171 1373,2100 1070,2127 730,2093 588,2135 481,2092 176,2104"/>
                 <Baseline points="185,2156 285,2156 485,2156 585,2156 685,2155 885,2155 985,2155 1085,2154 1285,2154 1365,2154"/>
                 <TextEquiv>
-                    <Unicode>Dieb, diebisch; Zank, zänkisch, kindiſch;</Unicode>
+                    <Unicode>Dieb, diebiſch; Zank, zänkiſch, kindiſch;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585230275493_4042" custom="readingOrder {index:30;}">
@@ -258,18 +258,18 @@ Transkribus</Creator>
                 <Coords points="172,2465 1371,2478 1371,2409 1267,2392 648,2387 556,2420 172,2386"/>
                 <Baseline points="179,2467 279,2467 479,2466 579,2466 679,2466 879,2466 979,2466 1079,2465 1279,2465 1363,2464"/>
                 <TextEquiv>
-                    <Unicode>leben, lebhaft; schwätzen, ſchwatzhaft; nahrhaft.</Unicode>
+                    <Unicode>leben, lebhaft; ſchwätzen, ſchwatzhaft; nahrhaft.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
                 <Unicode>— 36 —
 Im Garten ſind auch noch andere Pflanzen, nämlich
-Blumen und Küchenpflanzen. Die schneeweiße Lilie hat
-oben eine Glocke. Darin sitzen lange Fäden, auf welchen
-goldgelbe Körner liegen. Die Stockviole ist braungelb;
+Blumen und Küchenpflanzen. Die ſchneeweiße Lilie hat
+oben eine Glocke. Darin ſitzen lange Fäden, auf welchen
+goldgelbe Körner liegen. Die Stockviole iſt braungelb;
 ſie riecht angenehm. Man nennt ſie auch Goldlack. Die
 Tulpe ſieht wunderſchön aus; aber ſie duftet nicht; ſie
-iſt geruchlos. Am liebſten ist mir die Roſe. Sie iſt
+iſt geruchlos. Am liebſten iſt mir die Roſe. Sie iſt
 wohlriechend und hat auch eine ſchöne Farbe. — Nun
 nennt auch einige Küchenpflanzen!
 103.
@@ -277,8 +277,8 @@ Baum, Bäumchen; Teller, Tellerchen; Löffelchen;
 Buch, Büchlein; Tuch, Tüchlein; Sternlein;
 König, Königin; Lehrer, Lehrerin; Schülerin;
 Schule, Schüler; Schloß, Schloſſer; Seiler:
-böſe, boshaft; ſchaden, ſchadhaft; Herrschaft;
-Freund, Freundschaft; Feind, Feindſchaft; Botſchaft;
+böſe, boshaft; ſchaden, ſchadhaft; Herrſchaft;
+Freund, Freundſchaft; Feind, Feindſchaft; Botſchaft;
 Kind, Kindheit; Thor, Thorheit; Krankheit;
 faul, Faulheit; blind, Blindheit; Schönheit;
 reich, Reichthum; eigen, Eigenthum; Heiligthum
@@ -288,15 +288,15 @@ decken, Deckel; heben, Hebel; Klöpfel.
 104.
 Sand, ſandig; Salz, ſalzig; dornig;
 Stein, ſteinicht; Holz, holzicht; thöricht;
-König, königlich; Fürst, fürſtlich; ritterlich;
+König, königlich; Fürſt, fürſtlich; ritterlich;
 ſüß, ſüßlich; ſchwach, ſchwächlich; länglich;
 dienen, dienlich; erben, erblich; löblich;
-Dieb, diebisch; Zank, zänkisch, kindiſch;
+Dieb, diebiſch; Zank, zänkiſch, kindiſch;
 eſſen, eßbar; trinken, trinkbar; denkbar;
 Friede, friedſam; Ehre, ehrſam; lenkſam;
 biegen, biegſam; heilen, heilſam; duldſam;
 Fehler, fehlerhaft; Tugend, tugendhaft; ſchmerzhaft;
-leben, lebhaft; schwätzen, ſchwatzhaft; nahrhaft.</Unicode>
+leben, lebhaft; ſchwätzen, ſchwatzhaft; nahrhaft.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585230250883_4017" custom="readingOrder {index:1;}">
