@@ -144,7 +144,7 @@ Transkribus</Creator>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:18;}">
                 <Coords points="750,1596 762,1596 767,1601 791,1589 826,1596 866,1584 868,1509 843,1505 836,1498 815,1511 798,1500 791,1504 785,1499 766,1509 753,1504"/>
-                <Baseline points="758,1573 783,1575 808,1574 833,1575 858,1579"/>
+                <Baseline points="750,1560 860,1560"/>
                 <TextEquiv>
                     <Unicode>94.</Unicode>
                 </TextEquiv>
@@ -175,13 +175,6 @@ Transkribus</Creator>
                 <Baseline points="197,1856 222,1853 248,1852 273,1852 299,1852 324,1853 350,1854 1416,1868"/>
                 <TextEquiv>
                     <Unicode>ſpringen, ſprießen; Splint, Splitter; ſpleißen; Pfropf</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l37" custom="readingOrder {index:23;}">
-                <Coords points="788,1848 796,1846 799,1847 802,1846 806,1847 813,1846 808,1822 807,1823 799,1824 796,1827 790,1826 784,1828"/>
-                <Baseline points="797,1855 807,1853"/>
-                <TextEquiv>
-                    <Unicode>94.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l40" custom="readingOrder {index:24;}">

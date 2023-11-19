@@ -18,7 +18,7 @@ Transkribus</Creator>
             <Coords points="53,0 53,2369 1424,2369 1424,0"/>
             <TextLine id="r1l1" custom="readingOrder {index:0;}">
                 <Coords points="60,109 80,107 102,117 110,110 123,115 145,109 156,116 164,114 146,8 133,12 118,31 87,33 72,49 57,43 49,45"/>
-                <Baseline points="64,86 92,79 120,75 148,71"/>
+                <Baseline points="70,60 150,60"/>
                 <TextEquiv>
                     <Unicode>IV.</Unicode>
                 </TextEquiv>
