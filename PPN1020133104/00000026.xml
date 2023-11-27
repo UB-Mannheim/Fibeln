@@ -33,7 +33,7 @@
             </Comments>
         <TranskribusMetadata docId="372281" pageId="14576691" pageNr="26" tsid="28338074" status="IN_PROGRESS" userId="51506" imgUrl="https://files.transkribus.eu/Get?id=KPMPFVLUFXQOIYHADWBIATIZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XHTZZFJBKRYMUUNJACHEALRY" imageId="10530938"/>
     </Metadata>
-    <Page imageFilename="00000026.tif" imageWidth="1846" imageHeight="3048">
+    <Page imageFilename="00000026.jpg" imageWidth="1846" imageHeight="3048">
         <PrintSpace>
             <Coords points="53,0 1784,0 1784,3003 53,3003"/>
         </PrintSpace>

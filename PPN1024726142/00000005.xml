@@ -4,8 +4,8 @@
 	<Creator></Creator>
 	<Created>2020-02-24T13:10:59</Created>
 	<LastChange>2020-03-06T13:04:57</LastChange></Metadata>
-	<Page imageFilename="00000005.tif" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1530" imageHeight="2394">
-	<AlternativeImage filename="00000005_B.tif"/>
+	<Page imageFilename="00000005.jpg" imageXResolution="300.00000" imageYResolution="300.00000" imageWidth="1530" imageHeight="2394">
+	<AlternativeImage filename="00000005_B.jpg"/>
 	<Border>
 	<Coords points="0,0 1529,0 1529,2393 0,2393"/></Border>
 	<TextRegion id="r0" type="paragraph">
