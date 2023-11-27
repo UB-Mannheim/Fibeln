@@ -122,7 +122,7 @@
             <TextLine id="tl_14" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="306,1241 1749,1241 1749,1322 306,1322"/>
                 <TextEquiv>
-                    <Unicode>Gott ist gnädig. Der Mensch denkt; Gott lenkt. Iß,</Unicode>
+                    <Unicode>Gott iſt gnädig. Der Menſch denkt; Gott lenkt. Iß,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -148,7 +148,7 @@
             <TextLine id="tl_18" primaryLanguage="German" custom="readingOrder {index:15;}">
                 <Coords points="304,1614 1747,1614 1747,1693 304,1693"/>
                 <TextEquiv>
-                    <Unicode>wanken, Wange; du ſingst, du ſinkst; du drängſt, du</Unicode>
+                    <Unicode>wanken, Wange; du ſingſt, du ſinkſt; du drängſt, du</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -234,11 +234,11 @@ Knaul, Knauf, Knall, knallen, Knopf, knöpfen, Knabe,
 Knittel, Knie, knicken, knacken, Nußknacker, Gnade,
 gnädig.
 Das Feuer kniſtert und knattert. Der Krebs kneipt.
-Gott ist gnädig. Der Mensch denkt; Gott lenkt. Iß,
+Gott iſt gnädig. Der Menſch denkt; Gott lenkt. Iß,
 was gar iſt; trink, was klar iſt; ſprich, was wahr iſt.
 Schlange, ſchlank; Zange, zank; bang, Bank; Fink,
 fing; ſingen, ſinken; drängen, tränken; dringen, trinken;
-wanken, Wange; du ſingst, du ſinkst; du drängſt, du
+wanken, Wange; du ſingſt, du ſinkſt; du drängſt, du
 tränkſt; er dringt, er trinkt.
 40. Die Eltern.
 Wie die kleinen Vöglein ſingen,

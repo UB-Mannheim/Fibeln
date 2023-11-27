@@ -123,7 +123,7 @@
             <TextLine id="tl_12" primaryLanguage="German" custom="readingOrder {index:11;}">
                 <Coords points="332,1369 1780,1369 1780,1443 332,1443"/>
                 <TextEquiv>
-                    <Unicode>Schwanz, Schwert, ſchwitzt, ſchwatzt; zwitschert, blind,</Unicode>
+                    <Unicode>Schwanz, Schwert, ſchwitzt, ſchwatzt; zwitſchert, blind,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -149,7 +149,7 @@
             <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
                 <Coords points="332,1718 1776,1718 1776,1792 332,1792"/>
                 <TextEquiv>
-                    <Unicode>schnappt, gräbt, Arzt, Ernſt, Kunſt, Gunſt, Furcht,</Unicode>
+                    <Unicode>ſchnappt, gräbt, Arzt, Ernſt, Kunſt, Gunſt, Furcht,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -175,7 +175,7 @@
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="325,2067 1350,2067 1350,2139 325,2139"/>
                 <TextEquiv>
-                    <Unicode>ächzt, seufzt, abends, nirgends, eilends.</Unicode>
+                    <Unicode>ächzt, ſeufzt, abends, nirgends, eilends.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -209,7 +209,7 @@
             <TextLine id="tl_25" primaryLanguage="German" custom="readingOrder {index:24;}">
                 <Coords points="420,2562 1769,2562 1769,2639 420,2639"/>
                 <TextEquiv>
-                    <Unicode>Das Büblein fürchtet das Wasser ſehr und hat ein</Unicode>
+                    <Unicode>Das Büblein fürchtet das Waſſer ſehr und hat ein</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -232,20 +232,20 @@ III.
 23. Mehrfache An⸗ und Auslaute zugleich.
 Der Krebs zwickt dich, daß es ſchmerzt.
 Schmalz, Schmerz, ſchwarz, Schwarm, ſchwimmt,
-Schwanz, Schwert, ſchwitzt, ſchwatzt; zwitschert, blind,
+Schwanz, Schwert, ſchwitzt, ſchwatzt; zwitſchert, blind,
 blond, plump, blitzt, Schlacht, ſchlecht, Schlucht, ſchlugt,
 Fracht, fragt, Tracht, tragt, klagt, bricht, treibt, bleibt,
 drückt, blickt, brennt, Brand, Bruſt, Brunſt, preßt,
-schnappt, gräbt, Arzt, Ernſt, Kunſt, Gunſt, Furcht,
+ſchnappt, gräbt, Arzt, Ernſt, Kunſt, Gunſt, Furcht,
 Fürſt, wirſt, Wurſt, Obſt, Herbſt, erbt, gerbt, färbt,
 Sumpf, Rumpf, Dampf, Kampf, Markt, merkt, wirkt,
 Angſt, hängſt, längſt, wärmſt, merkſt, wirkſt, kämpfſt,
-ächzt, seufzt, abends, nirgends, eilends.
+ächzt, ſeufzt, abends, nirgends, eilends.
 Der Arzt impft das Kind. Der Färber färbt das
 Tuch. Der Gerber gerbt das Fell. Der Herbſt bringt
 uns Obſt.
 24. Das Büblein und der Bach.
-Das Büblein fürchtet das Wasser ſehr und hat ein
+Das Büblein fürchtet das Waſſer ſehr und hat ein
 ſchmutzig Geſicht. Das Bächlein ſiehts und läuft hinter</Unicode>
             </TextEquiv>
         </TextRegion>

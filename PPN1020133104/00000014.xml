@@ -54,7 +54,7 @@
             <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
                 <Coords points="311,353 1765,353 1765,451 311,451"/>
                 <TextEquiv>
-                    <Unicode>18. f, g, ch, f, m, n, l, s, sch, z als</Unicode>
+                    <Unicode>18. f, g, ch, f, m, n, l, s, ſch, z als</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
@@ -91,7 +91,7 @@
             <TextLine id="tl_8" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="311,942 1760,942 1760,1011 311,1011"/>
                 <TextEquiv>
-                    <Unicode>Gans, Hans; rings, längs; Hirsch, falsch; Menſch,</Unicode>
+                    <Unicode>Gans, Hans; rings, längs; Hirſch, falſch; Menſch,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -138,7 +138,7 @@
             <TextLine id="tl_15" primaryLanguage="German" custom="readingOrder {index:14;}">
                 <Coords points="311,1747 1765,1747 1765,1839 311,1839"/>
                 <TextEquiv>
-                    <Unicode>19. f, s, t, sch und voraus ein nicht</Unicode>
+                    <Unicode>19. f, s, t, ſch und voraus ein nicht</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="13.0"/>
             </TextLine>
@@ -209,13 +209,13 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>10
-18. f, g, ch, f, m, n, l, s, sch, z als
+18. f, g, ch, f, m, n, l, s, ſch, z als
 Auslaut mit tönendem Mitlaut voraus.
 Dorf, Torf, fünf, künftig; Berg, Burg; durch,
 horch; Milch, Dolch, welch; welk; Balg, Talg; Schalk;
 arg; Mark; Wurm, Turm, Schirm; Hirn, Horn, Korn,
 Kern, gern; Karl, Kerl; wandeln, fädeln, ſäuſeln;
-Gans, Hans; rings, längs; Hirsch, falsch; Menſch,
+Gans, Hans; rings, längs; Hirſch, falſch; Menſch,
 Punſch, wünſch; Herz, Harz; als; Falz; Hals, Holz,
 Gans, ganz, Puls, Salz, Filz, Fels.
 Der Hund bellt und beißt. Das Kind fällt. Der

@@ -173,7 +173,7 @@
             <TextLine id="tl_20" primaryLanguage="German" custom="readingOrder {index:19;}">
                 <Coords points="80,2332 1517,2332 1517,2399 80,2399"/>
                 <TextEquiv>
-                    <Unicode>Ast, Nest, mißt, müßt, meßt, wißt; alt, kalt, heilt,</Unicode>
+                    <Unicode>Aſt, Neſt, mißt, müßt, meßt, wißt; alt, kalt, heilt,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
@@ -192,7 +192,7 @@
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="86,2595 1524,2595 1524,2663 86,2663"/>
                 <TextEquiv>
-                    <Unicode>ſagt, regt, ſingt, ringt; äzt, schätzt, schützt, netzt, wetzt;</Unicode>
+                    <Unicode>ſagt, regt, ſingt, ringt; äzt, ſchätzt, ſchützt, netzt, wetzt;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_24" primaryLanguage="English" custom="readingOrder {index:23;}">
@@ -215,16 +215,16 @@ Ge hören die Pup pen für die Bu ben? Ich
 kann auf kei nem Kah ne fah ren.
 Ich laſ ſe Licht und hel len Schein
 in Stu be und in Käm mer lein.
-B. Verstärckte Aus- und Anlaute.
+B. Verſtärckte Aus- und Anlaute.
 I.
 17. d, t, b, p als Auslaut und voraus
 ein tönender Mitlaut.
 Der Mond ſcheint in der Nacht.
 Hund, rund; Kind, Hemd; weint, ſchäumt, ſchämt;
-Ast, Nest, mißt, müßt, meßt, wißt; alt, kalt, heilt,
+Aſt, Neſt, mißt, müßt, meßt, wißt; alt, kalt, heilt,
 heult; mild, wild, Bild; oft, Saft, Gift, ſchafft, rafft;
 wiſcht, wäſcht; Hirt, Wort; Licht, dicht, ſacht, recht;
-ſagt, regt, ſingt, ringt; äzt, schätzt, schützt, netzt, wetzt;
+ſagt, regt, ſingt, ringt; äzt, ſchätzt, ſchützt, netzt, wetzt;
 Kalb, gelb; herb, mürb; pump.</Unicode>
             </TextEquiv>
         </TextRegion>

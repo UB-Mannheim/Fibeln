@@ -74,7 +74,7 @@
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="363,557 1811,557 1811,628 363,628"/>
                 <TextEquiv>
-                    <Unicode>wurde es traurig; denn es fror ſehr, so daß das arme</Unicode>
+                    <Unicode>wurde es traurig; denn es fror ſehr, ſo daß das arme</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
@@ -254,7 +254,7 @@
 16. Das geſchorene Schäfchen.
 Ein Schäfchen wurde zum erſten Male geſchoren,
 und es hielt geduldig ſtill. Als dies aber vorüber war,
-wurde es traurig; denn es fror ſehr, so daß das arme
+wurde es traurig; denn es fror ſehr, ſo daß das arme
 Tierlein am ganzen Leibe zitterte. Und das ſah der
 liebe Gott im Himmel, und er ſchickte ein warmes Lüft⸗
 chen und ſchönen Sonnenſchein. Da wurde das gute

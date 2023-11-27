@@ -149,7 +149,7 @@
             <TextLine id="tl_16" primaryLanguage="German" custom="readingOrder {index:15;}">
                 <Coords points="144,1671 1483,1671 1483,1742 144,1742"/>
                 <TextEquiv>
-                    <Unicode>Pflock, Pflaume, Pflanze, Pflaster, pflanzen, pflegen,</Unicode>
+                    <Unicode>Pflock, Pflaume, Pflanze, Pflaſter, pflanzen, pflegen,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -247,7 +247,7 @@ Nun, liebes Kind, ſag mir's geſchwind!
 25. pfl, pfr.
 Das Pferd zieht den Wagen und den Pflug
 und trägt den Reiter.
-Pflock, Pflaume, Pflanze, Pflaster, pflanzen, pflegen,
+Pflock, Pflaume, Pflanze, Pflaſter, pflanzen, pflegen,
 pflücken; Pfriemen, Pfropfen.
 Der Gärtner pflanzt und pfropft. Der Rabe krächzt.
 Das Eis ſchmilzt. Die Wunde ſchmerzt. Der Sklave

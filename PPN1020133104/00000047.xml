@@ -223,7 +223,7 @@
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:27;}">
                 <Coords points="105,2568 1488,2568 1488,2637 105,2637"/>
                 <TextEquiv>
-                    <Unicode>Wenn du in das Bett gehſt, so bet mit Herz und Mund:</Unicode>
+                    <Unicode>Wenn du in das Bett gehſt, ſo bet mit Herz und Mund:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_27" primaryLanguage="German" custom="readingOrder {index:28;}">
@@ -261,7 +261,7 @@ gibt. Stehſt du auf, ſo bet: o Gott, ich dank' dir für
 den Schlaf, der mich ſtärkt und friſch und froh macht.
 Vor und nach Tiſch bet: o Gott, Speis und Trank
 ſind doch recht gut; ich dank' dir, daß du ſie mir gibſt.
-Wenn du in das Bett gehſt, so bet mit Herz und Mund:
+Wenn du in das Bett gehſt, ſo bet mit Herz und Mund:
 o Gott, wie gut biſt du! Ich dank' dir für den Tag</Unicode>
             </TextEquiv>
         </TextRegion>

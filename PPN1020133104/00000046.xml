@@ -97,7 +97,7 @@
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="384,907 1774,907 1774,984 384,984"/>
                 <TextEquiv>
-                    <Unicode>iſt. Gott will, auch du sollſt gut und nicht bös</Unicode>
+                    <Unicode>iſt. Gott will, auch du ſollſt gut und nicht bös</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -177,7 +177,7 @@
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:20;}">
                 <Coords points="373,2017 1761,2017 1761,2094 373,2094"/>
                 <TextEquiv>
-                    <Unicode>recht froh, daß Gott so gut iſt, und es ſo wohl mit</Unicode>
+                    <Unicode>recht froh, daß Gott ſo gut iſt, und es ſo wohl mit</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -191,7 +191,7 @@
             <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="371,2192 1762,2192 1762,2269 371,2269"/>
                 <TextEquiv>
-                    <Unicode>ist ſchon ſo gut; wie gut mußt du erſt selbſt ſein! —</Unicode>
+                    <Unicode>iſt ſchon ſo gut; wie gut mußt du erſt selbſt ſein! —</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -225,7 +225,7 @@
             <TextLine id="tl_28" primaryLanguage="German" custom="readingOrder {index:27;}">
                 <Coords points="370,2628 1755,2628 1755,2709 370,2709"/>
                 <TextEquiv>
-                    <Unicode>o Gott, du machſt mir so viel Luſt und Freud'! Ich</Unicode>
+                    <Unicode>o Gott, du machſt mir ſo viel Luſt und Freud'! Ich</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -237,7 +237,7 @@ heißt, hat er lieb, wie du dein Aug'.
 Mein Kind! Gott iſt ganz gut, und in ihm iſt
 nichts, das bös iſt. Gott liebt und thut nur, was recht
 und gut iſt. Gott haßt die Sünd', das heißt, was bös
-iſt. Gott will, auch du sollſt gut und nicht bös
+iſt. Gott will, auch du ſollſt gut und nicht bös
 ſein. Gott liebt das Kind, wenn es gut und fromm
 iſt. Er gibt dem Kind, wenn es fromm und gut iſt,
 Heil und Glück. Wenn ein Kind bös iſt, ſo kann es
@@ -249,14 +249,14 @@ Mein Kind! du weißt jetzt ſchon viel von Gott.
 Hab Gott recht lieb, ſo lieb, als du nur kannſt. Nichts
 in der Welt ſoll dir ſo lieb ſein, als Gott. Freu dich
 recht ſehr, daß ein Gott iſt, und daß er ſo gut iſt. Sei
-recht froh, daß Gott so gut iſt, und es ſo wohl mit
+recht froh, daß Gott ſo gut iſt, und es ſo wohl mit
 dir meint. Denk oft: o Gott, das, was du uns gibſt,
-ist ſchon ſo gut; wie gut mußt du erſt selbſt ſein! —
+iſt ſchon ſo gut; wie gut mußt du erſt selbſt ſein! —
 Ja, mein Kind, freu dich, daß ein Gott iſt, und mach
 ihm auch recht viel Freud'. Sieh, ihn freut kein Geld
 und kein Gold; nur das freut ihn, wenn er ſieht, daß
 du recht fromm und recht brav biſt. Drum denk oft:
-o Gott, du machſt mir so viel Luſt und Freud'! Ich</Unicode>
+o Gott, du machſt mir ſo viel Luſt und Freud'! Ich</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

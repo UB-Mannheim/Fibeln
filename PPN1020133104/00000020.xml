@@ -195,7 +195,7 @@
             <TextLine id="tl_24" primaryLanguage="German" custom="readingOrder {index:22;}">
                 <Coords points="476,2261 1906,2261 1906,2349 476,2349"/>
                 <TextEquiv>
-                    <Unicode>heb, herb, Gut, Gurt, Weg, Werg, Wust, Wurst, Gabe,</Unicode>
+                    <Unicode>heb, herb, Gut, Gurt, Weg, Werg, Wuſt, Wurſt, Gabe,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
@@ -247,7 +247,7 @@ Strafe, Strumpf; Span, Speck, Spatz, Sperling, ſpucken,
 ſpeiſen, ſpielen, ſpülen, Spiegel, Speichel, Spreu, Spruch,
 Sprung, ſpringen, ſprechen, Splint, Splitter.
 27. Gas, Gans, Rad, Rand, hat, halt, heut, heult,
-heb, herb, Gut, Gurt, Weg, Werg, Wust, Wurst, Gabe,
+heb, herb, Gut, Gurt, Weg, Werg, Wuſt, Wurſt, Gabe,
 Garbe, ſteigen, ſteigern, Oſt, Obſt, lag, lang, ſag, ſang,
 Gas, Glas, Fuß, Fluß, Schuß, Schluß, Guß, Gruß,
 Band, Brand, Buch, Bruch, Bauer, Brauer, Taube,

@@ -81,7 +81,7 @@
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="176,643 1521,643 1521,724 176,724"/>
                 <TextEquiv>
-                    <Unicode>Draußen ſtehn die Lilien weiß, haben allerschönſten</Unicode>
+                    <Unicode>Draußen ſtehn die Lilien weiß, haben allerſchönſten</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.0"/>
             </TextLine>
@@ -219,7 +219,7 @@ Wiegenlied.
 Schlafe, Kindlein, hold und ſüß, wie im Engel=
 paradies; ſchlaf in ſtiller, ſüßer Ruh', thu die kleinen
 Äuglein zu.
-Draußen ſtehn die Lilien weiß, haben allerschönſten
+Draußen ſtehn die Lilien weiß, haben allerſchönſten
 Preis; droben in der lichten Höh' ſtehn die Englein,
 weiß wie Schnee.
 Kommt, ihr Englein, weiß und fein! wiegt mir

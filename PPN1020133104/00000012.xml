@@ -227,7 +227,7 @@
             <TextLine id="tl_28" primaryLanguage="English" custom="readingOrder {index:27;}">
                 <Coords points="425,2538 1510,2538 1510,2602 425,2602"/>
                 <TextEquiv>
-                    <Unicode>Dick ist ſein Fuß. Es kann kaum gehn.</Unicode>
+                    <Unicode>Dick iſt ſein Fuß. Es kann kaum gehn.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_29" primaryLanguage="German" custom="readingOrder {index:28;}">
@@ -270,7 +270,7 @@ Da kam die Bie nen ſchar her aus
 und auf ihn zu, ihm auf die Haut
 und ſtach. Das Petz chen ſchrie gar laut.
 Weh thut ſein Aug. Es kann kaum ſehn.
-Dick ist ſein Fuß. Es kann kaum gehn.
+Dick iſt ſein Fuß. Es kann kaum gehn.
 Bär heult. Da ließ ihn Bien chen ruhn.
 So was will Petz nie wie der thun.</Unicode>
             </TextEquiv>

@@ -47,7 +47,7 @@
             <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
                 <Coords points="567,390 868,390 868,471 567,471"/>
                 <TextEquiv>
-                    <Unicode>Erster</Unicode>
+                    <Unicode>Erſter</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="16.0" bold="true"/>
             </TextLine>
@@ -74,7 +74,7 @@
             <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:4;}">
                 <Coords points="51,1370 1392,1370 1392,1466 51,1466"/>
                 <TextEquiv>
-                    <Unicode>Erstes Lehr- und Leſebüchlein</Unicode>
+                    <Unicode>Erſtes Lehr- und Leſebüchlein</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="18.0" bold="true"/>
             </TextLine>
@@ -131,11 +131,11 @@
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Erster
+                <Unicode>Erſter
 Unterricht von Gott
 für
 die lieben Kleinen.
-Erstes Lehr- und Leſebüchlein
+Erſtes Lehr- und Leſebüchlein
 für
 die deutſchen Schulen in Bayern.
 Separat=Ausgabe als Anhang zur Fibel.

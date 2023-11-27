@@ -67,7 +67,7 @@
             <TextLine id="tl_5" primaryLanguage="German" custom="readingOrder {index:3;}">
                 <Coords points="345,496 1763,496 1763,571 345,571"/>
                 <TextEquiv>
-                    <Unicode>gute Reiter. Cäcilia und Cöleſtine sind Namen für</Unicode>
+                    <Unicode>gute Reiter. Cäcilia und Cöleſtine ſind Namen für</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
@@ -204,7 +204,7 @@
                 <Unicode>20
 Cypreſſe iſt ein Baum. Die Hyacinthe iſt eine Blume.
 Die Hyäne iſt ein wildes Tier. In dem Cirkus ſind
-gute Reiter. Cäcilia und Cöleſtine sind Namen für
+gute Reiter. Cäcilia und Cöleſtine ſind Namen für
 Mädchen.
 34. C c = k
 Der Herr geht in das Cafe. Die Kinder ſingen

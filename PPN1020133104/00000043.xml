@@ -93,7 +93,7 @@
             <TextLine id="tl_9" primaryLanguage="German" custom="readingOrder {index:7;}">
                 <Coords points="93,2588 1475,2588 1475,2664 93,2664"/>
                 <TextEquiv>
-                    <Unicode>Wald ſo ſchön grün. Berg und Thal sind von Gott.</Unicode>
+                    <Unicode>Wald ſo ſchön grün. Berg und Thal ſind von Gott.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_10" primaryLanguage="German" custom="readingOrder {index:8;}">
@@ -111,7 +111,7 @@ iſt von Gott. Gott macht, daß die Sonn' ſo hell und
 warm ſcheint. Gott macht, daß der Mond ſo ſchön
 glänzt. Es iſt kein Stern, dem nicht er das Licht gibt.
 Gott macht die Luft ſo ſchön blau. Er macht Feld und
-Wald ſo ſchön grün. Berg und Thal sind von Gott.
+Wald ſo ſchön grün. Berg und Thal ſind von Gott.
 Er deckt den Berg mit Buſch und Wald. Er macht,</Unicode>
             </TextEquiv>
         </TextRegion>

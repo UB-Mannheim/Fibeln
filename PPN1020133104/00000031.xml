@@ -170,7 +170,7 @@
             <TextLine id="line_1587556402397_1678" custom="readingOrder {index:20;}">
                 <Coords points="35,2370 1497,2370 1497,2458 35,2458"/>
                 <TextEquiv>
-                    <Unicode>in das Zimmer gehen, durch die Fenster ſcheint das</Unicode>
+                    <Unicode>in das Zimmer gehen, durch die Fenſter ſcheint das</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1587556408693_1681" custom="readingOrder {index:21;}">
@@ -188,7 +188,7 @@
             <TextLine id="line_1587556430850_1687" custom="readingOrder {index:23;}">
                 <Coords points="37,2634 1493,2634 1493,2724 37,2724"/>
                 <TextEquiv>
-                    <Unicode>Fenster ſind von Glas. Die Kinder ſitzen auf Bänken,</Unicode>
+                    <Unicode>Fenſter ſind von Glas. Die Kinder ſitzen auf Bänken,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -212,10 +212,10 @@ es geht ja gern hinein.
 Das Schulhaus iſt ein großes Haus mit vielen
 Zimmern. Unſer Schulzimmer hat vier Wände, einen
 Fußboden und eine Decke. Durch die Thüre kann man
-in das Zimmer gehen, durch die Fenster ſcheint das
+in das Zimmer gehen, durch die Fenſter ſcheint das
 Licht herein, der Ofen heizt im Winter das Zimmer.
 Die Thüre iſt von Holz, der Ofen von Eiſen, die
-Fenster ſind von Glas. Die Kinder ſitzen auf Bänken,</Unicode>
+Fenſter ſind von Glas. Die Kinder ſitzen auf Bänken,</Unicode>
             </TextEquiv>
         </TextRegion>
         <SeparatorRegion id="r_2" custom="readingOrder {index:2;}">

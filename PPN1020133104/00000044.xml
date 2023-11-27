@@ -64,7 +64,7 @@
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:2;}">
                 <Coords points="386,332 1782,332 1782,400 386,400"/>
                 <TextEquiv>
-                    <Unicode>daß der Bach ſo frisch und klar durch das Thal rinnt.</Unicode>
+                    <Unicode>daß der Bach ſo friſch und klar durch das Thal rinnt.</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="10.5"/>
             </TextLine>
@@ -242,7 +242,7 @@
             <TextEquiv>
                 <Unicode>4
 Von Gott.
-daß der Bach ſo frisch und klar durch das Thal rinnt.
+daß der Bach ſo friſch und klar durch das Thal rinnt.
 Gott macht den Tag und die Nacht. Du, mein Kind,
 machſt es nicht, daß die Sonn' ſcheint. Dein Arm
 reicht nicht bis an den Mond und an die Stern'.
