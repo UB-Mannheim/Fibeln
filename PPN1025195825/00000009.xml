@@ -136,7 +136,7 @@
 	<Word id="w32">
 	<Coords points="915,298 915,299 916,299 916,305 917,305 917,306 948,306 948,307 999,307 999,308 1026,308 1026,310 1027,310 1027,325 1028,325 1028,327 1027,327 1027,328 998,328 998,329 993,329 993,328 802,328 802,330 801,330 801,331 799,331 799,332 798,332 798,333 797,333 797,334 750,334 750,333 746,333 746,332 745,332 745,331 744,331 744,309 745,309 745,308 746,308 746,307 747,307 747,306 749,306 749,305 795,305 795,304 796,304 796,298"/>
 	<TextEquiv conf="0.23855">
-	<Unicode>geſschriebenen</Unicode></TextEquiv></Word>
+	<Unicode>geſchriebenen</Unicode></TextEquiv></Word>
 	<Word id="w33">
 	<Coords points="1083,300 1083,301 1130,301 1130,308 1146,308 1146,309 1186,309 1186,311 1187,311 1187,326 1188,326 1188,330 1127,330 1127,329 1055,329 1055,328 1054,328 1054,325 1053,325 1053,322 1052,322 1052,319 1051,319 1051,316 1050,316 1050,314 1049,314 1049,311 1048,311 1048,308 1047,308 1047,305 1046,305 1046,303 1045,303 1045,300"/>
 	<TextEquiv conf="0.96882">
@@ -146,7 +146,7 @@
 	<TextEquiv conf="0.96535">
 	<Unicode>Mitteilungen</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.86949">
-	<Unicode>Übungstext. Es iſt noch Zeit genug, aus geſschriebenen Wörtern Mitteilungen</Unicode></TextEquiv></TextLine>
+	<Unicode>Übungstext. Es iſt noch Zeit genug, aus geſchriebenen Wörtern Mitteilungen</Unicode></TextEquiv></TextLine>
 	<TextLine id="l35">
 	<Coords points="8,341 348,341 348,342 499,342 499,343 579,343 579,344 674,344 674,346 777,346 777,345 902,345 902,349 1105,349 1105,350 1233,350 1233,351 1472,351 1472,389 1257,389 1257,387 1130,387 1130,385 930,385 930,377 777,377 777,375 499,375 499,379 394,379 394,377 8,377"/>
 	<Word id="w36">
@@ -610,7 +610,7 @@
 	<TextEquiv>
 	<Unicode>Form zugleich ein Denkakt der Selbſttätigkeit und eine gute Übung im Sprechen.*)
 Dabei ſteht alles in innigſtem Zusammenhang: Gruppenbild, Ergänzungsbild und
-Übungstext. Es iſt noch Zeit genug, aus geſschriebenen Wörtern Mitteilungen
+Übungstext. Es iſt noch Zeit genug, aus geſchriebenen Wörtern Mitteilungen
 entgegenzunehmen. Laſſen wir doch die Schüler zuvörderſt ſelbſt anſchauen,
 denken und ſprechen; ſie möchten ſich ſonſt zu früh auf die Buchweisheit ver-
 laſſen. Ich verweiſe mit allem Nachdruck darauf und möchte trotzdem meine
@@ -2244,7 +2244,7 @@ Schwalben den ganzen Sommer hindurch an uns vorüber, und doch ſchenken wir</Un
 	<Word id="w863">
 	<Coords points="921,2431 921,2432 980,2432 980,2434 986,2434 986,2438 1014,2438 1014,2439 1016,2439 1016,2443 1017,2443 1017,2454 978,2454 978,2457 976,2457 976,2458 960,2458 960,2457 862,2457 862,2456 861,2456 861,2433 862,2433 862,2431"/>
 	<TextEquiv conf="0.53653">
-	<Unicode>ſchwierigsten</Unicode></TextEquiv></Word>
+	<Unicode>ſchwierigſten</Unicode></TextEquiv></Word>
 	<Word id="w865">
 	<Coords points="1051,2434 1051,2435 1067,2435 1067,2439 1078,2439 1078,2440 1080,2440 1080,2441 1081,2441 1081,2443 1082,2443 1082,2453 1081,2453 1081,2454 1079,2454 1079,2455 1064,2455 1064,2454 1030,2454 1030,2445 1031,2445 1031,2442 1032,2442 1032,2435 1033,2435 1033,2434"/>
 	<TextEquiv conf="0.95183">
@@ -2266,7 +2266,7 @@ Schwalben den ganzen Sommer hindurch an uns vorüber, und doch ſchenken wir</Un
 	<TextEquiv conf="0.49580">
 	<Unicode>Zuſammen-</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.89416">
-	<Unicode>und damit hat es, ſollen ſich die Kleinen nicht zu früh mit dem ſchwierigsten Akte des Leſens, dem Zuſammen-</Unicode></TextEquiv></TextLine>
+	<Unicode>und damit hat es, ſollen ſich die Kleinen nicht zu früh mit dem ſchwierigſten Akte des Leſens, dem Zuſammen-</Unicode></TextEquiv></TextLine>
 	<TextLine id="l39">
 	<Coords points="21,2454 102,2454 102,2456 235,2456 235,2458 380,2458 380,2465 493,2465 493,2459 528,2459 528,2460 564,2460 564,2461 700,2461 700,2462 920,2462 920,2463 1104,2463 1104,2465 1422,2465 1422,2492 1104,2492 1104,2496 938,2496 938,2488 715,2488 715,2486 582,2486 582,2481 493,2481 493,2480 437,2480 437,2479 318,2479 318,2484 251,2484 251,2482 116,2482 116,2480 21,2480"/>
 	<Word id="w875">
@@ -2325,5 +2325,5 @@ Schwalben den ganzen Sommer hindurch an uns vorüber, und doch ſchenken wir</Un
 	<Unicode>ziehen, abmühen, lange Zeit — nur die in Fettſchrift aufgenommenen Interjektionen und Nachahmungslaute.</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>*) Wer daran keinen Gefallen finden ſollte, der leſe bis zur Einführung zwei- und mehrlautiger Wörter —
-und damit hat es, ſollen ſich die Kleinen nicht zu früh mit dem ſchwierigsten Akte des Leſens, dem Zuſammen-
+und damit hat es, ſollen ſich die Kleinen nicht zu früh mit dem ſchwierigſten Akte des Leſens, dem Zuſammen-
 ziehen, abmühen, lange Zeit — nur die in Fettſchrift aufgenommenen Interjektionen und Nachahmungslaute.</Unicode></TextEquiv></TextRegion></Page></PcGts>

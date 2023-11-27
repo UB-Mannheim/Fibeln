@@ -12,7 +12,7 @@
 	<Word id="w2">
 	<Coords points="170,187 445,187 445,222 170,222"/>
 	<TextEquiv conf="0.71667">
-	<Unicode>künſtlerischen</Unicode></TextEquiv></Word>
+	<Unicode>künſtleriſchen</Unicode></TextEquiv></Word>
 	<Word id="w3">
 	<Coords points="479,185 869,185 869,223 479,223"/>
 	<TextEquiv conf="0.82831">
@@ -38,7 +38,7 @@
 	<TextEquiv conf="0.96701">
 	<Unicode>Alle</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.89629">
-	<Unicode>künſtlerischen Geſchmacksbildung des uns pflegbefohlenen Kindes. Alle</Unicode></TextEquiv></TextLine>
+	<Unicode>künſtleriſchen Geſchmacksbildung des uns pflegbefohlenen Kindes. Alle</Unicode></TextEquiv></TextLine>
 	<TextLine id="l9">
 	<Coords points="270,234 270,237 395,237 395,234 718,234 718,237 869,237 869,236 870,236 870,234 937,234 937,267 782,267 782,268 228,268 228,267 170,267 170,234"/>
 	<Word id="w10">
@@ -64,7 +64,7 @@
 	<TextEquiv conf="0.84032">
 	<Unicode>Erziehung ſei naturgemäß und normativ!</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>künſtlerischen Geſchmacksbildung des uns pflegbefohlenen Kindes. Alle
+	<Unicode>künſtleriſchen Geſchmacksbildung des uns pflegbefohlenen Kindes. Alle
 Erziehung ſei naturgemäß und normativ!</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r1" type="paragraph" primaryLanguage="German" primaryScript="Latn - Latin">
 	<Coords points="342,280 342,286 461,286 461,283 462,283 462,280 688,280 688,281 742,281 742,282 743,282 743,286 864,286 864,280 1094,280 1094,286 1106,286 1106,287 1242,287 1242,286 1257,286 1257,280 1465,280 1465,287 1466,287 1466,288 1614,288 1614,282 1615,282 1615,281 1617,281 1617,280 1627,280 1627,281 1628,281 1628,282 1629,282 1629,305 1630,305 1630,354 1631,354 1631,386 1633,386 1633,498 1632,498 1632,606 1631,606 1631,608 1504,608 1504,607 1197,607 1197,611 1196,611 1196,612 1195,612 1195,613 1193,613 1193,614 1173,614 1173,613 1171,613 1171,612 1170,612 1170,611 1169,611 1169,607 921,607 921,653 920,653 920,654 631,654 631,653 254,653 254,652 167,652 167,651 165,651 165,507 164,507 164,438 165,438 165,388 166,388 166,326 168,326 168,325 244,325 244,297 245,297 245,295 246,295 246,293 247,293 247,292 248,292 248,291 249,291 249,289 250,289 250,287 251,287 251,285 252,285 252,284 253,284 253,282 254,282 254,280"/>
@@ -577,7 +577,7 @@ Kinde. Da weint Mäuschen bitterlich: m.</Unicode></TextEquiv></TextRegion>
 	<Word id="w177">
 	<Coords points="461,861 766,861 766,897 461,897"/>
 	<TextEquiv conf="0.76748">
-	<Unicode>Kinderſschriftsteller</Unicode></TextEquiv></Word>
+	<Unicode>Kinderſchriftſteller</Unicode></TextEquiv></Word>
 	<Word id="w179">
 	<Coords points="787,863 843,863 843,892 787,892"/>
 	<TextEquiv conf="0.95961">
@@ -603,7 +603,7 @@ Kinde. Da weint Mäuschen bitterlich: m.</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.97009">
 	<Unicode>keine</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.86128">
-	<Unicode>hervorragender Kinderſschriftsteller der Neuzeit. — Beſchreibungen fanden keine</Unicode></TextEquiv></TextLine>
+	<Unicode>hervorragender Kinderſchriftſteller der Neuzeit. — Beſchreibungen fanden keine</Unicode></TextEquiv></TextLine>
 	<TextLine id="l30">
 	<Coords points="284,909 284,912 428,912 428,909 653,909 653,913 654,913 654,914 824,914 824,909 997,909 997,915 1163,915 1163,909 1537,909 1537,910 1538,910 1538,911 1539,911 1539,916 1555,916 1555,917 1600,917 1600,918 1619,918 1619,919 1621,919 1621,920 1622,920 1622,921 1623,921 1623,931 1629,931 1629,947 1470,947 1470,946 1243,946 1243,947 1230,947 1230,946 1190,946 1190,945 1032,945 1032,944 822,944 822,943 358,943 358,944 357,944 357,945 356,945 356,947 344,947 344,942 201,942 201,941 172,941 172,921 173,921 173,918 174,918 174,916 175,916 175,909"/>
 	<Word id="w191">
@@ -875,7 +875,7 @@ Kinde. Da weint Mäuschen bitterlich: m.</Unicode></TextEquiv></TextRegion>
 	<TextEquiv>
 	<Unicode>6. Die ausſchließliche Verwendung kurzer und einfacher, kindlicher und
 anſprechender Erzählungen und Gedichte — als Originalbeiträge oder Gaben
-hervorragender Kinderſschriftsteller der Neuzeit. — Beſchreibungen fanden keine
+hervorragender Kinderſchriftſteller der Neuzeit. — Beſchreibungen fanden keine
 Aufnahme, und doch findet man auch den Schneemannbau, den Lauf der Sonne,
 den Wind, den Schulſchrank, den Hund, das Kaninchen, den Garten zu allen
 Jahreszeiten u. dergl. Themen vertreten; aber ich male jeweils eine Handlung,
@@ -1453,7 +1453,7 @@ traume ſeien für Herz und Gemüt geboten.</Unicode></TextEquiv></TextRegion>
 	<Word id="w503">
 	<Coords points="467,1823 632,1823 632,1860 467,1860"/>
 	<TextEquiv conf="0.86523">
-	<Unicode>Geſschichte</Unicode></TextEquiv></Word>
+	<Unicode>Geſchichte</Unicode></TextEquiv></Word>
 	<Word id="w146">
 	<Coords points="660,1825 818,1825 818,1855 660,1855"/>
 	<TextEquiv conf="0.96581">
@@ -1487,7 +1487,7 @@ traume ſeien für Herz und Gemüt geboten.</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.96242">
 	<Unicode>Augen</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.92320">
-	<Unicode>erſt durch eine Geſschichte verliehen werden muß, ſondern aus den vor Augen</Unicode></TextEquiv></TextLine>
+	<Unicode>erſt durch eine Geſchichte verliehen werden muß, ſondern aus den vor Augen</Unicode></TextEquiv></TextLine>
 	<TextLine id="l154">
 	<Coords points="946,1871 946,1872 1020,1872 1020,1873 1021,1873 1021,1879 1101,1879 1101,1880 1103,1880 1103,1881 1412,1881 1412,1873 1441,1873 1441,1874 1526,1874 1526,1875 1527,1875 1527,1883 1611,1883 1611,1884 1633,1884 1633,1912 1609,1912 1609,1913 1594,1913 1594,1916 1593,1916 1593,1917 1567,1917 1567,1916 1566,1916 1566,1912 1475,1912 1475,1911 1311,1911 1311,1915 1310,1915 1310,1916 1309,1916 1309,1917 1180,1917 1180,1916 1178,1916 1178,1914 1177,1914 1177,1911 1166,1911 1166,1910 1023,1910 1023,1909 988,1909 988,1908 764,1908 764,1907 646,1907 646,1910 645,1910 645,1911 643,1911 643,1912 642,1912 642,1913 631,1913 631,1907 545,1907 545,1906 375,1906 375,1905 240,1905 240,1910 239,1910 239,1911 237,1911 237,1912 217,1912 217,1911 214,1911 214,1910 213,1910 213,1908 212,1908 212,1905 201,1905 201,1904 198,1904 198,1903 175,1903 175,1871"/>
 	<Word id="w513">
@@ -1949,7 +1949,7 @@ traume ſeien für Herz und Gemüt geboten.</Unicode></TextEquiv></TextRegion>
 	<Word id="w615">
 	<Coords points="1194,2215 1239,2215 1239,2251 1194,2251"/>
 	<TextEquiv conf="0.69541">
-	<Unicode>(ist</Unicode></TextEquiv></Word>
+	<Unicode>(iſt</Unicode></TextEquiv></Word>
 	<Word id="w270">
 	<Coords points="1260,2216 1316,2216 1316,2245 1260,2245"/>
 	<TextEquiv conf="0.96700">
@@ -1967,7 +1967,7 @@ traume ſeien für Herz und Gemüt geboten.</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.92062">
 	<Unicode>—</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.90659">
-	<Unicode>Die Kühe brummen mu. Die Schafe blöken mäh. ei! (ist das ein Geſchrei!) —</Unicode></TextEquiv></TextLine>
+	<Unicode>Die Kühe brummen mu. Die Schafe blöken mäh. ei! (iſt das ein Geſchrei!) —</Unicode></TextEquiv></TextLine>
 	<TextLine id="l274">
 	<Coords points="607,2256 607,2257 721,2257 721,2256 751,2256 751,2257 815,2257 815,2259 816,2259 816,2265 969,2265 969,2257 971,2257 971,2256 995,2256 995,2257 1089,2257 1089,2258 1154,2258 1154,2259 1239,2259 1239,2262 1352,2262 1352,2261 1353,2261 1353,2260 1590,2260 1590,2261 1593,2261 1593,2262 1595,2262 1595,2263 1596,2263 1596,2264 1597,2264 1597,2265 1598,2265 1598,2266 1599,2266 1599,2267 1600,2267 1600,2270 1616,2270 1616,2271 1637,2271 1637,2299 1635,2299 1635,2300 1622,2300 1622,2299 1495,2299 1495,2298 1308,2298 1308,2299 1307,2299 1307,2301 1287,2301 1287,2297 1249,2297 1249,2296 1132,2296 1132,2298 1131,2298 1131,2299 1130,2299 1130,2300 1129,2300 1129,2301 1110,2301 1110,2295 792,2295 792,2297 791,2297 791,2299 790,2299 790,2300 788,2300 788,2301 771,2301 771,2294 483,2294 483,2296 482,2296 482,2297 480,2297 480,2298 479,2298 479,2299 468,2299 468,2292 403,2292 403,2291 291,2291 291,2290 179,2290 179,2289 177,2289 177,2256"/>
 	<Word id="w621">
@@ -2194,7 +2194,7 @@ legen; ſie ſoll für Lehrer und Schüler ein direkt zuverläſſiger Kanon ſe
 und bleiben und zur Erleichterung des Lehrens und Lernens, zur unmittelbaren
 Orientierung und Ermöglichung der Selbſttätigkeit in allem ein Ganzes bieten.
 Dennoch haben auch die kleinſten Wörtchen Sinn und Gehalt, der ihnen nicht
-erſt durch eine Geſschichte verliehen werden muß, ſondern aus den vor Augen
+erſt durch eine Geſchichte verliehen werden muß, ſondern aus den vor Augen
 liegenden Bildern herausſtrahlt oder durch die vorausgegangenen Erzählungen
 und Beſprechungen illuſtriert wird: z. B. S. 13 u (Einführung des erſten Konſo-
 nanten) fchreit die kleine Maus, m weint fie, e ruft der Bruder. — S. 15 f zijcht
@@ -2202,7 +2202,7 @@ die Gans, i, u ſchreit die beſtürzte Kleine, in den Lauten o a ei gibt der he
 mütige Bruder seiner Verwunderung über die Kühnheit der Gans Ausdruck;
 e (etſch) ruft das erlöſte Angſthäschen. — S. 20 f, m, u, w ſind die Stimmen des
 Windes; wo (iſt er denn? Ich ſehe ihn nicht!). — S. 21 die Kinder ſingen la.
-Die Kühe brummen mu. Die Schafe blöken mäh. ei! (ist das ein Geſchrei!) —
+Die Kühe brummen mu. Die Schafe blöken mäh. ei! (iſt das ein Geſchrei!) —
 S. 23 das Kind ſtreichelt das Kätzchen: a. Bös Kätzchen kratzt das Kind. Das
 ſchreit vor Schreck: u, vor Schmerz: au. Das Händchen blutet. Das Kind bläſt
 die Wunde: f. Karo bellt: wau—wau, und Mieze faucht: miau! usw. Dieſe
