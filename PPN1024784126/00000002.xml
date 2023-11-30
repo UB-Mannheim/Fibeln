@@ -29,7 +29,7 @@
 	<Word id="w6">
 	<Coords points="660,1827 712,1827 712,1865 660,1865"/>
 	<TextEquiv conf="0.43155">
-	<Unicode>ſiꜩe</Unicode></TextEquiv></Word>
+	<Unicode>ſitze</Unicode></TextEquiv></Word>
 	<Word id="w7">
 	<Coords points="738,1826 787,1826 787,1855 738,1855"/>
 	<TextEquiv conf="0.93198">
@@ -43,7 +43,7 @@
 	<TextEquiv conf="0.93836">
 	<Unicode>Oberkörper!</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.76101">
-	<Unicode>1. Beim Leſen ſiꜩe mit geſtrecktem Oberkörper!</Unicode></TextEquiv></TextLine>
+	<Unicode>1. Beim Leſen ſitze mit geſtrecktem Oberkörper!</Unicode></TextEquiv></TextLine>
 	<TextLine id="l11">
 	<Coords points="383,1877 1104,1877 1104,1917 383,1917"/>
 	<Word id="w12">
@@ -397,7 +397,7 @@
 	<TextEquiv conf="0.67815">
 	<Unicode>8. Lies laut, langſam, deutlich und mit guter Betonung!</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>1. Beim Leſen ſiꜩe mit geſtrecktem Oberkörper!
+	<Unicode>1. Beim Leſen ſitze mit geſtrecktem Oberkörper!
 2. Lehne die Bruſt nicht an die Tiſchplatte!
 3. Lehne dich mit dem Rücken an!
 4. Neige den Kopf nur wenig nach vorn!

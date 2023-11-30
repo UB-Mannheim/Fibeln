@@ -1611,9 +1611,9 @@ kehr) . . . . . . . . . . . . . . . 68
 	<Word id="w5">
 	<Coords points="580,1209 612,1209 612,1248 580,1248"/>
 	<TextEquiv conf="0.49049">
-	<Unicode>ꜩ.</Unicode></TextEquiv></Word>
+	<Unicode>tz.</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.81302">
-	<Unicode>21. Mitlautverdoppelung ck, ꜩ.</Unicode></TextEquiv></TextLine>
+	<Unicode>21. Mitlautverdoppelung ck, tz.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l6">
 	<Coords points="123,1250 487,1250 487,1256 738,1256 738,1285 487,1285 487,1288 123,1288"/>
 	<Word id="w939">
@@ -2195,7 +2195,7 @@ kehr) . . . . . . . . . . . . . . . 68
 	<Word id="w87">
 	<Coords points="121,1852 156,1852 156,1893 121,1893"/>
 	<TextEquiv conf="0.65935">
-	<Unicode>ﬅ,</Unicode></TextEquiv></Word>
+	<Unicode>ſt,</Unicode></TextEquiv></Word>
 	<Word id="w88">
 	<Coords points="188,1854 229,1854 229,1886 188,1886"/>
 	<TextEquiv conf="0.91087">
@@ -2225,7 +2225,7 @@ kehr) . . . . . . . . . . . . . . . 68
 	<TextEquiv conf="0.96223">
 	<Unicode>dem</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.70458">
-	<Unicode>28. ﬅ, St — ſp, Sp. †Auf dem</Unicode></TextEquiv></TextLine>
+	<Unicode>28. ſt, St — ſp, Sp. †Auf dem</Unicode></TextEquiv></TextLine>
 	<TextLine id="l95">
 	<Coords points="120,1898 483,1898 483,1905 738,1905 738,1934 483,1934 483,1939 120,1939"/>
 	<Word id="w1070">
@@ -2707,7 +2707,7 @@ kehr) . . . . . . . . . . . . . . . 68
 	<TextEquiv conf="0.89134">
 	<Unicode>*†Mailiedchen. (Julius Sturm) . 62</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>21. Mitlautverdoppelung ck, ꜩ.
+	<Unicode>21. Mitlautverdoppelung ck, tz.
 *Reimverſe . . . . . . . . . . . . 51
 22. ie = i. †Die Bienen. (Nowack.)
 *†Bienchen, ſumm herum! (Hoff⸗
@@ -2721,7 +2721,7 @@ tag . . . . . . . . . . . . . . . . 55
 Linchen. (Chemnitzer Fibel) . . . 56
 27. ng und. nk. †Was die Zeitung
 bringt . . . . . . . . . . . . . . . 57
-28. ﬅ, St — ſp, Sp. †Auf dem
+28. ſt, St — ſp, Sp. †Auf dem
 Spielplatze . . . . . . . . . . . . 58
 29. Das Dehnungs⸗h. Bei den Groß⸗
 eltern . . . . . . . . . . . . . . . 59
