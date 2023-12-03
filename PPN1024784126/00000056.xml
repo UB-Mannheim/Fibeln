@@ -211,7 +211,7 @@ Ufer Unkraut Unart Unruhe
 	<Word id="w71">
 	<Coords points="223,1129 331,1129 331,1142 436,1142 436,1183 331,1183 331,1199 223,1199"/>
 	<TextEquiv conf="0.30993">
-	<Unicode>schieren</Unicode></TextEquiv></Word>
+	<Unicode>ſchieren</Unicode></TextEquiv></Word>
 	<Word id="w75">
 	<Coords points="491,1127 541,1127 541,1182 491,1182"/>
 	<TextEquiv conf="0.95079">
@@ -237,13 +237,13 @@ Ufer Unkraut Unart Unruhe
 	<TextEquiv conf="0.93985">
 	<Unicode>Wie</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.75190">
-	<Unicode>schieren in gleichem Schritt und Tritt. Wie</Unicode></TextEquiv></TextLine>
+	<Unicode>ſchieren in gleichem Schritt und Tritt. Wie</Unicode></TextEquiv></TextLine>
 	<TextLine id="l22">
 	<Coords points="1523,1213 1630,1213 1630,1282 1477,1282 1477,1285 1381,1285 1381,1271 1226,1271 1226,1284 1071,1284 1071,1288 820,1288 820,1290 743,1290 743,1278 455,1278 455,1292 353,1292 353,1295 224,1295 224,1226 399,1226 399,1224 498,1224 498,1223 617,1223 617,1222 743,1222 743,1221 911,1221 911,1219 1071,1219 1071,1231 1276,1231 1276,1218 1381,1218 1381,1215 1523,1215"/>
 	<Word id="w87">
 	<Coords points="224,1226 353,1226 353,1295 224,1295"/>
 	<TextEquiv conf="0.43027">
-	<Unicode>schön</Unicode></TextEquiv></Word>
+	<Unicode>ſchön</Unicode></TextEquiv></Word>
 	<Word id="w24">
 	<Coords points="399,1224 455,1224 455,1292 399,1292"/>
 	<TextEquiv conf="0.93451">
@@ -277,7 +277,7 @@ Ufer Unkraut Unart Unruhe
 	<TextEquiv conf="0.77983">
 	<Unicode>auch</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.86172">
-	<Unicode>schön iſt die Muſik! Schau nur, da ſind auch</Unicode></TextEquiv></TextLine>
+	<Unicode>ſchön iſt die Muſik! Schau nur, da ſind auch</Unicode></TextEquiv></TextLine>
 	<TextLine id="l33">
 	<Coords points="1147,1313 1480,1313 1480,1324 1630,1324 1630,1379 1486,1379 1486,1367 1270,1367 1270,1382 1109,1382 1109,1383 1028,1383 1028,1370 898,1370 898,1373 585,1373 585,1375 455,1375 455,1377 299,1377 299,1378 223,1378 223,1322 338,1322 338,1320 455,1320 455,1322 645,1322 645,1319 786,1319 786,1316 915,1316 915,1315 1147,1315"/>
 	<Word id="w34">
@@ -404,8 +404,8 @@ Ufer Unkraut Unart Unruhe
 	<Unicode>ich auch einmal werden!</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Seht, da kommen die Soldaten! Sie mar⸗
-schieren in gleichem Schritt und Tritt. Wie
-schön iſt die Muſik! Schau nur, da ſind auch
+ſchieren in gleichem Schritt und Tritt. Wie
+ſchön iſt die Muſik! Schau nur, da ſind auch
 die Ulanen! Der Rittmeiſter zieht den Degen.
 Da reiten ſie raſch im Trabe vorbei. Ulrich
 und Otto rufen hurra! Solch ein Ulan möchte

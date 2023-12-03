@@ -249,7 +249,7 @@ Gras Grube Graben Glas</Unicode></TextEquiv></TextRegion>
 	<Word id="w28">
 	<Coords points="468,2150 555,2150 555,2164 662,2164 662,2206 555,2206 555,2220 468,2220"/>
 	<TextEquiv conf="0.28444">
-	<Unicode>schönes</Unicode></TextEquiv></Word>
+	<Unicode>ſchönes</Unicode></TextEquiv></Word>
 	<Word id="w30">
 	<Coords points="906,2150 958,2150 958,2218 906,2218 906,2204 785,2204 785,2206 708,2206 708,2151 906,2151"/>
 	<TextEquiv conf="0.95731">
@@ -267,7 +267,7 @@ Gras Grube Graben Glas</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.95018">
 	<Unicode>ruhen</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.90223">
-	<Unicode>gibt es schönes Gemüſe. Am Abende ruhen</Unicode></TextEquiv></TextLine>
+	<Unicode>gibt es ſchönes Gemüſe. Am Abende ruhen</Unicode></TextEquiv></TextLine>
 	<TextLine id="l95">
 	<Coords points="1497,2229 1626,2229 1626,2299 1454,2299 1454,2300 1400,2300 1400,2287 1236,2287 1236,2288 1136,2288 1136,2287 955,2287 955,2288 841,2288 841,2302 677,2302 677,2290 498,2290 498,2291 432,2291 432,2290 308,2290 308,2291 219,2291 219,2235 308,2235 308,2249 432,2249 432,2236 535,2236 535,2235 677,2235 677,2234 777,2234 777,2233 860,2233 860,2232 955,2232 955,2246 1136,2246 1136,2232 1400,2232 1400,2231 1497,2231"/>
 	<Word id="w40">
@@ -323,6 +323,6 @@ Gras Grube Graben Glas</Unicode></TextEquiv></TextRegion>
 	<TextEquiv>
 	<Unicode>Gar ſchön iſt es in unſerm Garten. Da
 blühen die Aſtern. Da reifen die Äpfel. Da
-gibt es schönes Gemüſe. Am Abende ruhen
+gibt es ſchönes Gemüſe. Am Abende ruhen
 wir unter dem Apfelbaume. Gertrud iſt ſchon
 mit dem Abendbrot da.</Unicode></TextEquiv></TextRegion></Page></PcGts>

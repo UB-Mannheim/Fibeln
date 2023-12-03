@@ -188,7 +188,7 @@ Transkribus</Creator>
                 <Coords points="147,2366 1359,2365 1402,2291 954,2267 146,2315"/>
                 <Baseline points="154,2360 180,2362 206,2363 232,2364 258,2363 284,2363 310,2364 1394,2344"/>
                 <TextEquiv>
-                    <Unicode>Schelme, Palme; Köln, ſchaufeln, handeln, ſäuseln,</Unicode>
+                    <Unicode>Schelme, Palme; Köln, ſchaufeln, handeln, ſäuſeln,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l46" custom="readingOrder {index:25;}">
@@ -230,7 +230,7 @@ der Mauer, unter dem Baume, bei den Schafen,
 58. If, lm, In, ls, lſch.
 Schilf, Wolf, Wölfe, Hülfe, helfen, hilf,
 half; Halm, Salm, Schelm, Halme, Salme,
-Schelme, Palme; Köln, ſchaufeln, handeln, ſäuseln,
+Schelme, Palme; Köln, ſchaufeln, handeln, ſäuſeln,
 angeln, lächeln; Hals, Hälſe, Puls, Pulſe,
 Fels, Felſen, als; falſch, fälſchen, Fälſcher.</Unicode>
             </TextEquiv>

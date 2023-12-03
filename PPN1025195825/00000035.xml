@@ -18,17 +18,17 @@
 	<Word id="w24">
 	<Coords points="145,929 145,1157 412,1157 412,929"/>
 	<TextEquiv>
-	<Unicode>sch</Unicode></TextEquiv></Word>
+	<Unicode>ſch</Unicode></TextEquiv></Word>
 	<Word id="w25">
 	<Coords points="650,921 650,1153 914,1153 914,921"/>
 	<TextEquiv>
-	<Unicode>sch</Unicode></TextEquiv></Word>
+	<Unicode>ſch</Unicode></TextEquiv></Word>
 	<Word id="w26">
 	<Coords points="1149,921 1149,1144 1412,1144 1412,921"/>
 	<TextEquiv>
-	<Unicode>sch</Unicode></TextEquiv></Word>
+	<Unicode>ſch</Unicode></TextEquiv></Word>
 	<TextEquiv>
-	<Unicode>sch sch sch</Unicode></TextEquiv></TextLine>
+	<Unicode>ſch ſch ſch</Unicode></TextEquiv></TextLine>
 	<TextLine id="l7">
 	<Coords points="172,1182 170,1344 1384,1344 1384,1148 642,1156"/>
 	<Word id="w27">
@@ -38,16 +38,16 @@
 	<Word id="w28">
 	<Coords points="572,1153 572,1348 980,1348 980,1153"/>
 	<TextEquiv>
-	<Unicode>schau</Unicode></TextEquiv></Word>
+	<Unicode>ſchau</Unicode></TextEquiv></Word>
 	<Word id="w29">
 	<Coords points="1148,1148 1148,1262 1381,1262 1381,1148"/>
 	<TextEquiv>
 	<Unicode>br</Unicode></TextEquiv></Word>
 	<TextEquiv>
-	<Unicode>ei schau br</Unicode></TextEquiv></TextLine>
+	<Unicode>ei ſchau br</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>sch sch sch
-ei schau br</Unicode></TextEquiv></TextRegion>
+	<Unicode>ſch ſch ſch
+ei ſchau br</Unicode></TextEquiv></TextRegion>
 	<ImageRegion id="r3">
 	<Coords points="252,1440 252,1441 253,1441 253,1444 254,1444 254,1506 376,1506 376,1505 452,1505 452,1504 516,1504 516,1503 564,1503 564,1502 641,1502 641,1501 738,1501 738,1500 745,1500 745,1499 748,1499 748,1498 759,1498 759,1499 760,1499 760,1501 761,1501 761,1516 762,1516 762,1537 761,1537 761,1538 760,1538 760,1539 747,1539 747,1538 628,1538 628,1539 529,1539 529,1540 384,1540 384,1541 259,1541 259,1542 256,1542 256,1607 255,1607 255,1614 252,1614 252,1615 239,1615 239,1614 220,1614 220,1613 209,1613 209,1612 199,1612 199,1611 191,1611 191,1610 183,1610 183,1609 177,1609 177,1608 171,1608 171,1607 166,1607 166,1606 160,1606 160,1605 156,1605 156,1604 153,1604 153,1603 149,1603 149,1602 146,1602 146,1601 143,1601 143,1600 140,1600 140,1599 137,1599 137,1598 135,1598 135,1597 133,1597 133,1596 131,1596 131,1595 128,1595 128,1594 126,1594 126,1593 125,1593 125,1592 123,1592 123,1591 121,1591 121,1590 120,1590 120,1589 118,1589 118,1588 116,1588 116,1587 115,1587 115,1586 113,1586 113,1585 112,1585 112,1584 110,1584 110,1583 109,1583 109,1582 107,1582 107,1581 106,1581 106,1580 105,1580 105,1579 104,1579 104,1578 103,1578 103,1577 102,1577 102,1576 101,1576 101,1575 100,1575 100,1574 99,1574 99,1572 98,1572 98,1571 97,1571 97,1570 96,1570 96,1569 95,1569 95,1567 94,1567 94,1566 93,1566 93,1564 92,1564 92,1562 91,1562 91,1560 90,1560 90,1559 89,1559 89,1557 88,1557 88,1554 87,1554 87,1551 86,1551 86,1547 85,1547 85,1544 84,1544 84,1535 83,1535 83,1519 84,1519 84,1515 85,1515 85,1510 86,1510 86,1506 87,1506 87,1503 88,1503 88,1501 89,1501 89,1498 90,1498 90,1496 91,1496 91,1494 92,1494 92,1493 93,1493 93,1491 94,1491 94,1489 95,1489 95,1487 96,1487 96,1486 97,1486 97,1485 98,1485 98,1484 99,1484 99,1482 101,1482 101,1481 102,1481 102,1479 104,1479 104,1478 105,1478 105,1477 106,1477 106,1475 107,1475 107,1474 108,1474 108,1473 110,1473 110,1472 111,1472 111,1471 112,1471 112,1470 114,1470 114,1469 115,1469 115,1468 116,1468 116,1467 118,1467 118,1466 120,1466 120,1465 121,1465 121,1464 123,1464 123,1463 124,1463 124,1462 125,1462 125,1461 127,1461 127,1460 128,1460 128,1459 130,1459 130,1458 132,1458 132,1457 134,1457 134,1456 136,1456 136,1455 139,1455 139,1454 142,1454 142,1453 144,1453 144,1452 147,1452 147,1451 150,1451 150,1450 154,1450 154,1449 159,1449 159,1448 162,1448 162,1447 165,1447 165,1446 170,1446 170,1445 176,1445 176,1444 182,1444 182,1443 192,1443 192,1442 202,1442 202,1441 225,1441 225,1440"/></ImageRegion>
 	<ImageRegion id="r4">
@@ -59,17 +59,17 @@ ei schau br</Unicode></TextEquiv></TextRegion>
 	<Word id="w12">
 	<Coords points="89,1697 89,1898 441,1898 441,1697"/>
 	<TextEquiv>
-	<Unicode>schab</Unicode></TextEquiv></Word>
+	<Unicode>ſchab</Unicode></TextEquiv></Word>
 	<Word id="w13">
 	<Coords points="593,1696 593,1888 948,1888 948,1696"/>
 	<TextEquiv>
-	<Unicode>schäl</Unicode></TextEquiv></Word>
+	<Unicode>ſchäl</Unicode></TextEquiv></Word>
 	<Word id="w14">
 	<Coords points="1078,1696 1078,1808 1469,1808 1469,1696"/>
 	<TextEquiv>
 	<Unicode>mal</Unicode></TextEquiv></Word>
 	<TextEquiv>
-	<Unicode>schab schäl mal</Unicode></TextEquiv></TextLine>
+	<Unicode>ſchab ſchäl mal</Unicode></TextEquiv></TextLine>
 	<TextLine id="l9">
 	<Coords points="96,1908 96,2010 1465,2010 1465,1908"/>
 	<Word id="w15">
@@ -119,7 +119,7 @@ ei schau br</Unicode></TextEquiv></TextRegion>
 	<TextEquiv>
 	<Unicode>ei wo wer</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>schab schäl mal
+	<Unicode>ſchab ſchäl mal
 mir wem wir
 mich mach sich
 ei wo wer</Unicode></TextEquiv></TextRegion></Page></PcGts>

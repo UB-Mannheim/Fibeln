@@ -62,7 +62,7 @@ Transkribus</Creator>
                 <Coords points="207,796 1414,775 1401,698 1298,741 1193,701 789,742 206,718"/>
                 <Baseline points="215,778 274,778 334,778 393,777 453,776 512,776 572,775 631,774 691,773 750,772 810,771 869,770 929,769 988,768 1048,767 1107,766 1167,766 1226,765 1286,764 1345,764 1405,764"/>
                 <TextEquiv>
-                    <Unicode>Du gehst in die Schule. Du biſt ein Schüler. Du</Unicode>
+                    <Unicode>Du gehſt in die Schule. Du biſt ein Schüler. Du</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:7;}">
@@ -233,7 +233,7 @@ hofft, ſchifft, ſchweiſt, ſchläft, ſchnauft, gafft, gaffte,
 gaffteſt; miſcht, fiſcht, haſcht, lauſcht, lauſchtet, lauſchteſt;
 fängt, ſchwingt, mengt, mengtet, mengteſt.
 85.
-Du gehst in die Schule. Du biſt ein Schüler. Du
+Du gehſt in die Schule. Du biſt ein Schüler. Du
 haſt eine Tafel und ein Buch. Dein Buch heißt Fibel.
 In dem Buche liefeſt du. Was thuſt du mit der Tafel?
 Du mußt immer ſchön ſchreiben. Womit löſcheſt du die

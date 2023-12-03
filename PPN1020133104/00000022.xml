@@ -47,7 +47,7 @@
             <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:0;}">
                 <Coords points="358,300 1733,300 1733,399 358,399"/>
                 <TextEquiv>
-                    <Unicode>C. Fremde Buchstaben. Andersſchreibung einiger Laute.</Unicode>
+                    <Unicode>C. Fremde Buchſtaben. Andersſchreibung einiger Laute.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="tl_3" primaryLanguage="German" custom="readingOrder {index:1;}">
@@ -183,7 +183,7 @@
                 <TextStyle fontFamily="Arial" fontSize="9.0"/>
             </TextLine>
             <TextEquiv>
-                <Unicode>C. Fremde Buchstaben. Andersſchreibung einiger Laute.
+                <Unicode>C. Fremde Buchſtaben. Andersſchreibung einiger Laute.
 30. Vielſilbige Wörter
 Quelle
 Qu qu =  kw

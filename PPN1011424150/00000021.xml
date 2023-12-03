@@ -154,7 +154,7 @@ Transkribus</Creator>
                 <Coords points="146,2257 1343,2255 1108,2220 146,2223"/>
                 <Baseline points="154,2247 179,2248 205,2249 230,2249 256,2248 1335,2248"/>
                 <TextEquiv>
-                    <Unicode>salzen, salzet, merken, merket, binden,</Unicode>
+                    <Unicode>ſalzen, ſalzet, merken, merket, binden,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
@@ -197,7 +197,7 @@ werden, lüften, gelten, dulden, gürten,
 ſcherzen, tanzen, wirken, gerben, wälzen.
 zünden, zündet, färben, färbet, morden
 gelten, geltet, duften, duftet, meldet,
-salzen, salzet, merken, merket, binden,
+ſalzen, ſalzet, merken, merket, binden,
 ſcherzen, ſcherzet, winden, windet, wölbet,
 dürfen, dürfet, ſalben, ſalbet, forſchen,
 ſchelten, ſcheltet, werfen, werfet, duldet.</Unicode>

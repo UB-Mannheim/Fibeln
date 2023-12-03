@@ -223,7 +223,7 @@ Transkribus</Creator>
                 <Coords points="278,2345 1191,2357 1192,2290 278,2275"/>
                 <Baseline points="100,2326 332,2323 379,2323 426,2324 474,2324 521,2325 568,2326 616,2326 663,2327 710,2327 758,2328 805,2329 852,2329 900,2330 947,2330 994,2331 1042,2331 1089,2331 1136,2331 1358,2337"/>
                 <TextEquiv>
-                    <Unicode>faſten, faſteſt, beteſt, nützeſt, ſchließeſt, flieheſt, ſiedesſt</Unicode>
+                    <Unicode>faſten, faſteſt, beteſt, nützeſt, ſchließeſt, flieheſt, ſiedeſt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l35" custom="readingOrder {index:30;}">
@@ -270,7 +270,7 @@ Tag. Wir bitten ihn um ſeinen Segen.
 84.
 Luſt, Froſt, Raſt, Gaſt, Gäſte, Neſt, Neſter, Küſter,
 Meiſter, Schweſter; faſt, wüſt, feſt; roſten, huſten, koſten,
-faſten, faſteſt, beteſt, nützeſt, ſchließeſt, flieheſt, ſiedesſt
+faſten, faſteſt, beteſt, nützeſt, ſchließeſt, flieheſt, ſiedeſt
 fliegeſt, ſchwitzeſt, ſchwärzeſt, haſſeſt; ißt, mißt, reißt,
 läßt, faßt, weißt, haßt, ſchließt.</Unicode>
             </TextEquiv>

@@ -97,11 +97,11 @@ Transkribus</Creator>
                 <Coords points="80,508 1457,512 1456,463 1279,431 1185,479 1069,436 925,481 744,433 80,444"/>
                 <Baseline points="89,501 289,500 389,500 589,501 689,501 889,500 989,500 1189,500 1289,499 1447,499"/>
                 <TextEquiv>
-                    <Unicode>Zinſen, Hans, Sense, uns, unſer, eins;</Unicode>
+                    <Unicode>Zinſen, Hans, Senſe, uns, unſer, eins;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Zinſen, Hans, Sense, uns, unſer, eins;</Unicode>
+                <Unicode>Zinſen, Hans, Senſe, uns, unſer, eins;</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion id="region_1585223579433_2314" custom="readingOrder {index:5;}">
