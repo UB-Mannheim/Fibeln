@@ -230,7 +230,7 @@ Transkribus</Creator>
                 <Coords points="966,2247 1041,2294 1084,2272 1130,2293 1175,2272 1205,2288 1233,2282 1234,2194 1208,2198 1176,2179 1126,2190 1102,2208 1076,2192 1034,2196 997,2178 967,2191"/>
                 <Baseline points="973,2253 998,2259 1023,2261 1048,2261 1073,2261 1099,2260 1124,2259 1149,2258 1174,2259 1199,2263 1225,2270"/>
                 <TextEquiv>
-                    <Unicode>ir, so,</Unicode>
+                    <Unicode>ir, fo,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l33" custom="readingOrder {index:31;}">
@@ -313,7 +313,7 @@ f,
 af, ſcha, of, ſcho, li, ef, ſche,
 ro, if,
 ſchi, mu, fa,
-ir, so,
+ir, fo,
 fu, oſch, iſch,
 na, uſch, ſe, eſch,
 0r, lu,

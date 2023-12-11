@@ -56,7 +56,7 @@ Transkribus</Creator>
                 <Coords points="126,723 315,691 454,746 587,668 773,746 822,719 901,745 1107,715 1108,626 785,632 541,548 425,583 221,553 127,611"/>
                 <Baseline points="135,660 183,660 231,660 279,660 327,661 376,661 424,662 472,662 520,662 568,663 617,663 665,664 713,664 761,665 809,666 858,666 906,667 954,668 1002,668 1050,669 1099,670"/>
                 <TextEquiv>
-                    <Unicode>hüten, Hüter, singen,</Unicode>
+                    <Unicode>hüten, Hüter, ſingen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -163,7 +163,7 @@ laufen,
 Läufer, weben,
 Weber,
 reiten, Reiter, kaufen, Käufer.
-hüten, Hüter, singen,
+hüten, Hüter, ſingen,
 Sänger,
 naſchen, Häſcher,taufen, Täufer
 29. Rudel, Finger Schaukel, Samen.
