@@ -34,28 +34,28 @@ Transkribus</Creator>
                 <Coords points="218,493 1326,464 1316,393 458,415 218,385"/>
                 <Baseline points="227,454 281,455 336,455 390,456 445,456 499,457 554,457 608,457 663,457 717,457 772,456 826,456 881,455 935,455 990,454 1044,454 1099,453 1153,452 1208,452 1262,451 1317,450"/>
                 <TextEquiv>
-                    <Unicode>a, e, I, 0, u, al, au, en, ei.</Unicode>
+                    <Unicode>a, e, i, o, u, ai, au, eu, ei.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:3;}">
                 <Coords points="243,583 903,548 1140,573 1312,538 1312,497 242,518"/>
                 <Baseline points="250,555 302,555 355,555 408,554 460,554 513,553 566,552 618,550 671,549 724,548 777,547 829,546 882,544 935,543 987,542 1040,541 1093,541 1145,540 1198,540 1251,540 1304,540"/>
                 <TextEquiv>
-                    <Unicode>a, e, I, 0, u, al, au, en, ei.</Unicode>
+                    <Unicode>a, e, i, o, u, ai, au, eu, ei.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:4;}">
                 <Coords points="441,653 991,650 1115,630 1114,573 999,557 854,590 777,569 739,586 685,560 564,588 516,569 440,607"/>
                 <Baseline points="449,630 481,630 514,630 547,630 580,630 613,629 646,629 678,628 711,628 744,628 777,627 810,627 843,626 876,625 908,625 941,624 974,623 1007,622 1040,622 1073,621 1106,620"/>
                 <TextEquiv>
-                    <Unicode>n, m. v. w. r.</Unicode>
+                    <Unicode>n, m, v, w, r.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:5;}">
                 <Coords points="464,724 526,738 581,715 642,740 732,711 804,732 861,698 966,731 1015,706 1097,713 1096,663 1070,656 937,671 862,651 820,676 734,654 682,684 635,660 571,703 463,674"/>
                 <Baseline points="472,714 502,715 533,715 564,716 595,716 626,716 657,716 687,716 718,715 749,715 780,714 811,714 842,713 873,713 903,712 934,711 965,711 996,710 1027,710 1058,709 1089,709"/>
                 <TextEquiv>
-                    <Unicode>n, m. v. w. r.</Unicode>
+                    <Unicode>n, m, v, w, r.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:6;}">
@@ -97,14 +97,14 @@ Transkribus</Creator>
                 <Coords points="167,1338 384,1307 538,1347 637,1295 731,1337 952,1273 1372,1306 1379,1196 961,1252 802,1187 656,1272 541,1201 430,1271 165,1262"/>
                 <Baseline points="174,1315 237,1315 300,1315 363,1314 426,1313 489,1312 552,1310 615,1308 678,1306 741,1304 805,1302 868,1299 931,1297 994,1295 1057,1293 1120,1291 1183,1290 1246,1289 1309,1288 1373,1287"/>
                 <TextEquiv>
-                    <Unicode>f, I. h, ſ, s, ss, sch, j. g, d, t.</Unicode>
+                    <Unicode>f, l, h, ſ, s, ss, ſch, j, g, d, t.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
                 <Coords points="176,1488 1252,1467 1373,1449 1372,1369 1278,1413 1226,1384 467,1399 416,1432 175,1403"/>
                 <Baseline points="184,1464 243,1463 302,1461 361,1460 420,1459 479,1458 538,1458 597,1457 656,1457 715,1457 774,1456 833,1456 892,1455 951,1454 1010,1454 1069,1452 1128,1451 1187,1449 1246,1447 1305,1444 1365,1441"/>
                 <TextEquiv>
-                    <Unicode>f, I. h, ſ, s, ss, sch, j. g, d, t.</Unicode>
+                    <Unicode>f, l, h, ſ, s, ss, ſch, j, g, d, t.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
@@ -160,14 +160,14 @@ Transkribus</Creator>
                 <Coords points="133,2145 1445,2138 1456,2050 914,2076 784,2012 546,2101 132,2073"/>
                 <Baseline points="141,2130 206,2132 271,2134 337,2135 402,2136 468,2137 533,2136 598,2136 664,2135 729,2134 795,2133 860,2132 925,2131 991,2129 1056,2128 1122,2126 1187,2125 1252,2123 1318,2122 1383,2121 1449,2121"/>
                 <TextEquiv>
-                    <Unicode>b, p, g. k. z, c, ch, d. x. y.</Unicode>
+                    <Unicode>b, p, g, k, z, c, ch, q, x, y.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l22" custom="readingOrder {index:21;}">
                 <Coords points="298,2308 1393,2305 1392,2258 1335,2226 1269,2270 1172,2221 1005,2216 922,2254 634,2238 462,2279 296,2236"/>
                 <Baseline points="306,2303 359,2302 413,2301 467,2300 521,2299 575,2298 629,2296 683,2295 737,2294 791,2293 845,2292 898,2290 952,2289 1006,2288 1060,2287 1114,2286 1168,2286 1222,2285 1276,2285 1330,2285 1384,2284"/>
                 <TextEquiv>
-                    <Unicode>b, p, g. k. z, c, ch, d. x. y.</Unicode>
+                    <Unicode>b, p, g, k, z, c, ch, q, x, y.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:22;}">
@@ -187,17 +187,17 @@ Transkribus</Creator>
             <TextEquiv>
                 <Unicode>40
 109.
-a, e, I, 0, u, al, au, en, ei.
-a, e, I, 0, u, al, au, en, ei.
-n, m. v. w. r.
-n, m. v. w. r.
+a, e, i, o, u, ai, au, eu, ei.
+a, e, i, o, u, ai, au, eu, ei.
+n, m, v, w, r.
+n, m, v, w, r.
 in, am, mai, ein, neu, von, man, war, nun, wir,
 mein, war, nein, wir, rein, von, wer, neun,
 arm, warm, reuen, weinen, irren, einer, vorne,
 nennen, nimmer, rennen, wimmern.
 110.
-f, I. h, ſ, s, ss, sch, j. g, d, t.
-f, I. h, ſ, s, ss, sch, j. g, d, t.
+f, l, h, ſ, s, ss, ſch, j, g, d, t.
+f, l, h, ſ, s, ss, ſch, j, g, d, t.
 weiss, roth; jung, alt; sanft, rauh; rund, lang;
 leise, laut; faul, fleissig; süss, sauer; gescheit,
 einfältig; vornehm, gering; mässig, unmässig;
@@ -205,8 +205,8 @@ schnell, langsam; träge, feurig; — jagen, sehen,
 schiessen, holen, bauen, säen, gäten, mähen, reissen,
 fällen, hüten, reifen, lesen, werfen, waschen,
 röthen, helfen, schneiden, wandeln.
-b, p, g. k. z, c, ch, d. x. y.
-b, p, g. k. z, c, ch, d. x. y.
+b, p, g, k, z, c, ch, q, x, y.
+b, p, g, k, z, c, ch, q, x, y.
 du sprichst, singst, rufst, pfeifst; ich gehe,
 laufe, springe, hüpfe, klettere; schneiden, sägen,</Unicode>
             </TextEquiv>

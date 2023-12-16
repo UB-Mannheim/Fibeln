@@ -188,7 +188,7 @@
             <TextLine id="tl_21" primaryLanguage="German" custom="readingOrder {index:21;}">
                 <Coords points="0,2337 1506,2337 1506,2416 0,2416"/>
                 <TextEquiv>
-                    <Unicode>‘ 6. Was Hänschen nicht lernet, du merke die Lehr', das</Unicode>
+                    <Unicode>6. Was Hänschen nicht lernet, du merke die Lehr', das</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="9.0"/>
             </TextLine>
@@ -234,7 +234,7 @@ Ihr Kinder, behaltet die Wahrheit lieb.
 das füge keinem andern zu.
 5. Quäle nie ein Tier zum Scherz,
 denn es fühlt wie du den Schmerz.
-‘ 6. Was Hänschen nicht lernet, du merke die Lehr', das
+6. Was Hänschen nicht lernet, du merke die Lehr', das
 lernet der Hans wohl nimmermehr.
 7. Übermut thut ſelten gut.
 8. Gutes Wort findet guten Ort.</Unicode>

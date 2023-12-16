@@ -34,28 +34,28 @@ Transkribus</Creator>
                 <Coords points="184,403 691,403 743,365 879,414 1340,429 1343,314 925,347 691,300 509,333 186,297"/>
                 <Baseline points="193,371 250,373 307,374 364,375 421,377 478,378 535,379 592,380 649,381 706,382 763,383 820,384 877,385 934,386 991,387 1048,388 1105,389 1162,390 1219,391 1276,392 1333,393"/>
                 <TextEquiv>
-                    <Unicode>a, o, u. e, i,n, m.</Unicode>
+                    <Unicode>a, o, u, e, i, n, m.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l5" custom="readingOrder {index:3;}">
                 <Coords points="217,563 351,515 645,563 1066,513 1279,536 1280,462 1170,444 1110,487 857,439 787,487 689,445 603,488 518,433 341,473 218,448"/>
                 <Baseline points="225,509 277,511 329,513 381,514 434,515 486,516 538,517 591,517 643,518 695,518 748,518 800,518 852,518 904,519 957,519 1009,519 1061,520 1114,520 1166,521 1218,522 1271,524"/>
                 <TextEquiv>
-                    <Unicode>a. o. u, e. i, n, m.</Unicode>
+                    <Unicode>a, o, u, e, i, n, m.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l6" custom="readingOrder {index:4;}">
                 <Coords points="52,666 81,671 94,660 123,673 142,672 146,677 159,666 170,667 175,592 137,582 125,571 90,571 81,564 69,571 59,567"/>
                 <Baseline points="61,642 86,647 112,648 137,648 163,652"/>
                 <TextEquiv>
-                    <Unicode>an</Unicode>
+                    <Unicode>an,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l7" custom="readingOrder {index:5;}">
                 <Coords points="235,650 353,694 1111,674 1314,716 1315,618 1259,586 1125,622 987,595 932,630 809,572 597,607 236,577"/>
                 <Baseline points="243,650 296,651 349,653 402,653 455,655 509,655 562,656 615,657 668,658 721,658 775,659 828,659 881,660 934,661 987,661 1041,662 1094,663 1147,663 1200,664 1253,665 1307,666"/>
                 <TextEquiv>
-                    <Unicode>na, un, ne, in, mo, um</Unicode>
+                    <Unicode>na, un, ne, in, mo, um,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l8" custom="readingOrder {index:6;}">
@@ -76,7 +76,7 @@ Transkribus</Creator>
                 <Coords points="1157,772 1197,780 1204,775 1219,781 1229,777 1255,799 1263,793 1284,793 1289,708 1254,699 1217,709 1210,701 1161,709"/>
                 <Baseline points="1165,766 1193,768 1221,769 1249,771 1277,774"/>
                 <TextEquiv>
-                    <Unicode>na</Unicode>
+                    <Unicode>na,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l11" custom="readingOrder {index:9;}">
@@ -97,21 +97,21 @@ Transkribus</Creator>
                 <Coords points="426,1061 560,1050 709,1121 730,1102 773,1107 836,1081 883,1097 889,997 864,1001 722,928 598,988 525,989 488,960 432,954"/>
                 <Baseline points="435,1038 461,1041 487,1044 513,1047 539,1049 565,1051 591,1054 617,1056 643,1057 669,1059 695,1059 721,1061 747,1062 773,1062 799,1063 825,1064 851,1064 877,1065"/>
                 <TextEquiv>
-                    <Unicode>35. l,r.</Unicode>
+                    <Unicode>35. l, r.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:12;}">
                 <Coords points="615,1220 694,1211 787,1224 819,1206 857,1218 859,1117 819,1133 770,1130 747,1147 736,1136 693,1136 648,1106 617,1113"/>
                 <Baseline points="623,1196 648,1201 673,1203 698,1204 723,1204 748,1204 773,1203 798,1203 823,1204 849,1207"/>
                 <TextEquiv>
-                    <Unicode>l,r.</Unicode>
+                    <Unicode>l, r.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l15" custom="readingOrder {index:13;}">
                 <Coords points="39,1301 89,1298 118,1318 156,1294 210,1314 221,1305 267,1311 293,1328 321,1321 325,1220 295,1231 279,1218 259,1233 210,1223 166,1247 102,1211 90,1220 75,1204 43,1205"/>
                 <Baseline points="47,1291 73,1293 100,1294 127,1295 154,1295 181,1296 207,1296 234,1297 261,1299 288,1301 315,1305"/>
                 <TextEquiv>
-                    <Unicode>la, ar</Unicode>
+                    <Unicode>la, ar,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l16" custom="readingOrder {index:14;}">
@@ -188,7 +188,7 @@ Transkribus</Creator>
                 <Coords points="373,1825 540,1838 579,1820 614,1841 734,1819 773,1838 823,1815 858,1839 874,1834 877,1695 815,1687 738,1721 691,1687 512,1766 424,1719 376,1721"/>
                 <Baseline points="381,1807 406,1809 432,1812 457,1814 483,1816 508,1817 534,1819 560,1821 585,1821 611,1822 636,1823 662,1823 687,1823 713,1823 739,1823 764,1822 790,1822 815,1820 841,1819 867,1817"/>
                 <TextEquiv>
-                    <Unicode>36. f. ſch.</Unicode>
+                    <Unicode>36. f, ſch.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:25;}">
@@ -251,7 +251,7 @@ Transkribus</Creator>
                 <Coords points="23,2458 106,2477 150,2463 202,2488 275,2490 279,2420 202,2369 129,2397 76,2383 26,2388"/>
                 <Baseline points="32,2443 58,2447 84,2449 111,2450 137,2452 163,2452 190,2453 216,2454 242,2456 269,2459"/>
                 <TextEquiv>
-                    <Unicode>0r, lu,</Unicode>
+                    <Unicode>or, lu,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l36" custom="readingOrder {index:34;}">
@@ -272,7 +272,7 @@ Transkribus</Creator>
                 <Coords points="784,2501 912,2487 988,2504 1032,2480 1098,2513 1204,2496 1207,2391 1195,2387 1148,2392 1091,2429 1022,2394 995,2414 963,2403 934,2415 788,2369"/>
                 <Baseline points="793,2466 818,2467 843,2468 868,2469 894,2470 919,2471 944,2472 969,2473 995,2473 1020,2474 1045,2475 1070,2476 1096,2476 1121,2477 1146,2477 1171,2478 1197,2478"/>
                 <TextEquiv>
-                    <Unicode>mo, ar, ſi..</Unicode>
+                    <Unicode>mo, ar, ſi.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l39" custom="readingOrder {index:37;}">
@@ -285,8 +285,8 @@ Transkribus</Creator>
             <TextEquiv>
                 <Unicode>13
 34.
-a, o, u. e, i,n, m.
-a. o. u, e. i, n, m.
+a, o, u. e, i, n, m.
+a, o, u, e, i, n, m.
 an
 na, un, ne, in, mo, um
 me,
@@ -294,9 +294,9 @@ im, ma, on, nu, en,
 na
 am,
 mu, em, mi, am, ni, un.
-35. l,r.
-l,r.
-la, ar
+35. l, r.
+l, r.
+la, ar,
 lo, or, mi, re,
 el,
 ur,
@@ -316,10 +316,10 @@ ro, if,
 ir, fo,
 fu, oſch, iſch,
 na, uſch, ſe, eſch,
-0r, lu,
+or, lu,
 er,
 le,
-mo, ar, ſi..
+mo, ar, ſi.
 Kölner Handfibel 1. Abtb.</Unicode>
             </TextEquiv>
         </TextRegion>

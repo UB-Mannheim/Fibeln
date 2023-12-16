@@ -277,7 +277,7 @@ Gras Grube Graben Glas</Unicode></TextEquiv></TextRegion>
 	<Word id="w97">
 	<Coords points="432,2236 498,2236 498,2291 432,2291 432,2290 344,2290 344,2249 432,2249"/>
 	<TextEquiv conf="0.96597">
-	<Unicode>unter</Unicode></TextEquiv></Word>
+	<Unicode>un ter</Unicode></TextEquiv></Word>
 	<Word id="w99">
 	<Coords points="535,2235 636,2235 636,2290 535,2290"/>
 	<TextEquiv conf="0.96407">
@@ -285,11 +285,11 @@ Gras Grube Graben Glas</Unicode></TextEquiv></TextRegion>
 	<Word id="w44">
 	<Coords points="860,2232 955,2232 955,2246 1057,2246 1057,2287 955,2287 955,2288 841,2288 841,2302 677,2302 677,2234 777,2234 777,2233 860,2233"/>
 	<TextEquiv conf="0.96383">
-	<Unicode>Apfelbaume.</Unicode></TextEquiv></Word>
+	<Unicode>Ap fel bau me.</Unicode></TextEquiv></Word>
 	<Word id="w48">
 	<Coords points="1136,2232 1360,2232 1360,2287 1236,2287 1236,2288 1136,2288"/>
 	<TextEquiv conf="0.93297">
-	<Unicode>Gertrud</Unicode></TextEquiv></Word>
+	<Unicode>Ger trud</Unicode></TextEquiv></Word>
 	<Word id="w50">
 	<Coords points="1400,2231 1454,2231 1454,2300 1400,2300"/>
 	<TextEquiv conf="0.95551">
@@ -299,7 +299,7 @@ Gras Grube Graben Glas</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.95258">
 	<Unicode>ſchon</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.95565">
-	<Unicode>wir unter dem Apfelbaume. Gertrud iſt ſchon</Unicode></TextEquiv></TextLine>
+	<Unicode>wir un ter dem Ap fel bau me. Ger trud iſt ſchon</Unicode></TextEquiv></TextLine>
 	<TextLine id="l52">
 	<Coords points="694,2317 915,2317 915,2372 802,2372 802,2373 672,2373 672,2374 487,2374 487,2373 218,2373 218,2318 447,2318 447,2319 553,2319 553,2318 694,2318"/>
 	<Word id="w109">
@@ -324,5 +324,5 @@ Gras Grube Graben Glas</Unicode></TextEquiv></TextRegion>
 	<Unicode>Gar ſchön iſt es in unſerm Garten. Da
 blühen die Aſtern. Da reifen die Äpfel. Da
 gibt es ſchönes Gemüſe. Am Abende ruhen
-wir unter dem Apfelbaume. Gertrud iſt ſchon
+wir un ter dem Ap fel bau me. Ger trud iſt ſchon
 mit dem Abendbrot da.</Unicode></TextEquiv></TextRegion></Page></PcGts>

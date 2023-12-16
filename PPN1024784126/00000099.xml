@@ -169,9 +169,9 @@
 	<Word id="w38">
 	<Coords points="1338,511 1512,511 1512,560 1338,560"/>
 	<TextEquiv conf="0.72184">
-	<Unicode>Unfang.</Unicode></TextEquiv></Word>
+	<Unicode>Anfang.</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.89189">
-	<Unicode>Ein alter Waſſerfroſch im grünen Frack macht den Unfang.</Unicode></TextEquiv></TextLine>
+	<Unicode>Ein alter Waſſerfroſch im grünen Frack macht den Anfang.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l31">
 	<Coords points="1310,570 1416,570 1416,582 1514,582 1514,610 1416,610 1416,622 1310,622 1310,610 1139,610 1139,611 1040,611 1040,623 918,623 918,624 834,624 834,614 686,614 686,615 539,615 539,627 405,627 405,616 286,616 286,628 175,628 175,618 89,618 89,579 175,579 175,577 568,577 568,575 686,575 686,586 834,586 834,574 959,574 959,572 1040,572 1040,573 1167,573 1167,571 1310,571"/>
 	<Word id="w40">
@@ -539,7 +539,7 @@
 	<TextEquiv>
 	<Unicode>1. Im Teiche wohnen luſtige Muſikanten. Das ſind die Fröſche.
 An warmen Abenden haben ſie großes Konzert.
-Ein alter Waſſerfroſch im grünen Frack macht den Unfang.
+Ein alter Waſſerfroſch im grünen Frack macht den Anfang.
 Er ſtreckt die langen Beine von ſich, hebt den dicken Kopf aus
 dem Waſſer, öffnet ſein weites Maul, und quak quak quak, geck⸗
 geckgeck klingt es durch die Luft. Alle Teichmuſikanten helfen wacker

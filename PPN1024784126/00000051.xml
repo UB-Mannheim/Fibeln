@@ -480,7 +480,7 @@ Regen — Nebel Ruder — Nacht</Unicode></TextEquiv></TextRegion>
 	<Word id="w77">
 	<Coords points="321,1948 321,1958 385,1958 385,1959 386,1959 386,1960 387,1960 387,1961 388,1961 388,1962 390,1962 390,2003 276,2003 276,2004 249,2004 249,1963 297,1963 297,1948"/>
 	<TextEquiv conf="0.73038">
-	<Unicode>oben</Unicode></TextEquiv></Word>
+	<Unicode>o ben</Unicode></TextEquiv></Word>
 	<Word id="w79">
 	<Coords points="503,1948 503,1951 504,1951 504,1952 507,1952 507,1953 508,1953 508,1954 511,1954 511,1955 513,1955 513,1956 515,1956 515,1957 516,1957 516,1958 518,1958 518,1959 519,1959 519,2000 518,2000 518,2001 516,2001 516,2002 515,2002 515,2003 421,2003 421,1959 422,1959 422,1958 487,1958 487,1948"/>
 	<TextEquiv conf="0.96014">
@@ -488,7 +488,7 @@ Regen — Nebel Ruder — Nacht</Unicode></TextEquiv></TextRegion>
 	<Word id="w80">
 	<Coords points="648,1948 648,1959 654,1959 654,1960 655,1960 655,1961 673,1961 673,2006 647,2006 647,2007 628,2007 628,2013 627,2013 627,2017 615,2017 615,2009 614,2009 614,2007 583,2007 583,2006 558,2006 558,2005 557,2005 557,2004 556,2004 556,2003 554,2003 554,2002 552,2002 552,1958 553,1958 553,1957 611,1957 611,1948"/>
 	<TextEquiv conf="0.74433">
-	<Unicode>ruſt:</Unicode></TextEquiv></Word>
+	<Unicode>ruft:</Unicode></TextEquiv></Word>
 	<Word id="w81">
 	<Coords points="874,1949 874,1960 877,1960 877,2005 876,2005 876,2006 875,2006 875,2007 854,2007 854,2008 853,2008 853,2010 852,2010 852,2012 851,2012 851,2013 850,2013 850,2015 849,2015 849,2016 848,2016 848,2017 710,2017 710,1988 742,1988 742,1964 743,1964 743,1961 744,1961 744,1958 745,1958 745,1956 746,1956 746,1954 747,1954 747,1953 748,1953 748,1951 749,1951 749,1950 750,1950 750,1949"/>
 	<TextEquiv conf="0.96545">
@@ -498,7 +498,7 @@ Regen — Nebel Ruder — Nacht</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.96211">
 	<Unicode>dort</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.84459">
-	<Unicode>nach oben und ruſt: „Seht dort</Unicode></TextEquiv></TextLine>
+	<Unicode>nach o ben und ruft: „Seht dort</Unicode></TextEquiv></TextLine>
 	<TextLine id="l83">
 	<Coords points="429,2044 488,2044 488,2047 654,2047 654,2045 910,2045 910,2044 1014,2044 1014,2113 910,2113 910,2100 756,2100 756,2101 615,2101 615,2113 410,2113 410,2114 278,2114 278,2102 109,2102 109,2046 274,2046 274,2059 429,2059"/>
 	<Word id="w192">
@@ -606,7 +606,7 @@ ben. Aber nun kommt die Sonne wieder. Die
 Dächer glänzen wie neu. Roſa kann nun wieder
 hinausgehen. Robert und Rudolf ſind ſchon da
 und plätſchern im Regenwaſſer. Da ſchaut Roſa
-nach oben und ruſt: „Seht dort
+nach o ben und ruft: „Seht dort
 den Regenbogen! Rot und gelb
 und grün und blau ſchimmert er
 in den Wolken. Ach, wie ſchön

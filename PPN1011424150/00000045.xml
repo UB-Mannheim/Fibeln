@@ -125,14 +125,14 @@ Transkribus</Creator>
                 <Coords points="205,1637 1053,1673 1203,1626 1246,1664 1395,1635 1394,1490 376,1521 301,1491 204,1555"/>
                 <Baseline points="67,1637 271,1636 330,1637 389,1637 447,1637 506,1636 565,1636 623,1635 682,1634 741,1633 800,1632 858,1631 917,1630 976,1629 1034,1629 1093,1628 1152,1628 1210,1628 1269,1628 1328,1629 1387,1630"/>
                 <TextEquiv>
-                    <Unicode>113. H. I., J. K, L, M. N, O, P, Q.</Unicode>
+                    <Unicode>113. H, I, J, K, L, M, N, O, P, Q.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l18" custom="readingOrder {index:16;}">
                 <Coords points="191,1806 1396,1805 1396,1742 1260,1716 1079,1747 923,1707 192,1722"/>
                 <Baseline points="200,1786 259,1787 318,1788 378,1788 437,1789 496,1789 556,1789 615,1789 674,1790 734,1790 793,1790 852,1790 912,1790 971,1790 1030,1791 1090,1791 1149,1791 1208,1792 1268,1793 1327,1793 1387,1794"/>
                 <TextEquiv>
-                    <Unicode>H. I., J. K, L, M. N, O, P, Q.</Unicode>
+                    <Unicode>H, I, J, K, L, M, N, O, P, Q.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:17;}">
@@ -214,8 +214,8 @@ seine Gabel, unsere Aepfel. Der Baum hat Aeste;
 er trägt Blätter, Blüthen und Früchte. Der Arme
 betet; der Fromme hilft dem Bedrängten; er
 gibt ihm ein Almosen.
-113. H. I., J. K, L, M. N, O, P, Q.
-H. I., J. K, L, M. N, O, P, Q.
+113. H, I, J, K, L, M, N, O, P, Q.
+H, I, J, K, L, M, N, O, P, Q.
 Kirche, Altar, Kerzen, Bänke, Leute, Predigt=
 stuhl, Orgel, Pfeife, Blasebalg; Kopf, Mund, Nase,
 Augen, Ohren, Haare; ein Igel; das Jahr; die

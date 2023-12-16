@@ -62,7 +62,7 @@ Transkribus</Creator>
                 <Coords points="133,690 375,746 472,689 573,764 690,721 813,761 932,738 1009,679 1202,735 1408,691 1407,581 1263,643 1099,639 956,576 696,607 547,564 410,647 133,635"/>
                 <Baseline points="142,688 204,688 267,688 330,688 393,688 456,687 519,687 581,687 644,686 707,686 770,685 833,685 896,684 959,683 1021,683 1084,682 1147,681 1210,681 1273,680 1336,679 1399,678"/>
                 <TextEquiv>
-                    <Unicode>eine, lauſche, ſchnure, weile,</Unicode>
+                    <Unicode>eine, lauſche, ſcheure, weile,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l6" custom="readingOrder {index:5;}">
@@ -175,7 +175,7 @@ Transkribus</Creator>
 16. leiſe, rauſche, räume, heule,
 ſäume, weine, faule, leime,
 laufe, hole, meine, häufe,
-eine, lauſche, ſchnure, weile,
+eine, lauſche, ſcheure, weile,
 eure, feile, ſaufe, ſchäume,
 ſcha=e, ſchau=en, hau=e, hau=en,
 neu=n, neu=es, neu=er, neu=en,

@@ -192,9 +192,9 @@
 	<Word id="w40">
 	<Coords points="1545,479 1608,479 1608,525 1545,525"/>
 	<TextEquiv conf="0.68521">
-	<Unicode>ihn</Unicode></TextEquiv></Word>
+	<Unicode>ihm</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.93760">
-	<Unicode>Da ging das Kind hinaus in den Wald. Da begegnete ihn</Unicode></TextEquiv></TextLine>
+	<Unicode>Da ging das Kind hinaus in den Wald. Da begegnete ihm</Unicode></TextEquiv></TextLine>
 	<TextLine id="l35">
 	<Coords points="1443,547 1609,547 1609,588 1443,588 1443,587 1302,587 1302,588 1152,588 1152,598 975,598 975,590 532,590 532,602 421,602 421,592 292,592 292,593 207,593 207,559 321,559 321,554 421,554 421,552 656,552 656,551 781,551 781,555 975,555 975,549 1180,549 1180,548 1443,548"/>
 	<Word id="w42">
@@ -1022,7 +1022,7 @@
 	<TextEquiv>
 	<Unicode>Es war einmal ein armes, frommes Mädchen; das lebte
 mit seiner Mutter allein, und sie hatten nichts mehr zu essen
-Da ging das Kind hinaus in den Wald. Da begegnete ihn
+Da ging das Kind hinaus in den Wald. Da begegnete ihm
 eine alte Frau, die wußte seinen Jammer schon und schenkte
 ihm ein Töpfchen. Zu dem sollt’ es sagen: „Töpfchen, koche!“
 so kochte es guten, süßen Hirsebrei. Und wenn es sagte:

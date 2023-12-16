@@ -280,7 +280,7 @@
 	<Word id="w476">
 	<Coords points="326,420 425,420 425,474 326,474"/>
 	<TextEquiv conf="0.90516">
-	<Unicode>hoſfe,</Unicode></TextEquiv></Word>
+	<Unicode>hoffe,</Unicode></TextEquiv></Word>
 	<Word id="w478">
 	<Coords points="454,426 499,426 499,462 454,462"/>
 	<TextEquiv conf="0.92489">
@@ -322,7 +322,7 @@
 	<TextEquiv conf="0.92655">
 	<Unicode>hält;</Unicode></TextEquiv></Word>
 	<TextEquiv>
-	<Unicode>ich hoſfe, du hoffſt, er hofft; ich halte, du hältſt, er hält;</Unicode></TextEquiv></TextLine>
+	<Unicode>ich hoffe, du hoffſt, er hofft; ich halte, du hältſt, er hält;</Unicode></TextEquiv></TextLine>
 	<TextLine id="l6">
 	<Coords points="255,472 255,525 1421,525 1421,472"/>
 	<Word id="w498">

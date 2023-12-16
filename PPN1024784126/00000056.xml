@@ -141,25 +141,25 @@
 	<Word id="w35">
 	<Coords points="220,720 375,720 375,788 220,788"/>
 	<TextEquiv conf="0.94426">
-	<Unicode>Übel</Unicode></TextEquiv></Word>
+	<Unicode>Ü bel</Unicode></TextEquiv></Word>
 	<Word id="w18">
 	<Coords points="504,719 778,719 778,796 504,796"/>
 	<TextEquiv conf="0.96169">
-	<Unicode>Überzug</Unicode></TextEquiv></Word>
+	<Unicode>Ü ber zug</Unicode></TextEquiv></Word>
 	<Word id="w37">
 	<Coords points="892,716 1049,716 1049,724 1231,724 1231,794 1070,794 1070,783 892,783"/>
 	<TextEquiv conf="0.41334">
-	<Unicode>Überſchriſt</Unicode></TextEquiv></Word>
+	<Unicode>Ü ber ſchrift</Unicode></TextEquiv></Word>
 	<Word id="w21">
 	<Coords points="1339,711 1387,711 1387,723 1515,723 1515,722 1627,722 1627,778 1387,778 1387,779 1339,779"/>
 	<TextEquiv conf="0.92481">
-	<Unicode>Übermut</Unicode></TextEquiv></Word>
+	<Unicode>Ü ber mut</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.79719">
-	<Unicode>Übel Überzug Überſchriſt Übermut</Unicode></TextEquiv></TextLine>
+	<Unicode>Ü bel Ü ber zug Ü ber ſchrift Ü ber mut</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Ulan Ulrich Urlaub Uniform
 Ufer Unkraut Unart Unruhe
-Übel Überzug Überſchriſt Übermut</Unicode></TextEquiv></TextRegion>
+Ü bel Ü ber zug Ü ber ſchrift Ü ber mut</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r5" type="heading">
 	<Coords points="1025,899 1025,900 1026,900 1026,911 1051,911 1051,912 1087,912 1087,913 1089,913 1089,914 1091,914 1091,915 1093,915 1093,916 1095,916 1095,917 1097,917 1097,918 1099,918 1099,940 1113,940 1113,941 1114,941 1114,942 1116,942 1116,944 1117,944 1117,959 1116,959 1116,960 1114,960 1114,961 1112,961 1112,962 1098,962 1098,965 1097,965 1097,968 1096,968 1096,970 1095,970 1095,971 1094,971 1094,972 1093,972 1093,973 1091,973 1091,974 1088,974 1088,975 1070,975 1070,974 1067,974 1067,973 1066,973 1066,972 1064,972 1064,970 1063,970 1063,963 903,963 903,964 806,964 806,965 769,965 769,971 768,971 768,975 767,975 767,978 766,978 766,979 755,979 755,978 753,978 753,975 752,975 752,972 751,972 751,967 750,967 750,960 736,960 736,959 735,959 735,929 734,929 734,927 733,927 733,910 734,910 734,908 735,908 735,906 736,906 736,905 737,905 737,904 739,904 739,903 741,903 741,902 744,902 744,901 781,901 781,902 783,902 783,903 785,903 785,905 786,905 786,907 787,907 787,912 923,912 923,904 924,904 924,902 925,902 925,901 926,901 926,900 1015,900 1015,899"/>
 	<TextLine id="l41">

@@ -103,41 +103,41 @@
 	<Word id="w23">
 	<Coords points="314,519 467,519 467,588 314,588"/>
 	<TextEquiv conf="0.92509">
-	<Unicode>Ofen</Unicode></TextEquiv></Word>
+	<Unicode>O fen</Unicode></TextEquiv></Word>
 	<Word id="w25">
 	<Coords points="618,506 773,506 773,588 618,588"/>
 	<TextEquiv conf="0.77059">
-	<Unicode>Öfen</Unicode></TextEquiv></Word>
+	<Unicode>Ö fen</Unicode></TextEquiv></Word>
 	<Word id="w27">
 	<Coords points="952,507 1021,507 1021,575 952,575"/>
 	<TextEquiv conf="0.78665">
-	<Unicode>ÖI</Unicode></TextEquiv></Word>
+	<Unicode>Öl</Unicode></TextEquiv></Word>
 	<Word id="w5">
 	<Coords points="1326,516 1370,516 1370,585 1326,585 1326,572 1256,572 1256,517 1326,517"/>
 	<TextEquiv conf="0.94554">
-	<Unicode>Oſe</Unicode></TextEquiv></Word>
+	<Unicode>O ſe</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.87882">
-	<Unicode>Ofen Öfen ÖI Oſe</Unicode></TextEquiv></TextLine>
+	<Unicode>O fen Ö fen Öl O ſe</Unicode></TextEquiv></TextLine>
 	<TextLine id="l7">
 	<Coords points="1256,621 1511,621 1511,676 1399,676 1399,677 1131,677 1131,691 950,691 950,679 699,679 699,680 471,680 471,691 406,691 406,680 315,680 315,624 385,624 385,636 617,636 617,624 950,624 950,623 1256,623"/>
 	<Word id="w8">
 	<Coords points="315,624 385,624 385,636 471,636 471,691 406,691 406,680 315,680"/>
 	<TextEquiv conf="0.96007">
-	<Unicode>Olga</Unicode></TextEquiv></Word>
+	<Unicode>Ol ga</Unicode></TextEquiv></Word>
 	<Word id="w10">
 	<Coords points="617,624 804,624 804,679 699,679 699,680 617,680"/>
 	<TextEquiv conf="0.95689">
-	<Unicode>Oskar</Unicode></TextEquiv></Word>
+	<Unicode>Os kar</Unicode></TextEquiv></Word>
 	<Word id="w12">
 	<Coords points="950,623 1131,623 1131,691 950,691"/>
 	<TextEquiv conf="0.81527">
-	<Unicode>Orgel</Unicode></TextEquiv></Word>
+	<Unicode>Or gel</Unicode></TextEquiv></Word>
 	<Word id="w29">
 	<Coords points="1256,621 1511,621 1511,676 1399,676 1399,677 1256,677"/>
 	<TextEquiv conf="0.80145">
-	<Unicode>Oktober</Unicode></TextEquiv></Word>
+	<Unicode>Ok to ber</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.91473">
-	<Unicode>Olga Oskar Orgel Oktober</Unicode></TextEquiv></TextLine>
+	<Unicode>Ol ga Os kar Or gel Ok to ber</Unicode></TextEquiv></TextLine>
 	<TextLine id="l31">
 	<Coords points="1340,725 1460,725 1460,793 1340,793 1340,782 1079,782 1079,797 822,797 822,798 615,798 615,785 316,785 316,730 615,730 615,729 948,729 948,728 1255,728 1255,726 1340,726"/>
 	<Word id="w16">
@@ -147,7 +147,7 @@
 	<Word id="w33">
 	<Coords points="615,729 822,729 822,798 615,798"/>
 	<TextEquiv conf="0.84979">
-	<Unicode>Oheim</Unicode></TextEquiv></Word>
+	<Unicode>O heim</Unicode></TextEquiv></Word>
 	<Word id="w18">
 	<Coords points="948,728 1079,728 1079,797 948,797"/>
 	<TextEquiv conf="0.37118">
@@ -155,13 +155,13 @@
 	<Word id="w35">
 	<Coords points="1340,725 1460,725 1460,793 1340,793 1340,782 1255,782 1255,726 1340,726"/>
 	<TextEquiv conf="0.56352">
-	<Unicode>Dörfer</Unicode></TextEquiv></Word>
+	<Unicode>Dör fer</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.73315">
-	<Unicode>O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextLine>
+	<Unicode>O—D O heim Dorf Dör fer</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>Ofen Öfen ÖI Oſe
-Olga Oskar Orgel Oktober
-O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextRegion>
+	<Unicode>O fen Ö fen Öl O ſe
+Ol ga Os kar Or gel Ok to ber
+O—D O heim Dorf Dör fer</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r5" type="heading">
 	<Coords points="1001,893 1001,905 1040,905 1040,906 1057,906 1057,907 1058,907 1058,908 1060,908 1060,909 1061,909 1061,910 1062,910 1062,911 1064,911 1064,912 1065,912 1065,934 1078,934 1078,935 1080,935 1080,936 1081,936 1081,937 1082,937 1082,939 1083,939 1083,952 1082,952 1082,954 1081,954 1081,955 1080,955 1080,956 1059,956 1059,957 995,957 995,963 994,963 994,969 993,969 993,970 980,970 980,969 979,969 979,960 978,960 978,958 795,958 795,959 779,959 779,958 776,958 776,957 774,957 774,956 758,956 758,955 757,955 757,907 758,907 758,904 759,904 759,902 760,902 760,901 761,901 761,900 762,900 762,899 763,899 763,898 765,898 765,897 767,897 767,896 769,896 769,895 775,895 775,894 787,894 787,895 793,895 793,896 796,896 796,897 798,897 798,898 800,898 800,899 801,899 801,900 913,900 913,899 914,899 914,898 915,898 915,897 916,897 916,896 917,896 917,895 918,895 918,894 979,894 979,893"/>
 	<TextLine id="l37">
@@ -173,11 +173,11 @@ O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextRegion>
 	<Word id="w41">
 	<Coords points="979,898 1079,898 1079,966 979,966 979,954 910,954 910,899 979,899"/>
 	<TextEquiv conf="0.96913">
-	<Unicode>Ofen.</Unicode></TextEquiv></Word>
+	<Unicode>O fen.</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.95621">
-	<Unicode>Der Ofen.</Unicode></TextEquiv></TextLine>
+	<Unicode>Der O fen.</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>Der Ofen.</Unicode></TextEquiv></TextRegion>
+	<Unicode>Der O fen.</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r6" type="heading">
 	<Coords points="1016,981 1016,982 1017,982 1017,983 1028,983 1028,984 1086,984 1086,999 1087,999 1087,1001 1088,1001 1088,1008 1096,1008 1096,1009 1097,1009 1097,1022 1096,1022 1096,1023 1040,1023 1040,1024 1001,1024 1001,1025 816,1025 816,1027 815,1027 815,1029 814,1029 814,1030 813,1030 813,1032 812,1032 812,1033 798,1033 798,1025 745,1025 745,1024 742,1024 742,1023 740,1023 740,1022 738,1022 738,1021 737,1021 737,1020 736,1020 736,1019 735,1019 735,1018 734,1018 734,1016 733,1016 733,1014 732,1014 732,992 733,992 733,990 734,990 734,988 735,988 735,987 736,987 736,986 737,986 737,985 739,985 739,984 741,984 741,983 744,983 744,982 860,982 860,981"/>
 	<TextLine id="l45">
@@ -237,23 +237,23 @@ O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextRegion>
 	<Word id="w69">
 	<Coords points="1409,1061 1487,1061 1487,1116 1387,1116 1387,1117 1316,1117 1316,1119 1240,1119 1240,1063 1409,1063"/>
 	<TextEquiv conf="0.70230">
-	<Unicode>Oktober</Unicode></TextEquiv></Word>
+	<Unicode>Ok to ber</Unicode></TextEquiv></Word>
 	<Word id="w75">
 	<Coords points="1543,1074 1618,1074 1618,1128 1543,1128"/>
 	<TextEquiv conf="0.91295">
 	<Unicode>ge⸗</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.86149">
-	<Unicode>O, wie kalt iſt es ſchon im Oktober ge⸗</Unicode></TextEquiv></TextLine>
+	<Unicode>O, wie kalt iſt es ſchon im Ok to ber ge⸗</Unicode></TextEquiv></TextLine>
 	<TextLine id="l13">
 	<Coords points="1313,1157 1621,1157 1621,1211 1443,1211 1443,1227 1294,1227 1294,1228 1196,1228 1196,1229 1048,1229 1048,1216 638,1216 638,1218 532,1218 532,1217 334,1217 334,1216 214,1216 214,1175 334,1175 334,1161 443,1161 443,1164 638,1164 638,1176 777,1176 777,1161 1048,1161 1048,1160 1196,1160 1196,1173 1313,1173"/>
 	<Word id="w77">
 	<Coords points="334,1161 443,1161 443,1217 334,1217 334,1216 214,1216 214,1175 334,1175"/>
 	<TextEquiv conf="0.94984">
-	<Unicode>worden!</Unicode></TextEquiv></Word>
+	<Unicode>wor den!</Unicode></TextEquiv></Word>
 	<Word id="w79">
 	<Coords points="532,1164 638,1164 638,1176 740,1176 740,1216 638,1216 638,1218 532,1218"/>
 	<TextEquiv conf="0.95330">
-	<Unicode>Darum</Unicode></TextEquiv></Word>
+	<Unicode>Dar um</Unicode></TextEquiv></Word>
 	<Word id="w83">
 	<Coords points="777,1161 894,1161 894,1216 777,1216"/>
 	<TextEquiv conf="0.96352">
@@ -265,17 +265,17 @@ O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextRegion>
 	<Word id="w87">
 	<Coords points="1048,1160 1196,1160 1196,1229 1048,1229"/>
 	<TextEquiv conf="0.73038">
-	<Unicode>Ofen</Unicode></TextEquiv></Word>
+	<Unicode>O fen</Unicode></TextEquiv></Word>
 	<Word id="w21">
 	<Coords points="1313,1157 1443,1157 1443,1227 1294,1227 1294,1228 1240,1228 1240,1173 1313,1173"/>
 	<TextEquiv conf="0.96934">
-	<Unicode>geheizt.</Unicode></TextEquiv></Word>
+	<Unicode>ge heizt.</Unicode></TextEquiv></Word>
 	<Word id="w89">
 	<Coords points="1520,1157 1621,1157 1621,1211 1520,1211"/>
 	<TextEquiv conf="0.96008">
 	<Unicode>Der</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.93573">
-	<Unicode>worden! Darum wird der Ofen geheizt. Der</Unicode></TextEquiv></TextLine>
+	<Unicode>wor den! Dar um wird der O fen ge heizt. Der</Unicode></TextEquiv></TextLine>
 	<TextLine id="l24">
 	<Coords points="1205,1255 1321,1255 1321,1268 1457,1268 1457,1266 1617,1266 1617,1308 1411,1308 1411,1309 1321,1309 1321,1311 1155,1311 1155,1312 996,1312 996,1326 870,1326 870,1313 503,1313 503,1326 370,1326 370,1327 214,1327 214,1258 564,1258 564,1259 654,1259 654,1272 870,1272 870,1257 1043,1257 1043,1256 1205,1256"/>
 	<Word id="w91">
@@ -285,11 +285,11 @@ O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextRegion>
 	<Word id="w26">
 	<Coords points="415,1258 564,1258 564,1313 503,1313 503,1326 415,1326"/>
 	<TextEquiv conf="0.96391">
-	<Unicode>heute</Unicode></TextEquiv></Word>
+	<Unicode>heu te</Unicode></TextEquiv></Word>
 	<Word id="w28">
 	<Coords points="610,1259 654,1259 654,1272 792,1272 792,1313 610,1313"/>
 	<TextEquiv conf="0.95077">
-	<Unicode>etwas.</Unicode></TextEquiv></Word>
+	<Unicode>et was.</Unicode></TextEquiv></Word>
 	<Word id="w30">
 	<Coords points="870,1257 996,1257 996,1326 870,1326"/>
 	<TextEquiv conf="0.70199">
@@ -311,13 +311,13 @@ O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.95004">
 	<Unicode>warm.</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.91884">
-	<Unicode>raucht heute etwas. Doch bald wird er warm.</Unicode></TextEquiv></TextLine>
+	<Unicode>raucht heu te et was. Doch bald wird er warm.</Unicode></TextEquiv></TextLine>
 	<TextLine id="l35">
 	<Coords points="1542,1348 1620,1348 1620,1403 1523,1403 1523,1404 1417,1404 1417,1418 1359,1418 1359,1407 1157,1407 1157,1422 1060,1422 1060,1409 645,1409 645,1411 563,1411 563,1410 372,1410 372,1423 310,1423 310,1410 216,1410 216,1354 291,1354 291,1369 420,1369 420,1354 515,1354 515,1356 666,1356 666,1355 743,1355 743,1356 888,1356 888,1368 1060,1368 1060,1353 1208,1353 1208,1351 1359,1351 1359,1350 1417,1350 1417,1363 1542,1363"/>
 	<Word id="w36">
 	<Coords points="216,1354 291,1354 291,1369 372,1369 372,1423 310,1423 310,1410 216,1410"/>
 	<TextEquiv conf="0.75496">
-	<Unicode>Olga</Unicode></TextEquiv></Word>
+	<Unicode>Ol ga</Unicode></TextEquiv></Word>
 	<Word id="w38">
 	<Coords points="420,1354 515,1354 515,1410 420,1410"/>
 	<TextEquiv conf="0.95523">
@@ -325,11 +325,11 @@ O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextRegion>
 	<Word id="w99">
 	<Coords points="666,1355 743,1355 743,1409 645,1409 645,1411 563,1411 563,1356 666,1356"/>
 	<TextEquiv conf="0.96251">
-	<Unicode>Oskar</Unicode></TextEquiv></Word>
+	<Unicode>Os kar</Unicode></TextEquiv></Word>
 	<Word id="w101">
 	<Coords points="788,1356 888,1356 888,1368 1011,1368 1011,1409 788,1409"/>
 	<TextEquiv conf="0.96119">
-	<Unicode>wärmen</Unicode></TextEquiv></Word>
+	<Unicode>wär men</Unicode></TextEquiv></Word>
 	<Word id="w103">
 	<Coords points="1060,1353 1157,1353 1157,1422 1060,1422"/>
 	<TextEquiv conf="0.79260">
@@ -345,27 +345,27 @@ O—D Oheim Dorf Dörfer</Unicode></TextEquiv></TextRegion>
 	<Word id="w46">
 	<Coords points="1542,1348 1620,1348 1620,1403 1523,1403 1523,1404 1458,1404 1458,1363 1542,1363"/>
 	<TextEquiv conf="0.96369">
-	<Unicode>unten</Unicode></TextEquiv></Word>
+	<Unicode>un ten</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.89276">
-	<Unicode>Olga und Oskar wärmen ſich, weil ſie unten</Unicode></TextEquiv></TextLine>
+	<Unicode>Ol ga und Os kar wär men ſich, weil ſie un ten</Unicode></TextEquiv></TextLine>
 	<TextLine id="l48">
 	<Coords points="509,1450 695,1450 695,1506 570,1506 570,1518 509,1518 509,1506 363,1506 363,1519 272,1519 272,1520 216,1520 216,1465 292,1465 292,1451 363,1451 363,1465 509,1465"/>
 	<Word id="w107">
 	<Coords points="292,1451 363,1451 363,1465 465,1465 465,1506 363,1506 363,1519 272,1519 272,1520 216,1520 216,1465 292,1465"/>
 	<TextEquiv conf="0.96312">
-	<Unicode>gefroren</Unicode></TextEquiv></Word>
+	<Unicode>ge fro ren</Unicode></TextEquiv></Word>
 	<Word id="w52">
 	<Coords points="509,1450 695,1450 695,1506 570,1506 570,1518 509,1518"/>
 	<TextEquiv conf="0.96775">
-	<Unicode>haben.</Unicode></TextEquiv></Word>
+	<Unicode>ha ben.</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.96386">
-	<Unicode>gefroren haben.</Unicode></TextEquiv></TextLine>
+	<Unicode>ge fro ren ha ben.</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
-	<Unicode>O, wie kalt iſt es ſchon im Oktober ge⸗
-worden! Darum wird der Ofen geheizt. Der
-raucht heute etwas. Doch bald wird er warm.
-Olga und Oskar wärmen ſich, weil ſie unten
-gefroren haben.</Unicode></TextEquiv></TextRegion>
+	<Unicode>O, wie kalt iſt es ſchon im Ok to ber ge⸗
+wor den! Dar um wird der O fen ge heizt. Der
+raucht heu te et was. Doch bald wird er warm.
+Ol ga und Os kar wär men ſich, weil ſie un ten
+ge fro ren ha ben.</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r8" type="paragraph">
 	<Coords points="1009,1852 1009,1853 1011,1853 1011,1854 1013,1854 1013,1855 1014,1855 1014,1856 1015,1856 1015,1857 1016,1857 1016,1858 1017,1858 1017,1861 1018,1861 1018,1887 1030,1887 1030,1888 1031,1888 1031,1949 1076,1949 1076,1975 1090,1975 1090,1979 1091,1979 1091,1989 1090,1989 1090,1992 1089,1992 1089,1994 1088,1994 1088,2111 1138,2111 1138,2124 1140,2124 1140,2125 1143,2125 1143,2148 1155,2148 1155,2236 1156,2236 1156,2237 1157,2237 1157,2253 1156,2253 1156,2255 1155,2255 1155,2256 1154,2256 1154,2257 1153,2257 1153,2259 1152,2259 1152,2260 1151,2260 1151,2261 1150,2261 1150,2262 1149,2262 1149,2263 1140,2263 1140,2337 1139,2337 1139,2339 1138,2339 1138,2340 1124,2340 1124,2341 1078,2341 1078,2342 989,2342 989,2344 988,2344 988,2345 987,2345 987,2347 986,2347 986,2348 985,2348 985,2350 984,2350 984,2351 983,2351 983,2352 982,2352 982,2353 981,2353 981,2354 861,2354 861,2355 791,2355 791,2356 780,2356 780,2355 779,2355 779,2345 711,2345 711,2344 710,2344 710,2343 708,2343 708,2342 705,2342 705,2341 703,2341 703,2318 702,2318 702,2254 700,2254 700,2229 699,2229 699,2054 696,2054 696,2043 697,2043 697,2042 699,2042 699,2041 700,2041 700,2040 701,2040 701,1964 702,1964 702,1961 703,1961 703,1959 704,1959 704,1958 705,1958 705,1957 706,1957 706,1956 708,1956 708,1955 709,1955 709,1954 710,1954 710,1953 711,1953 711,1952 727,1952 727,1943 733,1943 733,1942 735,1942 735,1941 737,1941 737,1940 788,1940 788,1879 797,1879 797,1863 799,1863 799,1862 801,1862 801,1861 803,1861 803,1860 804,1860 804,1859 805,1859 805,1858 806,1858 806,1857 807,1857 807,1855 808,1855 808,1854 989,1854 989,1853 992,1853 992,1852"/>
 	<GraphicRegion id="r9">
@@ -451,7 +451,7 @@ gefroren haben.</Unicode></TextEquiv></TextRegion>
 	<Word id="w147">
 	<Coords points="704,2207 777,2207 777,2253 704,2253"/>
 	<TextEquiv conf="0.88905">
-	<Unicode>falt</Unicode></TextEquiv></Word>
+	<Unicode>kalt</Unicode></TextEquiv></Word>
 	<Word id="w149">
 	<Coords points="809,2206 855,2206 855,2264 809,2264"/>
 	<TextEquiv conf="0.93875">
@@ -465,7 +465,7 @@ gefroren haben.</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.96265">
 	<Unicode>warm,</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.93661">
-	<Unicode>falt iſt nicht warm,</Unicode></TextEquiv></TextLine>
+	<Unicode>kalt iſt nicht warm,</Unicode></TextEquiv></TextLine>
 	<TextLine id="l25">
 	<Coords points="908,2293 1006,2293 1006,2304 1136,2304 1136,2338 1006,2338 1006,2350 878,2350 878,2351 799,2351 799,2352 707,2352 707,2294 908,2294"/>
 	<Word id="w153">
@@ -491,5 +491,5 @@ gefroren haben.</Unicode></TextEquiv></TextRegion>
 alt iſt nicht neu,
 neu iſt nicht alt,
 warm iſt nicht kalt,
-falt iſt nicht warm,
+kalt iſt nicht warm,
 reich iſt nicht arm.</Unicode></TextEquiv></TextRegion></Page></PcGts>

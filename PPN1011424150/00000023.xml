@@ -27,7 +27,7 @@ Transkribus</Creator>
                 <Coords points="121,425 1372,438 1422,412 1420,265 521,308 455,266 120,330"/>
                 <Baseline points="129,421 193,422 257,423 321,423 385,423 450,422 514,422 578,421 642,420 706,419 771,418 835,417 899,416 963,416 1027,415 1092,415 1156,415 1220,415 1284,415 1348,416 1413,417"/>
                 <TextEquiv>
-                    <Unicode>53. K. L. M, N, O, Oe.</Unicode>
+                    <Unicode>53. K, L, M, N, O, Oe.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:2;}">
@@ -214,7 +214,7 @@ Transkribus</Creator>
             </TextLine>
             <TextEquiv>
                 <Unicode>19.
-53. K. L. M, N, O, Oe.
+53. K, L, M, N, O, Oe.
 K, L, M, N, O, Oe.
 Der Kaiſer, eine Kirſche, eine Lampe, das Oel,
 die Linſe, ein Maler, eine Muſchel, die Nadel, die

@@ -53,7 +53,7 @@
             <TextLine id="tl_2" primaryLanguage="German" custom="readingOrder {index:1;}">
                 <Coords points="266,659 1717,659 1717,790 266,790"/>
                 <TextEquiv>
-                    <Unicode>ABCDEFGH</Unicode>
+                    <Unicode>A B C D E F G H</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="26.0"/>
             </TextLine>
@@ -81,7 +81,7 @@
             <TextLine id="tl_6" primaryLanguage="German" custom="readingOrder {index:5;}">
                 <Coords points="312,1589 1653,1589 1653,1702 312,1702"/>
                 <TextEquiv>
-                    <Unicode>O R S T U V W</Unicode>
+                    <Unicode>Q R S T U V W</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="26.0"/>
             </TextLine>
@@ -107,11 +107,11 @@
             </TextLine>
             <TextEquiv>
                 <Unicode>Das Abc (Alphabet).
-ABCDEFGH
+A B C D E F G H
 a b c d e f g h
 I K L M N O P
 i k l m n o p
-O R S T U V W
+Q R S T U V W
 q r ſ t u v w
 X Y Z.
 x y z.</Unicode>

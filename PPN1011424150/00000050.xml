@@ -125,7 +125,7 @@ Transkribus</Creator>
                 <Coords points="392,1214 620,1208 681,1229 899,1196 1121,1216 1121,1135 995,1166 833,1143 746,1168 701,1145 649,1177 391,1151"/>
                 <Baseline points="398,1198 433,1200 469,1201 505,1202 541,1203 577,1203 613,1203 649,1202 685,1202 721,1201 757,1200 792,1199 828,1198 864,1197 900,1197 936,1196 972,1196 1008,1196 1044,1197 1080,1197 1116,1199"/>
                 <TextEquiv>
-                    <Unicode>Sie ſagen: "Heut' iſt Samstag,</Unicode>
+                    <Unicode>Sie ſagen: „Heut' iſt Samstag,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -195,7 +195,7 @@ Transkribus</Creator>
                 <Coords points="380,1786 631,1813 875,1782 1104,1796 1104,1753 1023,1738 836,1732 792,1757 704,1735 607,1760 502,1739 471,1760 380,1737"/>
                 <Baseline points="386,1782 421,1784 457,1786 492,1788 528,1789 564,1789 599,1789 635,1789 670,1789 706,1788 742,1787 777,1786 813,1785 848,1784 884,1784 920,1783 955,1783 991,1783 1026,1783 1062,1784 1098,1785"/>
                 <TextEquiv>
-                    <Unicode>Sie ſagen: "Heut iſt Samstag,</Unicode>
+                    <Unicode>Sie ſagen: „Heut iſt Samstag,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l27" custom="readingOrder {index:26;}">
@@ -284,7 +284,7 @@ Nie mit Vorsatz sio betrüben!
 123. Am Samstag.
 Die Glocken, Glocken läuten,
 Man höret ſie von weitem;
-Sie ſagen: "Heut' iſt Samstag,
+Sie ſagen: „Heut' iſt Samstag,
 Und morgen, dann iſt Sonntag.
 Dann müßt ihr all' erſcheinen,
 Ihr Großen und ihr Kleinen,
@@ -294,7 +294,7 @@ Am Leibe rein,
 Am Herzen rein:
 So könnt ihr Gott gefallen!"
 Die Glocken, Glocken ſchallen,
-Sie ſagen: "Heut iſt Samstag,
+Sie ſagen: „Heut iſt Samstag,
 Und morgen, dann iſt Sonntag."
 126. Gebet zum Chriſtkindchen.
 Lieb Jeſulein, ſüß Jeſulein,

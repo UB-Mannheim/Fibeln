@@ -230,7 +230,7 @@ Transkribus</Creator>
                 <Coords points="130,2458 1341,2469 1390,2453 1390,2394 129,2391"/>
                 <Baseline points="137,2444 199,2443 261,2443 323,2442 386,2442 448,2441 510,2441 573,2440 635,2440 697,2440 760,2439 822,2439 884,2439 946,2439 1009,2438 1071,2438 1133,2438 1196,2438 1258,2438 1320,2437 1383,2437"/>
                 <TextEquiv>
-                    <Unicode>pumpte, pumptet, pumpteſt; rupft, rupſt; klopft, klopfſt.</Unicode>
+                    <Unicode>pumpte, pumptet, pumpteſt; rupft, rupfſt; klopft, klopfſt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -264,7 +264,7 @@ tanzt, grunzt, glänzt, pflanzt; tanzte, grunzte, glänzte,
 pflanzte; ſcherzt, würzt; ſcherztet, würztet; herzteſt, kürz=
 teſt; Arzt, Aerzte; ſeufzt, ſeufztet, ſeufzteſt; ächzt, ächzteſt.
 ſchluchzen, ſchluchzt, ſchluchzteſt; lechzen, lechzt, lechzteſt.
-pumpte, pumptet, pumpteſt; rupft, rupſt; klopft, klopfſt.</Unicode>
+pumpte, pumptet, pumpteſt; rupft, rupfſt; klopft, klopfſt.</Unicode>
             </TextEquiv>
         </TextRegion>
     </Page>

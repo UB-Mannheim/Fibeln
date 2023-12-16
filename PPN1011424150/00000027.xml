@@ -194,7 +194,7 @@ Transkribus</Creator>
                 <Coords points="172,2385 1430,2367 1430,2323 1081,2338 971,2280 888,2319 601,2294 519,2346 394,2306 173,2320"/>
                 <Baseline points="180,2369 280,2368 480,2365 580,2364 780,2364 880,2366 1080,2378 1180,2383 1380,2382 1422,2383"/>
                 <TextEquiv>
-                    <Unicode>Maß, Maße, Fuß, Füße; Ruß, Buße, weiß;</Unicode>
+                    <Unicode>Maß, Maße, Fuß, Füße; Nuß, Buße, weiß;</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="line_1585224793827_2845" custom="readingOrder {index:26;}">
@@ -230,7 +230,7 @@ Schüſſe, Schuß; Riſſe, Riß; Fäſſer, Faß;
 Schlöſſer, Schloß; Güſſe, Guß; Päſſe, Paß;
 faſſen, faß; müſſen, muß; meſſen, miß;
 freſſen, friß; laſſen, laß; näſſen, naß.
-Maß, Maße, Fuß, Füße; Ruß, Buße, weiß;
+Maß, Maße, Fuß, Füße; Nuß, Buße, weiß;
 weißen; büßen, heißen, reißen; aß, ſaß, maß.</Unicode>
             </TextEquiv>
         </TextRegion>

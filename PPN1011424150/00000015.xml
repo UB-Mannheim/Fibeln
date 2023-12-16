@@ -77,7 +77,7 @@ Transkribus</Creator>
                 <Coords points="46,954 606,942 785,1029 889,950 1442,957 1442,916 1251,836 1053,839 942,895 854,824 668,910 539,852 480,886 318,796 47,859"/>
                 <Baseline points="55,936 123,937 192,938 261,938 330,939 399,940 468,940 537,941 606,942 675,943 744,943 812,944 881,945 950,945 1019,946 1088,947 1157,947 1226,948 1295,948 1364,948 1433,949"/>
                 <TextEquiv>
-                    <Unicode>29. Rudel, Finger Schaukel, Samen.</Unicode>
+                    <Unicode>29. Rudel, Finger, Schaukel, Samen,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l10" custom="readingOrder {index:9;}">
@@ -119,14 +119,14 @@ Transkribus</Creator>
                 <Coords points="139,1840 286,1867 410,1787 823,1862 979,1792 1403,1839 1471,1812 1472,1691 1186,1668 1146,1704 1031,1661 857,1711 632,1663 471,1739 239,1664 140,1717"/>
                 <Baseline points="149,1781 214,1781 280,1782 345,1782 411,1783 477,1784 542,1784 608,1785 674,1786 739,1786 805,1787 871,1787 936,1788 1002,1789 1068,1789 1133,1790 1199,1790 1265,1791 1330,1791 1396,1792 1462,1792"/>
                 <TextEquiv>
-                    <Unicode>fälſchen Fälſcher, ſalben Salbung.</Unicode>
+                    <Unicode>fälſchen, Fälſcher, ſalben, Salbung.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l16" custom="readingOrder {index:15;}">
                 <Coords points="126,1942 709,1930 816,2000 931,1919 1097,1944 1162,2009 1251,1947 1512,2009 1513,1897 1302,1814 1003,1819 784,1896 605,1798 395,1893 126,1874"/>
                 <Baseline points="135,1921 203,1922 271,1922 340,1923 408,1924 477,1924 545,1925 614,1925 682,1926 751,1926 819,1926 887,1927 956,1927 1024,1927 1093,1928 1161,1928 1230,1929 1298,1929 1367,1930 1435,1930 1504,1931"/>
                 <TextEquiv>
-                    <Unicode>warnen, Warnung halten, Haltung</Unicode>
+                    <Unicode>warnen, Warnung, halten, Haltung</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -140,21 +140,21 @@ Transkribus</Creator>
                 <Coords points="119,2288 239,2204 621,2244 994,2219 1081,2289 1248,2208 1419,2246 1421,2111 1239,2092 1109,2143 1038,2097 874,2101 778,2166 706,2104 646,2144 560,2098 482,2141 392,2098 298,2139 228,2092 120,2101"/>
                 <Baseline points="129,2199 193,2200 257,2202 321,2203 385,2204 449,2205 513,2206 577,2206 641,2207 705,2207 770,2207 834,2208 898,2208 962,2208 1026,2209 1090,2209 1154,2209 1218,2210 1282,2211 1346,2212 1411,2213"/>
                 <TextEquiv>
-                    <Unicode>Schulter Amſel, Garten, Pinſel,</Unicode>
+                    <Unicode>Schulter, Amſel, Garten, Pinſel,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l19" custom="readingOrder {index:18;}">
                 <Coords points="130,2350 528,2336 768,2435 871,2359 1411,2389 1412,2265 1239,2232 1082,2292 1015,2234 740,2291 558,2231 347,2295 266,2228 130,2283"/>
                 <Baseline points="138,2341 201,2343 264,2344 327,2346 391,2347 454,2348 517,2349 580,2350 644,2350 707,2351 770,2351 833,2351 897,2352 960,2352 1023,2352 1086,2352 1150,2352 1213,2352 1276,2352 1339,2352 1403,2352"/>
                 <TextEquiv>
-                    <Unicode>Mantel Tirkel, Gulden, Silber,</Unicode>
+                    <Unicode>Mantel, Zirkel, Gulden, Silber,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l20" custom="readingOrder {index:19;}">
                 <Coords points="142,2549 427,2467 606,2566 837,2499 1039,2498 1151,2555 1283,2500 1496,2517 1497,2370 1372,2414 1113,2369 1014,2424 882,2373 740,2441 526,2336 318,2410 143,2388"/>
                 <Baseline points="151,2481 217,2482 284,2483 351,2484 418,2484 485,2485 551,2486 618,2487 685,2487 752,2488 819,2488 885,2489 952,2489 1019,2489 1086,2490 1153,2490 1219,2490 1286,2490 1353,2490 1420,2490 1487,2490"/>
                 <TextEquiv>
-                    <Unicode>Gürtel Tempel, Bündel Wunder.</Unicode>
+                    <Unicode>Gürtel, Tempel, Bündel, Wunder.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -166,18 +166,18 @@ reiten, Reiter, kaufen, Käufer.
 hüten, Hüter, ſingen,
 Sänger,
 naſchen, Häſcher,taufen, Täufer
-29. Rudel, Finger Schaukel, Samen.
+29. Rudel, Finger, Schaukel, Samen,
 Linſe, Ferſe, Wüſte, Helke.
 Palme, Birte, Lampe, Garbe,
 Ende, Ulme, Karte, Türke.
 30. färben, Färber, helfen, Helfer,
 gerben, Gerber, werben, Werber,
-fälſchen Fälſcher, ſalben Salbung.
-warnen, Warnung halten, Haltung
+fälſchen, Fälſcher, ſalben, Salbung.
+warnen, Warnung, halten, Haltung
 31. Wurzel, Färber, Handel, Balten,
-Schulter Amſel, Garten, Pinſel,
-Mantel Tirkel, Gulden, Silber,
-Gürtel Tempel, Bündel Wunder.</Unicode>
+Schulter, Amſel, Garten, Pinſel,
+Mantel, Zirkel, Gulden, Silber,
+Gürtel, Tempel, Bündel, Wunder.</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">

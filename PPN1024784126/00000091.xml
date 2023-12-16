@@ -120,7 +120,7 @@
 	<Word id="w21">
 	<Coords points="312,498 425,498 425,549 312,549"/>
 	<TextEquiv conf="0.00000">
-	<Unicode>ſhau!</Unicode></TextEquiv></Word>
+	<Unicode>ſchau!</Unicode></TextEquiv></Word>
 	<Word id="w16">
 	<Coords points="479,500 541,500 541,540 479,540"/>
 	<TextEquiv conf="0.92947">
@@ -154,7 +154,7 @@
 	<TextEquiv conf="0.95283">
 	<Unicode>großer</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.80399">
-	<Unicode>komm und ſhau! Da ſchwimmt ja ein Zeppelin! Wie ein großer</Unicode></TextEquiv></TextLine>
+	<Unicode>komm und ſchau! Da ſchwimmt ja ein Zeppelin! Wie ein großer</Unicode></TextEquiv></TextLine>
 	<TextLine id="l24">
 	<Coords points="74,576 165,576 165,577 227,577 227,579 715,579 715,630 634,630 634,620 502,620 502,630 301,630 301,628 74,628"/>
 	<Word id="w31">
@@ -421,7 +421,7 @@
 	<Unicode>fliegen!</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>Was iſt denn das da oben am Himmel? Edmund, Edmund,
-komm und ſhau! Da ſchwimmt ja ein Zeppelin! Wie ein großer
+komm und ſchau! Da ſchwimmt ja ein Zeppelin! Wie ein großer
 Fiſch iſt er anzuſehen. Nun hebt
 er ſeine Naſe und ſteigt ein wenig
 höher. Nun ſchwimmt er lang⸗
@@ -728,7 +728,7 @@ fliegen!</Unicode></TextEquiv></TextRegion>
 	<Word id="w208">
 	<Coords points="756,2198 918,2198 918,2249 756,2249"/>
 	<TextEquiv conf="0.81966">
-	<Unicode>gemaht.</Unicode></TextEquiv></Word>
+	<Unicode>gemacht.</Unicode></TextEquiv></Word>
 	<Word id="w210">
 	<Coords points="976,2199 1088,2199 1088,2239 976,2239"/>
 	<TextEquiv conf="0.96259">
@@ -746,7 +746,7 @@ fliegen!</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.55133">
 	<Unicode>nicht</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.90695">
-	<Unicode>Eiſen dazu haben ſie erſt heiß gemaht. Dann dauert's gar nicht</Unicode></TextEquiv></TextLine>
+	<Unicode>Eiſen dazu haben ſie erſt heiß gemacht. Dann dauert's gar nicht</Unicode></TextEquiv></TextLine>
 	<TextLine id="l71">
 	<Coords points="75,2274 394,2274 394,2286 552,2286 552,2276 677,2276 677,2278 917,2278 917,2277 1057,2277 1057,2278 1277,2278 1277,2276 1363,2276 1363,2277 1499,2277 1499,2328 1405,2328 1405,2317 1213,2317 1213,2329 1098,2329 1098,2327 917,2327 917,2318 779,2318 779,2328 715,2328 715,2317 552,2317 552,2315 266,2315 266,2325 75,2325"/>
 	<Word id="w218">
@@ -841,7 +841,7 @@ wird. Sie qualmen und dunſten, daß man gar nicht gern vorbei⸗
 geht. Da muß man auf den Wind achtgeben, damit man nicht
 den Rauch ins Geſicht kriegt. Dann ſchütten die Arbeiter die
 heiße Erde auf die Straße, und andere klopfen ſie ganz feſt. Die
-Eiſen dazu haben ſie erſt heiß gemaht. Dann dauert's gar nicht
+Eiſen dazu haben ſie erſt heiß gemacht. Dann dauert's gar nicht
 lange, ſo kann man wieder auf der Straße gehen. Und ſchön
 glatt iſt ſie geworden, viel ſchöner als eine gepflaſterte.</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r7" type="other">

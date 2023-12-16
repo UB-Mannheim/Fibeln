@@ -27,14 +27,14 @@ Transkribus</Creator>
                 <Coords points="73,422 221,414 359,473 760,466 859,414 1142,463 1314,389 1456,420 1455,268 1145,229 590,279 396,240 252,329 72,302"/>
                 <Baseline points="81,405 149,410 217,414 286,417 354,419 422,420 491,421 559,421 627,420 696,419 764,418 832,416 901,415 969,413 1037,412 1106,410 1174,409 1242,409 1311,408 1379,409 1448,409"/>
                 <TextEquiv>
-                    <Unicode>114. R, S, T, U, V, W, X, X, Z.</Unicode>
+                    <Unicode>114. R, S, T, U, V, W, X, Y, Z.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l3" custom="readingOrder {index:2;}">
                 <Coords points="239,608 721,575 1022,608 1183,565 1323,605 1422,578 1422,532 1230,506 1155,540 1097,506 1037,546 896,472 688,540 238,517"/>
                 <Baseline points="248,579 306,580 364,580 422,581 481,581 539,580 597,580 656,580 714,579 772,578 831,577 889,577 947,576 1005,575 1064,574 1122,573 1180,572 1239,571 1297,570 1355,570 1414,569"/>
                 <TextEquiv>
-                    <Unicode>R, S, T, U, V, W, X, X, Z.</Unicode>
+                    <Unicode>R, S, T, U, V, W, X, Y, Z.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l4" custom="readingOrder {index:3;}">
@@ -125,7 +125,7 @@ Transkribus</Creator>
                 <Coords points="157,1563 505,1592 550,1559 1409,1551 1408,1495 1357,1487 157,1512"/>
                 <Baseline points="166,1558 227,1557 289,1556 351,1555 412,1554 474,1554 536,1553 597,1553 659,1552 721,1552 783,1551 844,1551 906,1550 968,1549 1029,1549 1091,1548 1153,1547 1214,1546 1276,1545 1338,1544 1400,1543"/>
                 <TextEquiv>
-                    <Unicode>und Buchecker. — Der Fuchs ist listig. Vorsich=</Unicode>
+                    <Unicode>und Buchecker. — Der Fuchs ist listig. Vorsich-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l17" custom="readingOrder {index:16;}">
@@ -214,8 +214,8 @@ Transkribus</Creator>
             </TextLine>
             <TextEquiv>
                 <Unicode>— 42 —
-114. R, S, T, U, V, W, X, X, Z.
-R, S, T, U, V, W, X, X, Z.
+114. R, S, T, U, V, W, X, Y, Z.
+R, S, T, U, V, W, X, Y, Z.
 Ofen, Thüre, Rost, Schublade, Rohr; Fenster,
 Rahmen, Scheibe, Riegel; Haus, Dach, Wände,
 Speicher, Zimmer, Küche, Keller, Hof, Stall,
@@ -228,7 +228,7 @@ Ein Fisch kann schwimmen; Hasen können laufen.
 Das Eichhörnchen ist ein munteres Thierchen.
 Hurtig klettert es den Baum hinauf. Es springt
 von einem Baume zum anderen und sucht Nüsse
-und Buchecker. — Der Fuchs ist listig. Vorsich=
+und Buchecker. — Der Fuchs ist listig. Vorsich-
 tig schleicht er umher und späht auf Hasen
 und Hühner. Hat er sie erhascht, so flieht er
 damit nach seiner Höhle und verzehrt sie.
