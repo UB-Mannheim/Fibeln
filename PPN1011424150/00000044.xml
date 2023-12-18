@@ -97,14 +97,14 @@ Transkribus</Creator>
                 <Coords points="167,1338 384,1307 538,1347 637,1295 731,1337 952,1273 1372,1306 1379,1196 961,1252 802,1187 656,1272 541,1201 430,1271 165,1262"/>
                 <Baseline points="174,1315 237,1315 300,1315 363,1314 426,1313 489,1312 552,1310 615,1308 678,1306 741,1304 805,1302 868,1299 931,1297 994,1295 1057,1293 1120,1291 1183,1290 1246,1289 1309,1288 1373,1287"/>
                 <TextEquiv>
-                    <Unicode>f, l, h, ſ, s, ss, ſch, j, g, d, t.</Unicode>
+                    <Unicode>f, l, h, ſ, s, ss, sch, j, g, d, t.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l13" custom="readingOrder {index:12;}">
                 <Coords points="176,1488 1252,1467 1373,1449 1372,1369 1278,1413 1226,1384 467,1399 416,1432 175,1403"/>
                 <Baseline points="184,1464 243,1463 302,1461 361,1460 420,1459 479,1458 538,1458 597,1457 656,1457 715,1457 774,1456 833,1456 892,1455 951,1454 1010,1454 1069,1452 1128,1451 1187,1449 1246,1447 1305,1444 1365,1441"/>
                 <TextEquiv>
-                    <Unicode>f, l, h, ſ, s, ss, ſch, j, g, d, t.</Unicode>
+                    <Unicode>f, l, h, ſ, s, ss, sch, j, g, d, t.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l14" custom="readingOrder {index:13;}">
@@ -196,8 +196,8 @@ mein, war, nein, wir, rein, von, wer, neun,
 arm, warm, reuen, weinen, irren, einer, vorne,
 nennen, nimmer, rennen, wimmern.
 110.
-f, l, h, ſ, s, ss, ſch, j, g, d, t.
-f, l, h, ſ, s, ss, ſch, j, g, d, t.
+f, l, h, ſ, s, ss, sch, j, g, d, t.
+f, l, h, ſ, s, ss, sch, j, g, d, t.
 weiss, roth; jung, alt; sanft, rauh; rund, lang;
 leise, laut; faul, fleissig; süss, sauer; gescheit,
 einfältig; vornehm, gering; mässig, unmässig;

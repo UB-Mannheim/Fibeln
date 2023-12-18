@@ -99,9 +99,9 @@ ei ſchau br</Unicode></TextEquiv></TextRegion>
 	<Word id="w20">
 	<Coords points="1138,2072 1138,2268 1421,2268 1421,2072"/>
 	<TextEquiv>
-	<Unicode>sich</Unicode></TextEquiv></Word>
+	<Unicode>ſich</Unicode></TextEquiv></Word>
 	<TextEquiv>
-	<Unicode>mich mach sich</Unicode></TextEquiv></TextLine>
+	<Unicode>mich mach ſich</Unicode></TextEquiv></TextLine>
 	<TextLine id="l11">
 	<Coords points="136,2289 136,2394 1450,2394 1450,2289"/>
 	<Word id="w21">
@@ -121,5 +121,5 @@ ei ſchau br</Unicode></TextEquiv></TextRegion>
 	<TextEquiv>
 	<Unicode>ſchab ſchäl mal
 mir wem wir
-mich mach sich
+mich mach ſich
 ei wo wer</Unicode></TextEquiv></TextRegion></Page></PcGts>

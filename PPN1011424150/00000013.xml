@@ -147,7 +147,7 @@ Transkribus</Creator>
                 <Coords points="42,2224 276,2165 448,2258 635,2160 875,2150 1180,2243 1411,2177 1411,2058 1355,2041 1092,2043 985,2111 786,2026 537,2069 42,2035"/>
                 <Baseline points="51,2158 118,2159 186,2159 253,2159 321,2160 388,2160 456,2160 523,2160 591,2160 658,2160 726,2160 794,2160 861,2159 929,2159 996,2159 1064,2159 1131,2159 1199,2159 1266,2159 1334,2160 1402,2160"/>
                 <TextEquiv>
-                    <Unicode>Schädel, Rose, Warze, Muſchel,</Unicode>
+                    <Unicode>Schädel, Roſe, Warze, Muſchel,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l18" custom="readingOrder {index:17;}">
@@ -181,7 +181,7 @@ S, Sch, N, M, R, W.
 Säbel, Schule, Note, Mai
 Rad, Waiſe, Moſel, Scheibe,
 Wunde, Saite, Stadel, Rube,
-Schädel, Rose, Warze, Muſchel,
+Schädel, Roſe, Warze, Muſchel,
 Meile, Seife Niſche, Weizen,
 Narbe, Rinde, Schote, Silbe.</Unicode>
             </TextEquiv>
