@@ -289,7 +289,7 @@ Ei, das ſollt’ ein Schmauſen ſein!</Unicode></TextEquiv></TextRegion>
 	<Word id="w79">
 	<Coords points="67,934 243,934 243,985 67,985"/>
 	<TextEquiv conf="0.33992">
-	<Unicode>eloktriſche</Unicode></TextEquiv></Word>
+	<Unicode>elektriſche</Unicode></TextEquiv></Word>
 	<Word id="w81">
 	<Coords points="272,933 397,933 397,983 272,983"/>
 	<TextEquiv conf="0.96676">
@@ -323,7 +323,7 @@ Ei, das ſollt’ ein Schmauſen ſein!</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.92465">
 	<Unicode>Oft</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.85296">
-	<Unicode>eloktriſche Bahn. Ihre Schienen laufen die Straße entlang. Oft</Unicode></TextEquiv></TextLine>
+	<Unicode>elektriſche Bahn. Ihre Schienen laufen die Straße entlang. Oft</Unicode></TextEquiv></TextLine>
 	<TextLine id="l34">
 	<Coords points="1420,988 1489,988 1489,1029 1373,1029 1373,1041 1008,1041 1008,1032 882,1032 882,1033 780,1033 780,1034 661,1034 661,1044 521,1044 521,1035 354,1035 354,1047 139,1047 139,1049 68,1049 68,998 167,998 167,996 521,996 521,994 780,994 780,1003 912,1003 912,992 1008,992 1008,990 1420,990"/>
 	<Word id="w97">
@@ -401,7 +401,7 @@ Ei, das ſollt’ ein Schmauſen ſein!</Unicode></TextEquiv></TextRegion>
 	<Word id="w113">
 	<Coords points="938,1053 1055,1053 1055,1105 938,1105"/>
 	<TextEquiv conf="0.51722">
-	<Unicode>ſcnell</Unicode></TextEquiv></Word>
+	<Unicode>ſchnell</Unicode></TextEquiv></Word>
 	<Word id="w54">
 	<Coords points="1100,1052 1253,1052 1253,1093 1100,1093"/>
 	<TextEquiv conf="0.95704">
@@ -415,7 +415,7 @@ Ei, das ſollt’ ein Schmauſen ſein!</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.92384">
 	<Unicode>ver⸗</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.87963">
-	<Unicode>Funken ſehen aus wie kleine Blitze; ſcnell kommen und ver⸗</Unicode></TextEquiv></TextLine>
+	<Unicode>Funken ſehen aus wie kleine Blitze; ſchnell kommen und ver⸗</Unicode></TextEquiv></TextLine>
 	<TextLine id="l57">
 	<Coords points="287,1120 339,1120 339,1171 258,1171 258,1172 69,1172 69,1121 287,1121"/>
 	<Word id="w58">
@@ -431,9 +431,9 @@ Ei, das ſollt’ ein Schmauſen ſein!</Unicode></TextEquiv></TextRegion>
 	<TextEquiv>
 	<Unicode>1. Es raſſelt und klingelt. Dort um die Ecke kommt etwas
 großes Gelbes, ein langer Wagen ohne Pferde. Das iſt die
-eloktriſche Bahn. Ihre Schienen laufen die Straße entlang. Oft
+elektriſche Bahn. Ihre Schienen laufen die Straße entlang. Oft
 ſehe ich große blaue Funken oben aus den Drähten ſpringen. Die
-Funken ſehen aus wie kleine Blitze; ſcnell kommen und ver⸗
+Funken ſehen aus wie kleine Blitze; ſchnell kommen und ver⸗
 ſchwinden ſie.</Unicode></TextEquiv></TextRegion>
 	<TextRegion id="r4" type="paragraph">
 	<Coords points="1357,1171 1357,1181 1478,1181 1478,1182 1479,1182 1479,1185 1480,1185 1480,1188 1481,1188 1481,1190 1495,1190 1495,1248 1496,1248 1496,1373 1497,1373 1497,1375 1498,1375 1498,1378 1499,1378 1499,1400 1498,1400 1498,1401 1497,1401 1497,1558 1498,1558 1498,1640 1499,1640 1499,1650 1498,1650 1498,1652 1496,1652 1496,1653 1495,1653 1495,1714 1494,1714 1494,1715 1493,1715 1493,1716 1477,1716 1477,1717 1463,1717 1463,1720 1433,1720 1433,1722 1432,1722 1432,1723 1431,1723 1431,1724 1430,1724 1430,1725 1429,1725 1429,1726 1428,1726 1428,1727 1367,1727 1367,1728 1302,1728 1302,1727 1298,1727 1298,1726 1297,1726 1297,1725 1296,1725 1296,1718 1169,1718 1169,1719 1140,1719 1140,1723 1139,1723 1139,1729 1128,1729 1128,1728 1127,1728 1127,1719 1011,1719 1011,1721 1010,1721 1010,1723 1009,1723 1009,1725 1008,1725 1008,1727 952,1727 952,1729 951,1729 951,1730 940,1730 940,1720 791,1720 791,1721 692,1721 692,1722 691,1722 691,1724 690,1724 690,1726 689,1726 689,1727 688,1727 688,1728 687,1728 687,1729 686,1729 686,1730 684,1730 684,1731 673,1731 673,1730 565,1730 565,1722 438,1722 438,1723 422,1723 422,1733 421,1733 421,1734 411,1734 411,1733 295,1733 295,1724 180,1724 180,1725 73,1725 73,1723 71,1723 71,1722 70,1722 70,1721 69,1721 69,1702 68,1702 68,1633 67,1633 67,1474 66,1474 66,1464 67,1464 67,1266 66,1266 66,1265 65,1265 65,1255 66,1255 66,1254 67,1254 67,1246 68,1246 68,1243 70,1243 70,1242 116,1242 116,1241 171,1241 171,1188 172,1188 172,1186 173,1186 173,1185 174,1185 174,1184 175,1184 175,1183 176,1183 176,1182 238,1182 238,1181 239,1181 239,1180 240,1180 240,1179 241,1179 241,1178 243,1178 243,1177 258,1177 258,1178 288,1178 288,1179 299,1179 299,1188 421,1188 421,1179 422,1179 422,1178 456,1178 456,1177 666,1177 666,1176 764,1176 764,1175 857,1175 857,1174 1105,1174 1105,1173 1248,1173 1248,1172 1338,1172 1338,1171"/>
