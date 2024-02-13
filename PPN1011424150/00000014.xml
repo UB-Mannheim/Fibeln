@@ -91,7 +91,7 @@ Transkribus</Creator>
                 <Coords points="112,1245 241,1291 804,1284 917,1345 1092,1265 1234,1350 1410,1271 1411,1177 1238,1156 1108,1232 996,1221 926,1157 608,1139 411,1221 112,1221"/>
                 <Baseline points="119,1252 183,1253 247,1254 311,1254 375,1255 439,1256 503,1257 567,1258 631,1259 695,1260 760,1261 824,1262 888,1263 952,1263 1016,1264 1080,1264 1144,1265 1208,1265 1272,1265 1336,1264 1401,1264"/>
                 <TextEquiv>
-                    <Unicode>Daumen Leid, Kerze, Dose.</Unicode>
+                    <Unicode>Daumen Leid, Kerze, Doſe.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l9" custom="readingOrder {index:8;}">
@@ -133,7 +133,7 @@ Transkribus</Creator>
                 <Coords points="105,1872 187,1880 230,1920 329,1873 396,1928 541,1837 705,1937 877,1864 879,1742 816,1740 733,1787 615,1739 445,1823 341,1751 216,1723 106,1796"/>
                 <Baseline points="114,1838 151,1839 189,1840 227,1841 265,1842 302,1843 340,1843 378,1843 416,1844 453,1844 491,1844 529,1844 567,1844 604,1845 642,1845 680,1845 718,1846 755,1846 793,1847 831,1848 869,1849"/>
                 <TextEquiv>
-                    <Unicode>Pause, Hoſe, Eis,</Unicode>
+                    <Unicode>Pauſe, Hoſe, Eis,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l16" custom="readingOrder {index:14;}">
@@ -186,13 +186,13 @@ Keule, Dom, Inſel, Fibel,
 Börſe, Löwe, Käfer, Laube,
 Iltis, Düte, Fuder, Birne,
 Kirſche Beule. Ilme, Feder,
-Daumen Leid, Kerze, Dose.
+Daumen Leid, Kerze, Doſe.
 27. j, g, z, e, p, h,
 J, G,
 Z, E, P,
 H.
 Zum, Geiz, Zauber, Eber,
-Pause, Hoſe, Eis,
+Pauſe, Hoſe, Eis,
 Zunge,
 Hafer, Erde, Gabel,
 Juli,
