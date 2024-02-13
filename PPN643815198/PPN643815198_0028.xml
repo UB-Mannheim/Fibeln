@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000028/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-27T09:42:03.545610+00:00</Created>
-        <LastChange>2022-08-27T09:42:03.545652+00:00</LastChange>
+	<Created>2022-08-26T15:31:38.947740+02:00</Created>
+        <LastChange>2024-02-12T03:28:24.852995+01:00</LastChange>
   </Metadata>
   <Page imageFilename="PPN643815198_0028.jpg" imageWidth="912" imageHeight="1432">
     <TextRegion id="eSc_textblock_19f8496c"  >
@@ -96,7 +96,7 @@
         <Coords points="749,687 736,683 735,683 734,683 733,683 721,688 719,688 717,688 685,680 684,680 658,686 652,687 646,685 635,683 635,683 634,683 633,683 624,685 615,687 605,684 592,681 591,681 576,684 561,686 553,683 545,680 545,680 544,680 543,680 536,683 530,685 522,682 519,681 518,681 518,681 517,681 514,682 500,685 487,681 480,679 479,679 479,679 470,680 454,685 411,685 372,678 359,677 331,677 331,677 330,677 329,677 328,677 320,683 307,677 306,677 305,677 304,677 301,677 259,680 253,675 253,675 252,675 198,674 198,700 197,710 237,711 244,716 244,717 245,717 245,717 246,717 247,717 257,712 270,723 271,723 272,723 272,723 335,719 342,723 343,723 344,723 424,724 424,724 425,724 449,714 450,714 451,714 487,725 487,725 488,725 489,725 508,715 509,715 545,715 606,715 608,716 619,727 620,727 621,727 622,727 623,727 639,722 661,727 662,727 662,727 663,727 671,720 689,723 690,723 691,723 692,723 692,722 697,717 698,717 710,723 711,723 712,723 753,718 754,706 753,704 749,687"/>
         <Baseline points="198,700 754,706"/>
         <TextEquiv>
-          <Unicode>Suche die Achtung anderer Leute zu erlangen,</Unicode>
+          <Unicode>Suche die Achtung anderer Leute zu erlangen.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e4e61a03" >

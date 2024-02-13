@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000008/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-27T09:42:00.721997+00:00</Created>
-        <LastChange>2022-08-27T09:42:00.722031+00:00</LastChange>
+	<Created>2022-08-26T15:31:28.763091+02:00</Created>
+        <LastChange>2024-02-12T03:28:08.829827+01:00</LastChange>
   </Metadata>
   <Page imageFilename="PPN643815198_0008.jpg" imageWidth="912" imageHeight="1432">
     <TextRegion id="eSc_textblock_daaf58b0"  >
@@ -124,7 +124,7 @@
         <Coords points="272,954 330,954 331,954 331,954 350,943 367,943 411,947 412,947 413,947 413,947 420,943 447,951 450,952 451,952 452,952 452,952 456,951 469,948 498,950 516,951 517,951 518,951 522,949 529,945 536,949 538,950 539,950 540,950 541,950 544,949 563,939 593,944 594,944 616,939 631,946 631,946 632,946 633,946 634,946 646,937 664,937 676,945 677,945 678,945 678,945 679,945 680,945 688,939 728,936 743,936 755,944 758,946 759,946 760,946 760,946 779,943 801,939 809,942 811,927 810,894 755,893 754,893 753,893 750,895 742,898 735,895 731,893 730,893 729,893 728,893 724,895 712,901 671,895 660,895 659,895 648,896 601,904 584,904 574,897 572,896 572,896 571,896 570,896 561,898 546,900 542,898 541,897 541,897 540,897 539,897 538,897 535,898 518,905 502,898 500,898 499,898 498,898 498,898 495,898 477,906 450,899 445,898 444,898 444,898 443,898 442,899 432,907 353,908 319,902 319,902 318,902 317,902 291,909 272,902 272,937 272,954"/>
         <Baseline points="272,937 811,927"/>
         <TextEquiv>
-          <Unicode>beſſer ver ſte heſt, was du lieſeſt.</Unicode>
+          <Unicode>beſ ſer ver ſte heſt, was du lieſeſt.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4d2e5b55" >

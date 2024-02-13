@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000005/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-27T09:42:00.669156+00:00</Created>
-        <LastChange>2022-08-27T09:42:00.669199+00:00</LastChange>
+	<Created>2022-08-26T15:31:26.959846+02:00</Created>
+        <LastChange>2024-02-12T03:28:05.920413+01:00</LastChange>
   </Metadata>
   <Page imageFilename="PPN643815198_0005.jpg" imageWidth="912" imageHeight="1432">
     <TextRegion id="eSc_textblock_759a02ed"  >
@@ -36,7 +36,7 @@
         <Coords points="306,1227 306,1242 344,1236 353,1242 354,1242 355,1242 356,1242 358,1242 359,1242 359,1241 365,1236 454,1242 456,1227 456,1202 306,1200 306,1227"/>
         <Baseline points="307,1229 457,1228"/>
         <TextEquiv>
-          <Unicode>I 7 8 2.</Unicode>
+          <Unicode>1 7 8 2.</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>

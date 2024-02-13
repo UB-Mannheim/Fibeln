@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000025/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-27T09:42:03.463404+00:00</Created>
-        <LastChange>2022-08-27T09:42:03.463436+00:00</LastChange>
+	<Created>2022-08-26T15:31:37.337229+02:00</Created>
+        <LastChange>2024-02-12T03:28:25.876223+01:00</LastChange>
   </Metadata>
   <Page imageFilename="PPN643815198_0025.jpg" imageWidth="912" imageHeight="1432">
     <TextRegion id="eSc_textblock_3c9f7694"  >
@@ -159,7 +159,7 @@
         <Coords points="131,998 131,1010 171,1005 182,1009 183,1009 183,1009 184,1009 185,1009 190,1004 200,1009 201,1009 202,1009 205,1009 243,1004 264,1008 270,1009 271,1009 277,1008 296,1003 366,1007 413,1008 413,1008 414,1008 421,1006 429,1003 449,1005 469,1007 470,1007 506,1004 517,1003 521,1004 539,1007 540,1007 541,1007 541,1007 547,1003 548,1003 553,1003 576,1007 577,1007 578,1007 596,1003 600,1002 601,1003 606,1006 607,1006 608,1006 608,1006 638,1002 641,1002 642,1002 654,1007 654,1007 655,1007 698,1007 698,1007 728,1000 728,995 726,972 643,966 642,966 596,971 566,973 549,970 520,964 519,964 518,964 518,964 510,969 507,971 500,969 481,965 480,965 479,965 479,965 472,969 464,974 439,974 431,968 427,965 426,965 425,965 424,965 424,965 416,968 405,972 395,968 393,968 393,968 392,968 391,968 389,968 378,971 369,968 361,965 360,965 313,965 312,965 311,965 311,965 307,967 298,975 269,975 237,966 232,965 231,965 230,965 228,966 218,970 204,966 202,965 201,965 200,965 199,965 198,965 198,966 191,971 171,971 164,965 163,965 163,965 130,965 131,998"/>
         <Baseline points="131,998 728,995"/>
         <TextEquiv>
-          <Unicode>ben, ſo nuͤtzen doch einige vorzuͤglich den Menſchen.</Unicode>
+          <Unicode>ben, ſo nuͤtzen doch einige vorzuͤglich den Menſchen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_eb8519f6" >

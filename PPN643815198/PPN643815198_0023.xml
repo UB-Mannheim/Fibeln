@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000023/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-27T09:42:03.414717+00:00</Created>
-        <LastChange>2022-08-27T09:42:03.414748+00:00</LastChange>
+	<Created>2022-08-26T15:31:36.399035+02:00</Created>
+        <LastChange>2024-02-12T03:28:25.184645+01:00</LastChange>
   </Metadata>
   <Page imageFilename="PPN643815198_0023.jpg" imageWidth="912" imageHeight="1432">
     <TextRegion id="eSc_textblock_61a5aa1d"  >
@@ -61,7 +61,7 @@
         <Coords points="124,429 124,436 200,443 201,443 202,443 221,437 225,436 229,437 250,443 251,443 252,443 288,438 300,436 307,438 324,442 325,442 326,442 327,442 332,438 334,437 342,438 364,441 365,441 379,439 387,437 391,439 403,443 404,443 405,443 471,439 471,428 470,409 362,402 362,402 361,402 360,402 360,403 353,410 324,410 319,404 319,404 318,404 317,404 316,404 280,408 261,402 260,402 259,402 258,402 240,409 222,402 221,402 190,402 189,402 188,402 187,402 179,409 163,405 162,405 161,405 139,409 132,404 131,404 130,404 129,404 128,404 128,404 128,404 124,408 124,429"/>
         <Baseline points="124,429 471,428"/>
         <TextEquiv>
-          <Unicode>das Maͤnnchen der Milchner,</Unicode>
+          <Unicode>das Maͤnnchen der Milchner.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2a970123" >

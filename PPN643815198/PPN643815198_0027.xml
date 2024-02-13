@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="https://images.sub.uni-goettingen.de/iiif/image/gdz:PPN643815198:00000027/full/full/0/default.jpg">
 	<Creator>escriptorium</Creator>
-	<Created>2022-08-27T09:42:03.516407+00:00</Created>
-        <LastChange>2022-08-27T09:42:03.516443+00:00</LastChange>
+	<Created>2022-08-26T15:31:38.364624+02:00</Created>
+        <LastChange>2024-02-12T03:28:25.502029+01:00</LastChange>
   </Metadata>
   <Page imageFilename="PPN643815198_0027.jpg" imageWidth="912" imageHeight="1432">
     <TextRegion id="eSc_textblock_5504e9d2"  >
@@ -134,7 +134,7 @@
         <Coords points="159,851 159,858 218,862 219,862 296,857 314,856 320,857 339,859 340,859 341,859 342,859 346,856 347,856 358,856 385,859 386,859 387,859 398,856 404,855 423,856 459,859 459,859 460,859 461,859 464,856 467,854 709,854 709,844 708,814 647,814 646,814 646,814 643,815 634,820 607,816 604,816 604,816 603,816 602,816 585,822 572,818 571,818 570,818 546,822 537,817 535,817 534,817 533,817 533,817 530,817 514,824 433,824 420,820 419,820 418,820 417,820 395,824 376,821 364,818 363,818 362,818 362,818 358,821 355,824 310,826 276,826 268,823 263,821 262,821 261,821 261,821 255,823 251,825 158,825 159,851"/>
         <Baseline points="159,851 709,844"/>
         <TextEquiv>
-          <Unicode>auſzuzehren. Sonſt wirſt du ein armer Mann,</Unicode>
+          <Unicode>aufzuzehren. Sonſt wirſt du ein armer Mann,</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_103b99ee" >
