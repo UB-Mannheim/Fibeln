@@ -225,7 +225,7 @@ l t b d f h k</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.86938">
 	<Unicode>ß</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.86139">
-	<Unicode>c ck  ch sch ß</Unicode></TextEquiv></TextLine>
+	<Unicode>c ck ch sch ß</Unicode></TextEquiv></TextLine>
 	<TextLine id="l12">
 	<Coords points="1234,1192 1315,1192 1315,1261 1067,1261 1067,1263 751,1263 751,1265 479,1265 479,1268 238,1268 238,1269 185,1269 185,1202 430,1202 430,1199 698,1199 698,1198 962,1198 962,1195 1234,1195"/>
 	<Word id="w63">

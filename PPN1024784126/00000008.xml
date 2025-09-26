@@ -713,7 +713,7 @@ Grimm) . . . . . . . . . . . . . 96
 	<TextEquiv conf="0.50378">
 	<Unicode>.</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.73971">
-	<Unicode>Fallersleben)  . . . . . . . . . . . 83</Unicode></TextEquiv></TextLine>
+	<Unicode>Fallersleben) . . . . . . . . . . . 83</Unicode></TextEquiv></TextLine>
 	<TextEquiv>
 	<Unicode>32. *Frühling. (Volkslied) . . . . . . 83
 33. *Das Oſterei. (Hoffmann von
@@ -963,7 +963,7 @@ Fallersleben)  . . . . . . . . . . . 83</Unicode></TextEquiv></TextRegion>
 	<TextEquiv conf="0.00000">
 	<Unicode>.</Unicode></TextEquiv></Word>
 	<TextEquiv conf="0.22114">
-	<Unicode>Fuchs)  . . . . . . . . . . . . . . 78</Unicode></TextEquiv></TextLine>
+	<Unicode>Fuchs) . . . . . . . . . . . . . . 78</Unicode></TextEquiv></TextLine>
 	<TextLine id="l36">
 	<Coords points="763,829 841,829 841,868 725,868 725,869 629,869 629,863 473,863 473,872 397,872 397,865 254,865 254,866 203,866 203,837 281,837 281,834 397,834 397,833 513,833 513,832 629,832 629,831 763,831"/>
 	<Word id="w85">
