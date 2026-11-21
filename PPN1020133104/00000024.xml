@@ -181,7 +181,7 @@
                 <TextStyle fontFamily="Arial" fontSize="9.5"/>
             </TextLine>
             <TextLine id="tl_22" primaryLanguage="German" custom="readingOrder {index:20;}">
-                <Coords points="333,2420 1560,2417 1563,2508 330,2503"/>
+                <Coords points="1560,2417 1563,2508 330,2503 333,2420"/>
                 <TextEquiv>
                     <Unicode>36. Qu, O; C, F; c, e; y</Unicode>
                 </TextEquiv>
