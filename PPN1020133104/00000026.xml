@@ -204,7 +204,7 @@
             <TextLine id="tl_26" primaryLanguage="German" custom="readingOrder {index:23;}">
                 <Coords points="569,2461 1366,2461 1366,2534 569,2534"/>
                 <TextEquiv>
-                    <Unicode>Wir ans frohem Kindermunde,</Unicode>
+                    <Unicode>Wir aus frohem Kindermunde,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>

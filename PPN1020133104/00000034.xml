@@ -101,7 +101,7 @@
             <TextLine id="tl_7" primaryLanguage="German" custom="readingOrder {index:8;}">
                 <Coords points="598,1042 1491,1042 1491,1113 598,1113"/>
                 <TextEquiv>
-                    <Unicode>Schtüſſeln, Teller, Gabeln, Meſſer,</Unicode>
+                    <Unicode>Schüſſeln, Teller, Gabeln, Meſſer,</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Times New Roman" fontSize="13.0"/>
             </TextLine>
