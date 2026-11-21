@@ -167,7 +167,7 @@ Transkribus</Creator>
                 <Coords points="167,1842 1443,1815 1442,1768 1304,1729 166,1765"/>
                 <Baseline points="174,1810 237,1810 300,1809 363,1808 426,1808 489,1807 552,1806 615,1805 678,1804 741,1803 804,1803 867,1801 930,1800 993,1800 1056,1799 1119,1798 1182,1797 1245,1796 1308,1796 1371,1795 1435,1794"/>
                 <TextEquiv>
-                    <Unicode>Plan, Platz, Planke; platt, plump; plandern, plätſchern,</Unicode>
+                    <Unicode>Plan, Platz, Planke; platt, plump; plaudern, plätſchern,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r1l23" custom="readingOrder {index:22;}">

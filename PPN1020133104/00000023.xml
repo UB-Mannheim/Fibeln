@@ -71,7 +71,7 @@
             <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:4;}">
                 <Coords points="791,889 1564,889 1564,1010 791,1010"/>
                 <TextEquiv>
-                    <Unicode>Epheu PH ph = f</Unicode>
+                    <Unicode>Epheu Ph ph = f</Unicode>
                 </TextEquiv>
                 <TextStyle fontFamily="Arial" fontSize="25.0"/>
             </TextLine>
